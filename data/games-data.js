@@ -1,0 +1,13403 @@
+﻿window.GAMES_DATA = {
+  "version": "v3-2026-06-28",
+  "games": [
+    {
+      "id": "dc38bdbb-9461-442d-8d7b-8391a851e8b5",
+      "title": "1000xResist",
+      "tags": "Jogo bom narrativo",
+      "cover": "https://media.rawg.io/media/games/7c7/7c7fc7ac07c17fad71095cca1c78bc65.jpg",
+      "description": "Buzz\"1000xRESIST nails what it's going for—a blend of \"big idea\" sci-fi and coming-of-age story.\"\n- PC Gamer\n\"At its heights, it achieves the cerebral complexity I expect from the likes of Hideo Kojima or Yoko Taro...\"\n- PC GamesN\n\"It’s a lucid dream, hand crafted for you. It’s extraordinary. It’s something really very special. In a world plagued by extruded content emanating vacuously from every screen, we should be so lucky.\"\n- Giant Bomb\nSTAY INFORMED\nSign up to our Fellow Traveller community...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/27c/27c7a1cecbbab1bea1a9d74b49be5955.jpg",
+        "https://media.rawg.io/media/screenshots/142/142537184ce5aaa9e310ab2bcdd6202a.jpg",
+        "https://media.rawg.io/media/screenshots/536/5366720785b5d836692829999e9f8445.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "1000xResist",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7ec00c01-50e7-4715-96c0-b60ebac5f276",
+      "title": "13 Sentinel",
+      "tags": "Tactic /visual novel",
+      "cover": "https://media.rawg.io/media/games/be8/be8896348e804287dfd44323bac7380e.jpg",
+      "description": "13 Sentinels: Aegis Rim is a cross-genre video game developed by Vanillaware and published by Atlus for the PlayStation 4. It was released in Japan in November 2019, and is planned a worldwide release in 2020.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/30b/30b9ac6a825c2628796f1222d9f46458.jpg",
+        "https://media.rawg.io/media/screenshots/e85/e855f1fffb8a93526db310759e2f6555_bS1I2z4.jpg",
+        "https://media.rawg.io/media/screenshots/9f3/9f33533e880632d1b89aa14b81b412bb.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "13 Sentinel (Tactic /visual novel)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d575b32d-1fdf-4a9f-9c73-7d195b6bc1da",
+      "title": "198X",
+      "tags": "Indie de vários gêneros",
+      "cover": "https://media.rawg.io/media/screenshots/896/8967763daab67323b37a1e86bfaf98f3.jpg",
+      "description": "98X is an arcade epic. A coming-of-age story told through multiple games and genres, worlds and characters. Experience the thrill of shooting, driving, jumping, fighting and role-playing – combined with emotional, cinematic storytelling. This is a love letter to the golden age of arcade games – yet with a scope that was never possible in the actual 1980s.\nThe game is set in Suburbia, just outside the City, sometime in 198X. It follows the journey of Kid, a teenager stuck between the limitations ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/176/1769884a124e3ff736326acaeef7dc21.jpg",
+        "https://media.rawg.io/media/screenshots/f12/f129773fb6ffb8501139c1a140d5bfcc.jpg",
+        "https://media.rawg.io/media/screenshots/d87/d87f6b5fb0f49e7ffdaa2da01931077b.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "198X(Indie de vários gêneros)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9124fec8-c203-4735-a9e4-9bc8a02f5193",
+      "title": "20XX e 30XX",
+      "tags": "Rogue like de megaman",
+      "cover": "https://media.rawg.io/media/screenshots/baf/bafe2b7cc5b935ad5897dc856e0f6971.jpg",
+      "description": "Jogo de Nintendo Switch. Rogue like de megaman",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7d4/7d43472d8fa73c68fa17619509d6c591.jpg",
+        "https://media.rawg.io/media/screenshots/005/00576e2bc00f530cbb9d83d77fcc57e7.jpg",
+        "https://media.rawg.io/media/screenshots/da2/da29d237376f3550da027477accf534e.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "20XX e 30XX(Rogue like de megaman)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5f74781f-12de-46df-8a81-810ca69019b6",
+      "title": "3000th duel",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/6f7/6f705fe42b3ed778c749922bcb4616d5.jpg",
+      "description": "A hero with no memory, and with a mysterious mask covering his face,\nis thrown out into this land of unknown.\nReaching to an end of his journey, he discovers a truth that is hard to swallow - something terrifying about his true identity...\nExplore a huge world with organically connected biomes of more than 300!\nTerrifying monsters, multiple platform-actions and mysteries await you.\nEncounter 150+ monsters and final bosses using the aspects of discovered weapons!\n- Blade-based attacks with an adv...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3c6/3c6b29ad460d9ca8304b48179733d08c.jpg",
+        "https://media.rawg.io/media/screenshots/252/252fdb2f85227cf395ba58c4841de30c.jpg",
+        "https://media.rawg.io/media/screenshots/47b/47ba4a52fafc16806212483577db3638.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "3000th duel(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "42772154-2fdc-4658-99ed-11cef0299ede",
+      "title": "8-Bit Adventures 2",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/661/6612813856e0bc8b69ba0fb3e58d02d0.jpg",
+      "description": "A Retro RPG That's More Than a Throwback!\n8-Bit Adventures 2 is an all-new RPG experience that mixes modern design with retro style.\nExplore a vast and varied world, brought to life by vibrant 8-Bit graphics, memorable NES-accurate music, and people with personality. Players can enjoy strategic, fast-paced combat that focuses on unique character traits, swapping party members, managing the turn order, and using a variety of unique skills (including powerful Omega Bursts) – no mandatory grinding ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/681/6815c06034eab3288d0d6d7ea070ecaa.jpg",
+        "https://media.rawg.io/media/screenshots/b0e/b0e9741f34588ecfbf6ca288be15982b.jpg",
+        "https://media.rawg.io/media/screenshots/ac7/ac7602f370077fe16357870bbae81767.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "8-Bit Adventures 2(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f3176c9a-caa2-4e78-9761-3907a727a7aa",
+      "title": "9 Years of Shadows",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/dae/daee60e083357d4777f4ae649cbe4c52.jpg",
+      "description": "9 Years of Shadows is an emotionally-driven metroidvania enhanced by healing music that tells the story of Europa, a young woman of noble birth tasked with ending the curse that plagues her people and restoring color to all lands.\n\nImmersive gameplay\nShape your way into this dark 2D side-scrolling single-player adventure as you explore a timeworn mechanical giant; battle hidden bosses with an intuitive combat system, scavenge collectibles, gain power ups and discover some classic metroidvania ea...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/820/820b204d90130086f125bfe0dcac862a.jpg",
+        "https://media.rawg.io/media/screenshots/047/04727f27d8c512112fb8117f7f209125.jpg",
+        "https://media.rawg.io/media/screenshots/c95/c9546bc101e764cf18cdd414ed4f0226.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "9 Years of Shadows(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "89808419-35ea-4083-a93a-7c3101f9fd58",
+      "title": "A hat in time",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/594/5949baae74fe9e399adbce0c44e28783.jpg",
+      "description": "A Hat in Time is a cute-as-heck 3D platformer featuring a little girl who stitches hats for wicked powers.A little girl and her spaceshipIn A Hat in Time you play as a tiny space-travelling girl with a big tophat. Her adventure is halted when all her fuel, the Time Pieces, is lost and scattered across a nearby planet. Hat Kid must now jump, fight and stitch new hats to make her way into every nook and cranny of this new world in order to restore her fuel and resume her journey. On her way, she'l...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e7f/e7f7b3044ce0b785e2e64e9e82c60acf.jpg",
+        "https://media.rawg.io/media/screenshots/c4f/c4f297fff5738b644431f2dd8b58265d.jpg",
+        "https://media.rawg.io/media/screenshots/7c0/7c0a1819baa6e961c11a5305c97c37b2.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "A hat in time(Plataforma 3d)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1b6f1892-355c-40a1-b8cd-4d1739d28308",
+      "title": "A Lenda do Herói",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/b70/b70030b6e79fc5eabe608f330dd2c0bf.jpg",
+      "description": "Plataformas voadoras, inimigos coloridos, armas mágicas e física inexplicável. Isso tudo com uma música de fundo que acompanha a saga de um cavaleiro. Eis um breve resumo do que poderá ser encontrado em A Lenda do Herói - O Jogo, que homenageia vários clássicos das eras 8 e 16 bits, como The Legend of Zelda e Wonder Boy in Monster Land, e ao mesmo tempo tira sarro de diversos clichês encontrados no mundo dos games.\nUm dos diferenciais do projeto é sua trilha sonora dinâmica e bem-humorada que na...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/409/4094e22ada258cacfddc2c9a7db25304.jpg",
+        "https://media.rawg.io/media/screenshots/a35/a353706628041054c26371bf6cf05c1e.jpg",
+        "https://media.rawg.io/media/screenshots/0b5/0b59a49b6fa2ae27c587cd071e83ff8b.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "A Lenda do Herói(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "39998388-7110-495f-9ce5-ef6c6ea26b49",
+      "title": "A Space for the Unbound",
+      "tags": "RPG novel",
+      "cover": "https://media.rawg.io/media/games/c18/c180a02a53ce8c8cf23f11f182184103.jpg",
+      "description": "Check out the free prologue chapter here!https://store.steampowered.com/app/1201280/\nAbout the GameHigh school is ending and the world is ending with it\nA Space For The Unbound is a slice-of-life adventure game with beautiful pixel art set in the late 90s rural Indonesia that tells a story about overcoming anxiety, depression, and the relationship between a boy and a girl with supernatural powers.\nFollow two high school sweethearts, Atma and Raya, on a journey of self-discovery at the end of the...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bdb/bdbd272ec86b99b9c86026b35fe84828.jpg",
+        "https://media.rawg.io/media/screenshots/fb5/fb500d7990ac3a2eb126d5078e45ff23.jpg",
+        "https://media.rawg.io/media/screenshots/675/675b631eddda55c73425d9c8bdebf37b.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "A Space for the Unbound(RPG novel)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "75b2dbad-b14d-472b-8981-546a216a3d57",
+      "title": "Absolum",
+      "tags": "Beat 'em up",
+      "cover": "https://media.rawg.io/media/games/adb/adbb4ab0ecc7fc37e8dec23ec5db7154.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 13 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d05/d053891ccfc4e142529560ef8e111cc2.jpg",
+        "https://media.rawg.io/media/screenshots/fd1/fd14adebd23575cf823cf0bec5a2ce54.jpg",
+        "https://media.rawg.io/media/screenshots/f6c/f6c5d0c5b9df81540cf75c4845597a24.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Absolum(Beat 'em up)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1b081264-8d44-4e72-8a19-25bfa529fcc4",
+      "title": "Ace Attorney Investigations Collection",
+      "tags": "Jogo de advogado - Visual Novel",
+      "cover": "https://media.rawg.io/media/screenshots/6f8/6f88240d8e91db52af4e353f8d05b428.jpg",
+      "description": "Experience both Ace Attorney Investigations games in one gorgeous collection! Step into the shoes of Miles Edgeworth, that prosecutor of prosecutors from the Ace Attorney mainline games!\nLeave the courtroom behind as you walk with Edgeworth around the crime scene, gathering evidence and clues and talking with persons of interest. Use your wit and what you discover to solve tough, intriguing cases through logic and deduction.\n- Both games have been given the full HD treatment, including all-new d...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d26/d26309dd9330a5c46222dd760d4459f5.jpg",
+        "https://media.rawg.io/media/screenshots/fa0/fa06a312dbfc43a5a599cfd55b274305.jpg",
+        "https://media.rawg.io/media/screenshots/270/270843b90e2b5d5600ef2ce3cb3b8c40.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Ace Attorney Investigations Collection(Jogo de advogado - Visual Novel)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "ce267ca2-0e8a-484a-a129-56eb30effa2e",
+      "title": "ACE COMBAT 7: SKIES UNKNOWN",
+      "tags": "Simulador/Arcade de avião",
+      "cover": "https://media.rawg.io/media/games/c28/c2802dffd26db3d5af8244044fa1e78c.jpg",
+      "description": "Ace Combat 7: Skies Unknown is the eighth major installment of the Ace Combat series of flight simulators.\n\n###Premise and setting\nThe series is set in the Strangereal, a fictional alternate version of Earth. This world has different geography and history, albeit its countries and cultures are based on prototypes from our real world. Skies Unknown follows the Lighthouse War (also called the Second Continental War) a conflict between the Kingdom of Erusea and the Osean Federation in an alternate ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e18/e18619e819c7d54a3df317e259e7134f.jpg",
+        "https://media.rawg.io/media/screenshots/13d/13d0d3bf9eaa870d69c79532c4b0bba5.jpg",
+        "https://media.rawg.io/media/screenshots/375/3752f3f3c01a4325281f13b8be45870f.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "ACE COMBAT 7: SKIES UNKNOWN(Simulador/Arcade de avião)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "10bf3883-5f24-4b38-b0d4-fa6d48d5c8c3",
+      "title": "Actraiser Renaissance",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/054/054a3d28b7102f0597571e5ef8dd3ad7.jpg",
+      "description": "Actraiser Renaissance combines 2D platforming action (Realm Acts) with a City-building simulation (Realm Management) in the ultimate battle between good and evil!\n\nFeaturing the soundtrack that sent shockwaves through the gaming world when it was first released, composed by the legendary Yuzo Koshiro - now remastered!\n\nHelp humanity flourish by playing as the Lord of Light and their loyal angel in a world beset by evil.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9e8/9e8cf7fa1625a75c7f2cf8fb75c54dfd.jpg",
+        "https://media.rawg.io/media/screenshots/c9f/c9fcdb2bde996dc965f8535f8f194062.jpg",
+        "https://media.rawg.io/media/screenshots/0e5/0e59494877152e02ea3739b64d0e1028.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Actraiser Renaissance(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "af594a1f-2946-4ef8-b935-6e670f43f31d",
+      "title": "Advance Wars 1+2: Re-Boot Camp",
+      "tags": "Rpg tático",
+      "cover": "https://media.rawg.io/media/screenshots/9b8/9b89cf8ba9521fb402e9d7518ee7505a.jpg",
+      "description": "Command an army in strategic, turn-based combat as a tactical adviser for the Orange Star Army. Your expertise is needed as you move land, air, and naval units across the battlefield. Take down enemy squads and capture towns and bases to secure victory and keep the peace. Keep an eye on the game-changing terrain and weather as you lead a variety of units across multiple maps. This remake features two campaigns that cover the events of Advance Wars and Advance Wars 2: Black Hole Rising!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7ca/7caddb58a56296b13ac99fd5881e1e4a.jpg",
+        "https://media.rawg.io/media/screenshots/e39/e3948a1af0220c434763de3426841e41.jpg",
+        "https://media.rawg.io/media/screenshots/b2b/b2bd463648a5cf7fd0e0a0ad3c655a40.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Advance Wars 1+2: Re-Boot Camp(Rpg tático)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "08603916-5f76-4e07-8e5e-4c11456e5dbe",
+      "title": "Aeterna noctis",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/d86/d86c523f20560ca06dd2c86f7ac34571.jpg",
+      "description": "Aeterna Noctis is a challenging 2D Metroidvania drawn by hand, with intense combat and skill-based platform sections. Taking the role of the 'King of Darkness' you must help him regain his power across 16 different and connected areas in an epic journey with environmental storytelling.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/57c/57c55406ba1543e9393d438b8d74a0bb.jpg",
+        "https://media.rawg.io/media/screenshots/24a/24a5f211950dc5beb265a943e044d752.jpg",
+        "https://media.rawg.io/media/screenshots/421/4215922321b0b0c271b3f046ce706c9a.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Aeterna noctis(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "343af7d2-0438-4fc2-8831-a5a5f774d698",
+      "title": "Afterimage",
+      "tags": "metroidvania(recomendado)",
+      "cover": "https://i.ytimg.com/vi/_msrs53rNJk/maxresdefault.jpg",
+      "description": "Jogo de Nintendo Switch. metroidvania(recomendado)",
+      "images": [
+        "https://purenintendo.com/wp-content/uploads/2023/06/afterimage5.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Afterimage(metroidvania(recomendado))",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8a59a12b-7df5-48c1-8afa-2418feb13160",
+      "title": "AI: The Somnium Files",
+      "tags": "Visual novel",
+      "cover": "https://media.rawg.io/media/screenshots/e03/e035196b873383c7cb7d868f2a73a24c.jpg",
+      "description": "In a near-future Tokyo, detective Kaname Date is on the case of a mysterious serial killer. Date must investigate crime scenes as well as dreams on the hunt for clues. From the mind of Kotaro Uchikoshi (Zero Escape series director), with character design by the Yusuke Kozaki (NO MORE HEROES, Fire Emblem series), a thrilling neo-noir detective adventure is about to unfold.\n\nSTORY\n\nOne rainy night in November, a woman's body is found at an abandoned theme park, mounted on a merry-go-round horse. S...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c7b/c7b0afc02acc938d9a6cff7f2b436324.jpg",
+        "https://media.rawg.io/media/screenshots/fdd/fddbddcfdb590fc0c8c8c37062c5f047.jpg",
+        "https://media.rawg.io/media/screenshots/c45/c45cf6580536add659cfd9238462899a.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "AI: The Somnium Files(Visual novel)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "adbb66f3-b54d-4eb2-8c5a-0bb098a975f6",
+      "title": "Air twister",
+      "tags": "Panzer dragoon like",
+      "cover": "https://media.rawg.io/media/games/ea4/ea492d24d0f99de9e7feaa12864a8ed8.jpg",
+      "description": "Soar through the sky battling against invaders in this all-new fantasy endless shooter from legendary game creator, Yu Suzuki.\n\nPlayers will assume the role of Princess Arch fighting back against bizarre invaders to save their planet from destruction. They'll rain down their homing arrows to trace graceful arcs of light across beautiful, artfully crafted stages, before they pierce their foes.\n\nWith a fun and easy touchscreen swipe-shooting gameplay mechanic, the destiny of the planet is in the p...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bf5/bf5f3e2e74be32e8a9af1e98e7a72c93.jpg",
+        "https://media.rawg.io/media/screenshots/44c/44cbf97f4e6963a07b85d55fdf12647b.jpg",
+        "https://media.rawg.io/media/screenshots/d59/d59b9162710008f59eb10aa71d2c9d91.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Air twister(Panzer dragoon like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1fbd74f6-363a-4b69-85e4-ee4e07804468",
+      "title": "Alan wake",
+      "tags": "terror",
+      "cover": "https://media.rawg.io/media/games/5c0/5c0dd63002cb23f804aab327d40ef119.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8d7/8d7d24df1418efdaba45128e2c855f62.jpg",
+        "https://media.rawg.io/media/screenshots/5ac/5ac6dd243c0ed41fb1a0b5734bff55f1.jpg",
+        "https://media.rawg.io/media/screenshots/ad2/ad2e4f73ac71839178ea01ab66d8bf6c.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Alan wake (terror)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "aa3ea6da-cf96-48c9-afd0-5785415c0c02",
+      "title": "Alex Kidd in Miracle World DX",
+      "tags": "Plataforma 2d(Remake)",
+      "cover": "https://media.rawg.io/media/screenshots/72e/72e24b6b951ef5f14015c8b8c5bf0588.jpg",
+      "description": "The legendary Alex Kidd returns with Alex Kidd in Miracle World DX!\n\nSince his first appearance in 1986 with Alex Kidd in Miracle World, the iconic Alex Kidd makes his return to smash rocks, collect coins and tackle bosses once again in Alex Kidd in Miracle World DX!\n\n\nReturn The Kingdom of Radaxian to its former glory and destroy the evil Janken the Great!\n\nComprising of all levels from the original title as well as brand new levels which expand the lore of Alex Kidd, experience Miracle World l...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/72e/72e24b6b951ef5f14015c8b8c5bf0588.jpg",
+        "https://media.rawg.io/media/screenshots/676/676142e7de73d512912c1095b17efa66.jpg",
+        "https://media.rawg.io/media/screenshots/b9d/b9d3d458a2e47ab33133e69483e39773.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Alex Kidd in Miracle World DX(Plataforma 2d(Remake))",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "298cd04e-1801-4945-b32a-67269e7b474a",
+      "title": "Alien: Isolation",
+      "tags": "Terror",
+      "cover": "https://media.rawg.io/media/games/daa/daaee07fcb40744d90cf8142f94a241f.jpg",
+      "description": "Alien: Isolation is an action-survival horror game played from the first-person perspective for a more intense experience. The game is not a sequel to any of Alien games, but it is directly connected to the original 1979 Alien film, so the gameplay includes historical references, and the game itself transfers the unique atmosphere and the old vision of the future. The action is set 15 years after the film events. Young Amanda Ripley accompanied by Nina Taylor and the android Christopher Samuels ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/df3/df311b578fbaa587c8ba2d768bcf18d7.jpg",
+        "https://media.rawg.io/media/screenshots/b46/b46d5ddcbf7650df4d7eedf1e886bcdb.jpg",
+        "https://media.rawg.io/media/screenshots/37a/37a8f38809062d7e68d32c537e23862d.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Alien: Isolation(Terror)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "976f780f-0c2b-415d-83a9-88292aa1478c",
+      "title": "Angel’s gear",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/6ba/6baa4d22fe0926df9a736f81fc764a8c.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d59/d59459dab689b1027afea9594dc429ec.jpg",
+        "https://media.rawg.io/media/screenshots/5e6/5e661083e2684b410fc4d4ec40285e97.jpg",
+        "https://media.rawg.io/media/screenshots/66c/66c363d4d8f83d49e290eeee7bf14c1e.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Angel’s gear (metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9a3c89ab-b3a9-4fbc-a328-f87cf2dad563",
+      "title": "Animal Crossing: New Horizons",
+      "tags": "Simulador/Fazendinha",
+      "cover": "https://media.rawg.io/media/games/42f/42fe1abd4d7c11ca92d93a0fb0f8662b.jpg",
+      "description": "If the hustle and bustle of modern life’s got you down, Tom Nook has a new business venture up his sleeve that he knows you’ll adore: the Nook Inc. Deserted Island Getaway Package! Sure, you’ve crossed paths with colorful characters near and far. Had a grand time as one of the city folk. May’ve even turned over a new leaf and dedicated yourself to public service! But deep down, isn’t there a part of you that longs for…freedom? Then perhaps a long walk on the beach of a deserted island, where a r...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9a4/9a4d01a14309324d83d34918582c6af4.jpg",
+        "https://media.rawg.io/media/screenshots/82c/82c52816639b5ba8eabfb88448018435.jpg",
+        "https://media.rawg.io/media/screenshots/09a/09ab7fe7db451ee778974aa1047a084f.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Animal Crossing: New Horizons(Simulador/Fazendinha)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "a5e9294a-054a-4390-af7b-d4fc533a0bde",
+      "title": "Animal well",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/f0a/f0ae5322f985cda91e871adcfcb91f6f.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2ff/2ff5cca92d610bb8f74186aad7a3a76f.jpg",
+        "https://media.rawg.io/media/screenshots/160/1603d0760130c1a4db347daf4d7d3d94.jpg",
+        "https://media.rawg.io/media/screenshots/793/7932c399470fb3f682e9a8d2d6495fd2.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Animal well (Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fa16a50c-f063-4710-b959-9f9d4557de98",
+      "title": "Anodyne",
+      "tags": "Zelda like",
+      "cover": "https://media.rawg.io/media/screenshots/d17/d17649b35d59b3986a681038ded4b621.jpeg",
+      "description": "In this unique Zelda-lite game, explore and fight your way through surreal and creepy, nature, urban and abstract themed areas in the human Young's subconscious, evoked by a 16-bit-era visual style and a moody, dream-like soundtrack. Created by Sean Han Tani and Joni Kittaka.\nAnodyne is available in Spanish, Brazilian Portuguese, Japanese and Korean.\nThey also made Even The Ocean, a new narrative adventure platformer. Buy it today!\nhttp://store.steampowered.com/app/265470\nBecause this game was m...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/787/7870571b21e8ed08485f7a7249a9e0a0.jpg",
+        "https://media.rawg.io/media/screenshots/78a/78a90131446dc038d3a1bbe9f9951fab.jpg",
+        "https://media.rawg.io/media/screenshots/4ba/4ba5e4e221b97ff3129316a51bcb12f3.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Anodyne(Zelda like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4745a2e5-6f22-4049-bcd2-dd8809713014",
+      "title": "Another Crab's Treasure",
+      "tags": "Souls like",
+      "cover": "https://media.rawg.io/media/games/5c5/5c506eb1f46d15ca07e13a85363ed389.jpg",
+      "description": "Another Crab’s Treasure is a soulslike adventure set in a crumbling underwater world plagued by a mysterious curse. As Kril the hermit crab, you’ll need to wear the trash around you as shells to withstand attacks from enemies many times your size. Embark on an epic treasure hunt to buy back your repossessed shell, and discover the dark secrets behind the polluted ocean.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e5e/e5ecc19767295a4b2a9edc3ebdfbbdd4.jpg",
+        "https://media.rawg.io/media/screenshots/103/1037d317861da55028dd753e2d01370f.jpg",
+        "https://media.rawg.io/media/screenshots/be3/be340912e913a1d5d009912d4b9b606d.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Another Crab's Treasure(Souls like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8fc10702-a385-48c0-810c-a45bb5f003b5",
+      "title": "Antonblast",
+      "tags": "pizza tower like",
+      "cover": "https://media.rawg.io/media/games/5f1/5f18142a6ba6b15deb734142ed0e2348.jpg",
+      "description": "ANTONBLAST is a fast-paced explosive action platformer that's all about destruction. Play as the enraged Dynamite Anton (or his cranked-out coworker Annie) and use your Mighty F’n Hammer to demolish bizarre worlds, tussle with screen-filling bosses, and steal your Spirits back from Satan! That's right: Satan himself has stolen Anton's prized Spirit collection, and he'll stop at nothing to get it back.Thankfully, the local disgraced casino owner, Brulo, has his own beef with Satan, and he's willi...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/62d/62d4db7188db63902ad9ba96d9effb3e.jpg",
+        "https://media.rawg.io/media/screenshots/fbf/fbfa95357aba92338b5e721f66586443.jpg",
+        "https://media.rawg.io/media/screenshots/e07/e070e1783d6355bec999e68e4ee6707b.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Antonblast(pizza tower like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5b293a29-9bbb-44db-87f9-09c190d40cc4",
+      "title": "Apollo Justice: Ace Attorney Trilogy",
+      "tags": "Jogo de advogado - Visual Novel",
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false,
+      "raw": "Apollo Justice: Ace Attorney Trilogy(Jogo de advogado - Visual Novel)",
+      "description": "Apollo Justice's Legal Journey Begins Anew!\nJoin rookie attorney Apollo Justice and his mentor, the legendary Phoenix Wright, in this collection of 3 games! This title features the 14 episodes of \"Apollo Justice: Ace Attorney\", \"Phoenix Wright: Ace Attorney - Dual Destinies\", and \"Phoenix Wright: Ace Attorney - Spirit of Justice\", and the 2 previously DLC-only Special Episodes for a total of 16 episodes!\nAlso included is a mountain of extra goodies that's sure to satisfy any Ace Attorney fan!\nOr...",
+      "cover": "https://media.rawg.io/media/screenshots/914/9142baa06b2ac605531b927dc0f51e94.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e08/e08bebd6024153a5a4b33c455a648deb.jpg",
+        "https://media.rawg.io/media/screenshots/2ad/2add9b32dbb4769e41c4bde23a1c2ecb.jpg"
+      ]
+    },
+    {
+      "id": "405b8d6f-54a1-49c8-80f0-a77a505a43b6",
+      "title": "Arashi Gaiden",
+      "tags": "Jogo brasileiro tático",
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Arashi Gaiden(Jogo brasileiro tático)",
+      "description": "Arashi Gaiden is a turn-based action game with fast-paced dash and slash combat. Use the dash mechanic to quickly traverse levels and slice your enemies in half in style, combining your blade with shurikens, teleports and chains that paralyze your opponents. Overcome levels with mechanics that change how you play and face Bosses that redefine what a turn-based game is by using special abilities in real time.Stop the time of your enemies, play shurikens, teleport and change the direction of your ...",
+      "cover": "https://media.rawg.io/media/screenshots/53e/53e9e0554a6f30c72af2e9754e9c4775.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a47/a47078676c29d21540f96a85bcf55bf9.jpg",
+        "https://media.rawg.io/media/screenshots/18c/18c8003d8e8b99551e3c2b0be0a90766.jpg",
+        "https://media.rawg.io/media/screenshots/275/275730433d41af8bb4574b9c21c40da4.jpg"
+      ]
+    },
+    {
+      "id": "f55ef198-08fc-449f-8ce8-270a509bf599",
+      "title": "Arcade tycoon",
+      "tags": "Construção",
+      "cover": "https://media.rawg.io/media/screenshots/d2c/d2c1f84ca13a381e879ae270911cf3b5.jpg",
+      "description": "Ever wanted to build your own amusement arcade?\nBuild and Manage\nStretch your imagination, embrace classic videogames, and build an awesome arcade. Start from scratch, plan, open the doors to accept eager gamers, and run the finest amusement arcade ever imagined!  Arcade Tycoon is the construction and management sim that will let you build, manage your arcade, and offer you a chance of keeping coin-op games alive and kicking.\nCustomize\nGet creative with the Arcade Tycoon sandbox, or experience t...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3af/3af66e334265ff3cd8356abf10cac4c1.jpg",
+        "https://media.rawg.io/media/screenshots/641/641395d18c555f435f369a50535630a1.jpg",
+        "https://media.rawg.io/media/screenshots/1f5/1f57ea848e4c137907d86a664826debb.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Arcade tycoon(Construção)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8206f600-279a-4753-bb4f-7ca519e5d32e",
+      "title": "Arcaea",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/6a1/6a1e386672f38430aa298f399585041f.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/97d/97d17be68e98593d86957fa21d3ed9c4.jpg",
+        "https://media.rawg.io/media/screenshots/b20/b2096dd12333f05221657976ad110f41_4T2Zws0.jpg",
+        "https://media.rawg.io/media/screenshots/a51/a5166b4466141ce64f6198118bda8a37.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Arcaea(Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "915bf863-8688-40ca-9149-011f53e20524",
+      "title": "Ariana and the Elder Codex",
+      "tags": "Metroidvânia",
+      "genre": "Metroidvânia",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Ariana and the Elder Codex(Metroidvânia)",
+      "description": "The imperial battlemage Jagar Tharn betrays the Emperor Uriel Septim by imprisoning him in an alternate dimension, then assuming the Emperor’s identity and place on the throne. A lone prisoner must travel to Tamriel’s most famous and dangerous sites to collect the shattered Staff of Chaos, save the Emperor and free the Empire.",
+      "cover": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/arianaandtheeldercodex/16x9_ArianaAndTheElderCodex_image1600w.jpg",
+      "images": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/store/software/switch/70010000106909/097bda18fd29dcd59bbb803967ec8b4426c92bec11253a5640d01dac6eddd186",
+        "https://www.ps4blog.net/wp-content/uploads/2026/03/Ariana-and-the-Elder-Codex-1.jpg"
+      ]
+    },
+    {
+      "id": "cf0ca64b-f30a-4f85-a66f-cc9cd3e1968c",
+      "title": "Arisen Force: HeroTest",
+      "tags": "Actionrpg",
+      "cover": "https://media.rawg.io/media/screenshots/cf3/cf326537bb2a1b4b0abb06dd471f03e6.jpg",
+      "description": "DiscordJoin our Discord! For more detail updates, tips and feedback !\nAbout the GameArisen Force: HeroTest  is an A-RPG game featuring exquisite high-definition pixels ,it combines the engaging Stylish Actional combat experience.Join the exquisite-definition pixel style world \"HeroTest\", and experience an exhilarating, stylized combat journey with heroes from  temporal rift to fight against the dark erosion of the void.FeaturesEmbark on a Time-Traveling Quest: Gather legendary heroes from divers...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/61d/61d673f597b3031f938693e2327472ab.jpg",
+        "https://media.rawg.io/media/screenshots/a9c/a9cbc0a0ff58e32cb057c3b825be53b4.jpg",
+        "https://media.rawg.io/media/screenshots/c4f/c4fe636c581fed01b453eb4c40264218.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Arisen Force: HeroTest(Actionrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "19fe49be-1712-4568-a71c-f8c0de471969",
+      "title": "Arkanoid Eternal Battle",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/91a/91a9d6d78dede9edc7e0b2ea33e3bc9f.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bb7/bb7eb981ab7901a4d088599e177b452b.jpg",
+        "https://media.rawg.io/media/screenshots/ac2/ac2a01a3d8bd25b0a716c02e8866bd4d.jpg",
+        "https://media.rawg.io/media/screenshots/a68/a68e0226e43152e0860803386627c600.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Arkanoid Eternal Battle",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0f137fb2-d278-4cf9-bc36-41e2d251aa2c",
+      "title": "Arms",
+      "tags": "LutA",
+      "cover": "https://media.rawg.io/media/games/89b/89baea5dcaec4424853e8fb888328dd9.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 08 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bdd/bdd949cf889de2ab5c42bd8080c6d195.jpg",
+        "https://media.rawg.io/media/screenshots/40a/40a82a884a032c457233af3b149e66cd.jpg",
+        "https://media.rawg.io/media/screenshots/a27/a27038060768815bcceef7be584c579d.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Arms(LutA)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "c72069bd-aa0d-4fbb-93dd-19de6777a1d4",
+      "title": "Assassin’s Creed IV: Black Flag",
+      "tags": "Mundo Aberto",
+      "cover": "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg",
+      "description": "Assasin's Creed IV: Black Flag is a pirate game. Being the fourth “numbered” instalment in the series, the story follows a new protagonist, Edward Kenway, who tries to build his Pirate Republic. Help legendary pirates like \"Blackbeard\", Charles Vane and other well-known pirates establish their empire while fighting the mystery of the Observatory - something very valuable for the Templars. Also, you will have to continue your infiltration in Abstergo and discover some new details about itself.\n\nA...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/46d/46de97777c05efb26597b215735dcd84.jpg",
+        "https://media.rawg.io/media/screenshots/162/162503bb903edd7cfddf2a49ecdf5b7d.jpg",
+        "https://media.rawg.io/media/screenshots/9ad/9ad8aa17d3f2be9545273f895e481280.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "Assassin’s Creed IV: Black Flag(Mundo Aberto)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "98a301b3-eab9-4e74-b535-55315a5d71ab",
+      "title": "Assassin’s Creed The Ezio Collection",
+      "tags": "Mundo aberto",
+      "genre": "Mundo aberto,Sandbox",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Assassin’s Creed The Ezio Collection(Mundo aberto)",
+      "description": "Make history as the legendary Master Assassin, Ezio Auditore da Firenze, in Assassin’s Creed® The Ezio Collection, which includes the acclaimed single-player campaigns and single-player add-on content* from three games: Assassin’s Creed® II, Assassin’s Creed® Brotherhood, and Assassin’s Creed® Revelations with enhanced graphics for PlayStation®4 system.\nPlay as Ezio, the most iconic Assassin in the franchise, and follow his  journey from a young man learning the ways of the Assassins in 15th-cen...",
+      "cover": "https://media.rawg.io/media/games/efd/efd50d3cf0ebe96aa77b81e29ea3540f.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/27f/27f621165b23ff6481715799eb36a32a.jpg",
+        "https://media.rawg.io/media/screenshots/e44/e44b226d40f2d1f65e87deb9b1e7b383.jpg",
+        "https://media.rawg.io/media/screenshots/cbd/cbdabe538b7de4b92321d48ea317ac60.jpg"
+      ]
+    },
+    {
+      "id": "2e4e2308-4387-4c99-9634-c9ca8d3ff7a9",
+      "title": "Astalon: tearsoftheearth",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/f42/f429bdc1f051149e11bde4f3a9fc435a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bf5/bf53e99f0749c797dad78c3280d62ae0.jpg",
+        "https://media.rawg.io/media/screenshots/3fe/3fec3a4b16567d10829fb838d6a321bb.jpg",
+        "https://media.rawg.io/media/screenshots/88c/88cf2e9ce6d1a02ba15c70230dabe55e.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Astalon: tearsoftheearth (Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "6dfe26ba-6ded-4974-8c9c-732a463aa72d",
+      "title": "Astral Ascent",
+      "tags": "Roguelike",
+      "cover": "https://media.rawg.io/media/screenshots/472/472d8a266a27d0eee5f1c3b76d120e23.jpg",
+      "description": "Astral Ascent is a 2D platformer rogue-lite set in a modern fantasy world. As one of 4 Heroes with very different personalities, you must escape from the Garden, an astral prison guarded by 12 powerful and vicious bosses, the Zodiacs.\nFIGHT YOUR WAY\nUnlock dozens of unique spells for your 4 distinct characters. Optimize your own build or try out a new one to take down 12 powerful bosses. Get stronger with time to match up with your foes. Each run will test your skills and your reactivity.\nDON'T ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/94a/94a96fc977bd1ffbc5cff0b73c4f433d.jpg",
+        "https://media.rawg.io/media/screenshots/17e/17e996fb98a650ab18587f9d3c5fc75b.jpg",
+        "https://media.rawg.io/media/screenshots/83f/83fc18dc08d60c4c123d15ba7add14f7.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Astral Ascent(Roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f43194d5-0990-4c00-8fb0-1701a9c20ade",
+      "title": "Astral chain",
+      "tags": "Hack n Slash",
+      "cover": "https://media.rawg.io/media/games/75b/75b91d05160c819fa6bbafe920548300.jpg",
+      "description": "As part of a police special task force, it’s up to you to fight against mysterious, alien-like creatures who have invaded the world.\n\nIn the Ark, a multi-cultural city in the near future, disaster strikes when gates to another dimension suddenly appear! Dangerous creatures begin to emerge, attacking the people and polluting the land, and normal police forces are unable to compete with them. To stand up against these threats, a brand new, special police unit known as Neuron is formed.\n\nChoose...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/45d/45d82a829ec40174f4aaf56799effe94.jpg",
+        "https://media.rawg.io/media/screenshots/953/9530d75a403050005de8db7965d1dd37.jpg",
+        "https://media.rawg.io/media/screenshots/540/5409cc5fe308af0e647a423a129690ab.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Astral chain(Hack n Slash)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "386fbea4-a05a-4bc3-9772-8fccc878a21e",
+      "title": "Atari 50: The Anniversary Celebration",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/a28/a2837678aab844c05fd03d7a587bd6ea.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/662/662d495b6eeb8f1ec793158ecd8f04f2.jpg",
+        "https://media.rawg.io/media/screenshots/4a6/4a6bf57b9b216799bdbfec20c6da98e7.jpg",
+        "https://media.rawg.io/media/screenshots/a63/a63f8a35c0d895b580c17457dcbd4e9e.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Atari 50: The Anniversary Celebration",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a318e707-ff9c-40bf-a7cd-3cd919cf003f",
+      "title": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Atelier Ryza: Ever Darkness & the Secret Hideout(Jrpg)",
+      "description": "Content of \"Atelier Ryza: Digital Deluxe Edition\"- \"Atelier Ryza: Ever Darkness & the Secret Hideout\"\n- Costume Set \"Another Fashion\"\n- Costume Set \"Summer Style\"\n- Hideout Parts \"Pixie Forest\"\n- Hideout Parts \"Lakeside Hideout\"\n- Initial Dash Item Set\n- Extra Large! Rebuild Gem Pack\nPre-Purchase Offer- Ryza's Outfit \"Divertimento Embrace\"\n*Ryza's Outfit \"Divertimento Embrace\" might be available as free content at a later date.\nFree for Limited Time- Ryza's Costume \"Summer Adventure!\"\nNote: Avai...",
+      "cover": "https://media.rawg.io/media/games/484/4849529dfe93d3a10bcbe5a0d6e12646.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/89a/89ab255873ee175c88db38dc5a20fada.jpg",
+        "https://media.rawg.io/media/screenshots/71a/71a3310b793e930e37eed8478cc69f06.jpg",
+        "https://media.rawg.io/media/screenshots/57c/57c4f20fe51d52a3bd06b4fcec1c47f2.jpg"
+      ]
+    },
+    {
+      "id": "c37ae240-4bc4-42e3-9c87-128fed74690b",
+      "title": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/887/887f650c62d7383095a635cc31fb4d36.jpg",
+      "description": "\"Atelier Yumia\" is a story about “memory”. Explore the field to gather materials and synthesis items. The items you create can be key to advancing the story and can also be used in battles and exploration. Additionally, you can create your own base with “Building\" in the field.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/71e/71e035fb2c9f7c313812e7d3d6fa9c2c.jpg",
+        "https://media.rawg.io/media/screenshots/448/4481c18a3aa975eedd21b94face24be5.jpg",
+        "https://media.rawg.io/media/screenshots/30e/30e2bb7a9e9a0001ad0c1d9efc50f840.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0d3c37a6-91c5-4b96-a5b6-d116a2e7d725",
+      "title": "Avicii Invector",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/games/4d6/4d617f342d30db08715f44ef2741d07c.jpg",
+      "description": "Belt up and blast into the rhythmic regions of unexplored space in AVICII Invector.\nCreated in collaboration with the late superstar DJ, AVICII Invector is a pulse-pounding, frenetic rhythm-action experience.\nSoar through vocal melodies, sweep each fade and attack every beat in 25 of AVICII’s biggest hits, including global chart toppers: Without You, Wake Me Up and Lay Me Down.\nFly solo or recreate the party feeling of an AVICII concert with heart-thumping, competitive gameplay.\nEach track is bu...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/047/047c3c7f31c3544602ecd93ad1705603.jpg",
+        "https://media.rawg.io/media/screenshots/f4f/f4fc940fea184a1b5cfc94e98093b090.jpg",
+        "https://media.rawg.io/media/screenshots/4c6/4c6ea393d8e5f14e4d3667d3b000b4c1.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Avicii Invector(Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f950ab57-c597-4227-a94b-4b322f701c06",
+      "title": "Axiom Verge 1 e 2",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/6dc/6dc4ec76604e76d9be069242be228a14.jpg",
+      "description": "The long awaited sequel to Axiom Verge, Axiom Verge 2 expands on the universe with completely new characters, abilities, and gameplay.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9f4/9f4337519a50782d8e37470e2a5527a5.jpg",
+        "https://media.rawg.io/media/screenshots/730/7305bb7293b4d364889d39726ce487e0.jpg",
+        "https://media.rawg.io/media/screenshots/f86/f868e2584e8e87972ef9c05b46751507.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Axiom Verge 1 e 2(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b1ace65c-4ab5-4225-87a2-a658d5243e95",
+      "title": "Azure Striker Gunvolt Trilogy Enhanced",
+      "tags": "Megaman like - Jogo 1,2 e 3",
+      "cover": "https://media.rawg.io/media/screenshots/cb3/cb31901a2ebb0f26702164fe812acd0a.jpg",
+      "description": "The Azure Striker's journey, all 3 games in one collection!The Azure Striker Gunvolt Trilogy Enhanced is a collection of three traditional 2D action platformers,“Azure Striker Gunvolt” (2014), “Azure Striker Gunvolt 2” (2016), and “Azure Striker Gunvolt 3” (2022)together in one release, complete with all DLC.The Gunvolt series boasts a rich story, played out with real-time dialog during missions, and an vast catalog of music, with over 37 songs performed by the games' characters.Plus, this speci...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4b8/4b8b6bf08ebc3141ba8861f5a7524f68.jpg",
+        "https://media.rawg.io/media/screenshots/2f0/2f0b99911fbdd50f70032209732f16f9.jpg",
+        "https://media.rawg.io/media/screenshots/dd5/dd5d35b769276182779a0283925dd861.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Azure Striker Gunvolt Trilogy Enhanced(Megaman like - Jogo 1,2 e 3)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "431e78ce-587f-4de6-9fe6-ed74c79efede",
+      "title": "Bakeru",
+      "tags": "plataforma 3d",
+      "cover": "https://media.rawg.io/media/screenshots/e93/e93b023a8a2c02aee46e64579961ad39.jpg",
+      "description": "Disaster strikes Japan!\nOracle Saitaro and his Festival Troops are using a bizarre festival to take over Japan. Bakeru travels to 47 Japanese prefectures to free Japan from the grip of evil spirits!\nSpectacular action set in fairy tale Japan!\nBakeru takes place in \"Fairy Tale Japan,\" a mix of modern Japan and old period dramas, which is divided into more than 50 stages.\nBattle on with Bakeru's drum!\nA secret treasure passed down by Tanuki Clan. It is said to be able to purify evil spirits. Fight...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9f3/9f3b2dc95593850df2866faa55f30358.jpg",
+        "https://media.rawg.io/media/screenshots/137/1374d06e84f9f92bf521527f244851ad.jpg",
+        "https://media.rawg.io/media/screenshots/84e/84ef735241d7c1b4f0ff67255e92d9b3.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Bakeru(plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5b1253f2-2728-4961-be31-26ea842ffa76",
+      "title": "Baki  hamna",
+      "tags": "punch out like",
+      "cover": "https://media.rawg.io/media/screenshots/6e0/6e084166d173f06dbbcd85b884a3741d.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c6f/c6f4f24dac9622cc9b413301719e2842.jpg",
+        "https://media.rawg.io/media/screenshots/29c/29ceb1397525c41da8e95069d6c092e6.jpg",
+        "https://media.rawg.io/media/screenshots/2c5/2c5074c85d82d81d3aecd57726f56355.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Baki  hamna (punch out like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e6702834-0141-4466-bda7-dbff0c850e61",
+      "title": "Ball x Pit",
+      "tags": "Estilo Arkanoid e Vampire survivors",
+      "cover": "https://media.rawg.io/media/games/798/798705b4f25e958e4ab8edf570e215f8.jpg",
+      "description": "BALL x PIT is a fast-paced fantasy roguelite where heroes must find the balls to plunge deeper into a seemingly bottomless pit of monsters. Develop arcane ammunition and resources in pursuit of treasure, recruiting additional heroes to aid you in your perilous quest.Ballbylon has fallen. After a meteoric and completely unexpected event annihilated the great city, all that remains is an ominous, yawning pit. Treasure hunters from far and wide flock to the city’s tomb to seek their fortune, plumbi...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/592/592546d38aa4b289309d9d506c2c59e4.jpg",
+        "https://media.rawg.io/media/screenshots/f5d/f5dcf68bf10a1035375c362858c0195b.jpg",
+        "https://media.rawg.io/media/screenshots/763/7635d82eaea7ad22e30d07952befabe9.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Ball x Pit(Estilo Arkanoid e Vampire survivors)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d5f15ca4-0c87-4f7a-9fde-f26a637eba90",
+      "title": "Bat boy",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/f03/f036268eb005df2fe0a18d6f9dac3ff1.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e6e/e6e219f630084bfa18c84591c4048442.jpg",
+        "https://media.rawg.io/media/screenshots/860/860042b37f28ef3c97f2feff2998952e.jpg",
+        "https://media.rawg.io/media/screenshots/331/3310e2a0a13ad08fce51c639ee6fe4fa.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Bat boy (plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c6f4e52b-8f31-43bd-9fc7-99e432f4350d",
+      "title": "Baten Kaitos I & II HD Remaster",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/2f0/2f0ec5f47c245c4c5b163043a6d8b652.jpg",
+      "description": "Baten Kaitos Origins  is a 2006 role-playing video game developed by Monolith Soft and Tri-Crescendo for the Gamecube video game console. The game is a prequel to Baten Kaitos: Eternal Wings and the Lost Ocean. Unlike the first game, which was published by then-Monolith Soft owner Namco, Origins was published by Nintendo, and was not released in Europre. It was released on February 23, 2006 in Japan, and in North America on September 25, 2006.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1c2/1c27d3e25d4cafa06e9c333bb1134b11.jpg",
+        "https://media.rawg.io/media/screenshots/e67/e670113cf0fec2a300298b1d803c54dd.jpg",
+        "https://media.rawg.io/media/screenshots/4d8/4d835b4cccaffd95c7c75c2c455999bc.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Baten Kaitos I & II HD Remaster(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "31a6cb99-9013-48ae-b8d8-53020baf6a67",
+      "title": "Batora: Lost Haven",
+      "tags": "Hackslash",
+      "cover": "https://media.rawg.io/media/games/731/7319cf8861b876c6e3784a484ddfaae1.jpg",
+      "description": "Batora: Lost Haven combina os recursos de um hack & slash e de tiro com dois manípulos em um RPG interplanetário de ação não linear baseado em narrativa.\n\nQuais limites você cruzaria para salvar a sua casa?\n\nAvril costumava ser uma garota normal de 16 anos, não exatamente o que se poderia chamar de uma heroína nata.\nAté que um evento misterioso devastou a Terra, e ela perdeu tudo que mais amava.\nAgora ela é a única que, com os poderes físicos e psíquicos que recebeu, pode tentar salvar o seu pla...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/141/141be35f64ce3c193271783e2e030ff9.jpg",
+        "https://media.rawg.io/media/screenshots/484/4844e2757d939303b6923968315d1711.jpg",
+        "https://media.rawg.io/media/screenshots/486/486577717a49113cbb66631681d107c3.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Batora: Lost Haven(Hackslash)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d50b26e2-33d2-4241-a549-459a2b66718b",
+      "title": "Bayonetta 2",
+      "tags": "Hack n Slash",
+      "cover": "https://media.rawg.io/media/games/3d7/3d7c8e749b18cfc898c80016594981fe.jpg",
+      "description": "Wield wild weapons and execute deadly moves—like the powerful Umbran\nClimax—to take out angels and demons in this breathtaking action game.\nYou can even team up with friends in 2-player online or local wireless\nco-op fights (additional accessories required; sold separately.)\n\nBayonetta is a butt-kicking, havoc-wreaking witch who wields sweet\nweapons like pistols, whips, hammers, flamethrowers, and poison bows.\nBut it’s not just about brawn—it’s also about style. Bayonetta is deadly\nbut sleek, wi...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9bd/9bdf5a7fd96180970182cfe1c2644591.jpg",
+        "https://media.rawg.io/media/screenshots/24e/24e17421e42f3f8456c37aa7e8e07b69.jpg",
+        "https://media.rawg.io/media/screenshots/71d/71d7a438a97e74d025a8d726e6634948.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Bayonetta 2(Hack n Slash)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "05170107-c874-4d7f-b9af-079982ca8914",
+      "title": "Bayonetta 3",
+      "tags": "Hack n Slash",
+      "cover": "https://media.rawg.io/media/games/c30/c30ac50cb13096f5402250bf666a321c.jpg",
+      "description": "Bayonetta struts through multiple locations in an all-new, over-the-top climax action game. Sporting a wicked new ensemble and somehow familiar pigtails, the titular Umbra Witch must face a mysterious evil using her signature guns and time-slowing Witch Time ability. This time, invading manmade bioweapons called Homunculi find themselves in Bayonetta’s crosshairs.\n\nTap into Bayonetta’s naughtier side with Demon Masquerade, a new ability that channels the demon linked to her weapon allowing for s...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/97c/97c8f93509436d5fed288247b406e2e1_E0cjjr4.jpg",
+        "https://media.rawg.io/media/screenshots/fa3/fa38af1eade91f988c6de8b994dfe37e.jpg",
+        "https://media.rawg.io/media/screenshots/4a3/4a3151266e67ca40e3a38b39ab98ec52.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Bayonetta 3(Hack n Slash)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "7c7a5fb2-6dc9-471c-8941-ea9d998a7903",
+      "title": "Bayonetta Origins: Cereza and the Lost Demon",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/aa7/aa7ecfe7f6dccc63e9e2cad73a40aaa8.jpg",
+      "description": "Long before this trainee of the dark arts would come to be called Bayonetta, she took a fateful journey into the forbidden Avalon Forest. Alongside her was Cheshire, her very first demon, possessing Cereza’s stuffed toy. Play as both Cereza and Cheshire and search through the treacherous forest to look for the power to save Cereza’s mother.\n\nControl both Cheshire and Cereza to solve puzzles and fend off fiends\n\nAny good story has a lesson about teamwork, no? In this tale, Cereza and Cheshire coo...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/441/441c21368affbd9d4b12ed9593c4fa11.jpg",
+        "https://media.rawg.io/media/screenshots/492/492820c479fa03cbd3748268caf025ad.jpg",
+        "https://media.rawg.io/media/screenshots/e2e/e2ece85bc823376a9fba3bf6a5540243.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Bayonetta Origins: Cereza and the Lost Demon",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "8b57c520-d037-49f6-8494-27ac866dfff4",
+      "title": "Beat The Champions",
+      "tags": "Futebol com poderes",
+      "genre": "Esportes",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Beat The Champions(Futebol com poderes)",
+      "description": "Jogo de Nintendo Switch. Futebol com poderes",
+      "cover": "https://culturageek.com.ar/wp-content/uploads/2026/04/Portada-BTC.webp",
+      "images": [
+        "https://www.alphabetagamer.com/wp-content/uploads/2026/03/beat-the-champions-beta-demo.jpg"
+      ]
+    },
+    {
+      "id": "19065e0e-133f-45a5-b75f-7056b61113fc",
+      "title": "Berserk boy",
+      "tags": "Plataforma 2d - Megaman like",
+      "cover": "https://media.rawg.io/media/screenshots/959/959405176f9c1742d5a81bfca979205a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/62a/62a4cc580431303d38ac3bbef61b2e1f.jpg",
+        "https://media.rawg.io/media/screenshots/27a/27abd80bf9175895a402ec37ca4b3662.jpg",
+        "https://media.rawg.io/media/screenshots/484/48451c77b3217e6586fc7ed2d459dafe.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Berserk boy (Plataforma 2d - Megaman like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ae9f60ce-2bb4-4c57-ae30-8991a53a46d4",
+      "title": "Beyblade X Xone",
+      "tags": "Esporte",
+      "cover": "https://media.rawg.io/media/screenshots/a28/a2802eb76883d4df28b647ef6edbe4d9.jpg",
+      "description": "Experience action-packed Beyblade battles in a stadium equipped with BEYBLADE X's signature X-celerator Rail as you unleash the Xtreme Dash and use the game's original \"Active Gauge\" to execute exciting tactical maneuvers! ■STORY A completely new story featuring original game characters!\nA new tournament, The X Championship, is being held at The X. Compete with rivals, deepen bonds, and aim for the top of The X! ■BATTLE Completely recreates the ultra-accelerated battles of BEYBLADE X! Feel the i...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f72/f72f2c16fd670ef133c5eb3731320323.jpg",
+        "https://media.rawg.io/media/screenshots/c74/c7474f16b90e2a2134a609cd44ac4e95.jpg",
+        "https://media.rawg.io/media/screenshots/2da/2da66cf6d8327f6a6555c73fd261405d.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Beyblade X Xone(Esporte)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "36fe92b2-6586-416a-8b59-d9fb1de44fce",
+      "title": "Beyond Good & Evil - 20th Anniversary Edition",
+      "tags": "Ação/Aventura 3d",
+      "cover": "https://media.rawg.io/media/games/9f5/9f537017b13d32459fa129185648a858.jpg",
+      "description": "Swoop into the marvelous world of Hillys as action-reporter Jade to investigate the mysterious DomZ alien attacks alongside colorful characters, like her adoptive uncle Pey’j or the valiant Double H.\n\nEmbark on this epic adventure in up to 4K, 60 frames per second with improved graphics, controls, and audio, along with brand-new autosave and cross-save features.\n\nEnjoy exclusive new rewards as you explore the planet and discover more about Jade’s past in a new treasure hunt throughout Hillys.\n\nP...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/788/78853feb214d0438067c393b6877adb7.jpg",
+        "https://media.rawg.io/media/screenshots/767/76785e0b9a0fc4c7e8f6df72cd20e820.jpg",
+        "https://media.rawg.io/media/screenshots/4e5/4e55312d64548ca22e0cbf0d626a071d.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Beyond Good & Evil - 20th Anniversary Edition(Ação/Aventura 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ef4dcf45-e6e8-4f8f-807b-398da90677a3",
+      "title": "Beyond the ice palace 2",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/b07/b07c67110f60e12cfc740fcbc6f8d961.jpg",
+      "description": "Witness the triumphant resurrection of a Commodore 64 classic over 35 years in the making! Arise from the abyss of death to reclaim your rightful throne in a captivating action platformer. Discover hidden areas, solve puzzles, and uncover secret treasures to feed your power as you prepare for epic battles against gruelling, colossal bosses. Level up strategically to overcome all who stand in your way and take your seat as the rightful king once more!\nAssume the mantle of the ‘Cursed King’ as you...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1da/1da509a7a9c17253a490009dd85c6079.jpg",
+        "https://media.rawg.io/media/screenshots/8ad/8ad86bcb7fb17ba238723bf89064e1f2.jpg",
+        "https://media.rawg.io/media/screenshots/968/9680efc797c81da6dc62bb3acaaed541.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Beyond the ice palace 2(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "13cb88f5-d410-4479-b2c6-de5dc83bb54e",
+      "title": "Big Helmet Heroes",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/421/42103f46fe57c070074bc4d0a84ba17e.jpg",
+      "description": "Jogo de Nintendo Switch. briga de rua",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8b0/8b08258a204f14969ca1cd9d3258ec16.jpg",
+        "https://media.rawg.io/media/screenshots/95f/95fe7e52730c16858ff3e7a7676503ef.jpg",
+        "https://media.rawg.io/media/screenshots/223/22389720c338b9e8d9ede7230ad0b04a.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Big Helmet Heroes(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4ba4d29f-06f6-447f-959a-e457f7d773fa",
+      "title": "Biomorph",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/48d/48d270ee7f3384089916b35c97b70271.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9d7/9d7571f843c29e81ced426985f702888.jpg",
+        "https://media.rawg.io/media/screenshots/02f/02f6a0eba3ac6440b569c53dafd6ea0b.jpg",
+        "https://media.rawg.io/media/screenshots/3e2/3e2f3731a83a2139608913b58b818474.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Biomorph(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "abe2f4f7-65b9-42c3-a384-8320fb70ee30",
+      "title": "Bioshock 2",
+      "tags": "Fps",
+      "cover": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg",
+      "description": "The second game returns us to the city of Rapture, on the New Year’s Eve, but this time player takes control of Subject Delta, Big Daddy, that’s been separated from his little sister and has been forced to shoot himself 2 years before the events of the first game took place. And after his awakening 10 years later, players will help to save the last sane citizens of Rapture. As seen in the previous game, the player will have access to new weapons, unique to Big Daddies, power drill and a rivet gu...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a13/a130b342c9830f9c56d65c204638fe17.jpg",
+        "https://media.rawg.io/media/screenshots/f38/f38a519f1545ef5cda66676c155cc5b8.jpg",
+        "https://media.rawg.io/media/screenshots/996/996d1459d3f2ec1f03daba488d96c521.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Bioshock 2(Fps)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fa46af79-d39f-4be0-a858-8263c40b7462",
+      "title": "BioShock Infinite",
+      "tags": "Fps",
+      "genre": "Tiro e Navinha",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "BioShock Infinite(Fps)",
+      "description": "The third game in the series, Bioshock takes the story of the underwater confinement within the lost city of Rapture and takes it in the sky-city of Columbia. Players will follow Booker DeWitt, a private eye with a military past; as he will attempt to wipe his debts with the only skill he’s good at – finding people. Aside from obvious story and style differences, this time Bioshock protagonist has a personality, character, and voice, no longer the protagonist is a silent man, trying to survive.\n...",
+      "cover": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bf0/bf07e2c6d2c888d372917d9ef453c8a4.jpg",
+        "https://media.rawg.io/media/screenshots/9d3/9d38833952812ad7888a6dc21699934f.jpg",
+        "https://media.rawg.io/media/screenshots/595/59572d257b6797986e4eabcd1ee023fd.jpg"
+      ]
+    },
+    {
+      "id": "3f8f92f5-f61a-4e4d-b047-bcba56ce8e48",
+      "title": "Blade chimera",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/f9d/f9daf59ee73ce5e5fe069ff496a04b86.jpg",
+      "description": "Explore Dark Osaka as the Demon Hunter Shin. Battle demons to recollect your lost skills, and to recall the details of your past and your missing wife in this exciting occult-inspired cyberpunk metroidvania game featuring a unique skill tree system.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/23f/23fac8a3e8d90949858437d97be35279.jpg",
+        "https://media.rawg.io/media/screenshots/459/4598ae6ce9d4b327b84894b2503f2e51.jpg",
+        "https://media.rawg.io/media/screenshots/93d/93d384b991d990c971202b5ebff65e02.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Blade chimera(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4d8bcb84-c78a-4867-85ae-7493267ebca8",
+      "title": "Blasphemous",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/b01/b01aa6b2d6d4f683203e9471a8b8d5b5.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/350/35004ab01b59310d9682c069efe0c0b2.jpg",
+        "https://media.rawg.io/media/screenshots/993/9930282406e7dd2819451ec16373a688.jpg",
+        "https://media.rawg.io/media/screenshots/b70/b70109ffdfabfe36e36cc43e1ad80277.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Blasphemous",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "dedf29b2-af0b-4f49-9f9e-bde624dda4ff",
+      "title": "Blasphemous 2",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/73b/73bcfec00beec38a3d3527db4f9b8c53.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 06 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/569/569546be856c3d4238dfccce857c7b94.jpg",
+        "https://media.rawg.io/media/screenshots/b5f/b5f0f921e124030fd3ab96d36fbf4210.jpg",
+        "https://media.rawg.io/media/screenshots/ff3/ff38c9dc809852035c1458fb34779826.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Blasphemous 2",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "608fc0fa-6645-484b-8b10-90bb7618a777",
+      "title": "Blaz Blue Cross Battle",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/games/d8d/d8de0c77a04b3421b74d98679bb5602a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2e4/2e4648d4a46a8818a1c279b37ecea195.jpg",
+        "https://media.rawg.io/media/screenshots/97f/97fd2e74c6a5f8d48b5170299a0a0420.jpg",
+        "https://media.rawg.io/media/screenshots/e24/e242cef1d7b3f2a212887076c658237b.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Blaz Blue Cross Battle(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2bdaedc4-ab0b-486b-bf91-a08aa77c5b0b",
+      "title": "BlazBlue Entropy Effect",
+      "tags": "Rogue like",
+      "cover": "https://media.rawg.io/media/screenshots/8a7/8a7e7d95bcae532fac4e0c83da7b8099.jpg",
+      "description": "A brand-new action roguelite developed by a team with years of experience in action games, ready to present the best 2D action combat experience the world has ever seen!\nEach character has their own traits and hundreds of moves to choose from as you create your unique combos. The Legacy System making each battle a unique experience.\nThink strategically and plan your Tactics by selecting eight elements (Lightning, Fire, Ice, Blade, Toxin, Light, Umbra, and Generic) and over 200 upgrades that syne...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/935/9352bb7150b4af0431024498b1e9f581.jpg",
+        "https://media.rawg.io/media/screenshots/2f9/2f94f292b92c216212f2900c79f14f7e.jpg",
+        "https://media.rawg.io/media/screenshots/9d3/9d39592410c9feb8f0f7912790120583.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "BlazBlue Entropy Effect(Rogue like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "47bad628-5b23-4e14-94d4-9d22451ac169",
+      "title": "Blazing Chrome",
+      "tags": "Run and Gun",
+      "cover": "https://media.rawg.io/media/games/650/650a77b1ea5632a4b99194ac7f082191.jpg",
+      "description": "Jogo de Nintendo Switch. Run and Gun) (Multiplayer",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e45/e45292f9ccc89a81248263bca337eea7.jpg",
+        "https://media.rawg.io/media/screenshots/da1/da1d92f9283763c2b015d329204a9975.jpg",
+        "https://media.rawg.io/media/screenshots/3fb/3fbde08bf55db205ede685e5e1a9d28c.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Blazing Chrome(Run and Gun)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "61bda9ae-ae14-43f3-a46e-d9b18c589601",
+      "title": "Bloodless",
+      "tags": "action adventure",
+      "cover": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/software/switch/70010000083459/364ea2b48ad620a2e4547f0ee2ff59c9a95bab53054ba729b3a7e4fcead06b61",
+      "description": "Jogo de Nintendo Switch. action adventure",
+      "images": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/software/switch/70010000083459/364ea2b48ad620a2e4547f0ee2ff59c9a95bab53054ba729b3a7e4fcead06b61"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Bloodless(action adventure)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5219c271-793f-4c37-9af2-a758e5fabe15",
+      "title": "Bloodstained Ritual",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/26c/26cacc55399ed6b2c14e20d2eca0620a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/63e/63e1b33ba33b7433eb45b1210e98a01c.jpg",
+        "https://media.rawg.io/media/screenshots/7f9/7f9bd1a8182d202f00b11a3e0d82aeb2.jpg",
+        "https://media.rawg.io/media/screenshots/947/9470cebceee642f120ffe1ecb8ae44f2.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Bloodstained Ritual (Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d0241c04-6214-4265-ad92-044470060737",
+      "title": "Bloomtown: A Different Story",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/9a9/9a9020d6609590d88d93879d120512f6.jpg",
+      "description": "Bloomtown: A Different Story is a narrative JRPG mixing turn-based combat, monster taming and social RPG set in a seemingly pleasant 1960s Americana world.  Play as Emily and her younger brother Chester sent on their summer holiday to their grandpa’s cozy and quiet town. May be too quiet… Children starting to disappear, nightmares getting more real… Something’s not right, especially for a 12-year-old girl with an adventurous mind! It is up to you to solve this mystery and free Bloomtown and its ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/76c/76cca6ba4d4bce043da5ad785cf8cdad.jpg",
+        "https://media.rawg.io/media/screenshots/b8a/b8a47504a1e0df1f7726b8983c352560.jpg",
+        "https://media.rawg.io/media/screenshots/a5f/a5f97f415dc17e4925b3997f0ce8435e.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Bloomtown: A Different Story(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "179ccdeb-103d-43d7-bcfe-30ac9cc9bd99",
+      "title": "Blossom Tales II: The Minotaur Prince",
+      "tags": "Zelda like",
+      "cover": "https://media.rawg.io/media/screenshots/fd8/fd8b2a8ff424c63a9195e7f5b1879708.jpg",
+      "description": "More from Playtonic Friends\nThe soundtrack is available now on Bandcamp\nBlossom Tales: The Sleeping Kinghttps://store.steampowered.com/app/446810/Blossom_Tales_The_Sleeping_King/\nAbout the GameThe Minotaur King has returned...and it's all your fault! Lily's back for a new \"classic\" action-adventure set hundreds of years after The Sleeping King!\n\nGrandpa's latest tale takes you on a journey through haunted forests, pirate shores, and other mysterious lands across a vast open-world! Charming towns...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/eba/eba6934565e5d7a3b25429b7c1c3dee8.jpg",
+        "https://media.rawg.io/media/screenshots/cb5/cb52d9f07861203531f57f881d121f77.jpg",
+        "https://media.rawg.io/media/screenshots/b32/b32f332282be7f7f8a1641d1952529bf.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Blossom Tales II: The Minotaur Prince(Zelda like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "81bbaca9-e1e0-4271-bab0-d9bb75f240f6",
+      "title": "Blossom Tales: The Sleeping King",
+      "tags": "Zelda like",
+      "cover": "https://media.rawg.io/media/screenshots/99f/99fa11211c64d849ba9d1f03ba0bd9da.jpg",
+      "description": "About the game:Explore a vast open game world in classic action-adventure fashion as Lily, Knight of the Rose! Slash your way through monster-infested dungeons to save the Kingdom of Blossom from eternal darkness. Collect unique weapons, spells, and more during your journey to take down powerful bosses and solve clever puzzles.\nBe part of a vivid, dynamic story passed down from grandfather to grandchildren by influencing the course of events yourself!Features:15+ hours of gameplay\nHuge, diverse ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e12/e124cdbdfc26ef2676979625fd44bc77.jpg",
+        "https://media.rawg.io/media/screenshots/88e/88ed11cf31d2b30f7995957fa571382c.jpg",
+        "https://media.rawg.io/media/screenshots/a1a/a1a1a2e83efd473a1d7dc1c66cfd9b76.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Blossom Tales: The Sleeping King(Zelda like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1a8e79cd-492b-4f21-9e7c-41b1e4ae4881",
+      "title": "BLUE REFLECTION: Second Light",
+      "tags": "J Rpg",
+      "cover": "https://media.rawg.io/media/games/624/62467eb1e6bba1d6d3b098a96dd4153e.jpg",
+      "description": "Early-purchase Bonus- Summer Bikini - Costume for Ao\nNote: Until November 22nd, 2021, this item is included as an Early-purchase Bonus.\nNote: This content might be purchasable in the future.\nBLUE REFLECTION: Second Light Digital Deluxe Edition\nSet Content\n●BLUE REFLECTION: Second Light\n●Hoshinomiya Extreme Makeover Swimsuit - Costume Set\nThe popular costume from the previous game is back!\nA Hoshinomiya Extreme Makeover Swimsuit costume is added for Kokoro, Rena, Yuki, Shiho, Hinako, Kirara, Hior...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9fa/9fa56411f1f4dcdcb3e6907eb7d47021.jpg",
+        "https://media.rawg.io/media/screenshots/61b/61b0b7b45f5ae441406d960d5816d0ec.jpg",
+        "https://media.rawg.io/media/screenshots/4e1/4e1c3037645711010799588cfb1b4ede.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "BLUE REFLECTION: Second Light(J Rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a255bbcb-a913-4106-a7cb-b534136b5689",
+      "title": "Bo: Path of the Teal Lotus",
+      "tags": "Metroidvânia",
+      "cover": "https://media.rawg.io/media/screenshots/414/414db4ecf8deeb5b5bcdbc15cc82a7e0.jpg",
+      "description": "Bō: Path of the Teal Lotus is a hand-drawn 2D Metroidvania platformer based in a colorful world of Japanese folklore. Use your legendary bō staff to bounce and move fluidly through a delightfully-demonic East Asian fever dream. Use the tight movement and reset system to reach areas efficiently and gracefully or recover chaotically while floundering for footing.\nA familiar 2D side-scrolling action platformer that merges classic hand-drawn animation and scenery with new atmospheric bells and whist...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b83/b837bc4809a21e33410596c9666a1185.jpg",
+        "https://media.rawg.io/media/screenshots/162/1625fea679f0e4c7306c2658cbce2107.jpg",
+        "https://media.rawg.io/media/screenshots/fa7/fa74896e7bd1b497bd867fb4cb52f250.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Bo: Path of the Teal Lotus(Metroidvânia)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "325110a5-f0b5-4fcc-a3d2-4da79feb6fd0",
+      "title": "Bomb Rush Cyberfunk",
+      "tags": "Jetsetradio like",
+      "cover": "https://media.rawg.io/media/games/ca7/ca7ca88681ad87eccd12e2acc65a2f6d.jpg",
+      "description": "Team Reptile brings you Bomb Rush Cyberfunk, 1 second per second of highly advanced funkstyle. In a world from the mind of Dion Koster, where self-styled crews are equipped with personal boostpacks, new heights of graffiti are reached. Start your own cypher and dance, paint, trick, face off with the cops and stake your claim to the extrusions and cavities of a sprawling metropolis in an alternate future set to the musical brainwaves of Hideki Naganuma.\n\nFacts:\n- In the game you can choose a c...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d1b/d1b34773a00141a80d0e5ff424641f52.jpg",
+        "https://media.rawg.io/media/screenshots/c58/c58d8ba2034214cad497f9040f863a63.jpg",
+        "https://media.rawg.io/media/screenshots/9bb/9bb419a676fc4371894b60a97742a90b.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Bomb Rush Cyberfunk(Jetsetradio like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "de9a9f2c-6f58-47ed-aa18-bb458da7b7c6",
+      "title": "Boomerang fu",
+      "tags": "Party game",
+      "cover": "https://media.rawg.io/media/screenshots/8d8/8d84c9b411822404205342f53fb98285.jpg",
+      "description": "Every round of Boomerang Fu high-stakes showdown with one-hit kills and bouncy boomerang physics. Transform your character from a startled banana into an unstoppable killing machine with persistent powerups like wildfire, ice trails, disguises, telekinesis and more. Powerups stack together between rounds to form dangerous combinations that could turn the tide of battle of backfire hilariously.\nEach match of Boomerang Fu can be a finely-balanced ballet of blades or a comedy of errors. Simple cont...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e95/e95b7e0752ed88f8b3e67af398d795e3.jpg",
+        "https://media.rawg.io/media/screenshots/b3c/b3c2c0f338990736bcf1c6854aac916e.jpg",
+        "https://media.rawg.io/media/screenshots/7ae/7ae152c9f10eb9773bf4c60aa47df58b.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Boomerang fu(Party game)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cfb118ee-ff2e-4185-b34e-2ec427a97302",
+      "title": "Borderlands 3",
+      "tags": "Tiro e rpg",
+      "cover": "https://media.rawg.io/media/games/9f1/9f1891779cb20f44de93cef33b067e50.jpg",
+      "description": "MAYHEM IS COMING\nThe original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.\n\nA MAYHEM-FUELED THRILL RIDE\nStop the fanatical Calypso Twins from uniting the bandit clans and claiming the galaxy’s ultimate power.\n\nYOUR VAULT HUNTER, YOUR PLAYSTYLE...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/85f/85fa0742541492cb4b2562311d455918.jpg",
+        "https://media.rawg.io/media/screenshots/1b6/1b6159bbc9e33c29cfd47cac82322b48.jpg",
+        "https://media.rawg.io/media/screenshots/825/8255610d24155b27576155b21eda167d.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Borderlands 3(Tiro e rpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3ef33051-ee47-417a-8fff-cecba86d699d",
+      "title": "Born of bread",
+      "tags": "Paper Mario like",
+      "cover": "https://media.rawg.io/media/screenshots/b34/b34dda4edec3184935c14a1bab3c129c.jpg",
+      "description": "Born Of Bread - Baker Edition\nAbout the GameBeings from another age are causing havoc across the land! And with their mischief comes a great threat to everyone. The unlikeliest hero, a golem born of bread, will find himself and his newfound buddies in the middle of a drama that's thousands of years in the making. Together, they will visit incredible locals and meet fascinating characters. Although he may not look like much, Loaf might be the hero this land kneads.A Sentient Bread on a Quest\nPlay...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8d5/8d5d5950f844c1d2553600b066c0b7f3.jpg",
+        "https://media.rawg.io/media/screenshots/d44/d44fab9f70dfe46c5a0486580cfd4833.jpg",
+        "https://media.rawg.io/media/screenshots/092/092e52d7f0d07842c4d7f416ad2d6a38.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Born of bread(Paper Mario like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "21ce8ef1-e867-4047-ab8f-6346d354b59f",
+      "title": "Boti: Byteland Overclocked",
+      "tags": "plataforma 3d",
+      "cover": "https://media.rawg.io/media/screenshots/670/6708ba7b5ec6d746f6f0770304f0027a.jpg",
+      "description": "Check out our next big game!https://store.steampowered.com/app/1227650\nAbout the Game\nBoti: Byteland Overclocked combines classic 3D platforming with a splash of innovation. Double jump, dash, hover, and glide through vibrant levels, discovering fantastic combos inspired by the very essence of computers and technology.\nEnjoy the pure delight of gaming together in our drop-in, drop-out co-operative mode. Bond with a friend on your quest to save Byteland, with the gameplay seamlessly adapting betw...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e40/e40e080058e3d1ed7f80e744b2319511.jpg",
+        "https://media.rawg.io/media/screenshots/294/294184543953e0d6b98b0080ac92d9bf.jpg",
+        "https://media.rawg.io/media/screenshots/723/72332e53a516279b69788492ae3dbff0.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Boti: Byteland Overclocked(plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d29d3388-6cff-4f18-b128-85d35100d320",
+      "title": "Braid",
+      "tags": "puzzle",
+      "cover": "https://media.rawg.io/media/games/a5a/a5abaa1b5cc1567b026fa3aa9fbd828e.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fc6/fc6629f5ce1e1ddd44647a44fa73df3b.jpg",
+        "https://media.rawg.io/media/screenshots/4b4/4b4d4367723293933c2135870b616e0e.jpg",
+        "https://media.rawg.io/media/screenshots/da0/da0ec8e9366b7a7d324a757c235e4d3f.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Braid(puzzle)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2b0779c7-4fa4-460a-af54-19d86bef67dc",
+      "title": "Bramble: The Mountain King",
+      "tags": "little nightmare like",
+      "cover": "https://media.rawg.io/media/games/d1f/d1f058e4c29abbfbb2ce16c08f626e62.jpg",
+      "description": "“I felt I was face to face with nature, and I've never felt so small.”\n\nLetter from John to an unknown friend, 4th January 1902.\n\nThe tale of a young boy’s journey through a mythical land, to find his sister, and overcome his fears.\n\nSet in a world inspired by Nordic folklore, Bramble takes you on an adventure filled with atmospheric environments, mythical beings, and giant bosses.\n\nKey Features:\n\nTraverse the treacherous land of Bramble on an emotional journey to find your sister, all while unc...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/007/007528af3ccea3ce73513f0748790a62.jpg",
+        "https://media.rawg.io/media/screenshots/73c/73c7abd8b130186b1af60937abc680f4.jpg",
+        "https://media.rawg.io/media/screenshots/620/62039d87bdaa8a60d7194a668d3fe26c.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Bramble: The Mountain King(little nightmare like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5ceda20e-c4b9-4573-bccd-b42857b7812f",
+      "title": "Bravely Default II",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/games/387/38752d648614599896ea113ce4a95753.jpg",
+      "description": "An original RPG experience is coming to Nintendo Switch in 2020 from the team that brought you the Bravely series and Octopath Traveler, and featuring music from Revo, acclaimed composer of the original Bravely Default soundtrack.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9d3/9d3c9bf37cc682e55b705b09027dad23.jpg",
+        "https://media.rawg.io/media/screenshots/e96/e966633b43be2a184a92f3d4e67792cc.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Bravely Default II(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1e398cbb-0592-4a78-a802-70d5dc37a206",
+      "title": "Bright Memory: Infinite",
+      "tags": "Fps",
+      "cover": "https://media.rawg.io/media/games/137/137fea1c90714b6b65d81a0258ec2fa6.jpg",
+      "description": "Infinite is an all-new lightning-fast fusion of the FPS and action genres, created by FYQD-Studio. Combine a wide variety of skills and abilities to unleash dazzling combo attacks.\nBright Memory: Infinite is set in a sprawling, futuristic metropolis in the year 2036. A strange phenomenon for which scientists can find no explanation has occurred in the skies around the world. The Supernatural Science Research Organization (SRO) has sent agents out to various regions to investigate this phenomenon...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/eb4/eb4b7394365b6c45cfbf9b939f7b181c.jpg",
+        "https://media.rawg.io/media/screenshots/564/564276934196c7dbd557a4adaafa7394.jpg",
+        "https://media.rawg.io/media/screenshots/03d/03d1f36b4d7dabb307a341a644af1e1f.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Bright Memory: Infinite(Fps)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "6e961277-ee12-47ab-acb1-cdaad69e29f9",
+      "title": "Broforce Forever",
+      "tags": "Run and Gun",
+      "cover": "https://media.rawg.io/media/games/9cc/9cc11e2e81403186c7fa9c00c143d6e4.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a68/a6822dae89f3cfc88983b99bec09dd25.jpg",
+        "https://media.rawg.io/media/screenshots/ee1/ee1b4c2acb3eaa6cb5e58254bb1915cb.jpg",
+        "https://media.rawg.io/media/screenshots/2b4/2b4c0c7b24a5bff56d3e1f204422efdb.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Broforce Forever(Run and Gun)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a853afd3-6afd-4503-b6ec-3d6e307dd352",
+      "title": "Bubsy 4D",
+      "tags": "Plataforma 3d",
+      "genre": "Plataforma,Ação,Aventura",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Bubsy 4D(Plataforma 3d)",
+      "description": "Jogo de Nintendo Switch. Plataforma 3d",
+      "cover": "https://www.nintendo-town.fr/wp-content/uploads/2025/08/Bubsy-4D.jpg",
+      "images": [
+        "https://nintendoeverything.com/wp-content/uploads/Bubsy-4D.jpg"
+      ]
+    },
+    {
+      "id": "54df56fd-990e-452f-b2d3-7120598481a3",
+      "title": "Bubsy in: The Purrfect Collection",
+      "tags": "Plataforma 2d",
+      "genre": "Plataforma,Ação,Aventura",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Bubsy in: The Purrfect Collection(Plataforma 2d)",
+      "description": "Is Bubsy a celebrated icon from the mascot wars of the early 90s or a platforming punchline? The team at Limited Run Games has built a new collection to find the answer. Bubsy in: The Purrfect Collection explores the franchise's troubled history and enduring popularity. Bubsy in: The Purrfect Collection is a playable history that includes games, artifacts and interviews. All of the games have been carefully updated for modern platforms using Limited Run’s proprietary Carbon Engine. At the helm o...",
+      "cover": "https://media.rawg.io/media/screenshots/932/9329510abad719f84fe735e3c838cdb1.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b78/b780eca87622a1e03f9c29c6b1f1c6e6.jpg",
+        "https://media.rawg.io/media/screenshots/859/859c3855825e1252d91387a3ffd3196c.jpg"
+      ]
+    },
+    {
+      "id": "15e951b9-04bd-4e3b-a55e-352b79c094ba",
+      "title": "Bug Fables: The Everlasting Sapling",
+      "tags": "Paper Mario like",
+      "cover": "https://media.rawg.io/media/screenshots/d70/d70c066f7edc94144647636e24d77497.jpg",
+      "description": "Bug Fables: The Everlasting Sapling is an Adventure RPG following three heroes, Vi, Kabbu, and Leif, as they embark on an epic quest in Bugaria in search of The Everlasting Sapling, a treasure that can grant immortality! The game combines colorful platforming with the heroes' unique abilities as they explore a wide variety of areas in the kingdom. The turn-based battles make use of Action Commands that can power up your attacks!\nSTORY\nHidden within the foliage of nature lies a small but prospero...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/64d/64d757ea8dd6715a2ed372036d5b3b6f.jpg",
+        "https://media.rawg.io/media/screenshots/9bd/9bddd72a21ea10507f9a50b515c7e35d.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Bug Fables: The Everlasting Sapling(Paper Mario like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f321a1b8-355c-4231-aea0-157ce442e8d0",
+      "title": "Burnout Paradise",
+      "tags": "Corrida",
+      "cover": "https://media.rawg.io/media/games/788/788b80cbc8c39167f7ed6dd89fd398dc.jpg",
+      "description": "Jogo de Nintendo Switch. Corrida",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1d5/1d5fcca9dc9cd318780c711c9e24514d.jpg",
+        "https://media.rawg.io/media/screenshots/561/56109e7e84df564813303265793468f4.jpg",
+        "https://media.rawg.io/media/screenshots/b54/b547d5f27f2f1362d6c0c814c4c0fff9.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Burnout Paradise(Corrida)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fa1a224a-93ac-46ff-8e08-027acf7f380e",
+      "title": "Bzzzt",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/bbd/bbd0c68bc8169f0bb9134cc0e01539c2.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3eb/3eb1226956ccc3b8bf382367e10b7c99.jpg",
+        "https://media.rawg.io/media/screenshots/d65/d65e1477d32453f41b63a615cdc302e1.jpg",
+        "https://media.rawg.io/media/screenshots/819/81907cfde22fefa3421bedfcbc4b1814.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Bzzzt (plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "096a0d12-51a0-49e8-8429-569ba89430bd",
+      "title": "Cadence of hyrule",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/games/f67/f678872fd89487324cf1267cd2adba96.jpg",
+      "description": "As Link—or even as Princess Zelda—you’ll explore the randomly generated overworld and dungeons on a quest to save Hyrule. Every beat of each remixed, The Legend of Zelda tune is a chance to move, attack, defend, and more, so stay one step ahead of each enemy and boss…or face the music.\n\nFrom modern-looking Lynels to the Hyrulean Soldiers of old, you must master the instinctive movements of each pixel-art enemy, and strategically outstep them in rhythmic combat. So equip yourself with an arsenal ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/30e/30e33f657bbb7e9637d49f33e0c912db.jpg",
+        "https://media.rawg.io/media/screenshots/5e3/5e36d3b742e363e95db3106f31e39c09.jpg",
+        "https://media.rawg.io/media/screenshots/d43/d43b92e722c2e71fc8b8d25b9294feb1.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Cadence of hyrule(Ritmo)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "bf9ba44b-f728-4c89-982c-2eec2b600ee9",
+      "title": "Capcom Fighting Collection",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/bd6/bd66f0703cc2c778c02c087119e200e6.jpg",
+      "description": "Capcom Fighting Collection features legends from Capcom's competitive arcade gaming history, faithfully reproduced to play just like they did back in the arcades!\nThe Collection includes additional settings to improve your at-home experience, and also supports online multiplayer, so you can battle friends and opponents across the world from the comfort of your own room!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7db/7dba8b326686984c8f1783d109511036.jpg",
+        "https://media.rawg.io/media/screenshots/488/4889e419015027da951cf80cb6435b29.jpg",
+        "https://media.rawg.io/media/screenshots/ef0/ef097c9c5e499296c5ad2276c751f403.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Capcom Fighting Collection",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8e076d7c-82f7-462a-9ca2-66a603539839",
+      "title": "Capcom Fighting Collection 2",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/b93/b938f345b3cd0ea41c7ecaaad75fcfec.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/454/454521a59fa6a8cd91b2cc11900a4cdc.jpg",
+        "https://media.rawg.io/media/screenshots/087/087737d3079fdbcb4ecd792f5950d182.jpg",
+        "https://media.rawg.io/media/screenshots/578/57870a20570dc657e7bfe883850ed779.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Capcom Fighting Collection 2",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "66aa7148-7314-4323-b305-339767dfcc5a",
+      "title": "Captain Toad: Treasure Tracker",
+      "tags": "Puzzle",
+      "cover": "https://media.rawg.io/media/games/56f/56f074a9deb83de61434c5498ab86b27.jpeg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/619/619e05195c48ac02ced5cfb171a9e516.jpg",
+        "https://media.rawg.io/media/screenshots/2f5/2f593c8d70adc4c3e53ead7e9bd42930.jpeg",
+        "https://media.rawg.io/media/screenshots/33b/33b7e246115c3060e204bd14e1de64d0.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Captain Toad: Treasure Tracker(Puzzle)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "5c3d3f83-f3b6-4548-8634-afbc8a3224fe",
+      "title": "Captain Tsubasa: Rise of New Champions",
+      "tags": "Futebol",
+      "cover": "https://media.rawg.io/media/games/338/338b02e34dd8d8c83e8d950c2081e3e2.jpg",
+      "description": "Captain Tsubasa: Rise of New Champions, based on the globally beloved anime series, is an action soccer game featuring the latest graphics and super plays anyone can enjoy.\nGet a real taste for the world of Captain Tsubasa through two story modes! To savor the drama alongside the action in Captain Tsubasa, we've prepared Episode: Tsubasa, a story mode where you can experience the events as seen in the anime. Additionally, become a part of the world of Captain Tsubasa, as you play through Episode...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ef1/ef1996cc0866e5a343ea6b4b4da77f1c.jpg",
+        "https://media.rawg.io/media/screenshots/796/7966424f8c271fc74fb95b6915fcba6a.jpg",
+        "https://media.rawg.io/media/screenshots/3bd/3bd93946b6731801efad402865e58af3.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Captain Tsubasa: Rise of New Champions(Futebol)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e60264f4-1c5b-46a4-bce9-be2e1a0650ac",
+      "title": "Card Shark",
+      "tags": "trapaça de carta",
+      "cover": "https://media.rawg.io/media/games/c92/c92dfd4ae234a19f7c010020c28e4ffb.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 11 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/59d/59d6266f28106272a81a14e435db3fde.jpg",
+        "https://media.rawg.io/media/screenshots/eb9/eb9f395923b70a12b8d3b779d853efc5.jpg",
+        "https://media.rawg.io/media/screenshots/27f/27f3bb6e729877424d7159e189a9f54a.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Card Shark",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ff806f6b-263c-40c5-bb42-67faca09e05b",
+      "title": "Card-en-ciel",
+      "tags": "megaman network like",
+      "cover": "https://media.rawg.io/media/screenshots/c76/c76fc237d7d0cb4aa7286a64670241ba.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ae7/ae773f3a939cfc8d39a41463e5161341.jpg",
+        "https://media.rawg.io/media/screenshots/d81/d81c75b3a81e7004055b0b04cf28b65d.jpg",
+        "https://media.rawg.io/media/screenshots/270/270875c0c7447aabf232e2eda26762f7.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Card-en-ciel(megaman network like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cf62f877-77e3-4acb-9d41-6f2f98244f83",
+      "title": "Cassette Beasts",
+      "tags": "Pokemon like",
+      "cover": "https://media.rawg.io/media/screenshots/5b8/5b8c210caff8f7328644eb5ed4fe761d.jpg",
+      "description": "Check out another Raw Fury RPG!https://store.steampowered.com/app/1658150/Moonstone_Island/\nAbout the Game\nAdventure. Battle. Transform.\nCollect awesome monsters to use during turn-based battles in this open-world RPG. Combine any two monster forms using Cassette Beasts’ Fusion System to create unique and powerful new ones!\nWelcome to New Wirral, a remote island inhabited by strange creatures you’ve only dreamed of, nightmares you hopefully haven’t, and a cast of brave folks who use cassette tap...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fc0/fc0e131da674fae1d74a53d7d300ec29.jpg",
+        "https://media.rawg.io/media/screenshots/a20/a20119facd21bd40fff866e589c2f447.jpg",
+        "https://media.rawg.io/media/screenshots/681/681ecc419b841abf65db2805741d03c9.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Cassette Beasts(Pokemon like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ece15599-55a1-45da-93ab-7a1be9ffdb92",
+      "title": "Castlevania Advance Collection",
+      "tags": "Coleção dos jogos de Gba",
+      "genre": "Metroidvânia",
+      "multiplayer": false,
+      "raw": "Castlevania Advance Collection(Coleção dos jogos de Gba)",
+      "description": "Join the fight against Evil in the Castlevania Advance Collection, a compilation of timeless action-exploration masterpieces!\n\nIn addition to the three legendary Castlevania games that were first released on Game Boy™ Advance, this collection also includes Castlevania: Dracula X and some never-before-seen sketches and artwork from the games!\n\nAll four games are enhanced with newly added modern features such as Rewind, Save/Load and Replay, making this the best way possible to experience these cl...",
+      "cover": "https://media.rawg.io/media/screenshots/5e6/5e6bbe68bd1f0a945c475b9ba20a3a5f.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/66a/66a1f47cbc34290bc181de1df2e9d89d.jpg",
+        "https://media.rawg.io/media/screenshots/b5d/b5d949fd835b5fbf3d6828c44ceb1008.jpg",
+        "https://media.rawg.io/media/screenshots/5e6/5e6bbe68bd1f0a945c475b9ba20a3a5f.jpg"
+      ],
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "44030baf-e3c5-4d46-b421-dcf91d98b8a6",
+      "title": "Castlevania Dominus Collection",
+      "tags": "Coleção dos castlevanias de nintendo Ds",
+      "cover": "https://media.rawg.io/media/screenshots/2d7/2d74d243f06e83e51905d444a1a95df3.jpg",
+      "description": "In addition to the three action adventure games from the Castlevania series, Haunted Castle Revisited, an redesigned version of the very first Castlevania arcade game, makes its debut! And you can also play it in its original format!\nExperience the world of Castlevania like never before, with never-before-seen art and handy new features such as rewind, quick saves and much more!\n- Titles\nCastlevania: Dawn of Sorrow\nThe adventures of Soma continue! Discover a completely new way to create countles...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e05/e05570b7685d3731270d9a594e1af4f6.jpg",
+        "https://media.rawg.io/media/screenshots/820/820c23d7636dfefedeef3c8ff6a5f90c.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Castlevania Dominus Collection(Coleção dos castlevanias de nintendo Ds)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2d8a24f4-2acd-4dd3-a7b5-5e0bbb80a2e0",
+      "title": "Castlevania Dominus Collection",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/f7b/f7bf7af66e5e5b32931dc57173a1e560.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2d7/2d74d243f06e83e51905d444a1a95df3.jpg",
+        "https://media.rawg.io/media/screenshots/e05/e05570b7685d3731270d9a594e1af4f6.jpg",
+        "https://media.rawg.io/media/screenshots/820/820c23d7636dfefedeef3c8ff6a5f90c.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Castlevania Dominus Collection",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cc14833b-46a9-4172-a70a-53acb3382dae",
+      "title": "Cat Quest III",
+      "tags": "Actionrpg",
+      "cover": "https://media.rawg.io/media/screenshots/f47/f47aa6ed9128c19c69bc403004c1062f.jpg",
+      "description": "Get whiskered away on a hearty catventure in Cat Quest III, the third installment in the award-winning Cat Quest series!\nPlay as a swashbuckling purrivateer in this 2.5D open-world action RPG set in a fantastical pirate-themed world – the Purribean - an archipelago swarming with Pi-rats searching for the Northern Star - a long-lost mythical treasure. Alongside your trusty spirit companion, set sail through the Purribean in your very own ship! But beware, the seas are dangerous, and a meow-tiny i...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a8e/a8e96c19d5312dd166e5a89fda348b91.jpg",
+        "https://media.rawg.io/media/screenshots/295/295d3e42bdde24dc3089da0d77a5f941.jpg",
+        "https://media.rawg.io/media/screenshots/ecb/ecb98499f4a4687d53dd039f8e9a5835.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Cat Quest III(Actionrpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b81c41cf-f122-495f-9c82-ae43f18ed581",
+      "title": "Celeste",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/594/59487800889ebac294c7c2c070d02356.jpg",
+      "description": "Celeste is a platformer about climbing a mountain, from the creators of TowerFall.\nExplore a sprawling mountain with over 500 levels bursting with secrets, across 8 unique areas. Unlock a hardcore Remix for each area, with completely new levels that will push your climbing skills to the limit.\nMadeline can air-dash and climb any surface to gain ground. Controls are simple and accessible, but super tight and expressive with layers of depth to master. Deaths are sudden and respawns are fast. You'l...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/587/5876e97af87c864b0d9cd19ca77568a5.jpg",
+        "https://media.rawg.io/media/screenshots/a1b/a1bb2c2268db77533c09e231bf032d9f.jpg",
+        "https://media.rawg.io/media/screenshots/031/031480a38e2e473baa13154acbbf4abc.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Celeste(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "130c7c60-dd3e-493d-ade6-b7797c1dd42f",
+      "title": "Chained Echoes",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/games/54a/54a8908159b95eda884e91463529192b.jpg",
+      "description": "Take up your sword, channel your magic or board your Mech. Chained Echoes is a 16-bit SNES style RPG set in a fantasy world where dragons are as common as piloted mechanical suits. Follow a group of heroes as they explore a land filled to the brim with charming characters, fantastic landscapes and vicious foes. Can you bring peace to a continent where war has been waged for generations and betrayal lurks around every corner?\nChained Echoes is a story-driven game where a group of heroes travel ar...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2b4/2b4a7418ee9e69adff69c52e8b2117fc.jpg",
+        "https://media.rawg.io/media/screenshots/c41/c419458b38ac18020e650a69b62e84d4.jpg",
+        "https://media.rawg.io/media/screenshots/226/226d9e55a30750a0f75f374f1ce4bd58.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Chained Echoes(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b5953cea-fff4-4281-97f0-1a94d6a98c4b",
+      "title": "Chocobo GP",
+      "tags": "Corrida",
+      "cover": "https://media.rawg.io/media/games/be9/be9b0616144a720603afdc8e72ab5f66.jpg",
+      "description": "Start your engines and get set for a new racing experience, featuring a roster of dozens of your favorite Chocobo characters, complete with their own unique abilities and variants. Equip Magicites and take out the competition as you drift through various familiar courses in online and offline multiplayer modes. Compete in tournaments and become the reigning champion of GP!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9d8/9d8b420ee5bdeeb470ad57e12147fd88.jpg",
+        "https://media.rawg.io/media/screenshots/3c2/3c24ecefa5e1481b02ead8e9685ba394.jpg",
+        "https://media.rawg.io/media/screenshots/6fa/6fad867e7b400cbb79ceaab6acebc1d1.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Chocobo GP(Corrida)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bdbb5aab-3b97-4cfb-892c-70df9da0acb0",
+      "title": "Chronicles of the wolf",
+      "tags": "metroidvania estilo castlevania clássico",
+      "cover": "https://media.rawg.io/media/screenshots/976/976c687974d23c90fe32756a064879a7.jpg",
+      "description": "The Beast is real—and it’s waiting for you.In Chronicles of the Wolf, you’ll play as Mateo Lombardo, the last apprentice of the Rose Cross Order, on a quest to hunt the infamous Beast of Gévaudan. This dark and thrilling platforming adventure blends fast-paced combat, challenging exploration, and deep storytelling, making it a must-play for fans of the genre.Explore vast castles, treacherous forests, and mysterious ruins, all teeming with danger and secrets. Talk to locals, collect powerful weap...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6ed/6ed6276c939ce188554cbd8685b59813.jpg",
+        "https://media.rawg.io/media/screenshots/445/4452bd70885d83466dcb0ef4c4479235.jpg",
+        "https://media.rawg.io/media/screenshots/d4b/d4b601706df4f01546e544e05e608313.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Chronicles of the wolf(metroidvania estilo castlevania clássico)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "97e4e61b-0e4d-4fee-9830-c2b60520812f",
+      "title": "Circuit Superstars",
+      "tags": "Corrida topdown",
+      "cover": "https://media.rawg.io/media/games/a65/a65db538f0f61f34407cbbfae49a7b69.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6ce/6ce8d63555e7235ed4c3442d52c5b15a.jpg",
+        "https://media.rawg.io/media/screenshots/aa7/aa725fa02c9506bef01011a9dedf6a21.jpg",
+        "https://media.rawg.io/media/screenshots/4fd/4fd60fb4765a7e3a8adb2bc66c94a19e.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Circuit Superstars",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "000d03dc-1c28-4c8f-b065-e7d374b7e1b4",
+      "title": "Clive 'N' Wrench",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/screenshots/f99/f990a3a20a8b2dce5fafd02424ea0337.jpg",
+      "description": "Clive 'N' Wrench is a 3D platformer centered around Clive, a rabbit, and Wrench, the literal monkey on his back. Your adventure will take you through time and space in a 1950's fridge, all on a quest to undo Clive's cousin Nancy's mistake and ultimately thwart the tyrannical Dr Daucus.\nClive 'N' Wrench features 11 distinct levels as well as boss battles and a hub world. Your adventure will take you all the way from the prehistoric ice age in Iceceratops, through ancient Egypt in Tempus Tombs and...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/457/45755de5e5d7ffa6fc96762ae98fb99e.jpg",
+        "https://media.rawg.io/media/screenshots/6a8/6a821c77b638714be34713f7b9adc825.jpg",
+        "https://media.rawg.io/media/screenshots/118/11808e3b00ed24c95132a9ab7a081e32.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Clive 'N' Wrench(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2d3232b8-4aec-43f6-ac83-14720e281afe",
+      "title": "Clubhouse Games: 51 Worldwide Classics",
+      "tags": "Jogos populares da vida real",
+      "cover": "https://media.rawg.io/media/screenshots/f3d/f3dc7c7dad81845a15764517fc5f767f.jpg",
+      "description": "Jogo de Nintendo Switch. Jogos populares da vida real",
+      "images": [
+        "https://media.rawg.io/media/screenshots/515/515412a29ad7e7f474d7d6357f881f75.jpg",
+        "https://media.rawg.io/media/screenshots/26a/26ad22d8c07eacf3e68793ea68ac02ae.jpg",
+        "https://media.rawg.io/media/screenshots/729/7296342456b8d846af1f2d64bafe9fa0.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Clubhouse Games: 51 Worldwide Classics(Jogos populares da vida real)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "658c9985-13a3-4dd7-960c-bd40ac2be669",
+      "title": "Cocoon",
+      "tags": "Puzzle",
+      "cover": "https://media.rawg.io/media/games/153/153e8d78ac19e959214dadefb8c27310.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/829/829957d7e23eda85709922650b91daa8.jpg",
+        "https://media.rawg.io/media/screenshots/ea7/ea7c84ddaca220716bac40aa90dd27f3.jpg",
+        "https://media.rawg.io/media/screenshots/76c/76c9bde826ce1180172f5f82d1a7437c.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Cocoon ( Puzzle)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c36e1746-c7e5-4ac1-8b6d-de610bcbcd05",
+      "title": "Coffee, Plis",
+      "tags": "Overcooked like",
+      "cover": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/software/switch/70010000072172/c9059cf4fbae20b7e1dce3d224596cb5fd7db5eb1120118b225df307167f2c7a",
+      "description": "Jogo de Nintendo Switch. Overcooked like",
+      "images": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/software/switch/70010000072172/c9059cf4fbae20b7e1dce3d224596cb5fd7db5eb1120118b225df307167f2c7a"
+      ],
+      "genre": "Party game",
+      "raw": "Coffee, Plis(Overcooked like)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "32968cd5-ebcd-40c3-99da-8a61abb73f01",
+      "title": "Collection of mana",
+      "tags": "JRpg de ação",
+      "cover": "https://media.rawg.io/media/games/ca2/ca2c65a551c73b99b2b928d2cc054c1f.jpg",
+      "description": "The long-awaited \"Trials of Mana\" is now available outside of Japan! Play all three games in the original Mana series!\n\nQuintessential JRPG series \"Collection of Mana\" is now on Nintendo Switch! Fall in love with the Mana series all over again, including the first-ever release of the action-packed third game in the trilogy: \"Trials of Mana\"!\n\nNotice:\nFinal Fantasy Adventure/Mystic Quest and Secret of Mana are playable in English, French and German.\nTrials of Mana is playable in English, French, ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a1d/a1d191c847ae4102b6cd838510b3c141.jpg",
+        "https://media.rawg.io/media/screenshots/303/303b7e757c60a0d566ccdbf8581722f8.jpg",
+        "https://media.rawg.io/media/screenshots/bdf/bdfa72b82cb34441355114908d89b94e.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Collection of mana(JRpg de ação)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e6a69fdb-174d-45b5-871a-4abd7253f72c",
+      "title": "Constance",
+      "tags": "Metroidvânia",
+      "genre": "Metroidvânia",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Constance(Metroidvânia)",
+      "description": "Jogo de Nintendo Switch. Metroidvânia",
+      "cover": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/constance/16x9_Constance_image1600w.jpg",
+      "images": [
+        "https://nintendoeverything.com/wp-content/uploads/Constance.jpg"
+      ]
+    },
+    {
+      "id": "b6e21bbe-d6a2-4e08-a775-2b1501d9d730",
+      "title": "Contra: Operation Galuga",
+      "tags": "Run and Gun",
+      "cover": "https://media.rawg.io/media/screenshots/4d8/4d8c5bbeb392f708601f179b8ec2d01e.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4d8/4d8c5bbeb392f708601f179b8ec2d01e.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Contra: Operation Galuga(Run and Gun)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "6ea7c129-cd5d-4852-a145-06edba35d94b",
+      "title": "CONVERGENCE: A League of Legends Story",
+      "tags": "plataforma",
+      "cover": "https://media.rawg.io/media/games/f3f/f3faac7c2ab5217a265f0356a64c08b8.jpeg",
+      "description": "Explore and traverse through the spectacular city of Zaun as Ekko, a young inventor with an ingenious device to manipulate time, in this story-driven action platformer. Play as a young Ekko and realize the full potential of one of League's fan-favorite Champions.\nDiscover different environments with parkour-style traversal while you level up a variety of combat and time abilities to defeat a wide range of enemies in Zaun.\nDeveloped by Double Stallion Games, CONV/RGENCE: A League Of Legends Story...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ecd/ecd47093cbbda4246c2da3d34a0beaa5.jpg",
+        "https://media.rawg.io/media/screenshots/48a/48ad186ae4f4192644bea99649179373.jpg",
+        "https://media.rawg.io/media/screenshots/53c/53c97f4a24791c661f274467a6f1fa3b.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "CONVERGENCE: A League of Legends Story(plataforma)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "eda64e06-340a-46fa-a488-ed5510521e0a",
+      "title": "Cookie cutter",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/73b/73bd2acedd005db0fe319ea08ea33849.jpg",
+      "description": "The Void. The Matter. The Megastructure. A dystopian world with an egomaniac leader determined to unveil the secrets of the universe. INFONET promised a utopia built on the backs of tireless androids called Denzels. It was a lie.\n200 years later the planet is decaying and the mysterious Red Seed has been stolen. Raz, a renegade mechanic, searches a hidden lab and discovers the Denzel Cherry, butchered and left for dead, clinging to life by sheer will alone. Her creator—and the love of her life, ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/09e/09e1d77092e9564d658f426e484ec881.jpg",
+        "https://media.rawg.io/media/screenshots/6c2/6c2c25410e3cb48c4734b42a237f36d6.jpg",
+        "https://media.rawg.io/media/screenshots/cbd/cbd6cce9bec96180f5ed1997e2e672af.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Cookie cutter(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9b56b8e9-8bac-4155-9b3c-d261d2bff644",
+      "title": "Coromon",
+      "tags": "Pokémon like",
+      "cover": "https://media.rawg.io/media/games/026/026672d37f949c9e763bfeffc4873f7d.jpg",
+      "description": "Coromon is a modern monster taming game with retro pixelart. Coromon brings an immersive storyline, strategic turn-based combat and challenging puzzles to a classic genre.\nUse powerful moves to take down your opponent's Squad. Use your skills to poison, stun or damage your opponent with an arsenal of available skills.\nIn the region of Velua where Humans and Coromon live in harmony, a shady organization is on the verge of releasing a dark power upon the world. Will they succeed in their evil plan...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/637/6371323775bbabf812210fe206f0a8f4.jpg",
+        "https://media.rawg.io/media/screenshots/30f/30f801e8fc4a6b26428d1b641234179c.jpg",
+        "https://media.rawg.io/media/screenshots/2ee/2eec5c3f4e8028720a0a75c4d065698c.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Coromon(Pokémon like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5d6257e1-e2e3-48de-8312-8290ab664e8e",
+      "title": "Crash Bandicoot 4: It’s About Time",
+      "tags": "Plataforma",
+      "cover": "https://media.rawg.io/media/games/54a/54a14917b3298bbaacdf9873c3af7229.jpg",
+      "description": "Neo Cortex and N. Tropy are back at it again and launching an all-out assault on not just this universe, but the entire multiverse! Crash and Coco are here to save the day by reuniting the Four Quantum masks and bending the rules of reality.\n\nNew abilities? Check. More playable characters? Yep. Alternate dimensions? Obviously. Ridonkulous bosses? For sure. Same awesome sauce? You bet your sweet jorts. Wait, are they actually jorts? Not in this universe!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/67f/67f619e805070fa69c8fdbf468a45613_66jPqQY.jpg",
+        "https://media.rawg.io/media/screenshots/0d7/0d79fd0e1ebaa3e684f0cdf8571254fa.jpg",
+        "https://media.rawg.io/media/screenshots/a03/a0360ac50184ddffa1b07751dbe637ee.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Crash Bandicoot 4: It’s About Time(Plataforma)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "06445146-9e3a-4ff3-8603-2cafbb9511b0",
+      "title": "Crash Bandicoot N. Sane Trilogy",
+      "tags": "Plataforma",
+      "cover": "https://media.rawg.io/media/games/444/4440f674e2bcb257e249a9ab595d8ab6.jpg",
+      "description": "Your favorite marsupial, Crash Bandicoot™, is back! He’s enhanced, entranced and ready-to-dance with the N. Sane Trilogy game collection. Now you can experience Crash Bandicoot like never before. Spin, jump, wump and repeat as you take on the epic challenges and adventures through the three games that started it all, Crash Bandicoot™, Crash Bandicoot™ 2: Cortex Strikes Back and Crash Bandicoot™ 3: Warped. Relive all your favorite Crash moments in their fully-remastered graphical glory and get re...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c91/c91deccffd3abb83a2c79355d70197df.jpg",
+        "https://media.rawg.io/media/screenshots/090/090e44964c438ee080a9ee9e5cbb9256.jpg",
+        "https://media.rawg.io/media/screenshots/cc9/cc9ed6bf47047d04fbcfd2fb89572628.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Crash Bandicoot N. Sane Trilogy(Plataforma)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "daa91bb5-0369-485f-8626-69f5081bd069",
+      "title": "Crash Team Racing Nitro-Fueled",
+      "tags": "Corrida",
+      "cover": "https://media.rawg.io/media/games/b2c/b2c0cc14e80cfd38be0f2b2ccd4d6db5.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 12 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ba0/ba0b553a2013af2ef76f5fb4f62a0a42.jpg",
+        "https://media.rawg.io/media/screenshots/88f/88f5ffbbd711160fc41f764adc2cbd8a.jpg",
+        "https://media.rawg.io/media/screenshots/acd/acd35356d58b0ea118ac4684d27819b3.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Crash Team Racing Nitro-Fueled(Corrida)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "60d570ba-06c8-4dc7-a4db-84f8a732db1b",
+      "title": "Crisis Core: Final Fantasy VII Reunion",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/games/f6c/f6cfffdb246351c35b6f07a8bcf6e748.jpg",
+      "description": "His legacy, gave life to FINAL FANTASY VII──\n\nSince its original release in 2007, CRISIS CORE –FINAL FANTASY VII– has received wide acclaim for its deep and emotional story.\n\nThis new version enhances the graphics to HD and updates all of the 3D models in the game. Full voiceovers and new music arrangements present this epic tale of strife and heroism, presenting FINAL FANTASY VII in a brand-new light. Enjoy a more beautiful and accessible CRISIS CORE, going way beyond just a simple HD remaster.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/665/665497458f27a97b32491a8f738ae746.jpg",
+        "https://media.rawg.io/media/screenshots/376/376ab5b89fe239903a075ef23348a184.jpg",
+        "https://media.rawg.io/media/screenshots/8ba/8ba0e54c1e35ed3fdcf9e8e05a417c2a.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Crisis Core: Final Fantasy VII Reunion(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b2af91df-8809-4a06-9871-ba5f45d97b59",
+      "title": "Croc: Legend of the Gobbos",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/screenshots/014/0145c48b5fb97f54827f6c066555da77.jpg",
+      "description": "Jogo de Nintendo Switch. Plataforma 3d",
+      "images": [
+        "https://media.rawg.io/media/screenshots/19d/19d561b9409ee6f80cd237e70dcd6d06.jpg",
+        "https://media.rawg.io/media/screenshots/554/5543e5d79191a822aa6cadcd2371aeb6.jpg",
+        "https://media.rawg.io/media/screenshots/5d8/5d880a8616f61889fea188a36da22a00.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Croc: Legend of the Gobbos(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "eeed8b35-b1ae-445c-ace5-baefd15fb0f5",
+      "title": "CrossCode",
+      "tags": "ActionRpg",
+      "cover": "https://media.rawg.io/media/screenshots/cd6/cd6825467cb0f6a478a016b242d5d247.jpg",
+      "description": "This retro-inspired 2D Action RPG might outright surprise you. CrossCode combines 16-bit SNES-style graphics with butter-smooth physics, a fast-paced combat system, and engaging puzzle mechanics, served with a gripping sci-fi story.\nCrossCode is all about how it plays! That's why there is a free Steam demo! Go give it a try!\nTake the best out of two popular genres, find a good balance between them and make a great game. That’s what CrossCode does. And it works pretty well. You get the puzzles of...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/832/832a01d5c827a2a0961a975a2c413cfb.jpg",
+        "https://media.rawg.io/media/screenshots/9a5/9a52b16c321c44e94d632a08d570cacd.jpg",
+        "https://media.rawg.io/media/screenshots/367/367a3cfb559c616684fdd2ebafa178ac.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "CrossCode(ActionRpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5c6ee598-799f-4829-aef5-232d56014283",
+      "title": "Cruis'n Blast",
+      "tags": "corrida",
+      "cover": "https://media.rawg.io/media/screenshots/993/9938aeb620b0db8885b591a2c8d43c21.jpg",
+      "description": "Cruis'n Blast, developed by the crack Raw Thrills studio team, takes Cruis'n into the new millennium as players zoom 200 mph through the bustle of London, blast through the exotic wonders of Madagascar, celebrate Carnival in Rio, amaze to the hi tech splendor of Singapore, and drive an earth-shaking thriller through Death Valley.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b47/b477d12242fd44a878b66d7e01d3d43e.jpg",
+        "https://media.rawg.io/media/screenshots/1c3/1c3a7f13c62d03ef48fd0e3864b15980.jpg",
+        "https://media.rawg.io/media/screenshots/8b6/8b64a86ae25fe98bfa110bbb0b5fa3f4.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Cruis'n Blast(corrida)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "68b05c9a-8daa-4706-9ace-73f6700d7de8",
+      "title": "Crypt custodian",
+      "tags": "metroidvania top-down",
+      "cover": "https://media.rawg.io/media/screenshots/f31/f3135eded451ce9172367505ea1b91cc.jpg",
+      "description": "Crypt Custodian is a charming metroidvania about cleaning up the afterlife. Play as Pluto- a mischievous cat who has died, and is sentenced to be the afterworlds janitor... FOREVER! Hang out with other doomed ghosts, battle beasts, and explore a vastly expansive landscape.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/147/147aa31a68509e289d47ad2d1458209b.jpg",
+        "https://media.rawg.io/media/screenshots/cb3/cb365e5980c0998f826443a6855526bf.jpg",
+        "https://media.rawg.io/media/screenshots/983/98304bd25256d7707bd2463c010be9b0.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Crypt custodian(metroidvania top-down)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4685808f-7cb9-47e4-b669-1b5a2ffbabe8",
+      "title": "Crysis 2 Remastered",
+      "tags": "FPS",
+      "cover": "https://media.rawg.io/media/games/2d1/2d1b75e2191c3c10375cac2e6d490cfa.jpg",
+      "description": "Aliens have returned to a world ravaged by climate disasters. As the invaders lay waste to New York and begin an assault that threatens the total annihilation of humankind, only you have the technology to lead the fightback. Equipped with the upgraded Nanosuit 2.0, customize your suit and weapons in real-time and unlock powerful abilities in the battle for humanity's survival.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d4f/d4f5ca91fc9b934b99c37beda43739b6.jpg",
+        "https://media.rawg.io/media/screenshots/9db/9dbc76de3487f62d916f2dc5565b8765.jpg",
+        "https://media.rawg.io/media/screenshots/7ac/7acec9c92c3647fac6587a3c7bdeb461.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Crysis 2 Remastered(FPS)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3133abe9-de5a-4114-aa74-c756fd280fe7",
+      "title": "Crysis 3 Remastered",
+      "tags": "FPS",
+      "cover": "https://media.rawg.io/media/games/08e/08e30af061660c229d7480325fdf5f07.jpg",
+      "description": "New York City has been transformed into a sprawling urban rainforest sheltered by a giant nanodome. Prophet must fight through seven distinct districts against human and alien forces, using the Nanosuit's superior technology to deploy brute force or opting for stealth to achieve his goals. Equipped with a deadly Predator Bow, there's no wrong way to save the world.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/52f/52f4fe35c9d475f70f36285df26fa414.jpg",
+        "https://media.rawg.io/media/screenshots/149/149797646e1152d79b77a52c9ebadf71.jpg",
+        "https://media.rawg.io/media/screenshots/1fc/1fc76de13c98b66c16158b57c34ab767.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Crysis 3 Remastered(FPS)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "580ca117-8a37-4c7f-a9b5-54f17aa49a68",
+      "title": "Crysis Remastered",
+      "tags": "FPS",
+      "cover": "https://media.rawg.io/media/games/3e4/3e42278fa5e9a85f4cd3d3ed4355a9f2.jpg",
+      "description": "Crytek’s ground-breaking, critically acclaimed first person shooter is back! Crysis Remastered is coming to PC, PlayStation 4, Xbox One, and Nintendo Switch – the game's debut on a Nintendo platform.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0b4/0b409a82a41abe1e20ec7716c7b9c25a.jpg",
+        "https://media.rawg.io/media/screenshots/07b/07b9019272c07db0e5a7629235f5eba4.jpg",
+        "https://media.rawg.io/media/screenshots/9dd/9ddd002dae3d954b46aa2758c2f7b61e.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Crysis Remastered(FPS)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1ff70c2b-dfa2-4136-acef-737706c4d555",
+      "title": "Cuphead",
+      "tags": "Run and Gun",
+      "cover": "https://media.rawg.io/media/games/226/2262cea0b385db6cf399f4be831603b0.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f07/f07f356b4d50a0035efcb6abf3834e4e.jpg",
+        "https://media.rawg.io/media/screenshots/bf8/bf8dd4951e4dbd0c608881c367a60a24.jpg",
+        "https://media.rawg.io/media/screenshots/344/344d6cb35e3dbc0faba8659a5a78e67a.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Cuphead(Run and Gun)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fa0fd2f7-ab3b-47aa-89d3-a009178bdb0a",
+      "title": "Curse Crackers",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/ef8/ef89b74e0b59d8f8550696be76f429f8.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 01 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e7f/e7fb882034d1c85b64301ef67795d34d.jpg",
+        "https://media.rawg.io/media/screenshots/1a3/1a349d23773e490ca55064085d9060b7.jpg",
+        "https://media.rawg.io/media/screenshots/ef3/ef346cf2b6675d9c7ec229cf4d56a258.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Curse Crackers (plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "beee6565-4752-408e-a57f-e4e5dd0f4d96",
+      "title": "Curse of the Sea Rats",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/617/617b240d9ac879c410039bbcdfe00254.jpg",
+      "description": "Curse of the Sea Rats is a ‘ratoidvania’ platform adventure with lovingly crafted, hand-drawn animations. Embark on the epic journey of four prisoners of the British empire, transformed into rats by the notorious pirate witch, Flora Burn. To regain their human bodies, they will have to fight dangerous bosses, uncover the secrets of the vast Irish coast, and ultimately capture the witch who cursed them.\n\n\n\n\nBeautiful 2D, hand-drawn animation breathes life into the game's cast of characters - insp...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d87/d87b3f410d74eb850b35186084b1bfd2.jpg",
+        "https://media.rawg.io/media/screenshots/91f/91f971355ae3010b74bcec19aa016963.jpg",
+        "https://media.rawg.io/media/screenshots/7d5/7d565e9cd495c38275f0b6eb1e2cb237.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Curse of the Sea Rats(Metroidvania)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7999b21b-f917-4d78-b60f-2c6d2fe9e02c",
+      "title": "Cursed to golf",
+      "tags": "Roguelike",
+      "cover": "https://www.switchscores.com/img/ps-square/sq-8344-cursed-to-golf.jpg",
+      "description": "Cursed to Golf is a 2D golf-like adventure about surviving through golfing purgatory. With rogue-like elements and Metroid-like hole layouts, can you ascend?\n------------------------------------------\nStart a run in an attempt to survive through 9 randomly organized holes.\nCURSED TO ONLY HIT RIGHT!? Make skilful shots and dominate the challenge.\nChallenging large golf holes with multiple pathways to the flag to explore.\nUse rogue-like-style rewards and power ups to push yourself further and furt...",
+      "images": [
+        "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/0-A-cutscene-featuring-characters-and-playing-a-round-of-golf-in-Cursed-to-Golf.jpg?w=1600&h=900&fit=crop"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Cursed to golf(Roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ed6459df-1bed-40e4-a239-37d9ea86e084",
+      "title": "Cyber Shadow",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/bee/bee2cf3815fe16391b15a77ac690679a.jpg",
+      "description": "The world has been taken over by synthetic lifeforms. A desperate plea for help sets Shadow on a journey to uncover what started the path to perpetual ruin. Slash through the techno hordes, leap past traps, and nimbly navigate the ruins of Mekacity.\n\nOnly you can unlock the secrets to your clan’s ancient powers in Cyber Shadow, the quintessential Ninja Action game.\n\nFeatures:\nDash, slice, and leap through masterfully designed levels filled with sharply honed ninja platforming action.\n\nAuthentic ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e0f/e0f858fdb94e79473846d4c583174107.jpg",
+        "https://media.rawg.io/media/screenshots/e7c/e7cdb7164a8bfd1955d6bd60550147d7.jpg",
+        "https://media.rawg.io/media/screenshots/ae6/ae6c22e45666b242c64a0fdd0c58f322.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Cyber Shadow(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "82825886-638a-44c0-9708-9e3ae5017bbb",
+      "title": "DAMON and BABY",
+      "tags": "",
+      "genre": "Plataforma,Ação,Aventura",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "DAMON and BABY",
+      "description": "An exciting new style of action adventure fusing shooting action with exploration.",
+      "cover": "https://media.rawg.io/media/screenshots/e57/e57bbe1b7ddb60548410bd2bb435b485.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6c9/6c944c7e58a9bba0ea754c786d308c1f.jpg",
+        "https://media.rawg.io/media/screenshots/947/9478260b9caa65078cf10d700dcc429b.jpg",
+        "https://media.rawg.io/media/screenshots/ba5/ba5c356e4659290623271595bba82529.jpg"
+      ]
+    },
+    {
+      "id": "37755254-68ee-4ca3-b966-e7cbb8a8ae32",
+      "title": "Dandara",
+      "tags": "MetroidvaniA",
+      "cover": "https://media.rawg.io/media/games/839/83924d4b0be37f607d14a5c463dc0e47.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/77c/77c8abb9d39225a737cbe271a23f2c21.jpg",
+        "https://media.rawg.io/media/screenshots/f81/f81aa31870c0ca05676bb08ccc84071e.jpg",
+        "https://media.rawg.io/media/screenshots/5e3/5e30d3025b31429fec2e5b4c5b0eedfc.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Dandara (MetroidvaniA)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a32f4b8d-0f31-46b8-9fe8-a5ad045e2526",
+      "title": "Dark Souls: Remastered",
+      "tags": "Soulslike",
+      "cover": "https://media.rawg.io/media/games/29c/29c6c21cc0c78cff6f45d23631cc82f4.jpg",
+      "description": "Then, there was fire. Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning high-definition detail running at 60fps.\nDark Souls Remastered includes the main game plus the Artorias of the Abyss DLC.\nKey features:\n• Deep and Dark Universe\n• Each End is a New Beginning\n• Gameplay Richness and Possibilities\n• Sense of Learning, Mastering and Accomplishment\n• The Way of the Multiplayer (up to 6 players with dedicated ser...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2f6/2f651074458bc3603a5da1348e5a368b.jpg",
+        "https://media.rawg.io/media/screenshots/44f/44ff25a559b7ba6c4a4f969acfcee8fc.jpg",
+        "https://media.rawg.io/media/screenshots/396/39632124b68f3ed8795f4e7ee3c1e247.jpeg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Dark Souls: Remastered(Soulslike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c8d607fe-e5a6-4d6f-be05-b30b08885ab0",
+      "title": "Darksiders",
+      "tags": "",
+      "genre": "Souls like e Hack n Slash",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Darksiders",
+      "description": "In Darksiders, you play as War - one of the Four Horsemen Of The Apocalypse. Two kingdoms, Heaven and Hell, could never solve their disagreements and battled each other from the beginning of time. \"The Charred Council\" arose in between two sides forming the brotherhood of Four Horsemen - War, Death, Strife and Fury. With these for horsemen on the watch and all the conflicts end, humanity has been born - a \"Kingdom of Man\". Council has created Seven Seals, that must be broken, when \"The Kingdom o...",
+      "cover": "https://media.rawg.io/media/games/8d4/8d46786ca86b1d95f3dc7e700e2dc4dd.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5f8/5f81dd045727d7d3df37434051f3e58d.jpg",
+        "https://media.rawg.io/media/screenshots/75e/75e92dea166ed012b13c0f6d21fc8e74.jpg",
+        "https://media.rawg.io/media/screenshots/a12/a12169b5688d52e883c01357ab54498b.jpg"
+      ]
+    },
+    {
+      "id": "607c3a84-ae80-45a0-a64f-ff625fe1686f",
+      "title": "Darksiders II",
+      "tags": "HackSlash",
+      "cover": "https://media.rawg.io/media/games/848/8482235332f4518da363c3cb4e5cd075.jpg",
+      "description": "Darksiders II is a third person slasher/RPG, the second installment in the Darksiders series. The game shares many similarities with its predecessor, but also exhibits new features such as an open world, overhauled quest system and dialogues.\nThe main character is the second Rider of Apocalypse, Death, out on a quest to support previous game’s protagonist, War, and to restore what has been lost by the world. The key features of the series, the extensive combat system, and various riddles have al...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a65/a651814c2a4d6bfd74927eccf1de53d7.jpg",
+        "https://media.rawg.io/media/screenshots/8e1/8e15782a9aeb0982242fd26963825905.jpg",
+        "https://media.rawg.io/media/screenshots/563/563a99d1f659ff79fdff6537f9987803.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Darksiders II(HackSlash)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bcbaeefd-db68-4f99-8633-18334bb66655",
+      "title": "Darksiders III",
+      "tags": "Hack n Slash",
+      "genre": "Souls like e Hack n Slash",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Darksiders III(Hack n Slash)",
+      "description": "Darksiders III is the third installment in its series of dark fantasy action games. Plotwise, it is the series' spin-off rather than the sequel.\n\n###Plot\nThe game is set in the world after the literal Biblical Apocalypse that involved the Four Horsemen and a battle between angels and demons. The story of Darksiders III unfolds at the background of the events of two original games. Darksiders III follows Fury, a Horsewoman of the Apocalypse and the sister to the original protagonist, War the Hors...",
+      "cover": "https://media.rawg.io/media/games/cb7/cb770f3f9871e1130f40812b05e401b2.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/528/528df0dae4b19fbe8989b9818c591152.jpg",
+        "https://media.rawg.io/media/screenshots/ffd/ffdfa4dd8e1ffcf63f031306b301720e.jpg",
+        "https://media.rawg.io/media/screenshots/160/1604ff0cd69724dd954a825a4b5da7ce.jpg"
+      ]
+    },
+    {
+      "id": "a52e94e9-9ecf-4265-8c62-b6728f084e52",
+      "title": "Dave the diver",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/1ee/1eec43616e3ff00a674124d746926b23.jpg",
+      "description": "Welcome to 'DAVE THE DIVER', a marine adventure set in the mysterious Blue Hole. Explore the sea with Dave by day, and run a sushi restaurant at night. Uncover the secrets of the Blue Hole, and unwrap this deep sea mystery involving 3 friends, each with distinct personalities. New adventures await.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ea2/ea2ba5801d2908fa37f8f5361354b70a.jpg",
+        "https://media.rawg.io/media/screenshots/034/034104be340001cadf8383f2139589e9.jpg",
+        "https://media.rawg.io/media/screenshots/4b5/4b5b8231dfb8c978724b7c8ebf179d7f.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Dave the diver",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "dc910928-90ac-4d26-ac96-788541745384",
+      "title": "Dead Cells",
+      "tags": "Roguelike",
+      "cover": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg",
+      "description": "Dead Cells is a roguelike adventure title developed by Motion Twin.\n\n###Story\nNot much story is present in the game, as only bits of any information are given out to the players. The game takes place at a remote island, where the players take place of the Prisoner. The Prisoner does not speak, yet he can express confusion and frustration using his body language. The Prisoner is basically immortal, as, in case of death, his head disconnects itself from the Prisoner's body, and gets back to the ga...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9da/9da742eb3dd48210ace18f8cf19a7085.jpg",
+        "https://media.rawg.io/media/screenshots/2c1/2c14a27025356907201370507cc799da.jpg",
+        "https://media.rawg.io/media/screenshots/58e/58efd4d0b47504204061f2c3a2d026e6.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Dead Cells(Roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "61d749e5-9651-4bd2-883d-36163984520f",
+      "title": "Death end re;Quest",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/166/1667893e415612d0926954bdd54dd531.jpeg",
+      "description": "When video game programmer Arata Mizunashi receives an email from his missing colleague Shina Ninomiya, he soon discovers she is trapped as the only player in the virtual video game world they created- World's Odyssey (W.O.D.).\nHow can Shina escape? Complete the game and unlock the perfect ending - a success rate of 1%.\nKey Features\n- Jump from the in-game world and reality to solve the inner-workings of World's Odyssey.\n- In this turn-based battle system, knockback enemies and even change the g...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/90f/90f9ed7ff1d5563545e0077ce11530d4.jpg",
+        "https://media.rawg.io/media/screenshots/3dd/3dd584c30d32e2c3f5101d600fda6283.jpg",
+        "https://media.rawg.io/media/screenshots/ca6/ca612d1c0a5081e3332cb67b9b7d6277.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Death end re;Quest(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f81b8f37-d97b-4bd8-818e-8daf7a3d7d45",
+      "title": "Death end reQuest 2",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/screenshots/f69/f69e1a96c14ba4aa9e80656c20090790.jpeg",
+      "description": "Story\nMai Toyama seeks an escape from her traumatic past. She enrolls at Wordsworth, an all-girl’s dormitory situated in the small, mountainous town known as Le Choara where it was rumored that her sister, Sanae, was last seen. Hopeful, Mai seeks to find her kin, but she soon finds terrifying inhabitants which lurk throughout the town after dark. At night, Le Choara’s streets are filled with Shadow Matter—a horrific group of menacing creatures. Around every cobblestone corner, Mai discovers tha...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a49/a49949282b0a08971fb84aa08b64fe7b.jpg",
+        "https://media.rawg.io/media/screenshots/b3d/b3dcfd0fc389369173e9f5e5ce4353fe.jpg",
+        "https://media.rawg.io/media/screenshots/da1/da14541de9e6fc8f0460398c80ee3676.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Death end reQuest 2(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fd9dc72a-c5ef-49a4-a1b8-2327833cce0d",
+      "title": "Death or Treat",
+      "tags": "Roguelike",
+      "cover": "https://media.rawg.io/media/screenshots/b1d/b1df8be941be0b5b16e3ed351932ceb8.jpg",
+      "description": "Join Scary in the HallowVerse to make things great again!\nYou will play as Scary, the owner of Ghost Mart, leader in manufacturing candies for Halloween.\nDiscover a huge world with lots of rooms, explore new maps in every run while you try to survive the hordes of enemies. It’s not an easy task, every world is even more tricky than the other. Starting with Darkchat, the Storyum lab, Riptok, the most used app sede, Deviltube, leaders distributing storyum, and the last but not least FaceBoo!, the ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/44c/44cb7e7f4800469e451d284077822a6f.jpg",
+        "https://media.rawg.io/media/screenshots/aea/aea3db99362ca8ecdb76eb16461f605b.jpg",
+        "https://media.rawg.io/media/screenshots/ab4/ab4eb79e26f7c8f9c696c616ab80472d.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Death or Treat(Roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5170401a-24b3-476c-bfaa-66332ca1883a",
+      "title": "Death's Door",
+      "tags": "Action adventure",
+      "cover": "https://media.rawg.io/media/games/a3e/a3ea71c18e81d54ebaf982dadb9a8738.jpg",
+      "description": "Reaping souls of the dead and punching a clock might get monotonous but it's honest work for a Crow. The job gets lively when your assigned soul is stolen and you must track down a desperate thief to a realm untouched by death - where creatures grow far past their expiry and overflow with greed and power.\n\nTalon Sharp Combat: Utilize melee weapons, arrows and magic to overcome a fantastic array of beasts and demigods. Mistakes are punished and victory is rewarded. Gain an edge by customizing y...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5b9/5b94f79f896b3c42571c5bbb40df6ffd.jpg",
+        "https://media.rawg.io/media/screenshots/d95/d95b9b0ea0ee9317515891f508defb93.jpg",
+        "https://media.rawg.io/media/screenshots/8ff/8ff5981eaba338d10030ed24bf36d4c5.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Death's Door(Action adventure)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f1f6d411-96c6-4959-80a8-e33380bec5ab",
+      "title": "DEEMO -Reborn-",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/games/6ba/6bab52031210265c627e163e0f7c7bd8.jpg",
+      "description": "Background Story\nA girl who fell from the skies and lost her past; Deemo who plays the piano all alone in the world of the treehouse; an accidental encounter between the two.\nThe music flows as the fingers hit the piano keys.\nThe start of a fairytale journey has begun...\n\"Never Left Without Saying Goodbye──\"\nFeatures:\nA Classic Reborn: Centered around an ancient castle and a mysterious tree that grows when melody is in the air, control the little girl who has fallen from the sky and help her fin...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ba5/ba542b655a52a8ef70d719bf4063c3c0.jpg",
+        "https://media.rawg.io/media/screenshots/fa9/fa9dcd7fd5751a3710e25f0482821d09.jpg",
+        "https://media.rawg.io/media/screenshots/3fc/3fce21b3842b0ea56577c5b7123baa28.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "DEEMO -Reborn-(Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9d1bea90-34b4-49b6-ba1d-22f41bf9ad42",
+      "title": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
+      "tags": "Party game",
+      "cover": "https://media.rawg.io/media/screenshots/2a8/2a8c2a749003492f5612bfcbc2ef39d5.jpg",
+      "description": "The anime Demon Slayer: Kimetsu no Yaiba makes its virtual board game debut! Enjoy events and minigames with up to four players offline or online, and compete to become the strongest Demon-Slayer swordsman!\n◆ Roll the dice and aim to become the strongest Demon-Slayer swordsman!\nIconic locations from the anime, like Mt. Fujikasane and Asakusa, appear as boards in this game. Advance on the game board by rolling the dice! The game board switches between day and night. During the day, prepare for th...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/def/defc054faa380618c78a172fd09188c4.jpg",
+        "https://media.rawg.io/media/screenshots/9e3/9e3669ca576726ee007758dfebc8e9a3.jpg",
+        "https://media.rawg.io/media/screenshots/599/5995728356f82cd0920c1cacebb86d30.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!(Party game)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "365695c8-e1b1-41ef-a617-dde963efc80e",
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 1 e 2",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/games/e69/e69fae35b4e3afe8f6357c01fa6a0e6c.jpg",
+      "description": "Become the blade that destroys demons!\nIn solo play mode, walk the path of Tanjiro Kamado whose family is slaughtered and sister transformed into a demon. Experience the story depicted in the anime \"\"Demon Slayer: Kimetsu no Yaiba\"\" as Tanjiro fights to restore Nezuko's humanity and battle the demon threat!\nPlay Versus mode, which allows up to 2 players to battle in offline or online 2v2 battles with any combination of characters, including Tanjiro Kamado and Nezuko Kamado! With simple controls ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/399/3998f7b70c470833e2e47652ea8559bb.jpg",
+        "https://media.rawg.io/media/screenshots/f6f/f6f7ac8b82ea7d5528787316c95103a0.jpg",
+        "https://media.rawg.io/media/screenshots/5d0/5d023af22d25fd3739587d6de850e33d.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 1 e 2(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b54c4f68-dbe0-4c3c-891d-db6624a07699",
+      "title": "Demon Turf",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/screenshots/c58/c5808acb192b04f92b21dabb6613a4c1.jpg",
+      "description": "BUY THE FULL GAMEhttps://store.steampowered.com/app/1325900/Demon_Turf/\nWHAT DO THE CRITICS SAY?!“Demon Turf’s art style was what grabbed my attention. (...) But let’s get into the platforming. Which, hoo boy, does it feel good.”\nRock Paper Shotgun\n“Demon Turf is the Next Big Indie 3D Platformer.”\nIGN\n“I love a good 3D platformer and I especially love video games with demonic protagonists. Demon Turf, a trippy-looking title with 2D characters in a 3D world, kills two birds with one smoldering st...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d60/d606ab6fea99432311e17758283659ac.jpg",
+        "https://media.rawg.io/media/screenshots/40f/40fa458551734f0f9d3af890a91c2132.jpg",
+        "https://media.rawg.io/media/screenshots/e5a/e5af61c02e96e6512907280a06e76a96.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Demon Turf(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3b774cfb-f0eb-490b-bebb-3189a0949488",
+      "title": "Diesel Legacy: The Brazen Age",
+      "tags": "luta 2vs 2",
+      "cover": "https://media.rawg.io/media/screenshots/363/36375a6877838523891b0d31829da7c9.jpg",
+      "description": "Diesel Legacy is a 2v2 fighting game where four players battle on the same stage at the same time. This unique twist on the traditional fighting game formula adds an entirely new layer of strategy where cooperation will become the key to success.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/88a/88a6b8a9d02b7ac2b324e21a64e787aa.jpg",
+        "https://media.rawg.io/media/screenshots/8f3/8f38b879a864e333061cf886cb2ba843.jpg",
+        "https://media.rawg.io/media/screenshots/641/6418b734d23b45f3221881c821fbc61f.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Diesel Legacy: The Brazen Age(luta 2vs 2)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5426f576-fd10-47d1-82b3-a12c2b82825d",
+      "title": "Digimon Story Time Stranger",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Digimon Story Time Stranger(Jrpg)",
+      "description": "Digimon Story Time Stranger , is an RPG with monster-taming elements that explores the deep bond between humans and Digimon in an epic story that unravels the mystery of the world’s collapse.\n\nEmbark on an adventure that spans across the human world and and Digital World , collecting and raising a diverse array of Digimon to fight in turn-based battles.",
+      "cover": "https://media.rawg.io/media/screenshots/b35/b35044d100f6db9fe44723ac20635242.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/06b/06b19c09ced1f8245f85c461b728b6a3.jpg",
+        "https://media.rawg.io/media/screenshots/7ab/7abef852fa026c7b34c855116f5d740d.jpg",
+        "https://media.rawg.io/media/screenshots/6d4/6d46053aa983b86d85440e659bd8abf1.jpg"
+      ]
+    },
+    {
+      "id": "e7b91b8c-e2e0-4c06-8b83-197c8b305218",
+      "title": "Digimon Survive",
+      "tags": "Visual novel/Tactics",
+      "cover": "https://media.rawg.io/media/games/566/566024ad65f27af6e2c2acfadb14c33a.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 56 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5f7/5f7fdbffd88c3af78686d887c198833c.jpg",
+        "https://media.rawg.io/media/screenshots/2f6/2f686e773db02465cf05c4c3263463b5.jpg",
+        "https://media.rawg.io/media/screenshots/305/305e40ffc2835a9275895caa17559438.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Digimon Survive (Visual novel/Tactics)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e33497c6-c9a0-45a8-a7dd-2a785af4b9b7",
+      "title": "Disney Dreamlight Valley",
+      "tags": "fazenda",
+      "cover": "https://media.rawg.io/media/games/2f7/2f77dc8fa62aa506e7a06887d3756c3f.jpg",
+      "description": "Disney Dreamlight Valley is a hybrid between a life-sim and an adventure game rich with quests, exploration, and engaging activities featuring Disney and Pixar friends, both old and new.\n\nOnce an idyllic land, Dreamlight Valley was a place where Disney and Pixar characters lived in harmony—until the Forgetting. Night Thorns grew across the land and severed the wonderful memories tied to this magical place. With nowhere else to go, the hopeless inhabitants of Dreamlight Valley retreated behind lo...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c82/c82db207e5c1b7431ac774a39faff77c.jpg",
+        "https://media.rawg.io/media/screenshots/3c4/3c4cfd1b7648083154a87a4fb53e1651_6azLudb.jpg",
+        "https://media.rawg.io/media/screenshots/13c/13cb1a61134961a0f513aee6d147f69f.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Disney Dreamlight Valley(fazenda)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "20449217-5ac8-4798-acf3-6f7d5001433b",
+      "title": "Disney Epic Mickey: Rebrushed",
+      "tags": "plataforma 3d",
+      "cover": "https://media.rawg.io/media/screenshots/956/9562d5a4a9f9edd50c78e812a74c4faf.jpg",
+      "description": "Disney Epic Mickey: Rebrushed brings the magic of Disney to life in a vibrant 3D platformer. This beautiful remake sends Mickey Mouse on an epic journey through Wasteland, a realm of forgotten Disney characters. As Mickey, you will dive into a fantastical world and, armed with paint and thinner, shape your adventure and the fate of this alternate world.\nEvery stroke of your magic brush matters! Use paint to restore beauty and harmony or thinner to alter your environment and uncover hidden secret...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9aa/9aa2afb8a609dce233faf1a489a57c0d.jpg",
+        "https://media.rawg.io/media/screenshots/c85/c850f4de57ad1089c1de2438dd3c836f.jpg",
+        "https://media.rawg.io/media/screenshots/7b7/7b791b3d9f2601a9791d1de0e00757d5.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Disney Epic Mickey: Rebrushed(plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ca0271a4-de88-4cea-a03e-2ff66026770f",
+      "title": "Disney Illusion Island",
+      "tags": "Metroidvania",
+      "cover": "https://videogamedepotak.com/wp-content/uploads/2023/02/DISNEY-ILLUSION-ISLAND-NSW-000-045496599232.webp",
+      "description": "Jogo de Nintendo Switch. Metroidvania",
+      "images": [
+        "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/02/08/disney-illusion-island-1_feature.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Disney Illusion Island(Metroidvania)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f2672f04-9ae0-4ef0-9c5d-f060ed0440fe",
+      "title": "Disney Speedstorm",
+      "tags": "corrida",
+      "cover": "https://media.rawg.io/media/games/dd1/dd1badc9953c92206f7b5d9ca9e60dfb.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/703/703b0b21ddde2006704e2aeb368eb207.jpg",
+        "https://media.rawg.io/media/screenshots/296/296c8d58511a65ffb3af6b70849b0e28.jpg",
+        "https://media.rawg.io/media/screenshots/870/870e7c48118517e2d356bf6f94bbbb66.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Disney Speedstorm(corrida)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "653c5154-df38-409c-943f-668c71a2d45c",
+      "title": "Dispatch",
+      "tags": "narrativo",
+      "cover": "https://media.rawg.io/media/games/2f6/2f6c45362818859574ac0e37edf3d3c4.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 10 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9a7/9a79e8f8376b1046f7fc316e6630e787.jpg",
+        "https://media.rawg.io/media/screenshots/bd7/bd718dcaab5a69a4f1a2cac0f861e27e.jpg",
+        "https://media.rawg.io/media/screenshots/c2f/c2fbfb2553264549c4991f0b3a8dcbe1.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Dispatch(narrativo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b4c131c9-b2f3-4e18-a1e8-bc73a4dc7212",
+      "title": "Dnf Duel",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/games/001/001ebae955f6a70e694b56e85c83fb93.jpg",
+      "description": "The Dungeon and Fighter RPG franchise of 16 years is now back as a 2.5D fighting game!\nJoin the battle as a Berserker, Inquisitor, Striker, Grappler, Ranger, and more!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/dfd/dfd595c58d2777d2a78c7aa0f55d3f1b.jpg",
+        "https://media.rawg.io/media/screenshots/d6d/d6d29b9c319452c8b1e2b2a342bb2e25.jpg",
+        "https://media.rawg.io/media/screenshots/102/10220790e900bdaa90f80b6e4c73816a.jpeg"
+      ],
+      "genre": "Luta",
+      "raw": "Dnf Duel(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1fbad771-a868-4a6f-a425-9dd73e6ffe95",
+      "title": "Dodgeball Academia",
+      "tags": "Queimada",
+      "cover": "https://media.rawg.io/media/screenshots/80b/80bc73e3df6e55f554dc66ebf2fc57e5.jpg",
+      "description": "In a world where dodgeball is life, you join Otto at the academy and train to become the ultimate dodgeball champion. Across eight episodes, you’ll forge friendships and create rivals, all in the name of developing the best dodgeball team.\n\nLevel up Otto and develop a dynamic team across a vast and customizable party progression system. All the while, explore the vast Dodgeball Academia and uncover the long hidden truths that reside within the very walls you live, learn, and dominate in.\n\nKey Fe...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/923/923e28a67e1ac5e29a9f1e8fb1817fcc.jpg",
+        "https://media.rawg.io/media/screenshots/4ce/4ce2b2b5a8a0936aefb32ba507b129e1.jpg",
+        "https://media.rawg.io/media/screenshots/771/771e2d828a3a39316db776ecc458772a.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Dodgeball Academia(Queimada)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "edc607c2-e1bd-4f01-8367-bd6a698ccfb8",
+      "title": "Donkey Kong Country Returns HD",
+      "tags": "Plataforma 2d",
+      "genre": "Plataforma,Ação,Aventura",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false,
+      "raw": "Donkey Kong Country Returns HD(Plataforma 2d)",
+      "description": "Help Donkey Kong and Diddy Kong recover their precious banana hoard from the villainous Tiki Tak Tribe in Donkey Kong Country Returns HD for Nintendo Switch! Stomp enemies, blast through barrels, and ride rockets and mine carts (and even Rambi the rhino) in 80 levels across nine worlds.\n\nPlay the game as it was first designed for Wii, or reduce the difficulty for extra hearts and other goodies to make your journey a little easier. This barrel-blasting adventure is visually enhanced in HD for Nin...",
+      "cover": "https://media.rawg.io/media/games/3f4/3f47e8c4e97f884f032b686021530478.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b49/b497b8e981eb23bb2908f5467812e238.jpg",
+        "https://media.rawg.io/media/screenshots/a5f/a5f2aa5bdb748c7eb7f87c441232505f.jpg",
+        "https://media.rawg.io/media/screenshots/ba5/ba5288598aa8c9dfabe8e682c8baed5e.jpg"
+      ]
+    },
+    {
+      "id": "b42f8dff-df3d-425d-b3dd-d7a928a27e11",
+      "title": "Donkey Kong Country: Tropical Freeze",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/c31/c31655ab2640da333f5ca3f223d33a12.jpg",
+      "description": "Traverse islands packed with platforming perfection and nonstop action as the classic Kongs in the original game, or mix things up by playing the story as Funky Kong in new Funky Mode!\n\nArctic invaders have turned Donkey Kong Island into their personal frozen fortress, and it's up to you to save the day. Play as Donkey Kong in Original Mode and team up with Diddy Kong, Dixie Kong, and Cranky Kong—each with unique abilities—to overcome platforming challenges and frosty foes.\n\nFor a more acces...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e32/e320a3bd49f31aeb181b34c573da437f.jpg",
+        "https://media.rawg.io/media/screenshots/f50/f507b673c127c4b9502581bf069e51cb.jpg",
+        "https://media.rawg.io/media/screenshots/fef/fefc94bec480ac777b424c64a0b96f48.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Donkey Kong Country: Tropical Freeze(Plataforma 2d)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "e61150bc-a6c7-4fe7-b0c1-4ebae10ad283",
+      "title": "Doom Eternal",
+      "tags": "FPS",
+      "cover": "https://media.rawg.io/media/games/3ea/3ea3c9bbd940b6cb7f2139e42d3d443f.jpg",
+      "description": "As the DOOM Slayer, you return to find Earth has suffered a demonic invasion. Raze Hell and discover the Slayer’s origins and his enduring mission to rip and tear…until it is done.\n\nExperience the ultimate combination of speed and power as you battle your way across dimensions with the next leap in push-forward, first-person combat.\nSlayer Threat Level at Maximum\n\nArmed with a shoulder-mounted flamethrower, retractable wrist-mounted blade, upgraded guns and mods, and abilities like the Double Da...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e60/e605ef79d45fcde4afcdbbe8783b7755.jpg",
+        "https://media.rawg.io/media/screenshots/65d/65db880d23d8d9afe59da1a0f4fbc9d1_s0rkn1r.jpg",
+        "https://media.rawg.io/media/screenshots/bb4/bb448b8a9aa51ff3e620d3d4c292214b.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Doom Eternal(FPS)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "53ffe129-cc67-466c-a097-33bf7aff9f65",
+      "title": "Dordogne",
+      "tags": "cozy game",
+      "cover": "https://media.rawg.io/media/games/fbf/fbf8f847b4e86ec02f9b2b91f93650c3.jpg",
+      "description": "Dordogne is a narrative adventure game in which you play as Mimi, a young woman visiting the house of her recently deceased grandmother who left her letters and puzzles to solve. To do so, Mimi will revisit her childhood memories and reconnect with the little girl who marveled at everything.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/592/59208fc5b21f75ac688491b6f00148cc.jpg",
+        "https://media.rawg.io/media/screenshots/980/980ca2f3918da9afac897f8d69bc9e32.jpg",
+        "https://media.rawg.io/media/screenshots/a40/a408dae4934645e8c4607c31631706d0.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Dordogne(cozy game)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "baee76f8-ed50-45e2-aa90-b809b9dbb795",
+      "title": "Double Dragon Gaiden",
+      "tags": "Briga de rua/roguelike",
+      "cover": "https://media.rawg.io/media/screenshots/ffd/ffdc61d95936afb2aacbe26dfdc0e73b.jpg",
+      "description": "Jogo de Nintendo Switch. Briga de rua/roguelike",
+      "images": [
+        "https://media.rawg.io/media/screenshots/01f/01f2d406685c0d71b7798d02839f40d8.jpg",
+        "https://media.rawg.io/media/screenshots/c8b/c8bb4050d45e14f2252599ef784bad26.jpg",
+        "https://media.rawg.io/media/screenshots/d57/d574b9335963b4305570e21cb3715c40.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Double Dragon Gaiden(Briga de rua/roguelike)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "50744c2f-7ef0-40fe-b240-8fdb291023d6",
+      "title": "Double Dragon Revive",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/720/720a0c8e51c1467e06f7476a5553f51c.jpg",
+      "description": "Jogo de Nintendo Switch. briga de rua",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d85/d85eee5ccbf877a8a6f7b5eef511ee93.jpg",
+        "https://media.rawg.io/media/screenshots/e1a/e1a34bc484410dc8b253e2fcb1dea881.jpg",
+        "https://media.rawg.io/media/screenshots/2e1/2e1c275eba9c00e956f1b6ac3d8d69e8.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Double Dragon Revive(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "edded95a-ad7f-48bb-85ce-3737e4ee9152",
+      "title": "Dr. Fetus' Mean Meat Machine",
+      "tags": "supermeat boy de Tetris",
+      "cover": "https://media.rawg.io/media/screenshots/9e1/9e1036e415e0708f77e7c4bf17f841a7.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/845/8458f22248233389dafd903b250e357d.jpg",
+        "https://media.rawg.io/media/screenshots/44a/44a44ec8736a2db65b47586507671336.jpg",
+        "https://media.rawg.io/media/screenshots/d32/d3239b63ed35b5e57a674b0776faf5d4.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Dr. Fetus' Mean Meat Machine",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5380a4eb-5a12-4e2a-90e1-d77876bbd482",
+      "title": "Dragon Ball FighterZ",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/games/96b/96b9420bbd4bd1b79bf2a67f7779733a.jpg",
+      "description": "Pre-Purchase Offer\nPre-order and receive early character unlocks to SSGSS Goku and SSGSS Vegeta, 2 exclusive lobby avatars, and 3 stamps.\nFighterZ Edition\nThe FighterZ Edition includes the game and the FighterZ Pass, which adds 8 new mighty characters to the roster.\nUltimate Edition\nThe Ultimate Edition includes:\n• The game\n• FighterZ Pass (8 new characters)\n• Anime Music Pack (11 songs from the Anime)\n• Commentator Voice Pack\nAbout the GameDRAGON BALL FighterZ is born from what makes the DRAGON...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0df/0df1f4c22cff98e978ae2fd946e07444.jpg",
+        "https://media.rawg.io/media/screenshots/279/2794b4ad4f479fe460f15ae056de181e.jpg",
+        "https://media.rawg.io/media/screenshots/d40/d4066178bd989a2d24abcdaff6400445.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Dragon Ball FighterZ(Luta)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "69056992-02c3-40e0-bea6-f3db3cfb54de",
+      "title": "Dragon Ball Xenoverse 1 e 2",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/games/729/729822a7ac978607241a310677c7775d.jpg",
+      "description": "Just Updated\nSteam Cards for Dragon Ball Xenoverse are now available!\nPlay the game to collect one of the 6 amazing collectible cards. Get the full collection and redeem it to unlock backgrounds, emoticon and badges for your Steam environment.\nAbout the GameGoku And Friends' Fierce Battles Will Be Reborn!\nFOR THE FIRST TIME EVER, THE DRAGON BALL UNIVERSE IS COMING TO STEAM!\nDRAGON BALL XENOVERSE revisits famous battles from the series through your custom Avatar, who fights alongside Trunks and m...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d4c/d4c902954d443d85446cb500ff47bb03.jpg",
+        "https://media.rawg.io/media/screenshots/664/664dfb202a9edfcd72e3c55405675b97.jpg",
+        "https://media.rawg.io/media/screenshots/d89/d89c2e779379a71d813a04f7f9803cbf.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Dragon Ball Xenoverse 1 e 2(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d0c7d22b-e418-434c-9d09-7d4cfe88fd8b",
+      "title": "Dragon Ball Z: Kakarot",
+      "tags": "Actionrpg",
+      "cover": "https://media.rawg.io/media/games/cf0/cf062fb221995e3e04294ba5f9dabbb9.jpg",
+      "description": "Relive the story of Goku in DRAGON BALL Z: KAKAROT! Beyond the epic battles, experience life in the DRAGON BALL Z world as you fight, fish, eat, and train with Goku. Explore the new areas and adventures as you advance through the story and form powerful bonds with other heroes from the DRAGON BALL Z universe.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/035/03599374de7cf0d79c36a492038b1207.jpg",
+        "https://media.rawg.io/media/screenshots/935/935919f2ea10278abc4a5ec793b925af.jpg",
+        "https://media.rawg.io/media/screenshots/9b0/9b07acca1c2f19cdac181804b85d3b03.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Dragon Ball Z: Kakarot(Actionrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0160e0de-1efb-4749-8fbe-e22d360478c9",
+      "title": "DRAGON BALL: Sparking! ZERO",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/screenshots/64f/64fdee7e7b863fbc22460cb8e38614b9.jpg",
+      "description": "DRAGON BALL: Sparking! ZERO takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. DRAGON BALL: Sparking! ZERO has an incredible number of playable characters, each with signature abilities, transformations and techniques. Unleash the fighting spirit within you and take the fight to arenas that crumble and react to your power as the battle rages on.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f72/f72139d952f80b5f4382260f7547708f.jpg",
+        "https://media.rawg.io/media/screenshots/835/8350bb71e14272ecdc17d0524d24919f.jpg",
+        "https://media.rawg.io/media/screenshots/d71/d7155f1e99242e7927e841eed2761d18.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "DRAGON BALL: Sparking! ZERO(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "39eb4fbe-bda0-4caf-bf45-845d0a63a4c2",
+      "title": "Dragon Quest Builders 2",
+      "tags": "Rpg",
+      "cover": "https://media.rawg.io/media/games/0ff/0ff66c8eb89b99211cc7af2a72ba73f5.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/340/34006c32cc1be0c2c45c003fc516711e.jpg",
+        "https://media.rawg.io/media/screenshots/280/280f57f5fbc2ab53398614a650ffcfa2.jpg",
+        "https://media.rawg.io/media/screenshots/208/2086a044c757a7f70097ae7000683f5e.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "Dragon Quest Builders 2(Rpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "147bdb89-113d-4775-92d9-de342c671ac1",
+      "title": "Dragon Quest HD-2D - 1-2-3 Remaster",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/46a/46a0648fbe1bc1aa9d9c582135ac9723.jpg",
+      "description": "DRAGON QUEST III HD-2D Remake is a stunning reimagining of the beloved masterpiece and narrative beginning to The Erdrick Trilogy.Story:Years ago, the great hero Ortega bid farewell to his wife and child as he set off on a quest to defeat the villainous Archfiend, Baramos. Ortega failed his quest, and Baramos still threatens the world. Now, on their sixteenth birthday, Ortega’s only child is summoned by the king of Aliahan and entrusted with a mission of the highest import: to take on Ortega’s q...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/83c/83cd153528eb69fc3be48dc3e4d204bf.jpg",
+        "https://media.rawg.io/media/screenshots/178/1785f570254f7a9c49ce3494e7a22452.jpg",
+        "https://media.rawg.io/media/screenshots/7f2/7f2b66d46b9b957285e1ecf863172f26.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Dragon Quest HD-2D - 1-2-3 Remaster(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "50a427bf-e87a-4a63-b5e9-601fa2935f7c",
+      "title": "DRAGON QUEST MONSTERS: The Dark Prince",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "DRAGON QUEST MONSTERS: The Dark Prince(Jrpg)",
+      "description": "Overview\nDRAGON QUEST MONSTERS: The Dark Prince comes to Steam®!\nCompose your very own team of monsters from across the DRAGON QUEST series and engage in thrilling battles against your foes. Recruit monsters from the wild world around you and combine them to synthesize new creatures as you see fit. With over 500 monsters to choose from and a revamped synthesis system to explore, you can mix and match to you heart's content to create your favorite cute critters and dastardly supervillains, as wel...",
+      "cover": "https://media.rawg.io/media/screenshots/326/3263c90ce21645213a85b904f751543a.jpg",
+      "images": [
+        "https://quoramarketing.com/wp-content/uploads/2023/12/Dragon-Quest-Monsters-The-Dark-Prince-Rosehill-Tower-Mini-Medal-Location.png"
+      ]
+    },
+    {
+      "id": "4e68e548-bfa4-46eb-a7a0-59867cf8b165",
+      "title": "DRAGON QUEST VII Reimagined",
+      "tags": "jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/bff/bffdba5be1fff8265e01ab0e08d7cca8.jpg",
+      "description": "« Le monde ne se résume pas à cette île... et on va le prouver ! »\nEmbarquez pour une histoire où se mêlent le passé et le présent dans DRAGON QUEST VII Reimagined ! Incarnez le jeune fils plein de curiosité d'un pêcheur, qui n'a jamais rien connu d'autre que la paisible île de Melyor. Votre voyage commence par une simple question : le monde se résume-t-il à cette île ?\n\nPartis en quête de réponses avec vos amis d'enfance, vous découvrez le sanctuaire des Mystères et remontez dans le temps. Vous...",
+      "images": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/store/software/switch/70010000070157/a94f7f4b3d9e050a9be529763c246c09018ccdc52e401ebf04529845a722f617"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "DRAGON QUEST VII Reimagined(jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "93c1e145-0bd6-4f41-ae5b-45d3ab834b4c",
+      "title": "DRAGON QUEST XI: Echoes of an Elusive Age",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/e04/e041cc430f6b6681477580d3bcddf29f.jpg",
+      "description": "DRAGON QUEST® XI: Echoes of an Elusive Age™ follows the journey of a hunted Hero who must uncover the mystery of his fate with the aid of a charismatic cast of supporting characters. They embark on a quest taking them across continents and over vast oceans as they learn of an ominous threat facing the world.\nDQ XI brings a massive, gorgeous world to life in a style that blends stylistic cel-shading with photorealistic detail.\nEngage in a turn-based battle system that eases players into combat,...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e72/e72929ca1e26e1243ba32213905ffbf4.jpg",
+        "https://media.rawg.io/media/screenshots/575/575cc0244161649a74e1a290fb7eee8e.jpg",
+        "https://media.rawg.io/media/screenshots/728/728fa0cc969c86222bf70e14deeb6d54.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "DRAGON QUEST XI: Echoes of an Elusive Age(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a1819153-d89f-4fd3-b085-aa719d4f3984",
+      "title": "Dragon Star Varnir",
+      "tags": "Tactics",
+      "cover": "https://media.rawg.io/media/games/175/175f690a34aa54104daa7be83f07e323.jpg",
+      "description": "3 Tiers to Fear – In this unique take on the classic turn-based battle system, players take flight and charge at dragons in three vertically-oriented tiers. Position your party members careful and claim victory! Giant dragons can swipe through all three tiers, so be careful!\nAwaken Your Inner Dragon – When attacking an enemy during battle, players fill up their Dragon Gauge. Once maxed, they can transform and harness the power of dragons, drastically increasing their armor and unlocking abilitie...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9fc/9fc2a5ba213c74e911fcbe0d8758f05c.jpg",
+        "https://media.rawg.io/media/screenshots/2fd/2fded61ad731947d324f51c144f3ad45.jpg",
+        "https://media.rawg.io/media/screenshots/077/077ac1e84cccf0793a466098ad422132.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Dragon Star Varnir(Tactics)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b46d16df-9496-4ade-b3bc-0c6054905b54",
+      "title": "Dragon's Dogma",
+      "tags": "Rpg",
+      "cover": "https://media.rawg.io/media/games/14e/14e4214a252c67083206aa6af30e13ed.jpg",
+      "description": "A sprawling world filled with stunning vistas and mythical beasts, suddenly set upon by a dragon seemingly bent on destruction. You, the Arisen, must gather your pawn companions and fight for the life you know and to defend those you love in this realistic, action-packed game. This is Dragon's Dogma™.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a79/a7963ae2c4138483ea34bbdbafdd9aac.jpg",
+        "https://media.rawg.io/media/screenshots/f61/f614e582d21b2cc54a67f96d67602358.jpg",
+        "https://media.rawg.io/media/screenshots/cd4/cd4a68f56f7f27536c160ae990294d5e.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Dragon's Dogma(Rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3383c919-51bf-49c5-a25d-b5d6befe8c9a",
+      "title": "Drainus",
+      "tags": "Navinha",
+      "cover": "https://media.rawg.io/media/screenshots/93b/93bb8fb6cdd82a1e5852213b2a022a29.jpg",
+      "description": "This is a side-scrolling shooting game in which the player takes control of the \"Drainus\", a ship that can absorb energy bullets, to take down the countless enemy ships zipping through space. Energy absorbed can be used to enhance the ship's functions, such as adding new weapons.\nStoryThe Planet Halpax is located in the far reaches of space, suffering from the oppressive rule of the Kharlal Empire. One of the slaves residing there is battling an illness. He must return home to the faraway planet...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/698/698abe6e7129c15c332e6a569030a4b0.jpg",
+        "https://media.rawg.io/media/screenshots/d2a/d2abb7c141f68f63585fcdcd1a4adc8e.jpg",
+        "https://media.rawg.io/media/screenshots/9fd/9fd87ca42464e6de728582d4bb911153.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Drainus(Navinha)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1ea9d11c-c9cd-41c9-981c-deaed3984cc4",
+      "title": "Dreamscaper",
+      "tags": "Rogue like",
+      "cover": "https://media.rawg.io/media/games/785/78596308d98b093b05d54f6f1df48053.jpg",
+      "description": "SLEEP. DIE. WAKE. REPEAT.\nDreamscaper is an intense, fluid, action-packed, RPG Rogue-lite, where every slumber is a different dungeon and you must unlock the powers of your dreams to see a new day.\nPlay as Cassidy and dive into her subconscious, taking on the surreal nightmares she wrestles with in order to save her from a dark fate.MASTER DEEP COMBAT SYSTEMS\nThe dream combat system allows deep mastery of fluid attack and defense; mix up melee, ranged and dream powers with blocking, dodging and ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7cf/7cf73ba9f0dc342738e4ab18f0aad597.jpg",
+        "https://media.rawg.io/media/screenshots/dc3/dc3a93bd32f6b2f3a8287c0b4fa387a5.jpg",
+        "https://media.rawg.io/media/screenshots/ff1/ff1b8aac5daebb0d44de6a148f4179ab.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Dreamscaper(Rogue like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bf83cb37-b103-455f-9163-9eeb783ef87d",
+      "title": "DreamWorks All-Star Kart Racing",
+      "tags": "Corrida",
+      "cover": "https://media.rawg.io/media/screenshots/29d/29d17a81c1dd44c0ec27024da78a91ea.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0c2/0c2609ee7762d537304aed26a888d47e.jpg",
+        "https://media.rawg.io/media/screenshots/a5c/a5c899e0448bb84015e9a4a751715333.jpg",
+        "https://media.rawg.io/media/screenshots/ba8/ba8170f81096bad4fbd565a1695f38d4.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "DreamWorks All-Star Kart Racing(Corrida)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1a9102eb-fb3c-45ff-a0e7-0e3c3564a947",
+      "title": "Dredge",
+      "tags": "pescaria",
+      "cover": "https://media.rawg.io/media/games/c2c/c2c9f1c026b6c1be5bc2160baf7224ea.jpg",
+      "description": "An unusual fishing RPG with a sinister undercurrent. Catch more than 125 deep sea denizens and pack them into your cargo hold for maximum profit. Dredge the seabed for valuables and relics. Get acquainted with the locals of Greater Marrow, just one of dozens of islands in the archipelago.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5f7/5f70f0d6759997f2e378ef57d2f2dba7.jpeg",
+        "https://media.rawg.io/media/screenshots/b51/b513f2e522d42cabc7b3c8a55ccd5bbe.jpg",
+        "https://media.rawg.io/media/screenshots/3d6/3d611cdff24fcc1bdafe93bf1193e2dd.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Dredge(pescaria)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "de0a571f-3ed9-4692-bbcb-9f6acc4617f6",
+      "title": "Dust: An Elysian Tail",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/c40/c40f9f0a3d1b4601a7a44d230c95f126.jpg",
+      "description": "Dust: an Elysian Tale is an action role-playing game with metroidvania elements set in an imaginary world called Falana. Dust, the main character, with his sentient sword called Blade of Ahrah and guardian Fidget explores the “2D” side-scrolled environments. According to the storyline, Dust wakes up in the forest meadow and finds himself unconscious. Then, after meeting the sentient sword and its keeper, Dust decides to find the keys to his past. Players are offered to assume the role of Dust on...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f58/f589a0931b7398d79664190af9080732.jpg",
+        "https://media.rawg.io/media/screenshots/a2d/a2d0dd076c443a9106f154987ea61f15.jpg",
+        "https://media.rawg.io/media/screenshots/326/326593beda80a34cd038a5a0d786803f.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Dust: An Elysian Tail(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "da79534b-8ea4-4879-b1a0-df06ae1db1f1",
+      "title": "Dying light",
+      "tags": "Mundo Aberto",
+      "cover": "https://media.rawg.io/media/games/c11/c11a0b92b4c28f2e0db489f430142653.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/495/495dd54b0ac4609d0f3dcdfc8f661f70.jpg",
+        "https://media.rawg.io/media/screenshots/a34/a34bbb07f19db3ad25004d3baf15b251.jpg",
+        "https://media.rawg.io/media/screenshots/eb3/eb35310e06697e3140870d528926adbe.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "Dying light(Mundo Aberto)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9001074d-7421-4e46-b620-fef696a5dd88",
+      "title": "Eagle island twist",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/d24/d24d468c39f03f867e40fb6577b0a108.jpg",
+      "description": "Embark on a whimsical adventure across a lovingly-crafted island of mystery!\nAs Fia and Kusako, brave the island of Yulu’s dangers to restore an ancient artifact and seal a dark doppelganger you mistakenly unleash. Soar through crisp, expressive pixel art in this hand-crafted platformer that features bright palettes and layered backgrounds.\n• Cast your owl companion as a projectile to defeat enemies and collect coins, seeds, and manaroc.\n• Fly through 45 stages that homage influential retro clas...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bd7/bd7299cee00ef44bb61afbc304c49d46.jpg",
+        "https://media.rawg.io/media/screenshots/e20/e20956b086d754e79b11cffb9c0725cc.jpg",
+        "https://media.rawg.io/media/screenshots/4ba/4bad7a4fe1dacd62a8f82e326bbe9b8b.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Eagle island twist(plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "11722e57-c105-46a0-a5d2-46b5d80ff954",
+      "title": "Earthion",
+      "tags": "Navinha",
+      "cover": "https://media.rawg.io/media/screenshots/9a5/9a5e748fa6ce2336a161ad2e432a0798.jpg",
+      "description": "Return to the genesis of 16-bit gaming with Ancient's brand new shoot 'em up, Earthion!Yuzo Koshiro’s Earthion is a side-scrolling space shooter developed natively for 16-bit systems by legendary Japanese developer Ancient Corporation. Guide space fighter pilot Azusa Takanashi, through eight chaotic levels, each with their own unique environment, enemies, and boss fights, to repel the alien invaders and save planet Earth.Legends of the 16-bit era returnInstrumental in the creation of some of the...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/263/2639569f8996315c4f69c34751284e6a.jpg",
+        "https://media.rawg.io/media/screenshots/325/325aa9e565644b71c80e8c899ad5b826.jpg",
+        "https://media.rawg.io/media/screenshots/cf2/cf2375280f7dd9dfa418a458d001b903.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Earthion(Navinha)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "20e17357-acad-4a67-914a-186d828f5335",
+      "title": "Eastward",
+      "tags": "Zelda like",
+      "cover": "https://media.rawg.io/media/games/cd3/cd3bf69db1093510cf1386b76564ea70.jpg",
+      "description": "Eastward is an adventure game with RPG elements, set in a beautifully detailed decaying world, where society is starting to collapse as the human population shrinks to an all-time low. As the world around falls to ruin, you play as a hardworking digger John, who must guide a mysterious girl named Sam through dangerous decaying cities, inhabited by strange monsters, and even stranger people! Inspired by 90s Japanese animation, the visual style of Eastward has been brought to life using a combinat...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d8d/d8db02c0155bcd4c7a816c08294107c6.jpg",
+        "https://media.rawg.io/media/screenshots/26e/26e8b3431094e36dfea282aa30530870.jpg",
+        "https://media.rawg.io/media/screenshots/c55/c558ceedea8774a63dbec641113665c7.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Eastward(Zelda like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7abf7787-302b-4653-83c8-17b8317788b9",
+      "title": "Ebenezer and the Invisible World",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/80e/80e6eaa7bf8fb145a571c639e66720db.jpg",
+      "description": "Join Ebenezer Scrooge and a team of spectral allies as they battle to save London from the clutches of the wealthy industrialist, Caspar Malthus, and his militant Private Guard. With each Ghost lending their unique abilities, explore the dark corners of London and uncover the sinister influence of the Dark Spirit and an army of Unrepentant Ghosts. Will you have the courage to confront Caspar and stop his malevolent plans before it is too late?FeaturesMeet and unlock powerful Ghosts, each with th...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/936/936f4e45d764bdecba45f9e2682ef3dc.jpg",
+        "https://media.rawg.io/media/screenshots/fce/fcefa9306d8d63cdb0c497d113d14fc4.jpg",
+        "https://media.rawg.io/media/screenshots/8de/8de8fa5b7508eb8e254d213be2dc0249.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Ebenezer and the Invisible World(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7c192614-d20d-4ffd-883d-200a6b34b9c3",
+      "title": "Elderand",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/9b0/9b05bc26de6cc4d4c65cbabfa96e351d.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 05 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/678/6784c1d254c3cd2b3fc6b1155250e10b.jpg",
+        "https://media.rawg.io/media/screenshots/6fd/6fd4e2dd0eee8bfb13d6869a050d1050.jpg",
+        "https://media.rawg.io/media/screenshots/b40/b4073c21dddf717726ec95011131e757.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Elderand (metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9d73a7d3-282b-48f6-9f03-66318e8f2cb5",
+      "title": "Elsie",
+      "tags": "Rogue like",
+      "cover": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_Elsie_image1600w.jpg",
+      "description": "Elsie is a fast-paced 2D action platformer with rogue-lite elements. It requires the player to take advantage of its system of stats and augments in order to overcome the increasingly difficult waves of enemies.\nDevelopers\nAlejandro Remior (Lead Programmer)Matthew Martinez (Lead Artist & Animator)Eric Benaim (Music Composer & Sound Designer)Mikkel Julian 'Arks' Petersen (Artist & QA)Max Leone (Programmer & QA)",
+      "images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO78wWXBUogUz8uKxgRuucv095WJSf79aFLC3a7izu-VrRfHRRBYx8I2JZSGl8aAi9MNZstIa5GQuGTuPIt8f_QOnHwJ5Hy1oVUqcmGDYb4WUguk0SklSk_aySs2-MzawkImTibW0vgzOYewMNW3Zu2AjgMnak-XLgFIID4nd9f07BOcDewhRwd__alQ/s1920/unnamed%20(4).png"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Elsie(Rogue like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5da1d76d-55a9-4d8b-8518-88ffb33bd41b",
+      "title": "Elypse",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/db5/db59d98521da8ff3076984c9723ee5ae.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e5b/e5b15ecbe6e14bc057a48f3e077ffb95.jpg",
+        "https://media.rawg.io/media/screenshots/fa9/fa9cd307b3915c998e348253603a1635.jpg",
+        "https://media.rawg.io/media/screenshots/671/6711a0d5e136b7fd1bcd59821865dcc2.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Elypse (plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c36ed523-eaed-4bd2-95d2-3f4b2a6be192",
+      "title": "Emio - The Smiling Man: Famicom Detective Club",
+      "tags": "Visual novel",
+      "cover": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_EmioTSMFamDetClub_Gamepage_GB_en_image1600w.jpg",
+      "description": "Investigate a brutal death and its connection to an urban legend\n \nA student has been found dead! His head was covered with a paper bag with an eerie smiling face drawn on it—much like the victims of Emio, the Smiling Man—a killer of urban legend who is said to place such a bag over his victims’ heads.\n \nAs an assistant private investigator, you are tasked with helping police solve this crime, which is reminiscent of a series of unsolved murders from 18 years ago. Has a serial killer returned, o...",
+      "images": [],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Emio - The Smiling Man: Famicom Detective Club(Visual novel)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "280327d1-1b9f-48da-b87d-a0f97f3a7921",
+      "title": "Ender Lilies: Quietus of the Knights",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/f6e/f6ebc5c1953b3733a6fcaa484ad72497.jpg",
+      "description": "Story\nOnce upon a time, in the Kingdom of End,the Deathly Rain suddenly started to fall,\ntransforming all living things it touched into bloodthirsty corpses.\nIn an instant, the realm fell into chaos.\nThe cursed rain never stopped pouring on the remaining ruins...\nIn the depth of an old forgotten church,\nLily opens her eyes.\n\nExperience\nENDER LILIES is a dark fantasy 2D Action RPG about unraveling the mysteries of a nation destroyed by a cataclysmic event. The fallen Kingdom of End is a tragic an...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1e2/1e2adcbe6bb7fc5686450e236dba27eb.jpg",
+        "https://media.rawg.io/media/screenshots/022/022e46065850d57d15e7c6d0e66758e9.jpg",
+        "https://media.rawg.io/media/screenshots/7b4/7b48e9e5cc864e1e15c084f6cb9b1c02.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Ender Lilies: Quietus of the Knights(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e3fe46f7-c13f-451e-840f-9cab61fa35df",
+      "title": "Ender Magnolia: Bloom in the Mist",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/aae/aae37cbe4e22cd86ad400ef0e84dc458.jpg",
+      "description": "STORYSet in the Land of Fumes, this prosperous magical superpower is home to vast quantities of magical resources lurking underneath the surface. In hopes of advancing their kingdom's development, artificial life forms known as Homunculi came into being. Regrettably, toxic Fumes from the underground drove the Homunculi to madness, turning them into feral monsters.\nYou play as Lilac, an \"Attuner\" who possesses the power to save the Homunculi. Upon waking, you find yourself in a laboratory deep in...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f2d/f2ddf094658233ad26f71a0430d913c7.jpg",
+        "https://media.rawg.io/media/screenshots/93e/93e8fce17ceb7e85c57a474fe9da5d56.jpg",
+        "https://media.rawg.io/media/screenshots/58e/58e872e72dce3a40a84bd158aa8ee7d0.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Ender Magnolia: Bloom in the Mist(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1b86c2d4-5652-4045-aa87-d73a182d5568",
+      "title": "Enter The Gungeon",
+      "tags": "rogue like",
+      "cover": "https://media.rawg.io/media/games/3be/3be0e624424d3453005019799a760af2.jpg",
+      "description": "Enter the Gungeon is a twin-stick roguelike shooter. The game takes place in a planet inhabited by living bullets. You play as one of six adventurers trying entering a considerable fortress to find a gun that can destroy one’s past. \nThe gameplay represents a mix of bullet-hell and dungeon crawler. You choose one of the characters and start descending the Gungeon. Every floor has several pre-made rooms with enemies and treasures procedurally-generated. The player can shoot guns, dodge, use items...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/056/0565c6387fbf0eff99ba4a04c4aaae97.jpg",
+        "https://media.rawg.io/media/screenshots/d6b/d6b29667b38b72d7cf4e375381902d54.jpg",
+        "https://media.rawg.io/media/screenshots/02e/02e67e17f6f20fd83eb23442fa49168a.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Enter The Gungeon(rogue like)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3cdb5472-74b3-4c65-8e45-2a1d1203b95b",
+      "title": "Escape from Ever After: Onboarding",
+      "tags": "Paper mario like",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Escape from Ever After: Onboarding(Paper mario like)",
+      "description": "https://store.steampowered.com/app/1996390/Escape_from_Ever_After/\nEscape from Ever After: Onboarding is a free, standalone version of Escape from Ever After, featuring the game’s first chapter. It’s fairytales vs. capitalism in this adventure RPG inspired by the classic Paper Mario games!\nIt turns out that storybooks are an untapped market ripe with valuable resources, cheap labor, and profit to be had—so naturally, real-world conglomerate Ever After Inc.™ found a way to intervene! With no choi...",
+      "cover": "https://media.rawg.io/media/screenshots/bc6/bc6e54fe92184b8ece45a1a9a3894a64.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/218/218eb890fb590216a74937fff7edb35b.jpg",
+        "https://media.rawg.io/media/screenshots/266/2667408e56ebbc841d5133ceee9723c8.jpg",
+        "https://media.rawg.io/media/screenshots/0a9/0a98e86f0182373fcc12b25f3a0c5fa0.jpg"
+      ]
+    },
+    {
+      "id": "4d1419a4-b3f1-4911-9995-c0d3782c47cb",
+      "title": "Europa",
+      "tags": "plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/4fa/4fa39156db1759e255cd58aebf4f2cef.jpg",
+      "description": "On the moon Europa, a lush terraformed paradise in Jupiter’s shadow, an android named Zee sets out in search of answers. Run, glide and fly across the landscape, solve mysteries in the ruins of a fallen utopia, and discover the story of the last human alive.\n\nEuropa is a peaceful game of adventure, exploration and meditation. As you travel you’ll gradually upgrade the capabilities of your Zephyr jetpack, boosting yourself further through the air until you can flow freely into the sky.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/760/7608248f8dd2de9a840c60c728966ccd.jpg",
+        "https://media.rawg.io/media/screenshots/2ed/2eddb4f98e82e66b1860d062bf4839ef.jpg",
+        "https://media.rawg.io/media/screenshots/509/509832fa84b0fd712c2d13cf2d1337fe.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Europa(plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "19d62dde-54f4-40cf-a6d4-58aedfa52ae1",
+      "title": "Everbody 1-2-Switch",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/57f/57f52ac1794c3f290f630b939e1f2709.jpg",
+      "description": "Throw an impromptu party anywhere with anyone thanks to a new play style in which players look at each other—not the screen! Bring the action and fun into the real world as you face off in wild-west duels, cow-milking competitions, a copycat dance-off, and more. Each game takes advantage of the Joy-Con controller features of the Nintendo Switch system in different ways. While the action unfolds off-screen, the audience watches the players themselves instead of the screen. That makes it as hilari...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/801/80115a122a034db15215437ee10de5f1.jpg",
+        "https://media.rawg.io/media/screenshots/fdc/fdc9848912ef53f7e8c70f3e3eebfbf4.jpg",
+        "https://media.rawg.io/media/screenshots/731/7313c06d851d7bf3b3dba66d14639f3f.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Everbody 1-2-Switch",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "cd8182d2-defa-41f1-8a6f-2cf85a0aab32",
+      "title": "Everdream valley",
+      "tags": "fazenda",
+      "cover": "https://media.rawg.io/media/screenshots/cf1/cf1b28381a32190b5503ae557e9b625e.jpg",
+      "description": "Finally holidays! This summer, for the first time ever, you will spend it alone at your grandparent’s farm. Two months without mom and dad. Only you and your dog! Two months during which you have to take care of the grandparent's farm growing plants and milking animals, well at least some of them.\nYou will plant, water, gather crops, and fight (sometimes for life) against pests.\nYou'll need to clear nettles, build pens, and keep the animals on the farm happy.\nYou can sell your crops and buy or u...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/284/284bbdefc25c2d9c0d7b283cb2de91e7.jpg",
+        "https://media.rawg.io/media/screenshots/5e0/5e03611542ddda36aaa98555639b241b.jpg",
+        "https://media.rawg.io/media/screenshots/f65/f65ade56838ac4c571f8d5e95e19eb70.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Everdream valley(fazenda)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "01d26778-05b3-4373-94cd-de20a4891a76",
+      "title": "Everhood 2",
+      "tags": "Jrpg - Batalha ritimíca",
+      "cover": "https://media.rawg.io/media/screenshots/30d/30da38b6a612ae9f03ff9960cb27b429.jpg",
+      "description": "Enter the world of EverhoodDiscover the color of your soul and what lies beyond the river of death in a strange land. Accompany a mysterious celestial Raven who has deemed you worthy of slaying the Mind Dragon.FeaturesMaster the music-based battles with over 100 songs!Voyage through a transcendental journey across 10-12 hours Enter a wild universe with mind-bending visualsConquer the unconquerableCustom World & Battle Editor SupportMake funny friends!WARNING: The game contains imagery that may b...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6d5/6d5d9584e0d17464c2bcd7325d0e9258.jpg",
+        "https://media.rawg.io/media/screenshots/b9b/b9bfc184152ecd9b304095e06693762d.jpg",
+        "https://media.rawg.io/media/screenshots/1c7/1c7a3e1dc8c8eadf5355c2417eb8fe0a.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Everhood 2(Jrpg - Batalha ritimíca)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1e034feb-da51-4708-b060-d1747c82bb79",
+      "title": "Evil tonight",
+      "tags": "Terror 2d",
+      "cover": "https://media.rawg.io/media/screenshots/e5d/e5ddb21dd5aa269b03094cab63ab9594.jpg",
+      "description": "Silvia isn't afraid of evil. Evil is her job. As a modern exorcist, Silvia has overcome countless horrors with her ability to materialize the evil of haunted places... But tonight... things don't go as planned... Fight, survive, explore, solve puzzles and uncover the mystery of... Evil Tonight!\nNo map. No hand holding. Like classic survival action adventures of old, Evil Tonight features exploration in its purest form. Find items, discover hidden paths, solve puzzles, manage scarce ammunition, a...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/202/20204db78cf9e6fee8f719d713c69ee7.jpg",
+        "https://media.rawg.io/media/screenshots/c17/c17ac022f6a15713b81d58e0d8e7c9ae.jpg",
+        "https://media.rawg.io/media/screenshots/d3d/d3dd8c2125bf19a135ee67c1d3aa9692.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Evil tonight(Terror 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "824b0b68-acb2-46d3-a886-74ccc7c9e805",
+      "title": "F.I.S.T",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/d92/d92063ff4fc5b9f1f79cbc73594df289.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1bb/1bb3e02b6384d62d22b2011d4befb360.jpg",
+        "https://media.rawg.io/media/screenshots/7b3/7b387a40b7758e82db71f2c2189a5c81.jpg",
+        "https://media.rawg.io/media/screenshots/178/178f5fa7bf5b9c134ab1aaadb6a29e4b.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "F.I.S.T (Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f22697e1-6b88-4b79-9ea5-38aedcf91dd3",
+      "title": "Fading Afternoon",
+      "tags": "Briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/923/9236cb845dade3fe9046dac227afc877.jpg",
+      "description": "Jogo de Nintendo Switch. Briga de rua",
+      "images": [
+        "https://media.rawg.io/media/screenshots/361/36198985cdfb67c1705544a4607b92ee.jpg",
+        "https://media.rawg.io/media/screenshots/29d/29d178dfd4819fa490ab570be17049a3.jpg",
+        "https://media.rawg.io/media/screenshots/140/1402b93dbdf197a0ea974887cb456f13.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Fading Afternoon(Briga de rua)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "84f00a5f-be25-4c98-a915-a1029530e2b5",
+      "title": "Fae Farm",
+      "tags": "Fazenda",
+      "cover": "https://media.rawg.io/media/screenshots/6bd/6bdc7e643413000f19fadbe447e29eea.jpg",
+      "description": "Escape to the fairytale life of your dreams in Fae Farm, a farm sim RPG for 1-4 players. Craft, cultivate, and decorate to grow your shared homestead—and use spells to explore the enchanted island of Azoria! You’ll forge new bonds with residents, discover fae magic, and trek across mysterious realms. And as the seasons change, you’ll use all you've learned and discovered together to restore the world around you.\n\n● Cultivate an enchanted farm with up to 4 players in local or online multiplayer! ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6c7/6c771b527631c13609c4b6ef0d31f219.jpg",
+        "https://media.rawg.io/media/screenshots/704/704879ede575643f0333631ba55ecdbf.jpg",
+        "https://media.rawg.io/media/screenshots/b3b/b3bd7c6112b06b6f62f7921436ef0195.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Fae Farm(Fazenda)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a2970a04-05d5-46f3-bffd-be540e8675dc",
+      "title": "Fairy Fencer F",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/6d6/6d6caeae16f880aefbfc74cdb60c6a76.jpg",
+      "description": "Long ago, the Vile God and the Goddess waged war with each other. Equally matched, they were sealed away in another world…\nNow a lazy young man named Fang somehow finds himself a key part of this war he’d really rather not deal with, but fate beckons in this uncommon RPG!\nKey Features\nMore Flash & Flair! The world of Fencers and fairies gets updated with a 1080p graphic overhaul! Fairizing never looked so good.\nReally Reluctant Hero With a hero more interested in his next meal and a fairy partne...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e85/e8538ea1161c52585a04af6657a98e2f.jpg",
+        "https://media.rawg.io/media/screenshots/fd9/fd9d688ddb45ed42edf20c7fc5a32258.jpg",
+        "https://media.rawg.io/media/screenshots/95d/95d2727bb56ac51340b43496d3038b55.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Fairy Fencer F(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c86e7769-d729-4232-a041-b7eec6e5d969",
+      "title": "Fairy Tail",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/games/985/985398560bc77b807b7e25a9057cc69e.jpg",
+      "description": "Take on dragons, demons, and dark wizards in Fairy Tail. Natsu Dragneel, Lucy Heartfilia, and other guild members are ready for thrilling adventures and intense magic-filled RPG battles. Fairy Tail boasts story lines and imagery faithful to the original manga work, letting you immerse yourself in the tale.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fbb/fbb86205c28b264ce8a060d16783f1c6.jpg",
+        "https://media.rawg.io/media/screenshots/c52/c52439fad80926fdc69f872a03dd30a7.jpg",
+        "https://media.rawg.io/media/screenshots/2c2/2c26c75ae3b71481ff95aa8fc00e09c1.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Fairy Tail(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "eedacff4-c1b4-4169-8e1a-25f4f82b316c",
+      "title": "Fairy Tail 2",
+      "tags": "jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/de0/de060d95568183609d35f55df5713586.jpg",
+      "description": "Experience the magic battle fantasy series FAIRY TAIL and its climactic finale, the \"Alvarez Empire Arc\" in this RPG! This game will feature full appearances by Spriggan 12 and Zeref, spectacular magical battles fought by Natsu and his friends, and a completely original storyline!",
+      "images": [
+        "https://purenintendo.com/wp-content/uploads/2024/12/fairytail2f.jpeg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Fairy Tail 2(jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fc662b80-faa5-4d16-9fbb-1db7be83cf28",
+      "title": "Fantasy Life i: The Girl Who Steals Time",
+      "tags": "J Rpg/ Fazendinha",
+      "cover": "https://media.rawg.io/media/games/545/5450b378ca92da5ae4cff62227be25e6.jpg",
+      "description": "Begin a fantastic life on a ruined island, and embark on a great adventure into the past! Gather friends, craft, and build your own city!\n\nA completely new entry in the Fantasy Life series!\nBuild your own city and go on adventures on a new island!\nExplore the island with whatever Life (occupation) suits you!\nTravel between the past and present to unravel the mysteries of this ruined island!\nPopular characters from the series make a return!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/48e/48e3ee785207a79d40afc4b9e22711e8.jpeg",
+        "https://media.rawg.io/media/screenshots/8df/8df6263d1e624fa73db38db19f15bb13.jpeg",
+        "https://media.rawg.io/media/screenshots/623/62302f0851c7c92eb62a78e519478e33.jpeg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Fantasy Life i: The Girl Who Steals Time(J Rpg/ Fazendinha)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9b63d555-9eb4-4e44-b5ee-7cfe771b6bf1",
+      "title": "Farmagia",
+      "tags": "fazendinha com monstros",
+      "cover": "https://media.rawg.io/media/screenshots/fb4/fb44d8aefc1ced64db006ad7931b847f.jpg",
+      "description": "Digital Deluxe Edition\nAbout the GameMarvelous and Hiro Mashima team up to present a brand-new adventure full of frantic monster combat and rewarding farming simulation. After the death of Felicidad’s ruler, the despotic overlord Glaza seizes power and imposes an oppressive regime on the world’s inhabitants. As Ten and his fellow Farmagia friends, command an army of monsters as you explore and battle across the treacherous lands of the Underworld, collecting resources to take back to your farm. ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3b9/3b9c96794c3ccf052c86c0d8e64dfefa.jpg",
+        "https://media.rawg.io/media/screenshots/0c5/0c51038130d32158a8fc3dbbb0700385.jpg",
+        "https://media.rawg.io/media/screenshots/95e/95efc1f68278f53c91fe2117b9d4e5e3.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Farmagia(fazendinha com monstros)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "83a1a822-f648-4e24-a5a1-914a92637d8d",
+      "title": "Fashion Police squad",
+      "tags": "Boomer Shooter",
+      "cover": "https://media.rawg.io/media/games/1ec/1ec7ef994e1666a5c966e57a63e1eda7.jpg",
+      "description": "Calling all officers! I've got a Fashion Crime in Progress and I'm mobilizing all Fashion Police Squad members. Grab your Belt of Justice and your Tailormade Sewing Machine, we've got some Fashion Justice to dispense!\nFashion Police Squad is a humorous Retro FPS where you fight against fashion crime using attire enhancing weaponry. Clean the streets of socks in sandals as Sergeant Des, and experience a single-player story full of fabulous characters, dazzling encounters, and fierce runway shows!...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/355/35532822ee9f2649f3594d716d37632b.jpg",
+        "https://media.rawg.io/media/screenshots/cda/cda8c6e5940142aa3082bd022af9949c.jpg",
+        "https://media.rawg.io/media/screenshots/969/9691ffbebab88124620fa12ec89e3a3e.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Fashion Police squad(Boomer Shooter)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f9e62f9d-5642-4daf-af54-b6dc3ed2c62e",
+      "title": "Fast Rmx",
+      "tags": "corrida",
+      "cover": "https://media.rawg.io/media/screenshots/231/23131a0cd26476d6240c3196fc2b84d7.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e1a/e1afa0785d850c33876074387bb61e81.jpg",
+        "https://media.rawg.io/media/screenshots/8fc/8fcf43f0430d81d3dc8fb62ec173e121.jpg",
+        "https://media.rawg.io/media/screenshots/61e/61eec23631d9d88c25f080d9f8d27ff0.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Fast Rmx(corrida)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "a4c09950-7eb5-4339-ae70-3271f72f45d1",
+      "title": "Fatal Frame: Maiden of Black Water",
+      "tags": "Terror",
+      "cover": "https://media.rawg.io/media/games/667/6670f21cfd8e641a7b73aa412e0da71e.jpg",
+      "description": "Fatal Frame: Maiden of Black Water is comprised of three interconnected\nstories that converge to uncover the truth behind a recent string of\ntragic deaths in a forest marred by a history of suicides. As one of\nthree people with the power of the Camera Obscura and the ability to see\nthe shadows of those spirited away, you’ll explore the ruins of an eerie\ninn, a shrine filled with life-size dolls, and a lake full of dead\npriestesses. Each shadowy location is connected by a stream of water\nflowing ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/078/078f80e9151fb380b9ac7169b006cb3f.jpg",
+        "https://media.rawg.io/media/screenshots/940/940ec413a37bb0209b624b67e69e5eb5.jpg",
+        "https://media.rawg.io/media/screenshots/ca4/ca4bf755a056bedb84fb29315dfc0489.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Fatal Frame: Maiden of Black Water(Terror)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b09718d7-9d50-4f98-85ce-2188941247d2",
+      "title": "Fate/Samurai Remnant",
+      "tags": "actionrpg",
+      "cover": "https://media.rawg.io/media/games/16a/16a65deb0c041961487c127cb8ee0f7c.jpg",
+      "description": "The 4th year of the Keian Era, Edo Period.\nForty-eight years had passed since Ieyasu, the sovereign of Japan, opened the capital to the Tokugawa shogunate.\nThe reign of the Tokugawa was passed down to the fourth Shogun, Ietsuna.\nThe number of people living in Edo increased day by day, and the city seemed to be enjoying its prosperity.\nHowever, due to a succession of dissolutions and revocations by the feudal lords,\nthe streets were filled with ronin, and the peaceful days of Edo seemed to be fad...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/24b/24b297f716a54d0321a2d4e1ad46319b.jpg",
+        "https://media.rawg.io/media/screenshots/73f/73f5900d1b9b2392a7c30728000e2de5.jpg",
+        "https://media.rawg.io/media/screenshots/6d3/6d3463d98b6696c8bfdf685b42c0d98e.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Fate/Samurai Remnant(actionrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "19606461-9fdb-4913-a765-7fc8d1e27f2f",
+      "title": "Fearmonium",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/75e/75e414f211c89b3c74365d170ebe60f8.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d2c/d2cfa15ed83dc17ec1c28aad54f96e9f.jpg",
+        "https://media.rawg.io/media/screenshots/056/0561d47490659d574f1db347a7838167.jpg",
+        "https://media.rawg.io/media/screenshots/109/1092d0ce2bd74badb829bf0b428e33f4.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Fearmonium (Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8b2e0a71-dc08-4d7e-8087-7d5d1309fc09",
+      "title": "Fifa e Ea football",
+      "tags": "Futebol",
+      "cover": "https://media.rawg.io/media/games/355/355d2ec5d6b87518228dc30a9bb0e70d.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/955/9557c44f07a713d9b97776a19bbcd968.jpg",
+        "https://media.rawg.io/media/screenshots/0bf/0bfbf381171613bf7bf6e2e4eabd8f29.jpg",
+        "https://media.rawg.io/media/screenshots/fac/fac7b9405c7767558de8639bb44a0156.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Fifa e Ea football(Futebol)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a46cb7ba-49e6-4dec-991b-81c835ed1eb9",
+      "title": "Fight N Rage",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/games/907/9072a603448c13e1223b53dcc8019cca.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 13 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bcc/bccd128d82240f0ab2bc97c7b9f18e1e.jpg",
+        "https://media.rawg.io/media/screenshots/c38/c389eca12707aa9440f1dcab08280d11.jpg",
+        "https://media.rawg.io/media/screenshots/141/141a2229ec36e0a3a8670b37a33c0fc2_3ljUvUC.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Fight N Rage(briga de rua)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d3c3c941-6dea-4c97-9fac-3acef64a2484",
+      "title": "Fighting Force Collection",
+      "tags": "Briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/5a9/5a9b5b620920735cddde497fe0c7def2.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b4f/b4fc2624802f4031229bf7da0a075ba0.jpg",
+        "https://media.rawg.io/media/screenshots/9bf/9bfca28392f794ae7c962a26adb0f642.jpg",
+        "https://media.rawg.io/media/screenshots/0fc/0fc62c729183846ac42a8c249682b708.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Fighting Force Collection(Briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0e95652b-a47c-491c-9fa9-4404f1c66081",
+      "title": "Figment (Puzzel)(coop",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/dcc/dcce37f6d000c846c7aa23ccebf53a73.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8f7/8f7ca511179e944038a6a92b1bda415c.jpg",
+        "https://media.rawg.io/media/screenshots/0e1/0e131c16ed2ebf568f54dfa838d09a7d.jpg",
+        "https://media.rawg.io/media/screenshots/ee8/ee806cadba8b5a4456eab824de927c3a.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Figment (Puzzle)(coop",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "951c0954-9567-4af8-9429-122ea46f67e2",
+      "title": "Final Fantasy Cristal Chrinicles",
+      "tags": "Jrpg) (Multiplayer",
+      "cover": "https://media.rawg.io/media/games/fff/fff30d07987aa2fb9583517c4f120bd3.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fb2/fb253b2dd8eb7442c5328021a9e83aed.jpg",
+        "https://media.rawg.io/media/screenshots/d51/d51db8b218b2cffcab03e0bc5faf6e72.jpg",
+        "https://media.rawg.io/media/screenshots/6a5/6a550d68a3ac85e50dcef7620c761256.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Final Fantasy Cristal Chrinicles(Jrpg) (Multiplayer)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "da3142d2-d1aa-4e2b-bcd6-094372a7611d",
+      "title": "Final Fantasy IX",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/826/82626e2d7ee7d96656fb9838c2ef7302.jpg",
+      "description": "Final Fantasy IX (ファイナルファンタジーIX, Fainaru Fantajī Nain) is a 2000 role-playing video game developed and published by Square for the PlayStation video game console. It is the ninth title in the main Final Fantasy series and the last to debut on the original PlayStation. The game plot centers on the consequences of a war between nations in a medieval fantasy world called Gaia. Players follow bandit Zidane Tribal, who kidnaps Alexandrian princess Garnet Til Alexandros XVII as part of a gambit by the...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/59d/59d17999a5d83ebd50fb66cdbe842eab.jpg",
+        "https://media.rawg.io/media/screenshots/bd9/bd9126c06ef386db79320b913b73946b.jpg",
+        "https://media.rawg.io/media/screenshots/62b/62bfc0fc68b6124e16c0e985aabc8615.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Final Fantasy IX(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3cc0fab3-b454-4bec-bcff-3fc820fd77c3",
+      "title": "Final Fantasy Pixel Remaster - I-VI",
+      "tags": "Remaster do FF 1 ao 6",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Final Fantasy Pixel Remaster - I-VI(Remaster do FF 1 ao 6)",
+      "description": "Fans and newcomers are invited to dive into six masterpieces that bridge the ages with unique tales of epic adventure. The company will release the beloved titles individually, from FINAL FANTASY I through FINAL FANTASY VI, for Steam® and mobile platforms.",
+      "cover": "https://media.rawg.io/media/games/34a/34ae9518af1560ed87cb51383369390d.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/83e/83e28d8215cd6c9961b984fda649593d.jpg",
+        "https://media.rawg.io/media/screenshots/0c7/0c7e2527f5509c31093596d6c35c2b29.jpg"
+      ]
+    },
+    {
+      "id": "1210a152-b715-4714-9aaa-b768ae9a3f06",
+      "title": "Final Fantasy Tactics - The Ivalice Chronicles",
+      "tags": "Jrpg tático",
+      "cover": "https://media.rawg.io/media/games/20f/20f3db6b59c1c31e1f1623fa1cafc058.jpg",
+      "description": "The genre-defining tactical RPG finally returns with fully voiced dialogue, enhanced graphics, and countless gameplay improvements.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/210/210e04bb55966994518c8b938360b580.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Final Fantasy Tactics - The Ivalice Chronicles(Jrpg tático)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5c700356-644d-4168-a98a-2f70da0cdfc7",
+      "title": "Final Fantasy VII",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg",
+      "description": "The world is under the control of Shinra, a corporation controlling the planet's life force as mako energy. In the city of Midgar, Cloud Strife, former member of Shinra's elite SOLDIER unit now turned mercenary lends his aid to the Avalanche resistance group, unaware of the epic consequences that await him.\n\nFINAL FANTASY VII REMAKE is a reimagining of the iconic original with unforgettable characters, a mind-blowing story, and epic battles.\nThe story of this first, standalone game in the FINAL ...",
+      "images": [
+        "https://img-eshop.cdn.nintendo.net/i/0fd737b5470a75c0d96b19d711dd06e7eaee58ddd91ebdd0311a51ceb7e03aa3.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Final Fantasy VII(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "aaffdc7f-7e3b-4642-9794-04350f174101",
+      "title": "Final Fantasy VIII Remastered",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/1ac/1ac050b86c87138ce6a3354aa90db894.jpg",
+      "description": "Coming in 2019, FINAL FANTASY VIII Remastered marks the 20th Anniversary of its original release with a new visual refresh and brings the game’s beloved story to PS4. With overhauled visuals, see your favorite characters come to life like never before!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/922/922b8d0bd9d5c995cc7be4af00d8a759.jpg",
+        "https://media.rawg.io/media/screenshots/c8d/c8dac0934447e3cd1a67953cb8380ca4.jpg",
+        "https://media.rawg.io/media/screenshots/ead/ead02432e1304a7412b164ef060ef2e0.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Final Fantasy VIII Remastered(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0869ce39-ba12-4977-a87d-e03a8101bcd2",
+      "title": "FINAL FANTASY X/X-2 HD Remaster",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/a14/a14acef284eaa4854f83c99e80fc15d8.jpg",
+      "description": "FINAL FANTASY X tells the story of a star blitzball player, Tidus, who journeys with a young and beautiful summoner named Yuna on her quest to save the world of Spira from an endless cycle of destruction wrought by the colossal menace Sin.\nFINAL FANTASY X-2 returns to the world of Spira two years after the beginning of the Eternal Calm. Having been shown a mysterious but familiar image in a sphere, Yuna becomes a Sphere Hunter and along with her companions Rikku and Paine, embarks on a quest aro...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/343/3435fff2c13449890c8b456d413a1da2.jpg",
+        "https://media.rawg.io/media/screenshots/a41/a416b40a9633725a5afa54beedc4412a.jpg",
+        "https://media.rawg.io/media/screenshots/ab7/ab750a399472303e49febf8ab7105990.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "FINAL FANTASY X/X-2 HD Remaster(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8c26b62f-ab03-4749-8632-0b8daa02e50b",
+      "title": "Final Fantasy XII: The Zodiac Age",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/f35/f351f8f406f2ea12088b5e1b034f73b9.jpeg",
+      "description": "Day-1 Edition\nPurchase at launch to receive three audio tracks and exclusive wallpaper created by original game artist Isamu Kamikokuryo plus a 20% launch discount (Offer ends 8th Feb 2018)\nAbout the GameFINAL FANTASY XII THE ZODIAC AGE - This revered classic returns, now fully remastered for the first time for PC, featuring all new and enhanced gameplay.\nRETURN TO THE WORLD OF IVALICE\nEnter an era of war within the world of Ivalice. The small kingdom of Dalmasca, conquered by the Archadian ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/212/212d8a384f8e4d2fc5f7c186c0e77236.jpg",
+        "https://media.rawg.io/media/screenshots/f64/f6432575605cfc02e5605c51c2890ab4.jpg",
+        "https://media.rawg.io/media/screenshots/6bc/6bc538efe4a794baf8a2723e6ba89979.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Final Fantasy XII: The Zodiac Age(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7f2be966-ac3c-4d5b-b43e-d902dac3fbfd",
+      "title": "Final Vendetta",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/714/714a0057da6541f63fbe105c82dc69d0.jpg",
+      "description": "Final Vendetta is a hard-hitting action packed beat ‘em up for 1 or 2 players in the vein of classic arcade titles. Featuring stunning pixel art and a thumping soundtrack with exclusive tracks from Utah Saints! Brawl with bad dudes and tough girls as you fight through dangerous environments.\nStory\nThe notorious “Syndic8” gang are slowly taking control of the capital and have kidnapped Claire Sparks’ younger sister. Unfortunately for them, Claire will do whatever it takes to get her back and crus...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/136/1366ddec50fc5616b07a14a3a7d208ea.jpg",
+        "https://media.rawg.io/media/screenshots/b6b/b6b8eb58c2c470e7f123c9d759558b16.jpg",
+        "https://media.rawg.io/media/screenshots/575/575b919e39e313d90e23c67884c0da10.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Final Vendetta(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f1e987c2-9a29-4ea7-8b60-24d97656cbdb",
+      "title": "Fire Emblem Engage",
+      "tags": "JRpg Tático",
+      "cover": "https://media.rawg.io/media/games/4c4/4c41c96a4ecbbff9ed23f62590e9b720.jpg",
+      "description": "In a war against the Fell Dragon, four kingdoms worked together with heroes from other worlds to seal away this great evil. One-thousand years later, this seal has weakened and the Fell Dragon is about to reawaken. As a Divine Dragon, use rich strategies and robust customization to meet your destiny—to collect Emblem Rings and bring peace back to the Continent of Elyos.\n\nTeam up with iconic heroes from past Fire Emblem games\n\nSummon valiant heroes like Marth and Celica with the power of Emblem R...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4af/4afda9166d610e98b75306222fd87ea4.jpg",
+        "https://media.rawg.io/media/screenshots/2a6/2a6e176e7686e9bdfe2054b39d90c8be.jpg",
+        "https://media.rawg.io/media/screenshots/862/862c3f978548daf520dea664833d755a.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Fire Emblem Engage(JRpg Tático)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "19029f97-ac06-4987-bf72-4bedcce485b4",
+      "title": "Fire Emblem: Three Houses",
+      "tags": "Jrpg tático",
+      "cover": "https://media.rawg.io/media/games/530/53081dbd5003f990fa5312404ac3d71a.jpg",
+      "description": "Jogo de Nintendo Switch.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d44/d446887276169dbf2766bcd17a8763fa.jpg",
+        "https://media.rawg.io/media/screenshots/3eb/3eb70f89c4195f16686785e9b8e74679.jpg",
+        "https://media.rawg.io/media/screenshots/8a3/8a3380503836f7d8960752b03bcc011c.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Fire Emblem: Three Houses(Jrpg tático)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "d904cd96-512a-4f8f-a498-f8d5ac623831",
+      "title": "Firegirl",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/308/308a21c90c9da8677134ff3099b452ce.jpg",
+      "description": "Play a firefighting girl in this pixel art platformer",
+      "images": [],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Firegirl(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f8b0d301-74a5-48bb-bf49-36d57606d8a9",
+      "title": "Fitness boxing2 fistofthenorth",
+      "tags": "Esporte",
+      "cover": "https://media.rawg.io/media/screenshots/b9d/b9da3f6374fc302b7a7ce663b047ceb0.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ba6/ba66df96e4f66314f277ad4a7ffc03f9.jpg",
+        "https://media.rawg.io/media/screenshots/ebd/ebd92e0b3271a2c70c8d178f6891eca5.jpg",
+        "https://media.rawg.io/media/screenshots/f85/f85af10a8b9a0d44e7b033379d0a1635.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Fitness boxing2 fistofthenorth(Esporte)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "ad6a28aa-52c1-4f10-861a-6e1a47f21637",
+      "title": "Fitness Circuit",
+      "tags": "exercício",
+      "cover": "https://media.rawg.io/media/games/4b9/4b9a27b7807aea26272dc405e99ec21c.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 09 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/edf/edfd972a39296fa10d0383bc7545908a.jpg",
+        "https://media.rawg.io/media/screenshots/67e/67e7319bd355659bd5aeec1cf9efbfc6.jpg",
+        "https://media.rawg.io/media/screenshots/60b/60b6d8e0d931ddad0c175fee331a4762.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Fitness Circuit(exercício)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "c3b9f83e-4078-45ea-b017-e7cce2b1bf5e",
+      "title": "Flashout 3",
+      "tags": "corrida",
+      "cover": "https://media.rawg.io/media/screenshots/3aa/3aa3802dfb9a2cf6cb7c2883bdd21393.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fec/fecd29f917aa2f8f8f94116aa8358ab9.jpg",
+        "https://media.rawg.io/media/screenshots/07c/07cb358e86e82436e15d6ddc5e6407bb.jpg",
+        "https://media.rawg.io/media/screenshots/ba0/ba09f20ae38ed3e192b99c89e3b1c007.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Flashout 3(corrida)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "eefea5c6-6535-4b08-b9a9-e690d0d20155",
+      "title": "Foregone",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/2a8/2a86d494366a6524ea94b24472e3b3d3.jpg",
+      "description": "Souls-inspired Action-PlatformerThe combat is intense. The enemies are mighty. The weapons are plentiful.\nYears after the resolution of a devastating war, an organization of powerful Arbiters carries out one objective: maintain order, by any means necessary. When a nefarious force that consumed her wartorn city long ago suddenly threatens to reawaken, one Arbiter is dispatched to preserve order and keep the peace – but her mission dredges up memories better left forgotten.\nGuide the Arbiter thro...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b82/b82c3bb13b6d3a52928836485750ec36.jpg",
+        "https://media.rawg.io/media/screenshots/635/6357d7f086f7a2ecedc8435445a7f5df.jpg",
+        "https://media.rawg.io/media/screenshots/eca/ecaf1bfe667028ffbb60f4bc23d472fa.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Foregone(plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fe2a6471-4332-4835-b848-bbfa0d4ebd5c",
+      "title": "Freedom Planet",
+      "tags": "Sonic Like",
+      "cover": "https://media.rawg.io/media/screenshots/4d7/4d7b129dea538ca905d03e942451b44f.jpg",
+      "description": "Freedom Planet is a combat-based platform adventure that pits a spunky dragon girl and her friends against an alien attack force. There's trouble around every turn, from insects to giant robots to sheer explosive destruction, but you'll have a variety of special fighting abilities to blast your way through each stage.\nAs Lilac, you can use Dragon powers to whip enemies with your hair, spin like a cyclone, or fly through the air at high speed like a comet.\nAs Carol, you can bust through foes with...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c57/c57af0e5acaf09148bf7709b4d182d6b.jpg",
+        "https://media.rawg.io/media/screenshots/ef3/ef38c5deb145f377a198b2888ee3ae81.jpg",
+        "https://media.rawg.io/media/screenshots/387/38700b2f6227c259f83572aa3ca57185.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Freedom Planet(Sonic Like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "395bf98f-a31b-4c80-b9b1-d12ee413dbde",
+      "title": "Freedom Planet 2",
+      "tags": "Sonic Like",
+      "cover": "https://media.rawg.io/media/screenshots/cab/cabf002c99c2753d8333652904875663.jpg",
+      "description": "Join the heroes of Avalice as they face their greatest challenge yet! An ancient terror has emerged from the depths of the ocean. Merga, a water dragon from Avalice's oldest and deadliest war, has been freed from her crystal prison as a consequence of the Kingdom Stone's destruction. War is imminent once again, but this time, the heroes are split between sides. As friendships are tested, will the girls stand united when Bakunawa rises?Features Four playable characters available from the start, e...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/eb5/eb500ba9ff795cc5e60f59b5b4ab8528.jpg",
+        "https://media.rawg.io/media/screenshots/ef9/ef9c548bdb43ba076ec777dde7fa8014.jpg",
+        "https://media.rawg.io/media/screenshots/e4d/e4d7c9713060fc7dfa56addded53b9e9.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Freedom Planet 2(Sonic Like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0756d0ad-5808-4a21-a96a-9ea7e2b779f7",
+      "title": "Freedom wars Remastered",
+      "tags": "Monster hunter like",
+      "cover": "https://media.rawg.io/media/games/591/5914150353592279de468e73cee10bd9.jpg",
+      "description": "For the crime of existing, your 1,000,000-year sentence begins today.\nIn a dystopian future, the world is ravaged by pollution and depleted of natural resources, and humanity lives in sprawling prison complexes called Panopticons. Anyone born into this hellscape are deemed “Sinners”. Players seek their freedom by volunteering for extremely dangerous combat operations to compete with other Panopticons for what remains of the planet’s dwindling resources.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ae8/ae89deb7b78420d39de662ec1272ae79.jpg",
+        "https://media.rawg.io/media/screenshots/bb4/bb4f5ce64acd0a1b9c9bec5c6133c7e3.jpg",
+        "https://media.rawg.io/media/screenshots/bf9/bf9553547d5ad9dfe0a94afd9b8d5ee9.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Freedom wars Remastered(Monster hunter like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0ec02004-19aa-4e74-a946-52f2ad0b95b6",
+      "title": "Front Mission 1st Remake",
+      "tags": "Rpg Tático",
+      "cover": "https://media.rawg.io/media/games/24a/24ad8bd1e336d22eb44001488e852dd9.jpg",
+      "description": "In the year 2090, the world's conflicts are fought using giant war machines called Wanzers. Huffman Island, the only place where the Oceania Cooperative Union (O.C.U.) and the Unified Continental States (U.C.S.) share a land border is a hotbed of conflict.\n\nAn O.C.U. reconnaissance platoon led by Captain Royd Clive is assigned to investigate a U.C.S. munitions plant. They are ambushed by U.C.S. Wanzers, triggering a series of events that plunges the whole island into war. Royd's fiancée, Lieuten...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f60/f60e0dbad4ba2a861a26ac98e7a08750.jpg",
+        "https://media.rawg.io/media/screenshots/519/5191e9819aae276f09bebd467642d674.jpg",
+        "https://media.rawg.io/media/screenshots/e0f/e0f27f4efb9c9bc8983b08d027509744.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Front Mission 1st Remake(Rpg Tático)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bf27d671-dcf7-4b2c-b120-f1932656dc0c",
+      "title": "Front Mission 2nd Remake",
+      "tags": "Rpg Tático",
+      "cover": "https://media.rawg.io/media/games/176/176bfc28c45c571c1d4f7ddf61cdb979.jpg",
+      "description": "FRONT MISSION 2 blends intense strategy with a deep and involved storyline.\n\n12 years have passed since the second Huffman conflict. The impoverished People's Republic of Alordesh has been suffering a severe economic decline ever since the war ended. In June 2102, soldiers of the Alordesh Army rise up and, led by Ven Mackarge, declare independence from the O.C.U. (Oceania Cooperative Union).\n\nAsh, an O.C.U. soldier, manages to survive the ensuing battle, but Alordesh is completely overrun by the...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/018/0181d1d22e18c80587b19546ff59108f.jpg",
+        "https://media.rawg.io/media/screenshots/1b2/1b2124f481c3b3ffb7cb634f9ba52d5d.jpg",
+        "https://media.rawg.io/media/screenshots/bc4/bc4804c52eb7862371b3b749fdcb2e83.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Front Mission 2nd Remake(Rpg Tático)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b5ba3506-f96b-444c-a9cd-4a3a67c5f5a1",
+      "title": "Fuga: Melodies of Steel 1 e2",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/128/1286f376596f7cdf7da6fc2708626cfa.jpg",
+      "description": "\"We have to fight! If we don't, everyone we love will be taken away!\"\n\nOne fateful night, a peaceful village is thrown into the flames of war. Determined to save their families, a group of children boards a giant tank and begins an offensive charge!\n\nFuga: Melodies of Steel is an RPG where you place children, each with their own unique characteristics and skills, at different gun turrets in a tank to fight against the enemy.\n\nLiving inside the tank, the children show emotion and gain affinity am...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3a6/3a65184de693e41464cf6865a44c5d15.jpg",
+        "https://media.rawg.io/media/screenshots/176/176a0916e9efbe879caebdea19b9dceb.jpg",
+        "https://media.rawg.io/media/screenshots/7b9/7b9650ef3c96e7cf3a29b0d957b06fb7.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Fuga: Melodies of Steel 1 e2(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0dbca524-5aa0-4634-9163-0e16e257cdca",
+      "title": "G.I. Joe: Wrath of Cobra",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/b63/b63b93c1699c17891f2c30cbfc5518b0.jpg",
+      "description": "About the Game Cobra rears its ugly head yet again and it's up to G.I. JOE to save the world! Embracing the 1980s era of the iconic universe, Wrath of Cobra is a retro side-scrolling beat 'em up. Play as one of the legendary G.I. JOE characters, including Duke, Scarlett, Roadblock, Snake Eyes, and more. Defeat hordes of Cobra troopers, Vipers, Crimson Guards and more of Cobra’s malevolent mach...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/84d/84d028ad1f0fee507ee3918fd085e5d5.jpg",
+        "https://media.rawg.io/media/screenshots/9d3/9d3547aaf7f05949777661c40b1e042c.jpg",
+        "https://media.rawg.io/media/screenshots/c14/c14c82a9db4abdeca38bf54f49dbd009.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "G.I. Joe: Wrath of Cobra(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "482b5c9c-eb94-40d2-baee-898b777d4a9c",
+      "title": "Gal metal",
+      "tags": "ritmo",
+      "cover": "https://www.christcenteredgamer.com/images2/galmetal/galmetal.png",
+      "description": "Jogo de Nintendo Switch. ritmo",
+      "images": [],
+      "genre": "Jogos de música",
+      "raw": "Gal metal(ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "328f136e-21c2-4c6e-a7e1-8e448c3e8c3e",
+      "title": "Game Builder Garage",
+      "tags": "Criação de jogo",
+      "cover": "https://media.rawg.io/media/screenshots/a2a/a2a1e953360fd967158684a132b6e389.jpg",
+      "description": "Learn to make games from the minds at Nintendo\n\nHave you ever dreamed of building your own video games? The Game Builder Garage™ software is a great place to start! Anyone can learn the basics of game design and visual programming with step-by-step lessons.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bcb/bcbb10fb3268b6facb3fba26c53dd179.jpg",
+        "https://media.rawg.io/media/screenshots/cfa/cfa558867c745c5e48c03421d231873d.jpg",
+        "https://media.rawg.io/media/screenshots/155/15584f3c043aa6ad9be2b8e5aa8bf776.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Game Builder Garage(Criação de jogo)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "4ff297ef-c729-49d9-a3b4-6082cd6dbbba",
+      "title": "Gang Beasts",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/160/160f894fc774f4cc51a99f435abadd4e.jpg",
+      "description": "Gang Beasts is a silly multiplayer party game with surly gelatinous characters, brutal mêlée fight sequences, and absurdly hazardous environments.\nWatch in horror and amusement as gangs of gummy miscreants fight to grab, push, pull, and force their enemies from suspended window cleaning scaffolds, neglected funfair attractions, and commercial haulage trucks.\nGasp with shock and delight at the spectacle of farcically pugnacious thugs punching, kicking, and throwing their foes into unspecified haz...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b6f/b6fc1b6da523785c303946f47034c426.jpg",
+        "https://media.rawg.io/media/screenshots/b28/b28d03ae45c04cebad243747b0d8413a.jpg",
+        "https://media.rawg.io/media/screenshots/a24/a2480d0b284c448546a2bb01da7934eb.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Gang Beasts",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2dac857b-69dd-46b0-83b0-77142f0b1054",
+      "title": "Gargoyles Remastered",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/050/050d3de0c0b30d52c8801ef813a6ef3c.jpg",
+      "description": "Gargoyles Remastered is an artfully crafted revival of the ‘90s classic 16-bit side-scrolling platform adventure. Relive the epic journey of Goliath and the Gargoyles featuring enhanced visuals, animations, and SFX, all inspired by the acclaimed animated series. The world of Gargoyles comes to life with a level of detail that will thrill fans of the animated series and retro gaming enthusiasts alike. Experience classic gameplay that stays authentic to its predecessor while including new features...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/533/5330d9c747c2cbc5c27b0c389e26cc27.jpg",
+        "https://media.rawg.io/media/screenshots/052/0524bde20a6d1925c3459fe2dc6ec3e7.jpg",
+        "https://media.rawg.io/media/screenshots/201/2013b59636917d2713814d43fdc4d9d9.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Gargoyles Remastered(plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a6ff8b36-0efe-489e-9388-0603fcabca28",
+      "title": "Gex trilogy",
+      "tags": "Plataforma",
+      "cover": "https://media.rawg.io/media/screenshots/605/605139c178b18835b9ed6e3119db7f8a.jpg",
+      "description": "Exploding into the modern era like a pro wrestler from the top rope—it’s GEX! The fast-talking gecko who doesn’t want to sell you insurance! That’s right, the greatest gaming hero of the 1990s has returned for the 2020s through the raw, unbridled power of the Carbon Engine. GEX Trilogy reproduces all three original games in exacting detail, precisely the way you remember them. Assuming you’ve gone senile and remember them having high-definition native 16:9 widescreen visuals and fully analog con...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/116/116feb0a2828ab1704aeca9bcfc1955b.jpg",
+        "https://media.rawg.io/media/screenshots/756/75673ecb3349d05bc80e6412acb2e957.jpg",
+        "https://media.rawg.io/media/screenshots/a6e/a6e1b2092daccbbade718408b6bb9bc2.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Gex trilogy(Plataforma)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2b34f69b-58b3-463a-a759-e8c126dec177",
+      "title": "Ghost song",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/f9c/f9c08f0e2215598eb15643f51b0fedd2.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9cc/9cc26e85b7f61cded928f74e1b0d196e.jpg",
+        "https://media.rawg.io/media/screenshots/ee2/ee2e5618d61736d0150ed5c47a445e79.jpg",
+        "https://media.rawg.io/media/screenshots/8d0/8d0a7d36da6d6a00c133b914195252b2.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Ghost song (Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8f4d67d3-a9bc-43de-995b-279400753fc9",
+      "title": "Ghosts 'n Goblins Resurrection",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/46e/46e4f84de2bcac3a3cc6868c8d61c517.jpeg",
+      "description": "Ghosts ‘n Goblins Resurrection is a reboot that brings the beloved Capcom franchise back to life and into the 21st century. Paying homage to Ghosts ‘n Goblins and Ghouls ‘n Ghosts, the latest entry combines the franchise’s action platforming gameplay with storybook-like graphics and challenging new obstacles.\n\nThe game follows the valiant knight Arthur as he runs, jumps and battles his way through eerie stages set in the Demon Realm, a demonic fantasy world. Brave knights will need to proceed wi...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/10c/10c2213a1b9d29e634c956fddcbca811.jpg",
+        "https://media.rawg.io/media/screenshots/e48/e483d900004bb3a30837a8b2af2d245f.jpg",
+        "https://media.rawg.io/media/screenshots/c38/c389618a7b5fcdb5cbf84c71c26e5eb4.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Ghosts 'n Goblins Resurrection(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "da0ab439-a76c-4a0d-b21e-d66cee1d2065",
+      "title": "Goat simulator 3",
+      "tags": "Mundo aberto",
+      "cover": "https://media.rawg.io/media/games/936/936627d24f7864a00adf3156b41ff314.jpg",
+      "description": "Pilgor’s baaack! \nGather your herd and venture forth into Goat Simulator 3; an all-new, totally realistic, sandbox farmyard experience. Invite up to three friends in local or online co-op, create carnage as a team, or compete in mini-games and then not be friends anymore.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f91/f918defd42bd2cbd1f4bed60bb317643.jpg",
+        "https://media.rawg.io/media/screenshots/ceb/ceb9ff992d8fd0d7fcce7ea4f02e6e83.jpg",
+        "https://media.rawg.io/media/screenshots/88d/88dc9299694cef35403a67d9bd464ee0.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "Goat simulator 3(Mundo aberto)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "29dca588-768b-4f80-8f9c-58707796ffbe",
+      "title": "God Eater 3",
+      "tags": "Monster hunter like",
+      "cover": "https://media.rawg.io/media/games/18c/18c12ae1985e174ae9b82a11ce0cb6d5.jpg",
+      "description": "All of sudden, unknown life forms called “Oracle cells” begin their uncontrolled consumption of all life on Earth. Their ravenous appetite “devour” and remarkable adaptability earn them first dread, then awe, and finally the name “Aragami”. In the face of an enemy completely immune to conventional weapons, urban civilization collapses, and each day humanity is driven further and further toward extinction.\n\nOne single ray of hope remains for humanity. Following the development of “God Arcs”—livin...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/841/8412d4c63fdecd02ae7bc8add37a681d.jpg",
+        "https://media.rawg.io/media/screenshots/5de/5de57385fd83a41683da9f4604fc8833.jpg",
+        "https://media.rawg.io/media/screenshots/c74/c74bc8f10ed18a28db8b70870fa7af8b.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "God Eater 3(Monster hunter like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "06ee7db9-2def-4dd2-8e2a-f1959a2ee1ca",
+      "title": "God of rock",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/8b7/8b7a3f23dcf5bb6d021ed8566190af2c.jpeg",
+      "description": "The God of Rock has gathered the universe’s greatest musicians to clash for musical supremacy. Battle to the beat by hitting notes in rhythm and unleash harmonic attacks against opponents in this competitive rhythm-fighting game hybrid.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c00/c008cf6fceb468f350424aa14c98df4b.jpeg",
+        "https://media.rawg.io/media/screenshots/8b7/8b7a3f23dcf5bb6d021ed8566190af2c.jpeg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "God of rock(Ritmo)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8f1f0af7-01fc-46d8-9b0f-970fcc232409",
+      "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "tags": "Gta 3, Vice City e SanAndreas",
+      "cover": "https://media.rawg.io/media/games/051/0518bc19ba710a13d58620723ef8b3f7.jpg",
+      "description": "Three iconic cities, three epic stories. Play the genre-defining classics of the original Grand Theft Auto Trilogy: Grand Theft Auto III, Grand Theft Auto: Vice City and Grand Theft Auto: San Andreas updated for a new generation, now with across-the-board enhancements including brilliant new lighting and environmental upgrades, with high-resolution textures, increased draw distances, Grand Theft Auto V-style controls and targeting, and much more, bringing these beloved worlds to life with all ne...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6c6/6c69946798770b365a22f890f751699d.jpg",
+        "https://media.rawg.io/media/screenshots/4f0/4f055de374819f1e3b16de2c75e4c424.jpg",
+        "https://media.rawg.io/media/screenshots/9ed/9ed734cfcfde5d5fac5674797b7460f7_0QbSFOy.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "Grand Theft Auto: The Trilogy – The Definitive Edition(Gta 3, Vice City e SanAndreas)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "81f63734-7933-4a9f-8e00-dfce4edd8073",
+      "title": "GRANDIA HD Remaster",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/screenshots/940/9402c68b89b2ea5bd39503e4931431c4.jpg",
+      "description": "Grandia 1 e 2",
+      "images": [
+        "https://media.rawg.io/media/screenshots/241/241bfa6bc36ba02b28389e168c11bfda.jpg",
+        "https://media.rawg.io/media/screenshots/a8b/a8b7ff961025722da779b9a2467d844c.jpg",
+        "https://media.rawg.io/media/screenshots/99c/99cb93700dd326cd6e699e5cb557d258.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "GRANDIA HD Remaster(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cdca68b4-adc4-4240-a574-9c5dc55f0091",
+      "title": "Gravity circuit",
+      "tags": "megaman like",
+      "cover": "https://media.rawg.io/media/screenshots/369/369ff58b26c480f6ab485e9f20b7b930.jpg",
+      "description": "Gravity Circuit - a flashy action packed 2d platformer in the spirit of console classics.\nMission: Stop Virus Army Uprising!\nIn a post-apocalyptic world populated by sentient robots, its inhabitants are once more threatened by an old foe. Virus Army, after having been defeated decades ago in the past, has re-emerged from the shadows. Their goal? Complete world domination. Severely weakened Guardian Corps are left with no other choice but to call upon a hero of the previous war: the lone operativ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/536/5360bb9812272da3236a5812a468d77f.jpg",
+        "https://media.rawg.io/media/screenshots/ee1/ee155e3bffcfcddbcb1647e84b60a97e.jpg",
+        "https://media.rawg.io/media/screenshots/7be/7be4b0f0a8230548b7cb0f538c39fbe0.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Gravity circuit(megaman like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1680faac-852b-45ee-8067-ed3ee57c5a0a",
+      "title": "Greak: memories ofazur",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/102/102b3f5639c57ca39e96ea1cb554f9e2.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bf3/bf361db240a8bdc49b9ac8651daa6dce.jpg",
+        "https://media.rawg.io/media/screenshots/a49/a4955f8b7dc85690c4410fda2460504e.jpg",
+        "https://media.rawg.io/media/screenshots/284/28480531d39afb92d3f312eeae300e83.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Greak: memories ofazur (Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a371a26f-028e-407e-b5e6-c22e67f47a78",
+      "title": "Grim Guardians: Demon Purge",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/6d8/6d8175c97052021a031ba29d431c56bf.jpg",
+      "description": "When a demon's castle darkens the land, two sisters challenge its halls.\nTogether they can break the curse.\nIn order to save their school after it turns into a massive demonic castle, two \"Demon Hunter\" sisters slash and shoot their way through this 2D action adventure.\nPlayers can swap between control of both characters on the fly, each with entirely different skillsets. Proceed through the castle while confronting the demonic bosses that await deep within.\nEach boss yields new weapons to wield...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/20e/20e3473954a08e47393e42350eb8a760.jpg",
+        "https://media.rawg.io/media/screenshots/460/460f8d0aa60879f06fd3350eb950a190.jpg",
+        "https://media.rawg.io/media/screenshots/35b/35b5c9403321cda7aa52da1297e9fc7e.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Grim Guardians: Demon Purge(Metroidvania)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b4b08383-15ae-4672-9b5e-d7a5898de59d",
+      "title": "Grime",
+      "tags": "Metroidvânia",
+      "genre": "Metroidvânia",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Grime(Metroidvânia)",
+      "description": "A strange material collapses unto itself, the world rumbles, and you are born.\nExplore a surreal world obsessed with proportions and anatomy.\nMeet its inhabitants. Piece together their history, relations, and the source of their madness.FEATURES\nStriking, Surreal Visuals: Explore weeping caves, face covered deserts, and different civilizations all rendered in beautiful 3D. Face foes born from the world itself, and devour them whole.\nLiving Weapons: Fight using weapons made out of other living cr...",
+      "cover": "https://media.rawg.io/media/screenshots/9bf/9bfe832a35831030fc8233f0d8b3c96e.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/596/5966acb64fd63f37c5b571cb0bc669bd.jpg",
+        "https://media.rawg.io/media/screenshots/e1e/e1e64dbd03140f881b9426a3386c2392.jpg",
+        "https://media.rawg.io/media/screenshots/092/09201997e0c84e98b44fa42e9d62b1b6.jpg"
+      ]
+    },
+    {
+      "id": "7eff0c94-f067-476c-ac0d-b4caf9648b29",
+      "title": "Gripper",
+      "tags": "ação",
+      "cover": "https://media.rawg.io/media/games/81a/81ab23e486efbd3a75167de8b5aa942a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5b3/5b384b5b3b1bdf49eae0f8ed39cfb33f.jpg",
+        "https://media.rawg.io/media/screenshots/14f/14f57dfabce35df6d0332483de174dc7.jpg",
+        "https://media.rawg.io/media/screenshots/60e/60e75d31bb40715f10d02004dbcd00bf.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Gripper (ação)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b80112bb-244d-4775-995f-607a29987ee0",
+      "title": "Gris",
+      "tags": "indie",
+      "cover": "https://media.rawg.io/media/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg",
+      "description": "Gris is a hopeful young girl lost in her own world, dealing with a painful experience in her life. Her journey through sorrow is manifested in her dress, which grants new abilities to better navigate her faded reality. As the story unfolds, Gris will grow emotionally and see her world in a different way, revealing new paths to explore using her new abilities.\nGRIS is a serene and evocative experience, free of danger, frustration or death. Players will explore a meticulously designed world broug...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b0e/b0ed818d2ece196dfc0cb7ab79f4df8d.jpg",
+        "https://media.rawg.io/media/screenshots/f0e/f0e68be56b52323bd8678b1a8dcaba34_3Ebwgvv.jpg",
+        "https://media.rawg.io/media/screenshots/5b2/5b2f233598f3ca9b7db2091c2d1f24e7.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Gris(indie)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "24a0ff45-2628-4166-98a1-7a04490a26e0",
+      "title": "Grounded",
+      "tags": "Plataforma 3d-sandbox",
+      "cover": "https://media.rawg.io/media/games/0d7/0d7b7a687bf665b61337904193c56855.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 03 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c7c/c7c23cc42e56fb2598fe730a0609a967.jpg",
+        "https://media.rawg.io/media/screenshots/042/0422d5bc67b0a250b96c26bc61dc3ffd.jpg",
+        "https://media.rawg.io/media/screenshots/9a5/9a5b850fcaab930bf0c39b7d4ef9828b.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "Grounded( Plataforma 3d-sandbox)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c6088a2c-d080-4622-b537-3dd8464c390d",
+      "title": "Guacamelee! 2",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/843/843499f98a871098e3e365a80b5c8768.jpg",
+      "description": "Brawling has never been more beautiful! The long-awaited sequel to the smash hit action-platformer is here: Guacamelee! 2 brings luchador Juan Aguacate out of retirement for a stunning new Metroidvania-style adventure, where he must face his greatest challenge yet - one that threatens to tear apart the very fabric of the Mexiverse!\n\nExplore a huge, hand-crafted world inspired by Mexican culture and folklore, filled with sassy new villains and weirdos (and a few old friends!). Learn a deep repe...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/654/65456e5b337f4856a9f753e95677c4c6.jpg",
+        "https://media.rawg.io/media/screenshots/201/201bd0b950c9079003c05fee281aa6d6.jpg",
+        "https://media.rawg.io/media/screenshots/81b/81badb66efecf370b2b1060b1f7dde4b.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Guacamelee! 2(Metroidvania)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a18c0a04-ecac-4f8d-8c77-bbd390c2ff7a",
+      "title": "Guilty Gear -Strive",
+      "tags": "luta",
+      "cover": "https://media.rawg.io/media/games/dfe/dfe14d30ed6fccd9db4ae79d3be51d54.jpg",
+      "description": "Discover the Smell of the Game with Guilty Gear -Strive-! Immerse yourself in new gameplay mechanics designed to be simple and welcoming for fighting game newcomers, yet deep and creative for veterans. Ride the Fire into a heavy metal inspired alternate future full of over-the-top action, style and fun! Blazing!\n\n“Guilty Gear -Strive-“ is the latest entry in the critically acclaimed Guilty Gear fighting game franchise. Created by Daisuke Ishiwatari and developed by Arc System Works, “Guilty Gear...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5cf/5cf7a0227d368bd1fe6f021cd5e4b5c4.jpg",
+        "https://media.rawg.io/media/screenshots/4a5/4a52f4a978407a035444444539d4550b.jpg",
+        "https://media.rawg.io/media/screenshots/a81/a8179d95c8e273d37757c87f9089f424.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Guilty Gear -Strive(luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bb2654d9-3767-4208-baee-47e6053abf95",
+      "title": "Gunbrella",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/228/22864bbeb672b92c54e0ab0cacb3c208.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 05 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cfb/cfb773f71c328de7bb03e71180ee218d.jpeg",
+        "https://media.rawg.io/media/screenshots/eb4/eb48ad437561663d7dcc20231afc61f8.jpg",
+        "https://media.rawg.io/media/screenshots/fba/fbacecb0d83ec26c9435fd25366ae47f.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Gunbrella(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b09ea246-3814-403e-9716-c8fbef820e02",
+      "title": "Guns of fury",
+      "tags": "Metroidvania estilo metalslug",
+      "cover": "https://media.rawg.io/media/screenshots/1e4/1e4af3590b19491e91893f734a0912fa.jpg",
+      "description": "Guns of Fury is a retro-inspired action platformer that combines the run & gun and Metroidvania genres. Explore a vast interconnected world, gain new abilities and weapons, battle epic bosses and stop the plans of an evil corporation before it’s too late!\nTHE STORY\nIn the near future, the world is in an energy crisis. When all hope has been lost, world famous scientist Dr. Klaus makes a surprise announcement: the discovery of the \"Tetra Cell\". Its incredible energy-producing properties could be ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/845/84578e05bcb585fc7c08908e0babb61c.jpg",
+        "https://media.rawg.io/media/screenshots/c44/c447decd3e97f491735d5e1b207565da.jpg",
+        "https://media.rawg.io/media/screenshots/85c/85c45a1a05e90f9f9645399ea04e1a2f.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Guns of fury(Metroidvania estilo metalslug)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f49416fe-f716-4c9e-8291-b56d30ad3e57",
+      "title": "GUNVOLT RECORDS Cychronicle",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/4a6/4a630e1ecaf2b782717d215537d7e43f.jpg",
+      "description": "The legendary songs will carry you to the future.\nAnnouncing a new rhythm game in the Azure Striker Gunvolt series!\n■About \"GUNVOLT RECORDS: Cychronicle\"\nA new rhythm music game starring the songstresses of the Azure Striker Gunvolt series, Lumen, Lola, and Luxia singing 15 different songs.\nFollow the notes to the pounding beat and aim for a top score in this electrifying rhythm game!\nThe dual analog controls sync with the characters dancing in the 3D backgrounds for a fully immersive experience...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/56f/56f9dfdf91b1fddba5ad4c047c372705.jpg",
+        "https://media.rawg.io/media/screenshots/d11/d1166586c56225a6b7f46b49e5f5af3a.jpg",
+        "https://media.rawg.io/media/screenshots/3ee/3ee548828bbd5684b7338f4bfac99396.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "GUNVOLT RECORDS Cychronicle(Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e3d24f76-8cad-438e-9e2d-ff2080d6a26a",
+      "title": "Hades",
+      "tags": "Rogue like",
+      "cover": "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg",
+      "description": "Hades is a rogue-like dungeon crawler that combines the best aspects of Supergiant's critically acclaimed titles, including the fast-paced action of Bastion, the rich atmosphere and depth of Transistor, and the character-driven storytelling of Pyre.\n\nBATTLE OUT OF HELL\nAs the immortal Prince of the Underworld, you'll wield the powers and mythic weapons of Olympus to break free from the clutches of the god of the dead himself, while growing stronger and unraveling more of the story with each uniq...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/546/546826ed2cde2dec94e1b470c8cbb9ac.jpg",
+        "https://media.rawg.io/media/screenshots/0aa/0aa5e778c3cf8f47e3ee7f8e0185eb16.jpg",
+        "https://media.rawg.io/media/screenshots/a06/a0649473a36bb879cef146a244d9cb54.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Hades(Rogue like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "36274e59-2618-407d-9a7c-ca3dfc60d4e6",
+      "title": "Hades II",
+      "tags": "Rogue like",
+      "cover": "https://assets.nintendo.eu/image/private/f_auto,c_limit,w_992,q_auto:low/yll1w5pqhp8erb1smpic",
+      "description": "With the end of the first Star Wars everyone believed that the greatest battle on Earth was over..... a big mistake.\n\nYear 2356, you are on Antauros, one of the most important bases for the Universal Federation. Located on Pluto, this base is strategically placed in this solar system.\nThe base's advanced defense system seems to have no effect on the Grogr army's surprise attack that is unleashed with full force on the Antauros facility.",
+      "images": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/store/software/switch2/70010000105526/32608044933fa2a4bf912586ef78aced58ccf2c02c754a209394d6fb659a5ac7"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Hades II(Rogue like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "aeff1d91-7afd-4e95-83d0-ff1e26a51741",
+      "title": "Harry Potter: Quidditch Champions",
+      "tags": "quadribol",
+      "cover": "https://media.rawg.io/media/games/f05/f05e8581aa0c5853abe5314ab1365bfd.jpg",
+      "description": "It  is an upcoming sports video game developed by Unbroken Studios and published by Warner Bros. Games under its Portkey Games label. The game focuses on the Harry Potter-related sport Quidditch. The player controls a character that holds a specific position in Quidditch and engages in broomstick adventures and competitive multiplayer modes.\n\nDevelopment commenced several years prior to its announcement in April 2023, where Warner Bros. Games released a first look alongside the limited playtest....",
+      "images": [
+        "https://media.rawg.io/media/screenshots/471/471547043d5ec627f3193a2d5411550c.jpg",
+        "https://media.rawg.io/media/screenshots/fa4/fa4610967b3f2e8b7999f2e9a008cdbd.jpg",
+        "https://media.rawg.io/media/screenshots/831/8318573582b7ad672c843f01f5c3f1b8.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Harry Potter: Quidditch Champions(quadribol)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "dc6d9092-497a-4b4e-8b4c-4781ff89021f",
+      "title": "Harvest Moon: The Winds of Anthos",
+      "tags": "Fazenda",
+      "cover": "https://media.rawg.io/media/screenshots/18b/18bf321d0286f3d988b7da1d33520e74.jpg",
+      "description": "Explore the Amazing World of Anthos!\nThe land of Anthos was a peaceful and harmonious land watched over by the Harvest Goddess and the Harvest Sprites, who protected the inhabitants of Anthos from natural disasters such as storms, earthquakes, and the like.\nHowever, one day many years ago, Anthos experienced a severe volcanic eruption that threatened life on Anthos itself, and the Harvest Goddess and Harvest Sprites had to use all of their remaining power to keep the people and animals of Anthos...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/89d/89d5deabe22b6db71442bbd2af43efec.jpg",
+        "https://media.rawg.io/media/screenshots/265/26544977422993d01eeb1eba4a960249.jpg",
+        "https://media.rawg.io/media/screenshots/74f/74fd2c8c82c09b47aef02883a3f91374.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Harvest Moon: The Winds of Anthos(Fazenda)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a1f3388e-af4a-40a4-8a52-24daaf7cdf26",
+      "title": "Harvestella",
+      "tags": "Fazenda/rpg",
+      "cover": "https://media.rawg.io/media/games/17e/17e053e6451dd18c3e69d4531f989156.jpg",
+      "description": "In a vibrant and colourful world, players will tend their crops, befriend the townsfolk, overcome threats, discover the origins of the world and the truth behind the calamity along the way.\n\nThe story begins when the player wakes up in the middle of \"Quietus,\" a calamity that comes with each change of season and threatens all life.\n\n\"Quietus\"\nA season of death that comes at the turn of each season. Crops wither and the dust of death prevents people from even walking outside. It is said that the ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/219/21934a36960caacc8b6a965f3eb17583.jpg",
+        "https://media.rawg.io/media/screenshots/5cc/5cc2f89e38293d9b90066e95d5c4bee9.jpg",
+        "https://media.rawg.io/media/screenshots/4a3/4a3a0016b5c09bbeee51e1e0310d711b.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Harvestella(Fazenda/rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "001908b3-c2bb-4ee6-a1c5-66d354b3d5d2",
+      "title": "Have a Nice death",
+      "tags": "roguelike",
+      "cover": "https://media.rawg.io/media/games/648/6485d70bb1166ba94353182d61fcd157.jpg",
+      "description": "Discover and explore the darkly-charming, procedurally-generated departments of Death Inc., where you’ll meet a diverse cast of memorable characters—like your affable pumpkin-headed assistant, Pump Quinn—who are always willing to share the latest office gossip\n\n\n\nSharpen your skills (and scythe) through fast-paced hack n’ slash combat, utilizing over 30 unique weapons and spells you can find and upgrade to create devastating combinations\n\n\n\nSince Death can’t die, use what you’ve learned and earn...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a12/a12652ef0938195a203e5714c8833de1.jpg",
+        "https://media.rawg.io/media/screenshots/e2f/e2f921deccc39a545235b109f8fbfa67.jpg",
+        "https://media.rawg.io/media/screenshots/dad/dad647b4e92a794c33671c280093538a.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Have a Nice death(roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "70f4e775-66b3-4c36-ad39-df6fcddae72f",
+      "title": "Hazel sky",
+      "tags": "Aventura",
+      "cover": "https://media.rawg.io/media/games/12f/12fc93b885b4aa2261ddd35c852f3fe4.jpg",
+      "description": "Hazel Sky is a heartfelt adventure about a young engineer facing his destiny and his desires.\nSent to an island far from home in the flying city of Gideon, Shane must pass the trials and return as an Engineer or face banishment. Connected via radio, Shane and fellow trainee engineer, Erin strike up an illicit friendship. A friendship that will change the way Shane sees the world.\nThe Trials are the ultimate test that every Engineer must take before taking the honored role.  For Shane, the trials...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ffa/ffa309e1bbf5e8560ee836aabcdddffc.jpg",
+        "https://media.rawg.io/media/screenshots/c7b/c7b75855c2b722767edaf831d84e3374.jpg",
+        "https://media.rawg.io/media/screenshots/e57/e57f0b4a5afdf7d74c92569435a5588d.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Hazel sky(Aventura)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d39751a9-d85f-4f4e-8f1e-67c2cda3403b",
+      "title": "Hellblade: Senua's Sacrifice",
+      "tags": "Aventura",
+      "cover": "https://media.rawg.io/media/games/63f/63f0e68688cad279ed38cde931dbfcdb.jpg",
+      "description": "A dark fantasy game that takes inspiration from Scandinavian and Celtic folklore, Hellblade is set in a gritty barbarian world full of weird wooden structures and creepily masked enemies. \n\nThe player assumes the role of Senua, a traumatized female warrior from the Pict tribe. She suffers from a growing psychosis after her lover Dillion was brutally murdered by Vikings. Carrying his severed head, Senua sets out to Helheim, the underworld of the dead, to bring her lover's soul back. Her grim an...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/662/66282cb9d0c743ca5d8cb8a1585c8207.jpg",
+        "https://media.rawg.io/media/screenshots/ab2/ab28d353366cb9ed674758a25a3763e7.jpg",
+        "https://media.rawg.io/media/screenshots/e43/e4362535f3d105d23315c5780ed67f8b.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Hellblade: Senua's Sacrifice(Aventura)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "48b722a9-d630-4796-8eb0-75933aacfb2a",
+      "title": "Hello Kitty Island Adventure",
+      "tags": "animal crossing like",
+      "cover": "https://media.rawg.io/media/screenshots/5dd/5dd6c762ccc1539cb5ca991e9d7b1ff2.jpg",
+      "description": "Deluxe EditionJump in with the Deluxe Edition, which includes Hello Kitty Island Adventure, the base game, and three Deluxe Bundles offering a super-charged start and spectacular Legacy Event items.Deluxe Event BundleOver 300 Unique Items and Rewards upfront–no need to wait!One Year of Legacy Clothing, Furniture, and other cosmetics early from events like:2023 Spooky Celebration2023 Give & Gather Celebration2024 Luck & Lantern Celebration2024 Hugs & Hearts Celebration2024 Month of Meh, featuring...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/155/155a1b98bd62a8234419d63caa07fdf9.jpg",
+        "https://media.rawg.io/media/screenshots/004/00451a1ae1558e97b1f76d47122177b6.jpg",
+        "https://media.rawg.io/media/screenshots/896/896f07d44318ee5011bb9ff1b5555e72.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Hello Kitty Island Adventure(animal crossing like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cd29aea8-af67-4c43-8cc2-6ef143bc3895",
+      "title": "Helvetii",
+      "tags": "roguelike",
+      "cover": "https://media.rawg.io/media/screenshots/d11/d11dd3a864c1bc0005cbf66b66caa927.jpg",
+      "description": "Character-action set in ancient Swiss Gaul\nAround a hundred years BC, all of Gaul is far from Roman control. In the lands controlled by the Helvetii, a Roman legion was subjugated by young warchief Divico, blessed by a ancient boon brought to him from parts unknown. However, this victory came at a great cost, as soon the result of the warchief's pact would turn into a curse; an ever spreading rot crawling through his land, and slowly corrupting his mind and heart.\nWith the help of the trusted ye...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4e4/4e45268ad537226707889784dcf43a3d.jpg",
+        "https://media.rawg.io/media/screenshots/1ee/1eed9ff3d2262a45324c025419f56bad.jpg",
+        "https://media.rawg.io/media/screenshots/220/2205d7e8d343b380d4700fee78a1f64a.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Helvetii(roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "47550345-6c3e-4fbf-b181-20d1a9589efc",
+      "title": "High on life",
+      "tags": "Fps",
+      "cover": "https://media.rawg.io/media/games/2e7/2e732a02c29c84ca177855848932a5aa.jpg",
+      "description": "From the mind of Justin Roiland (Rick and Morty, Solar Opposites) comes High On Life. Humanity is being threatened by an alien cartel who wants to use them as drugs. It’s up to you to rescue and partner with charismatic, talking guns, take down Garmantuous and his gang, and save the world!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f45/f4563f3de6ea39330c6361806f2f728e.jpg",
+        "https://media.rawg.io/media/screenshots/429/4294f8c455c72b55356503bcd9f1e3ff.jpg",
+        "https://media.rawg.io/media/screenshots/442/442c7ce5b5e5153ca1f8e7098cd1fe6d.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "High on life(Fps)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ee2f6de5-b2fc-49f5-83d4-62ce8ff921cb",
+      "title": "Hoa",
+      "tags": "Plataforma",
+      "cover": "https://media.rawg.io/media/games/9e7/9e78f4baf60cb4eafdb73ff70b896fd2.jpg",
+      "description": "Hoa is a platform-adventure game featuring beautiful hand-painted art and a calm, relaxing atmosphere. The game follows the main character, Hoa, as she discovers her own story on a journey through a breathtaking and magical world back to her homeland.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/924/924ed7faadde34294915d3b5513d0bba.jpg",
+        "https://media.rawg.io/media/screenshots/a4b/a4bcf6bc6b04c04a239fa65aa2acf1bc.jpg",
+        "https://media.rawg.io/media/screenshots/cf0/cf0b468c359f589b06cb45683180ed85.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Hoa(Plataforma)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e535fe43-da74-447e-ab8a-e5f718c8ee34",
+      "title": "Hogwarts legacy",
+      "tags": "Mundo aberto",
+      "cover": "https://media.rawg.io/media/games/044/044b2ee023930ca138deda151f40c18c.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/723/7230cc1be966c19d2470a19d277b31e9.jpg",
+        "https://media.rawg.io/media/screenshots/8d4/8d43231c67e82914891ac81c4a413d12.jpg",
+        "https://media.rawg.io/media/screenshots/9c4/9c48270e9f6b1cdc6e2fa92c0f7a1da8.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "Hogwarts legacy(Mundo aberto)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1608ab03-5a5a-413e-a659-d845d39d1521",
+      "title": "Hollow Knight",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6b3/6b309936c1fe07e9b7fa5e62a372790d.jpg",
+        "https://media.rawg.io/media/screenshots/1a7/1a7a69db58c19d323f1dfbcc340d3f1e.jpg",
+        "https://media.rawg.io/media/screenshots/723/7237d0c546b0d17a6a226f38823081d4.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Hollow Knight (Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2f6a5ac0-6788-4c64-ac34-8996bed3115f",
+      "title": "Horizon Chase",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/4cb/4cb360bce324f57fdfdbd92abedb60cf.jpg",
+      "description": "Jogo de Nintendo Switch.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1de/1dea061f0a9318c7a741aac15281dcc7.jpg",
+        "https://media.rawg.io/media/screenshots/7ec/7ec8cdfc05e239b6d613c76c67ef5aa1.jpg",
+        "https://media.rawg.io/media/screenshots/5c0/5c0b121a6c5750b424f7d020ae9626a1.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Horizon Chase",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2922ea25-c4a6-4a72-a764-8aee16b568c4",
+      "title": "Horizon Chase 2",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/8c9/8c91cf47ef100df4cb3e02f217060ead.jpg",
+      "description": "Horizon Chase 2 is a classic fast-paced and accessible arcade racing game with online multiplayer for all game modes, unique art style and thrilling soundtrack.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1fb/1fb187ac9d86710203a2b1b79d3d719c.jpg",
+        "https://media.rawg.io/media/screenshots/e1d/e1da88ce1890c0a157dbea892ccc0281.jpg",
+        "https://media.rawg.io/media/screenshots/c1f/c1fc512e73852604d98b27b0e4a41361.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Horizon Chase 2",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a2634c9f-89fe-45c3-84b4-6ab13dd994c5",
+      "title": "Hot Wheels Unleashed",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/201/201feb4db3118c1440ebdce03e61e3fb.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/559/559ab6b928e8b224b586f27c17140f2c.jpg",
+        "https://media.rawg.io/media/screenshots/b6b/b6bbffe55ed45f362921748fde8f94bd.jpg",
+        "https://media.rawg.io/media/screenshots/a07/a079fb1808dd91a5ddca09b4a18df22e.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Hot Wheels Unleashed",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "59caa187-cb84-4761-926a-4b5386881749",
+      "title": "Hot Wheels Unleashed 2",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/440/4401c0d4e4f6355ee11bb9c3466b0745.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/de7/de7c352e6d831835eb93a03722f8a4cc.jpg",
+        "https://media.rawg.io/media/screenshots/9ae/9aed6b2da1a01a3d5dff02657f70dc75.jpg",
+        "https://media.rawg.io/media/screenshots/f49/f49460bd713278d6b1084299390b97c0.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Hot Wheels Unleashed 2",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "48dd29dc-4285-405d-af85-50cf494a5f23",
+      "title": "Huntdown",
+      "tags": "Run and Gun",
+      "cover": "https://media.rawg.io/media/games/5cb/5cb897cd1000906d2467ea4d0bdf1af4.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 13 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/015/015a741d966b316ce465613805519602.jpg",
+        "https://media.rawg.io/media/screenshots/9dd/9dd226e9760c7164c3aa332e9e96a322.jpg",
+        "https://media.rawg.io/media/screenshots/262/262e9aef0a2f20f346f189274e40747c.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Huntdown(Run and Gun)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ced52a09-adf1-4d3f-93b1-aae5288e701d",
+      "title": "Hunter X",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/163/163cd2a3595075f62eb441ea9d575e78.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 05 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0b5/0b5640031b36f7eb21e9cb29d16dfd59.jpg",
+        "https://media.rawg.io/media/screenshots/5bc/5bc976a2ca2452fb6290336f12791a40.jpg",
+        "https://media.rawg.io/media/screenshots/426/426cadf9201f7c5de903b99ad83d4388.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Hunter X (metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9aa30e8b-37ad-4c20-b399-cb3a1ad993bf",
+      "title": "HUNTER×HUNTER NEN×IMPACT",
+      "tags": "luta",
+      "cover": "https://media.rawg.io/media/screenshots/2fa/2fa293914308ff45d6c7b2bf76064087.jpg",
+      "description": "Pre-order bonus【Pre-order bonus】・Deluxe Edition only: Early access (48 hours)・Common: Character color variation for Hisoka\nDeluxe EditionHUNTER×HUNTER NEN×IMPACT Deluxe Edition Set Includes:・HUNTER×HUNTER NEN×IMPACT Full Game・Season Pass 1　┗4 additional characters (Neferpitou, Character 2, Character 3, Character 4)　┗Character alternate costume (Chrollo)Season Pass 1 Release Schedule:・Additional DLC Character Neferpitou (Fall 2025)・Additional DLC Character 2 (Winter 2025)・Additional DLC Character...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/17c/17c4dd8abe38c5648d5a9de4f4baa7ae.jpg",
+        "https://media.rawg.io/media/screenshots/3ee/3eef7131ab5e024fd4097c5c53a73c3a.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "HUNTER×HUNTER NEN×IMPACT(luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b681cfe0-3d90-46cf-8908-77a10762900c",
+      "title": "Hyper gunsport",
+      "tags": "Volley",
+      "cover": "https://media.rawg.io/media/screenshots/a0c/a0cd34a75ef2bcc9daf37be67a9117e2.jpg",
+      "description": "gunsporters go go go!\nAbout the Game\nHyper Gunsport is all about arcade action! Precision shooting and tight jumps! Clutch saves and epic slams! But the ONLY thing you can shoot is the ball!\nAt its core, Hyper Gunsport is a cooperatively competitive action game where the object is to shoot the ball into goals of varying difficulty, while the opposing team tries to do the same. Each time the ball crosses the net its point value goes up, so longer volleys mean bigger points and higher stakes.\nA te...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8d0/8d0d27e28a5327b4f5101f80b3025be3.jpg",
+        "https://media.rawg.io/media/screenshots/868/8683a64981a1bc56317e89e2de19ff93.jpg",
+        "https://media.rawg.io/media/screenshots/500/5000a7b85456cbd2f384bcd15b1a47d5.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Hyper gunsport(Volley)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2acadf36-1bf7-4555-b827-d36229f16285",
+      "title": "Hyrule Warriors: Age of Calamity",
+      "tags": "Warriorlike) (Multiplayer",
+      "cover": "https://media.rawg.io/media/games/086/0865a7072a225181f3fa492171bad5f6.jpg",
+      "description": "See Hyrule 100 years before the Legend of Zelda: Breath of the Wild game and experience the events of the Great Calamity\nJoin the struggle that brought Hyrule to its knees. Learn more about Zelda, the four Champions, the King of Hyrule and more through dramatic cutscenes as they try to save the kingdom from Calamity. The Hyrule Warriors: Age of Calamity game is the only way to firsthand see what happened 100 years ago.\n\n- Battle hordes of Hyrule’s most formidable foes -\nFrom barbaric Bokoblins t...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/834/83498a2bc64b6bdcbc0c1c57b39ff08a.jpg",
+        "https://media.rawg.io/media/screenshots/38d/38d821f7d3938dfcb5e5cb29585b0b6c.jpg",
+        "https://media.rawg.io/media/screenshots/653/653f1c06f632d95ed17456a77ad795af.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Hyrule Warriors: Age of Calamity(Warriorlike) (Multiplayer)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "44db0d9c-ba82-4907-97e7-aac40a07de5d",
+      "title": "I am Setsuna",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/games/35a/35ab228c1f3dedeb27a7af9f1811ae2f.jpg",
+      "description": "More Reviews & Accolades9/10 “I Am Setsuna is a delightful breath of fresh air” - RPGSite\n8/10 “I Am Setsuna proves that there's still room for the JRPG genre” - Spaziogames\nAbout the Game\nThe I am Setsuna Collector’s Edition includes the full game and the beautiful 27 melody original soundtrack ‘Winter’s End’ by composer Tomoki Miyoshi.\nThis is the story of Setsuna; a young woman of incredible inner strength and the sacrifice she must make to save the people of her land.\nThe Island had a custom...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f79/f794c7f27a043979e07b5687a1bfa7ed.jpg",
+        "https://media.rawg.io/media/screenshots/856/8564123c9eb3899606e70b1f9224ed0d.jpg",
+        "https://media.rawg.io/media/screenshots/ec7/ec7719fbedd9006b6b98954a32f4a374.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "I am Setsuna(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "32ce3f62-fa21-43bb-9f97-34d7825c3339",
+      "title": "Immortals Fenyx Rising",
+      "tags": "Mundo Aberto",
+      "cover": "https://media.rawg.io/media/games/d51/d51ada3b94bfd617bf91d4344ab81ce9.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/89d/89ddb7c696a9229c4077a7086936b017.jpg",
+        "https://media.rawg.io/media/screenshots/72b/72b3a20b98032ddbbdae771db6313aa8.jpg",
+        "https://media.rawg.io/media/screenshots/49f/49f555a993bdd096efbf670903450f67.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "Immortals Fenyx Rising",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "eee7b124-d91b-4e94-8b07-2977ae2828fe",
+      "title": "INAZUMA ELEVEN: Victory Road",
+      "tags": "Futebol de rpg",
+      "cover": "https://media.rawg.io/media/screenshots/aef/aefaf6013882da3429c4e7e93684c5a3.jpg",
+      "description": "Digital Deluxe EditionThe \"INAZUMA ELEVEN: Victory Road Deluxe Edition\" is a value package which adds the following bonus content to the base game.■ Package Contents:- Base Game- Choose-a-Character Crate- Bond Object: Football Club Room (Raimon)- Bond Object: Rai Rai Noodles (Inazuma Town)- Promise Pendant (equipment that boosts EXP gained)- Victory Jump! (Goal Celebration)*For more details on the bonuses included with each edition, visit the official website.\nAbout the GameO smoldering clouds, ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e08/e089dc11d84a193be51d2ac08725910d.jpg",
+        "https://media.rawg.io/media/screenshots/598/59849004ddeab558e0151542ac5f2351.jpg",
+        "https://media.rawg.io/media/screenshots/95b/95bccafb1817cd054e618cf8fbb0d993.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "INAZUMA ELEVEN: Victory Road(Futebol de rpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3c54346f-856b-44a2-a7d5-eee0c14bad59",
+      "title": "Indivisible",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/games/6a8/6a806af1aa50b35b7f2ad08e7e7e180e.jpg",
+      "description": "Indivisible is an exciting RPG platformer set in an immersive, vibrant world that tells the story of Ajna, a good-natured tomboy with a rebellious streak. Raised by her father on the outskirts of their rural town, her life is thrown into chaos when her home is attacked and a mysterious power awakens within her. Her world now in chaos, Ajna sets out on a quest to save everything she knows from being destroyed.\nKey Features:\nMasterfully crafted story and characters: Indivisible tells the story o...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/04c/04c87e9fa412ec841699f1f4837b0f1d.jpg",
+        "https://media.rawg.io/media/screenshots/1e0/1e027564ec6f5c830565cdd36563cc4a.jpg",
+        "https://media.rawg.io/media/screenshots/232/2323bad91d5cff494ec568cffd1f6485.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Indivisible(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "859d4df1-4a25-41b7-a8b1-7c82c6e4e7a8",
+      "title": "Infernax",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/38f/38fe875c8621c7f7e7d81209576c1362.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/89d/89dd90668d4835c1f69a07cb2308b732.jpg",
+        "https://media.rawg.io/media/screenshots/a25/a2553f93f5219c56f90be325a27ea982.jpg",
+        "https://media.rawg.io/media/screenshots/d31/d31d6603fa511facb09c959e9b2ff490.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Infernax (metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "927bfaee-12e8-421f-859c-2e0a25c37a5d",
+      "title": "Infinity Strash: Dragon Quest The Adventure of Dai",
+      "tags": "Action rpg",
+      "cover": "https://media.rawg.io/media/screenshots/0c5/0c54cab24d02694a34db267812d353e7.jpg",
+      "description": "Early Purchase Bonus\nLegendary Hero - Dai Outfit\nThe Hero’s Tutor - Bond Memory that provides bonus EXP.\n*The Hero's Tutor Bond Memory can be obtained via The Temple of Recollection. The Early Purchase Bonus allows for early access.\n*Early Purchase Bonus items are applicable to Standard Edition and Digital Deluxe purchases made from 05/27/2023 – 10/12/2023.\nInfinity Strash: DRAGON QUEST The Adventure of Dai - Digital Deluxe Edition\nLegendary Mage - Popp Outfit\nLegendary Priest and Legendary Mart...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/245/24584e5cb3a5bb70752beb39e4a42fdf.jpg",
+        "https://media.rawg.io/media/screenshots/432/4325e826032235ccf92ecf1c356299c1.jpg",
+        "https://media.rawg.io/media/screenshots/843/843fc9c1abb64aceec3efa3025d360e8.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Infinity Strash: Dragon Quest The Adventure of Dai(Action rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bc95c7eb-f457-46e7-9748-26c6462917c7",
+      "title": "Inmost",
+      "tags": "indie",
+      "cover": "https://media.rawg.io/media/screenshots/13e/13e63111b49551ea3227cd74ff6c2105.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 00 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e4e/e4e74c1db38b973186d4875822f20323.jpg",
+        "https://media.rawg.io/media/screenshots/446/446a35e82d46ef6090142e47b2a5229e.jpg",
+        "https://media.rawg.io/media/screenshots/ae5/ae532e008e75a21a2adbcdc5fa8e0c39.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Inmost(indie)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "236cd4af-48b0-45a9-a3dc-9543e77eb49f",
+      "title": "Inside",
+      "tags": "Criador de limbo",
+      "cover": "https://media.rawg.io/media/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg",
+      "description": "INSIDE is a platform adventure game that transfers the atmosphere of a dystopic world. Players assume the role of a lonely boy, who walks through the monochromatic 2.5D environment and solves various puzzles. By the time main antagonists of the character pursue him throughout the whole world. The main storyline follows the unnamed boy through the in-game world locations including a forest, a farm, and a fictional laboratory, where experiments on bodies are held. The gameplay is divided into leve...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3a0/3a049846766e09f8883badea6538e736.jpg",
+        "https://media.rawg.io/media/screenshots/b58/b58b50e9da6b409fd223912039c4cba7.jpg",
+        "https://media.rawg.io/media/screenshots/7d0/7d07f39a90bc1ed2dea7186580b49c7a.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Inside(Criador de limbo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f5652626-dc83-45a0-a708-36a8f430cc29",
+      "title": "Iron Meat",
+      "tags": "Run and Gun",
+      "cover": "https://media.rawg.io/media/screenshots/e1c/e1c3cfe09d97e5dc38280f85ab7e6041.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b47/b4798085bf7ab7ab1ef81d7525766ebe.jpg",
+        "https://media.rawg.io/media/screenshots/11a/11a41e9a48c6e32c1d6fbaaa842b3aa7.jpg",
+        "https://media.rawg.io/media/screenshots/6ea/6eaa74e37d07fdbd0f3c88c93a0c3948.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Iron Meat",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "37c92ca6-041e-4d70-af45-1f396fda9e07",
+      "title": "Islets",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/37c/37c521e41bf65943389ebe4a6cb00b14.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6cb/6cb991f75e6bd2a020200409a0293192.jpg",
+        "https://media.rawg.io/media/screenshots/ba1/ba18c534f023b4b90f6ed005934315dd.jpg",
+        "https://media.rawg.io/media/screenshots/ff0/ff022fd83f590c39f7d624179415bbf5.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Islets (metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a0b44995-62fa-4b43-8e04-99d8d2b27f54",
+      "title": "It Takes Two",
+      "tags": "Só funciona cooperativo",
+      "cover": "https://media.rawg.io/media/games/d47/d479582ed0a46496ad34f65c7099d7e5.jpg",
+      "description": "Bring your favorite co-op partner and together step into the shoes of May and Cody. As the couple is going through a divorce, through unknown means their minds are transported into two dolls which their daughter, Rose, made to represent them. Now they must reluctantly find a way to get back into their bodies, a quest which takes them through the most wild, unexpected and fantastical journey imaginable.\n\nIt Takes Two further builds on Hazelight’s proven track record of making rich and engaging ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/252/252844a85405a3147440806709a47f79.jpg",
+        "https://media.rawg.io/media/screenshots/88a/88a0a4d7a1f4dbe78c2c34810afcaffa.jpg",
+        "https://media.rawg.io/media/screenshots/bef/bef5d6085129fda4d26a2293b9edb30e.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "It Takes Two(Só funciona cooperativo)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "331c4029-b1cb-4e8f-a487-1360599f60b2",
+      "title": "It’s a wrap",
+      "tags": "maker e plataforma",
+      "cover": "https://media.rawg.io/media/screenshots/a64/a644c31c036f169b49e938e1bdb791c9.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f46/f4603bea573b208c8361ff1a1324c4ec.jpg",
+        "https://media.rawg.io/media/screenshots/c7c/c7cbfefc7fff9914da00725448a072c6.jpg",
+        "https://media.rawg.io/media/screenshots/b56/b56ddd17cb34954e9d1de48c6a0e9f79.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "It’s a wrap (maker e plataforma)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d1102666-c724-49cf-b064-7fb486550a76",
+      "title": "Itorah",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/c35/c35619b2910e2ed994b9365a4cfb777f.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/190/19049f1268189918def6e34ece631771.jpg",
+        "https://media.rawg.io/media/screenshots/472/472b0cb3215efd7bcca500c8b0c27020.jpg",
+        "https://media.rawg.io/media/screenshots/e4b/e4bb3a3f335c62b9a1f4aea61661f3a1.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Itorah (Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e6ab3e9e-f50c-4fd2-990b-92af5f2f493c",
+      "title": "Jack move",
+      "tags": "rpg",
+      "cover": "https://media.rawg.io/media/games/821/82173558c916895ea061afeae415f990.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/15b/15b582f89b248fe113b8ed6adb659f6a.jpg",
+        "https://media.rawg.io/media/screenshots/b48/b4816910e69f9b9856e9d50bf559b316.jpg",
+        "https://media.rawg.io/media/screenshots/0e2/0e23036a94c8ec60e2b68a94e9c59db3.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Jack move(rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f0a9fbac-71f0-477b-b6ea-d1809d353b8f",
+      "title": "Jitsu Squad",
+      "tags": "Briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/a8f/a8ff2dd2fb6589b77c11133758582a54.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8d5/8d5989d800ab775f7bf1d79f360b6242.jpg",
+        "https://media.rawg.io/media/screenshots/77a/77af75ba2e5dd8487ff42c9586214a30.jpg",
+        "https://media.rawg.io/media/screenshots/f0b/f0bf390b6167ce5b4c45ff84fb091df0.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Jitsu Squad(Briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9f5225ec-97c5-4711-8e1f-ed4236286b41",
+      "title": "Joel’s Brother",
+      "tags": "Point click",
+      "cover": "https://media.rawg.io/media/screenshots/fdd/fdd51f45eeb2a702937aeaf70832ca6d_zcGNgST.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ba6/ba67818365418939e92310ce0e18ea0e_YAP4suN.jpg",
+        "https://media.rawg.io/media/screenshots/aea/aea65f4d2a932730a483ad7d5c9a3d63_JA6MRLw.jpg",
+        "https://media.rawg.io/media/screenshots/9bc/9bc35cd5135616fc2753d6649ff1fbf5.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Joel’s Brother(Point click)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a91462f2-aaa2-4d60-b23b-5a85ea739b92",
+      "title": "JoJo's Bizarre Adventure: All-Star Battle",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/games/f3b/f3b53a701afa9e2786c649303dc0440e.jpg",
+      "description": "With a revolutionary proprietary graphics shader system, JoJo’s Bizarre Adventure: All-Star Battle gives players the feeling that they are participating in vivid and colorful battles straight from the pages of the manga.  Players will be able to choose from an impressive cast of characters spanning the entire series.  Each character comes with their signature moves punctuated by dynamic camera angles to capture every highlight of the fight either against computer opponents via Story Mode or huma...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/65d/65d0ee4abd5c461c6df866937ccb4d7d_Bcuhltw.jpg",
+        "https://media.rawg.io/media/screenshots/ff4/ff48945ced3e9562cc9cef6ec1992215.jpg",
+        "https://media.rawg.io/media/screenshots/184/184859638a808a6c99d2fb386bee4fa1.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "JoJo's Bizarre Adventure: All-Star Battle(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "52ac8102-270f-47e2-b836-23628aa63ff5",
+      "title": "Josh Journey",
+      "tags": "Briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/0c4/0c443f075f2f10be795e8d8ad5bed6f2.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/079/0791daa65c10acea0834bc74a548c734.jpg",
+        "https://media.rawg.io/media/screenshots/97f/97f2212b949a104820864e972d09f2e0.jpg",
+        "https://media.rawg.io/media/screenshots/250/2509322693c19bb7870e960f44dd1064.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Josh Journey(Briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "391150c8-6b47-4a65-9c0e-8b6d0f86ca0a",
+      "title": "Jujutsu Kaisen: Cursed Clash",
+      "tags": "luta",
+      "cover": "https://media.rawg.io/media/games/c40/c404b5afe4c30d0554fb142ba3a9582c.jpeg",
+      "description": "Jujutsu Kaisen, known for its serialization in Shueisha’s “Weekly Shonen Jump”, is getting its first console game!\nIn this 2 vs. 2 action game, aim for new heights by mastering the “Cursed Techniques” of more than 15 powerful Jujutsu Sorcerers and Cursed Spirits!\nChoose your partner and create unique combinations that both complement your play style and showcase the different cursed techniques each character possesses.\nStrengthen your cursed techniques through exhilarating battles, defeat your o...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/da7/da7041f779b67f020d4ce93ac411b3c9.jpg",
+        "https://media.rawg.io/media/screenshots/56b/56b767dc3505751a6fa21b75f10e77ce.jpg",
+        "https://media.rawg.io/media/screenshots/0bf/0bfea162550436355c4c5a759855b21e.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Jujutsu Kaisen: Cursed Clash(luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "080da61b-3da2-4786-8804-bd7955c93f6b",
+      "title": "Jump Force",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/games/bac/bac558c863989fadc4fede908c15cd64.jpg",
+      "description": "Jump Force is a crossover game based on the characters from various anime and manga franchises. It is based on the propriety featured in Weekly Shonen Jump magazine and is meant as a celebration of its 50th anniversary. The game is powered by Unreal Engine 4.\n\n###Plot\nA cataclysmic event caused the Shonen Jump world to collide with our real world. Both heroes and villains from various manga series appear on our Earth and fight in a chaotic battle for the survival of humanity.\n\n###Gameplay\n...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fad/fadfd33cb23a63d3913b414e51357061.jpg",
+        "https://media.rawg.io/media/screenshots/72c/72c7b922a22ec95b9466c0472db98622_ZHvIVX5.jpg",
+        "https://media.rawg.io/media/screenshots/a1c/a1c5b2658e7d8d1f24c871a36d4d0791.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Jump Force(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e5106262-f2d5-434c-9c44-61b6b5d3720a",
+      "title": "Just Dance",
+      "tags": "dança",
+      "cover": "https://media.rawg.io/media/games/e4a/e4abca7866c6f9937ad5740079f02f0f.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 07 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ff2/ff286fe673991a4c2e5ed13844f2d2b3.jpg",
+        "https://media.rawg.io/media/screenshots/a72/a725c75df35409db39ca219eee0e5794.jpg",
+        "https://media.rawg.io/media/screenshots/c94/c948fefaf0f33fb50879b76c8f54c87f.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Just Dance(dança)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a8dacc0b-b253-462b-babe-1e2ffb1c5582",
+      "title": "Just shape e beats",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/games/82a/82a8b8757f9c085d372b5fc8563d41cf.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 07 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/579/579f61ffe07b05da0c8d47e9b3ca9ce8.jpg",
+        "https://media.rawg.io/media/screenshots/c85/c85f55cd08143b9a9c015d494623ce80.jpg",
+        "https://media.rawg.io/media/screenshots/a57/a5775ac9b93e80513f4e01eecef63f6f.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Just shape e beats (Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e53d7f6a-7ff9-4aef-8050-d0317ca045f7",
+      "title": "Kao the Kangaroo",
+      "tags": "plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/9e5/9e583cf16bf69c41360b11f270960304.jpg",
+      "description": "🥊 THE GAME 🥊\nKao The Kangaroo is a 3D platformer from veterans of the genre Tate Multimedia, featuring a plucky, cheeky but a cutie, Kao The Kangaroo (Hey, just like in the title!) on a quest to uncover the truth around the disappearance of his father.\n🥊 THE JOURNEY 🥊\nDuring his journey, Kao will explore a wide variety of beautifully detailed environments, each harboring secrets to uncover. At every turn, Kao faces new challenges. He’ll have to use all his skills while learning some new ones...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e6d/e6dae9d3b042c4091c6905dac40f5632.jpg",
+        "https://media.rawg.io/media/screenshots/373/373215179233ad92985412ff9409b504.jpg",
+        "https://media.rawg.io/media/screenshots/86c/86c151dbf304c91042deceb3fd44b4b6.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Kao the Kangaroo(plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2a9a82c1-99dd-455e-ae1c-5bd0b3144124",
+      "title": "Katana Zero",
+      "tags": "Indie",
+      "cover": "https://media.rawg.io/media/games/d37/d37e110ddcc0bd52d99f0f647b737a0a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d4e/d4e033c1b504f7df5fb234287e28e990.jpg",
+        "https://media.rawg.io/media/screenshots/bc9/bc9fd02f32749fe15581bf8b692d7814.jpg",
+        "https://media.rawg.io/media/screenshots/3cc/3cc5aec6ba38ff277ac0d0be4573ec62.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Katana Zero (Indie)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ea193520-3920-42bd-acb0-c89095ef5a17",
+      "title": "Kaze and the Wild Masks",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/543/5434f5ee96be806c7376e7ab17d924cb.jpg",
+      "description": "In Kaze and the Wild Masks, our bunny needs to become a hero when a comet strikes the normally-peaceful Carrotland, turning its plants into enraged living forms, bringing chaos around the place.Invoke the powers from ancient heroes.\nThe Wild Masks unleash skills from the legendary guardians of Carrotland. Kaze will run ferociously like a tiger, cut the skies like an eagle and explore deep underwater like a shark!A tribute to the bouncing and exploration formula.\nFocusing on simple controls schem...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/be7/be77cfa0bf95902b32c25a6b64bfbbc6.jpg",
+        "https://media.rawg.io/media/screenshots/f72/f7278d7ccf48cc40f8417ed1d3071a5a.jpg",
+        "https://media.rawg.io/media/screenshots/758/758d8c665df7ee19efabbab519fea4e5.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Kaze and the Wild Masks(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3f6cafe3-9668-42d5-b58e-bcaae9621e72",
+      "title": "Kill knight",
+      "tags": "rogue like",
+      "cover": "https://media.rawg.io/media/screenshots/c97/c97a25cc3b881670cbc786e2a4c515c2.jpg",
+      "description": "Da cavalaria à traição e o banimento no Abismo. Como um cadáver profanado e agora ressuscitado em sua armadura, você acorda para a morte eterna. Com o nome de CAVALGA-MORTE, seu único objetivo é: MATAR O ÚLTIMO ANJO.\nCINCO CAMADAS SOBRENATURAIS\nMATE OU MORRA\nDOMINE O DEMÔNIO INTERIOR\nDance com a morte no Abismo e revele mais camadas jogáveis sob a superfície. Explore as fraquezas inimigas, realize execuções brutais, use táticas para gerenciar os recursos do seu arsenal e libere explosões de ira ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ca6/ca623c3d18afbe2a0a30235173541533.jpg",
+        "https://media.rawg.io/media/screenshots/003/003d9b421472c293b4a22f0b12a9a212.jpg",
+        "https://media.rawg.io/media/screenshots/2b8/2b8cdbf39edac6191c9591a777136bff.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Kill knight(rogue like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "03ccfed8-9bc5-430c-9931-20615ba8ed97",
+      "title": "Kingdom Come: Deliverance",
+      "tags": "Rpg",
+      "cover": "https://media.rawg.io/media/games/d8f/d8f3b28fc747ed6f92943cdd33fb91b5.jpeg",
+      "description": "You're Henry, the son of a blacksmith. Thrust into a raging civil war, you watch helplessly as invaders storm your village and slaughter your friends and family. Narrowly escaping the brutal attack, you grab your sword to fight back. Avenge the death of your parents and help repel the invading forces!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/57a/57a10b6c897bc2c21666f4a9bcfdefcc.jpg",
+        "https://media.rawg.io/media/screenshots/8bc/8bc2d7c3039918e39c0d0e35f2abbe93.jpg",
+        "https://media.rawg.io/media/screenshots/cdd/cdd3304a7c3507d221ff475eb50358c8.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Kingdom Come: Deliverance(Rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b83baf08-5ad8-4925-8666-5ef86bad26d6",
+      "title": "Kingdom Hearts: Melody of Memory",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/games/fa7/fa7e8ba1bca24d8ac299c8d04a0cef59.jpg",
+      "description": "Play as famililar faces from the KINGDOM HEARTS series, including Disney guest characters who will appear to lend you a hand.\n\nEnjoy a massive variety of music from both the KINGDOM HEARTS series and Disney, with a collection of over 140 songs. Dive into rhythm-action gameplay with memorable tunes in this can't-miss musical journey!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/586/58652c4b3df8ab6a6b21024440e627e3.jpg",
+        "https://media.rawg.io/media/screenshots/bef/befc4631e300b81a5a3487cb3e49a4c6.jpg",
+        "https://media.rawg.io/media/screenshots/0fc/0fc0c3209990f4d6873379b974f5e2f2.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Kingdom Hearts: Melody of Memory(Ritmo)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b3fcd8d2-1340-4499-a749-1be343143a2d",
+      "title": "Kirby and the Forgotten Land",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/42a/42a71f0cbe23185f778c10462faa12d8.jpg",
+      "description": "Take control of the powerful pink puffball, Kirby, and move around freely in 3D stages as you discover a mysterious world with abandoned structures from a past civilization—like a shopping mall?! Copy enemies’ abilities like Sword and Ice and use them to attack and explore your surroundings! What journey awaits Kirby? Take a deep breath and get ready for an unforgettable adventure!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e02/e026abf429d63d8b39cbeaab6e8f9862.jpg",
+        "https://media.rawg.io/media/screenshots/126/126e5bec3379697a8b2df4e70bfbefe8.jpg",
+        "https://media.rawg.io/media/screenshots/471/4712b232a4b49a73ae50f07744fcbabe.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Kirby and the Forgotten Land(Plataforma 3d)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "a22581a9-90ac-489f-84d2-cb23093796a3",
+      "title": "Kirby: Star Allies",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/7d5/7d5ad1326497d1533461a4541afb32f3.jpg",
+      "description": "Kirby™ is back—and he's finally on the Nintendo Switch console in HD! But this time, he's not alone. Recruit enemies by hitting them with hearts and gather helpers for a party of up to four characters. On top of that, you can join with up to three friends for a different kind of team-up action!\n\nFeatures:\n\nThe newest Kirby title comes to the Nintendo Switch console in HD\nRecruit up to three enemies as helpers by hitting them with hearts\nReturning copy abilities include, Sword, Fire, Water, Bomb,...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5f5/5f5287c3cf2a6a3d0f67ed58c956b4ed.jpg",
+        "https://media.rawg.io/media/screenshots/b13/b13eacaccc0e9ff7cba860afa007ee13.jpg",
+        "https://media.rawg.io/media/screenshots/134/13459be774e930d2e59474ae16d3c307.jpeg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Kirby: Star Allies(Plataforma 2d)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "8ba8e7f2-a524-4211-b59b-b6663463586e",
+      "title": "Kirby’s Dream Buffet",
+      "tags": "Multiplayer",
+      "cover": "https://media.rawg.io/media/games/734/7347a3a5aecfb3fb404698a756433ae5.jpg",
+      "description": "Roll through a smorgasbord of food-themed stages in 4 rounds of 4-player* fun as Kirby…who seems rounder than usual? Race through delicious obstacle courses to collect strawberries as Kirby grows. Then, turn the tides in the final round—a fruity fight atop a floating platform.\n\nRoll through delicious, food-themed obstacle courses in 4-player matches\nCollect strawberries to grow bigger and prepare for the final battle",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ae0/ae02fb0ef6d4fae4aa60e2419a6a2ba7.jpg",
+        "https://media.rawg.io/media/screenshots/37a/37a3f1fcd9b34d08539d1844db7d3b57.jpg",
+        "https://media.rawg.io/media/screenshots/450/450a42cbc9cc268a6d03f7dc287f9fe6.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Kirby’s Dream Buffet(Multiplayer)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "007b16f3-75b6-40c2-915d-f1845e2680e9",
+      "title": "Kirby’s Return to Dream Land Deluxe",
+      "tags": "",
+      "genre": "Plataforma,Ação,Aventura",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false,
+      "raw": "Kirby’s Return to Dream Land Deluxe",
+      "description": "The tough puff Kirby is back for a 4-player* platforming adventure. Copy enemies’ abilities and use their power to attack with a sword, wield a whip, and float with a parasol. You can also laser blast with the new Mecha Copy Ability that makes a series debut! The extra muscle will be handy in finding missing pieces for Magolor’s ship, which crash landed on Planet Popstar. Float and fight along with friends on the same system, where each player can control another Kirby or one of Kirby’s iconic f...",
+      "cover": "https://media.rawg.io/media/games/adb/adb29ad3144e4cd9fb177e18e7162d26.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/206/20631c03a4d8b166de635dec76611bf0.jpg",
+        "https://media.rawg.io/media/screenshots/b0f/b0f416a33e24e49a6d52c1c0ff9ec788.jpg",
+        "https://media.rawg.io/media/screenshots/81b/81b436160fd665c5e88d42951cb592ec.jpg"
+      ]
+    },
+    {
+      "id": "69629101-f443-41b6-bb37-d2663658d1e0",
+      "title": "KLONOA Phantasy Reverie Series",
+      "tags": "Klonoa remake",
+      "cover": "https://media.rawg.io/media/screenshots/eb4/eb40f087008b37e1410bc405c0cc1aa9.jpg",
+      "description": "Klonoa is back! Klonoa Phantasy Reverie Series brings back Klonoa: Door to Phantomile and Klonoa 2: Lunatea's Veil remastered in one collection to fans new and old. Get ready to set off on an adventure to save the world!\n\n• Run and jump while using your Wind Ring to grab and throw your enemies. Adjust the difficulty levels to test your skills.\n\n• Enlist a friend in 2 player co-op, if you need help.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cf7/cf79daeda0d9e85b0b353182d8696a6f.jpg",
+        "https://media.rawg.io/media/screenshots/cb1/cb1cc51c7056a39d659a492c5a334ca3.jpg",
+        "https://media.rawg.io/media/screenshots/c08/c08cfb55afeb0a60740f176a9538f2da.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "KLONOA Phantasy Reverie Series(Klonoa remake)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d8f3fc68-d10e-4cd9-ae43-7ed8045e41e9",
+      "title": "Koa and the Five Pirates of Mara",
+      "tags": "plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/df5/df5b2d5b08c3b9ff3493064c88aa929f.jpg",
+      "description": "WISHLIST AND FOLLOW US!\nAbout the GameJoin series favorite Koa and her friend Napopo on an action-packed journey through the world of Mara! Traverse wild islands, dodge cunning traps, and defeat the knarrrrrliest pirate bosses in this loving tribute to classic platforming adventures.\nUnlock an archipelago piece by piece. From sandy beaches to bubbling volcanoes, there’s no shortage of charming and colourful islands to visit, each one chock full with secrets and collectibles. Each level offers be...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fb6/fb652636099b79cbed79224520b12451.jpg",
+        "https://media.rawg.io/media/screenshots/9e2/9e26cf42c222474df1de6a4606abfe79.jpg",
+        "https://media.rawg.io/media/screenshots/1ee/1ee6fb272bb4eba0d6fdfc34cf7bfa17.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Koa and the Five Pirates of Mara(plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "48faa842-4550-4d3a-97e0-c1755a73b040",
+      "title": "Korg Gadget",
+      "tags": "Produção musical",
+      "cover": "https://cdn.korg.com/us/products/upload/5bdc7b884561b7c1cefd8372c2f41ce4_pc.png",
+      "description": "Jogo de produzir musica",
+      "images": [],
+      "genre": "Jogos de música",
+      "raw": "Korg Gadget(Produção musical)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5561aae1-47c5-40f4-821b-ad327c8314a8",
+      "title": "Kukoos - Lost Pets",
+      "tags": "Plataforma 3d)(Multiplayer",
+      "cover": "https://media.rawg.io/media/screenshots/470/4706c3a6956b9d61b53d36b53f974dde.jpg",
+      "description": "This 3D platformer takes players to a new universe of limitless adventures, join the Kukoos in a corky and upbeat adventure to rescue the brainwashed pets. Enter the Kukoo Tree and its infinite doors that take you to unimaginable words of dangers and wonders.\nThe accessible gameplay teaches beginners to progress and uncover the mysteries story. As you play and master the mechanics the game grows with the player and challenges you with more ways to interact and think outside the box.\nPlay as K or...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/246/24670fd340fb0d371ca447b6c25d5615.jpg",
+        "https://media.rawg.io/media/screenshots/22d/22d2263b928061f9c555f34192b53ac6.jpg",
+        "https://media.rawg.io/media/screenshots/4cf/4cf45a51094db09437705f84393fff93.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Kukoos - Lost Pets(Plataforma 3d)(Multiplayer)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "560e7ffe-be33-48ab-a7da-30980267f881",
+      "title": "La Noire - (Mundo Aberto)Tradução",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/e2d/e2d3f396b16dded0f841c17c9799a882.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c08/c0823f02236f076a7a36ff5f3571558e.jpg",
+        "https://media.rawg.io/media/screenshots/dee/dee71bfc43834357e15e1d35d2c507c8.jpg",
+        "https://media.rawg.io/media/screenshots/69f/69fdec37afd586f274316a69e92303f1.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "La Noire - (Mundo Aberto)Tradução",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cda3effb-2e01-4168-a6c8-149563020a85",
+      "title": "Laika: Aged through blood",
+      "tags": "Metroidvania de moto",
+      "cover": "https://media.rawg.io/media/games/787/7875e4dbb15bcda66a4a5f47e22b8254.jpg",
+      "description": "Laika: Aged Through Blood is a western-inspired motorvania set in a post-apocalyptic wasteland. It is the story about a tribe oppressed by occupant forces, and the personal story of a mother coyote warrior who descends on an endless path of vengeance to take back what her people lost.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/046/0466226574f3ab7980d02c888072e9fd.jpg",
+        "https://media.rawg.io/media/screenshots/283/2835843ff9ec2a5775ee516533d36ceb.jpg",
+        "https://media.rawg.io/media/screenshots/90c/90c7c3c5b02518267b9e245079e7ec34.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Laika: Aged through blood(Metroidvania de moto)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2e8c6099-e37b-40dd-a965-ad68408e76b6",
+      "title": "Langrisser 1 e 2",
+      "tags": "Jrpg Tático",
+      "cover": "https://media.rawg.io/media/screenshots/940/9408ebf662f50f9f478bd09e87c3b63b.jpg",
+      "description": "The Japanese SRPG masterpiece Langrisser has finally arrived on Steam! Experience exhilarating turn-based battles, class-based tactical combat, unique upgrade paths for each hero, real-time PvP, world-class artwork, an all-star voiceover cast, and an unforgettable musical score, as you explore a vast fantasy world! Heed the Langrisser’s call and save the continent of El Sallia from the forces of darkness!\n-\tEmbark on a Magical Quest for the Legendary Sword!\nLangrisser’s first mobile outing takes...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0ec/0ecf395a778c6dcdd7911a421c241bdd.jpg",
+        "https://media.rawg.io/media/screenshots/969/969d153f7e30a4d8ad9849cffc0d2ace.jpg",
+        "https://media.rawg.io/media/screenshots/681/6812729796c12e4b75fb3c0d3a0a21bc.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Langrisser 1 e 2(Jrpg Tático)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bc8f6a20-5633-43c8-b8f3-83e2235fd0a2",
+      "title": "Legacy of Kain: Defiance Remastered",
+      "tags": "",
+      "genre": "Plataforma,Ação,Aventura",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Legacy of Kain: Defiance Remastered",
+      "description": "Play as the vampire Kain and his betrayed lieutenant Raziel. Wield legendary blades, use supernatural abilities, and battle through a world of conflict, intrigue, and prophecy as their paths collide across the dark world of Nosgoth.",
+      "cover": "https://media.rawg.io/media/screenshots/b63/b634ca0687f73b55e355b12fe825ef96.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/045/0457a18bbbd89ca4361da4ab5714807f.jpg",
+        "https://media.rawg.io/media/screenshots/f72/f726c34aa7ebd64a7dd019af35905668.jpg",
+        "https://media.rawg.io/media/screenshots/b14/b14a287077f3a5f4133521aee2981e96.jpg"
+      ]
+    },
+    {
+      "id": "1f666d4a-cd9a-4753-879a-4a112ebcd958",
+      "title": "Legacy of Kain™ Soul Reaver 1&2 Remastered",
+      "tags": "Remaster - Jogo de aventura",
+      "cover": "https://media.rawg.io/media/games/e03/e03a08a32805ecac6463f503c929b0c5.jpg",
+      "description": "Experience the epic conflict of Kain and Raziel in original form or with remastered graphics.\n\nCenturies after your former master, Kain, betrays and executes you, you rise again and embark on a relentless quest for revenge.\n\nSlay your former vampire brethren with your claws, bolts of telekinetic energy, and the elemental Wraith Blade. Grow stronger by devouring the souls of your enemies.\n\nThe Elder God has granted you the ability to shift between the Spectral and Material Realms. Traverse the re...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/215/215fcb44d3063cbc106ccc8f044277eb.jpg",
+        "https://media.rawg.io/media/screenshots/bf6/bf66fb9803756ad74eca48d706ef510f.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Legacy of Kain™ Soul Reaver 1&2 Remastered(Remaster - Jogo de aventura)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "99b963c1-32cc-4e6e-a2b0-aa197dd08556",
+      "title": "Legend Of Mana",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/games/456/456d646033322f5d7138f204fb91ddbc.jpg",
+      "description": "Legend of Mana, originally released in Japan as Seiken Densetsu: Legend of Mana, is a 1999 action role-playing game developed and published by Square (now Square Enix) for the PlayStation. It is the fourth game in the Mana series, following 1995's Seiken Densetsu 3. Set in a high fantasy universe, the game follows an unnamed hero as they restore the land of Fa'Diel by creating the world around them and completing a number of interrelated quests in order to restore the Tree of Mana.\nWhile incorpo...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/efe/efe96676b126c61b6b3d8934fce9a569.jpg",
+        "https://media.rawg.io/media/screenshots/348/3480c5c47900442700d1a823643ffcfd.jpg",
+        "https://media.rawg.io/media/screenshots/aee/aeeba7f9c098d4ade51df5b3afd70a71.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Legend Of Mana(JRpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2226e55f-ad46-4939-8450-eb927eb151dc",
+      "title": "LEGO 2K Drive",
+      "tags": "corrida mundo aberto",
+      "cover": "https://media.rawg.io/media/games/008/008e8cff1f2211281dacd48ec54a4dba.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d1e/d1eec0bd2138c9c5db3eb435d84f3d26.jpg",
+        "https://media.rawg.io/media/screenshots/90f/90fb4a544e2902383c90518202ed5378_jEIctRa.jpg",
+        "https://media.rawg.io/media/screenshots/0fa/0fa3c5fa383c3537e678377de8ab72c1.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "LEGO 2K Drive(corrida mundo aberto)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "642e8d15-6c01-442e-bc36-92a3952d27b4",
+      "title": "Lego Horizon Adventures",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/f94/f9431c36820b13201397c25d197e030a.jpg",
+      "description": "Join machine hunter Aloy as she leads a colorful crew of heroes through the lush wilderness on a quest to save the world and learn the secrets of her past. Dive into boundless adventure, customize to your heart’s content, and take on action-packed battles solo or with friends in co-op.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/47b/47b9800ebe44ef81c4853a71e3f91edb.jpg",
+        "https://media.rawg.io/media/screenshots/948/948f745a9648895d6ec664ec7e3d0d13.jpg",
+        "https://media.rawg.io/media/screenshots/876/8767d0bf21d94f3a2bf312e1b8ccfe6a.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Lego Horizon Adventures",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0875343b-054e-4c5e-bfd0-918aee2d70a1",
+      "title": "Lego Star Wars: The Skywalker Saga",
+      "tags": "Aventura",
+      "cover": "https://media.rawg.io/media/games/292/2926f9fb089ab91a0dac754193b325e5.jpg",
+      "description": "The galaxy is yours with LEGO® Star Wars™: The Skywalker Saga! Play through all nine Star Wars™ saga films in a brand-new LEGO video game unlike any other. Experience fun-filled adventures, whimsical humor, and the freedom to fully immerse yourself in the Star Wars universe like never before.\n\nFor the first time ever in a LEGO video game, explore the galaxy your way as you fly to some of the saga's most legendary locales. You can start your journey with Star Wars™: The Phantom Menace for some po...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/57b/57b9aa619146e101abced80f416c7af7.jpg",
+        "https://media.rawg.io/media/screenshots/5a9/5a9c75b0f722a96169bce6e9adac0301.jpg",
+        "https://media.rawg.io/media/screenshots/ecc/eccdf7f8e3e10409d2a0e02625b04589.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Lego Star Wars: The Skywalker Saga(Aventura)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d3343e6d-a083-4f3b-8f47-bc4f8293a7c5",
+      "title": "LEGO® Party!",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/2d5/2d565c6198271057d608ef434850765d.jpg",
+      "description": "LEGO® Party! is a 4-player party game that's built different! Compete against your friends in wacky Challenge Zones and 60 hilarious minigames from across your favorite LEGO sets like Pirates, Space, NINJAGO® and more. Play your way! Join your friends no matter their platform locally or online!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/50f/50fe18626fe7e6a2b28c2a772061ef74.jpg",
+        "https://media.rawg.io/media/screenshots/b81/b81c505bfba6920a5d51b69a6cb4c63e.jpg",
+        "https://media.rawg.io/media/screenshots/f96/f963ac35e6234a6c1cfcc390665083ee.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "LEGO® Party!",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a270edce-1836-478b-bb8a-1c5255ea2671",
+      "title": "Let's Sing",
+      "tags": "Musica",
+      "cover": "https://media.rawg.io/media/games/14f/14f6f62004c57b699a3142f72eebec7c.jpg",
+      "description": "Sing along with your friends to all your favorite songs in Let’s Sing 2014! Enjoy five exciting game modes: Solo, Duet, Battle, Co-op",
+      "images": [
+        "https://media.rawg.io/media/screenshots/af3/af3b57a5e3304a5bc2a3dcf9c13dec4d.jpg",
+        "https://media.rawg.io/media/screenshots/bf4/bf49a8f6c6892d5367a4e63db12a5594.jpg",
+        "https://media.rawg.io/media/screenshots/c99/c99d043f282394ce195150827751cc46.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Let's Sing(Musica)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f7572905-c2d2-4a89-8ceb-63cea019871a",
+      "title": "Lethal league blaze",
+      "tags": "Luta diferente",
+      "cover": "https://media.rawg.io/media/games/2ae/2ae1c72fcdf0d9fa2e950129c1ce7880.jpg",
+      "description": "Lethal League Blaze is an intense, high speed ball game, with unique characters, outta sight sounds and none of that weak shit. In Shine City, the anti-gravity ball game has long been illegal. The group who kept playing was dubbed the Lethal League. Even now, with their sport pushed underground, players and crews compete in the League for challenge and respect.\nLethal League Blaze is coming at you and the world in Q4 2018.\nIn the game, the goal is to beat your opponents with the ball. You can ma...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/776/776423bb3822852fcb991ad9d0115519.jpg",
+        "https://media.rawg.io/media/screenshots/0ed/0ed429d863fdf387e069dde9e61dfae8.jpg",
+        "https://media.rawg.io/media/screenshots/4ed/4edf094b45a3e1d2577336dc6596502a.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Lethal league blaze(Luta diferente)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "51965c58-7d96-4b34-8fce-76303dd1f04a",
+      "title": "Life is Strange",
+      "tags": "Narrativo Point click",
+      "cover": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/edf/edfcbdf85f02f871263dabf1b4f0aa87.jpg",
+        "https://media.rawg.io/media/screenshots/4c6/4c6da2f36396d4ed51f82ba6159fa39b.jpg",
+        "https://media.rawg.io/media/screenshots/6aa/6aa56ef1485c8b287a913fa842883daa.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Life is Strange(Narrativo Point click)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2a2be977-6e8c-4502-a04b-a3fae2d1494d",
+      "title": "Light Fairy Tale",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/screenshots/53a/53a248f17f14768361c25fccef565498.jpg",
+      "description": "Light Fairytale is a 3D turn-based Japanese-style RPG set in a dying underground world, ruled by a fierce and powerful empire. Inspired by classics such as Final Fantasy 7 and Breath of Fire 5.\nThe goal of this project is to bring back the immersion and emotion of 90's era JRPGs, but with modern graphics and gameplay systems.\nComing in Q1 2018 on Windows, Mac and Linux. In English and Japanese.\nStory\nA long time ago, the world was prosperous. Technology and sciences were quite advanced, and peop...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/118/1183840c5231820103e873806d7fc0d1.jpg",
+        "https://media.rawg.io/media/screenshots/d4b/d4b2890c45286890adfeebc626264fbd.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Light Fairy Tale(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f4008c03-5ede-46bc-8c7c-051b8bb00764",
+      "title": "Little Big Adventure – Twinsen’s Quest",
+      "tags": "Clássico do pc remake",
+      "cover": "https://media.rawg.io/media/screenshots/846/8468ca3588056564cfeda54b754bea12.jpg",
+      "description": "Digital Deluxe Edition\nAbout the Game\nStep into Twinsun's fantastical world in this action-adventure remake! Little Big Adventure - Twinsen's Quest brings brand new visuals, new music by the original composer, and smoother gameplay to the iconic classic released back in 1994.\nEmbark on a Timeless Adventure, Reimagined\nTwinsen is back in this remake featuring a new stylish makeover and modernized gameplay. Faithful to the original game, Little Big Adventure – Twinsen’s Quest takes you on an epic ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f87/f87e464158ce83416c354d1b8544864d.jpg",
+        "https://media.rawg.io/media/screenshots/222/222161295dcc579cd2f990b4e0f2c3cc.jpg",
+        "https://media.rawg.io/media/screenshots/02e/02e01c746132d6e450e1b2ae00577365.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Little Big Adventure – Twinsen’s Quest(Clássico do pc remake)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f4b02a33-e69e-4900-b7be-f656e408cff7",
+      "title": "Little Nightmares",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
+      "description": "Heavily inspired by Limbo and Inside, Little Nightmares are telling a story of another lost child. Six is a starving little girl in a yellow raincoat, which is trapped in a mysterious vessel named the Maw. Players are taking control of Six’s movement, in order to help her escape the ship and dangerous inhabitants, that’s been kidnaping and preparing children to be served as a feast for the Guests. \nThe control scheme is not including any combat moves, leaving players defenseless against any thre...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/00a/00a53be1dcfba6c63ac6807637c4a45a.jpg",
+        "https://media.rawg.io/media/screenshots/78a/78aa666996cf9d2708f529c18784262f.jpg",
+        "https://media.rawg.io/media/screenshots/96d/96d356977066c0c2159ed7ef3f470cab.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Little Nightmares",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9cb542cb-5f0f-4ab7-8e14-da9bfe536b40",
+      "title": "Little Nightmares II",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg",
+      "description": "Return to the world of charming horror that has terrified over 1 million fans. Face a completely new set of distorted enemies as Mono, and learn how to be as courageous as a child.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ccc/ccc8bc96a3863a9a618b01a4df172d8d.jpg",
+        "https://media.rawg.io/media/screenshots/c75/c751625ebad334a61c515a5ac7ce4d77.jpg",
+        "https://media.rawg.io/media/screenshots/fe1/fe15bb608d9b07692d7c78a6bcb59a2b.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Little Nightmares II",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "26f8bce8-d800-430a-afc1-8b4d0fd74b79",
+      "title": "Live A Live Remaster",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/games/123/123349b81dd0be70b8aa0889635061fe.jpg",
+      "description": "The RPG game LIVE A LIVE makes its worldwide debut in HD-2D on Nintendo Switch™!\nPreviously unreleased outside of Japan, the RPG game LIVE A LIVE is releasing on the Nintendo Switch system in the HD-2D style!\n\nSeven different stories featuring different protagonists, time periods, and gameplay styles await. In The Wild West, a wanderer with a bounty on his head fights for his life. In the Twilight of Edo Japan, a shinobi undertakes a secret mission. Experience these tales in any order you choose...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2d0/2d0174adf088dad95e5670a541711ee2.jpg",
+        "https://media.rawg.io/media/screenshots/1e0/1e0506c3e43c3e1ed09e23317b141cf2.jpg",
+        "https://media.rawg.io/media/screenshots/6a0/6a09b8487c066d06058dc5a66d35b9aa.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Live A Live Remaster(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e7436bd8-6177-47d5-96db-68dab4220d9c",
+      "title": "Lollipop Chainsaw RePOP",
+      "tags": "hack n slash",
+      "cover": "https://media.rawg.io/media/games/aaf/aaf67ae494cb1947bdb25f79111c4270.jpg",
+      "description": "The game will aim to recreate the original, but the remake will feature a couple of key differences. Due to the power of new-gen hardware, the new game will feature a more realistic approach to graphics. As opposed to the first game's 16 tracks, in the remake, aside from a few old tracks, the soundtrack will consist of new music.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/91d/91d117a933860ef349c9aa9f8e279040.jpg",
+        "https://media.rawg.io/media/screenshots/525/5257b460426f735ae1a96e288611a09b.jpg",
+        "https://media.rawg.io/media/screenshots/75b/75b5db9c6e758042b93f97c79ac3833b.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Lollipop Chainsaw RePOP(hack n slash)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bcdae1b9-12f9-46a0-a964-24b3edc2ac86",
+      "title": "Lone fungus",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/472/4727030771011fcf4c5d9271bd8697de.jpg",
+      "description": "Lone Fungus community\nI'm just one person working on this game and you can get in touch with me in the Lone Fungus Discord : http://discord.gg/dgapCNF\nI'll do my best to answer any questions about the game, listen to your feedback and show what I'm working on next for the game!\nAbout the GameLone Fungus is a true Metroidvania set in a world built by mushrooms where you play as the last mushroom alive. Explore an ancient world, acquire new abilities and discover secrets!Exploration\nThere exist te...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2b8/2b8cb0a6861c9b400e33c7aad6ad8f41.jpg",
+        "https://media.rawg.io/media/screenshots/e99/e990fc7dccc0dbef4713f298c98841bb.jpg",
+        "https://media.rawg.io/media/screenshots/c77/c77a6e16a002ba3a5fb9de4bcf988356.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Lone fungus(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "6f1c11b5-a48f-4202-8530-8748228936c0",
+      "title": "Looney Tunes: Wacky World of Sports",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/6e4/6e47810692cb45029064e53239c8a3fe.jpg",
+      "description": "Purchase the game by 11-OCT-2024 00:00 to receive the following bonus: Looney Tunes: Wacky World of Sports - Sweet Deal Sports Pack!Welcome to the Wacky World of Sports Play against your friends featuring 4 classic sports: Basketball, Soccer, Golf and Tennis. Avoid the wacky obstacles and gain power-ups to incite chaos against your friends and family as you control your favorite Looney Tunes character. Play your way in this 4-player local co-op sports arcade game and choose the character that be...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/aa1/aa189ec97c828f8ead8fc811a3d05155.jpg",
+        "https://media.rawg.io/media/screenshots/b10/b105532997ae7e761584ec530ca03bbf.jpg",
+        "https://media.rawg.io/media/screenshots/6fc/6fc3f160165babc854d55877a527add6.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Looney Tunes: Wacky World of Sports",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "db6c3665-931b-41a1-9346-4ec66945dea7",
+      "title": "Looney tunes: wacky world ofsports",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/6e4/6e47810692cb45029064e53239c8a3fe.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/aa1/aa189ec97c828f8ead8fc811a3d05155.jpg",
+        "https://media.rawg.io/media/screenshots/b10/b105532997ae7e761584ec530ca03bbf.jpg",
+        "https://media.rawg.io/media/screenshots/6fc/6fc3f160165babc854d55877a527add6.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Looney tunes: wacky world ofsports",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a6a88708-204d-4427-b4c7-46a0d5222da4",
+      "title": "Lords of exile",
+      "tags": "Old Castlevania like",
+      "cover": "https://media.rawg.io/media/screenshots/cba/cba209af9ceed668fe132ed9aedcac5d.jpg",
+      "description": "In ancient times of war in the Far East, the lands of Exilia were overrun by creatures of the night and samurais. Amidst this cruel conflict, only a bloodthirsty cursed knight can bring hope and vanquish the darkness.\nKey features\nLevels\nExplore 8 levels of classic linear design, each featuring challenging obstacles and enemies to overcome. At the end of each level, you'll face off against a powerful boss that will put your skills to the test. And as Gabriel, you'll receive an extra skill after ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bfc/bfc3c8c489607e14c384b6a7a8b3d11a.jpg",
+        "https://media.rawg.io/media/screenshots/562/562c762bd01a399d4141f76342120def.jpg",
+        "https://media.rawg.io/media/screenshots/f31/f31ccecca85f16c468430025d8d67663.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Lords of exile(Old Castlevania like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8d540688-754f-4a5a-89b6-2f02bc0f779c",
+      "title": "Lost in play",
+      "tags": "Point click",
+      "cover": "https://media.rawg.io/media/games/465/465d819b711ed1251bdaed0759ef185e.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c68/c68bb3f3637c6cc12ea27cd7cc6a28bd.jpg",
+        "https://media.rawg.io/media/screenshots/9ad/9ad89399f937738337d67f45884bba47.jpg",
+        "https://media.rawg.io/media/screenshots/591/591f7af05520635148404e0c6a05ef4c.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Lost in play(Point click)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "89933636-f8a9-4f39-a9d1-5601cf1610f4",
+      "title": "Lost in random: The eternal die",
+      "tags": "Rogue like estilo hades",
+      "cover": "https://media.rawg.io/media/games/823/823212070bb1e292b593c7f8ea5303bc.jpg",
+      "description": "A GAME OF CHANCE, A TEST OF SKILLLost in Random: The Eternal Die blends dynamic real-time action, tactical combat, and risk-reward dice mechanics for thrilling second-to-second battles.\nUnravel an original stand-alone story as Queen Aleksandra, the once great ruler of Random on a mission for vengeance and redemption.\nWield an arsenal of four unique weapons, unleash powerful card-based abilities, harness elemental relics and strategically roll your trusted die-companion, Fortune, to shift the tid...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/499/4997777b03b9533e8ed442f990ab1d83.jpg",
+        "https://media.rawg.io/media/screenshots/73d/73dacea6f7b1db4da6cc63ccded0da9b.jpg",
+        "https://media.rawg.io/media/screenshots/551/551f4aac8b3012d721f04c4c6cffdef6.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Lost in random: The eternal die(Rogue like estilo hades)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "76623f2a-29b5-421d-876f-54580e951dda",
+      "title": "Lost Sphear",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/screenshots/87a/87ad419f1cfc3c78b2ae4609b22fcc0d.jpg",
+      "description": "Pre-Purchase Offer\nPRE-PURCHASE NOW! Receive a special downloadable wallpaper plus two music tracks 'Market Town Marpennig' and the Steam exclusive 'Imperial Capital Watt' by composer Tomoki Miyoshi!\nAbout the GameThe next evolution in this new golden age of JRPG’s arrives with LOST SPHEAR, bringing a fresh take on classic RPG gameplay!\nA young man, who suffered a phenomenon that he had never seen, faces an ominous power that threatens the fabric of reality. Awaken the power of Memory to restore...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/201/201a1e6f86d5f234e441f8312fd79f10.jpg",
+        "https://media.rawg.io/media/screenshots/664/664a13400c10c5d26967ba10f424cb87.jpg",
+        "https://media.rawg.io/media/screenshots/7a2/7a29101d0651f9af4fc0aa905e398c9e.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Lost Sphear(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bebd49e4-094f-4adb-8331-18b76323283a",
+      "title": "Lost Twins 2",
+      "tags": "Puzzle coop",
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Lost Twins 2(Puzzle coop)",
+      "description": "Lost Twins 2 is an incredibly cute puzzle adventure that will challenge, entertain and maybe even inspire you. Guide Abi and Ben on their journey to find a way back home across a whimsical polygonal playground crafted with an enormous amount of care. Is the mystical Fenghuang leading them home or steering them down a rabbit hole?Inspired by Miyazaki, the art style merges soft, painterly backgrounds with simplified, memorable characters and fluid animations. Each frame is crafted meticulously wit...",
+      "cover": "https://media.rawg.io/media/screenshots/bb3/bb39c3e721534002c6d45feabb089845.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a61/a61e538f3fc2f6379a9644a3a4e6bbfe.jpg",
+        "https://media.rawg.io/media/screenshots/f4f/f4f707acf60a38664d8646ea870798c0.jpg",
+        "https://media.rawg.io/media/screenshots/4cc/4ccbc2edec45279b356871741beb3582.jpg"
+      ]
+    },
+    {
+      "id": "eb96ff2b-4848-403c-befa-9ff6adcbe8e4",
+      "title": "Lostepic",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/0b1/0b1ad4fc498de75ebda29e46cbc7ad8d.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ee5/ee57e51db52be3fc19232c23c4bd4ad7.jpg",
+        "https://media.rawg.io/media/screenshots/885/8852baa40e550dbae47e9b83eecfa0c2.jpg",
+        "https://media.rawg.io/media/screenshots/08b/08b7e17ecf51e493f9cc146093db1620.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Lostepic (metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e4f3649b-55d9-423c-8949-a1ca744ce4be",
+      "title": "Lovers in a dangerous spacetime",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/b47/b47da312357f548ceeb3a4d00021cd1d.jpg",
+      "description": "In Lovers in a Dangerous Spacetime, the player assumes control over the crew of a pixelated spaceship. Your goal is to navigate it through the dangerous 2D space, avoid asteroids and fight off enemy ships and space monsters. Every time the ship hits an object, it loses some of its health. \nThe spaceship contains several devices, such as thrusters, laser cannons, and deflector shields, and one character can only control one device at a time. To keep the ship running and safe, the protagonists hav...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2e4/2e4f3c6126161d8a86ad6089525b06bd.jpg",
+        "https://media.rawg.io/media/screenshots/397/397463d613dc76e913648730090fa701.jpg",
+        "https://media.rawg.io/media/screenshots/48d/48d35d9951faa8b7fe1a1f669a186a5d.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Lovers in a dangerous spacetime",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "607a47f8-3044-42dc-9732-db27e960c606",
+      "title": "Luigi's Mansion 3",
+      "tags": "Aventura e puzzle) (Multiplayer",
+      "cover": "https://media.rawg.io/media/games/3d9/3d972802b9ee793098b73ecf676b687e.jpeg",
+      "description": "The hotel is haunted. Mario is missing. And our only hope is…Luigi?!\nLuigi’s invited to the towering Last Resort hotel, but when Mario and friends go missing, our green-clad hero will have to conquer his fears to save them! Slam, blow away, and vacuum up ghosts with the all-new Poltergust G-00, and join forces with Gooigi to overcome the puzzling contraptions and mischievous boss on each themed floor. And that’s just the Last Resort. Enter the ScareScraper for 8-player local wireless or online c...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c44/c44713b59ab845692a4a51f6cc162fd1.jpg",
+        "https://media.rawg.io/media/screenshots/61d/61d94f02fc44554df1b06ea25d160ffb.jpg",
+        "https://media.rawg.io/media/screenshots/caf/caf41e24bd49d004bad49d79857af817.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Luigi's Mansion 3(Aventura e puzzle) (Multiplayer)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "55e8797e-7a8b-4942-bc5d-b19caea02f65",
+      "title": "LumenTale: Memories of Trey",
+      "tags": "Pokemon like",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "LumenTale: Memories of Trey(Pokemon like)",
+      "description": "Jogo de Nintendo Switch. Pokemon like",
+      "cover": "https://gonintendo.com/attachments/image/21576/file/medium-54ff7f167a4ced5f241eda6e9e1bd8d1.jpg",
+      "images": [
+        "https://images.rpgsite.net/image/da49c9a1/168973/original/Lumentale_20260503_01.jpg",
+        "https://rpgamer.com/wp-content/uploads/2026/03/lumentale-image.jpg"
+      ]
+    },
+    {
+      "id": "61ac95e3-0648-4097-97b5-eb805bbe9409",
+      "title": "LUNAR Remastered Collection",
+      "tags": "jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/706/706eaab96b967f80c01e349f5c2b34cf.jpg",
+      "description": "Dive into the enchanting worlds of LUNAR: Silver Star Story Complete and LUNAR 2: Eternal Blue Complete! Tag along on Alex and Hiro's quests and challenge enemies like the Magic Emperor and God of Destruction to save the world from dire peril in two adventures set 1000 years apart from each other!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/706/706eaab96b967f80c01e349f5c2b34cf.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "LUNAR Remastered Collection(jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1454f115-2afb-4a79-9d0c-96c3bdbdcb29",
+      "title": "LunarLux",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/d9c/d9c4e8c238271ea74bbfd36d73971175.jpg",
+      "description": "LunarLux is an anime-inspired action-adventure RPG that takes place on the Moon! A thousand years ago, humanity lived on the now volcanic and lifeless earth-like planet known as Terra. Due to the planetary catastrophe, ASTRA, humans were forced to find a new home. Unfortunately, no habitable planet existed within a reasonable distance, so the remaining survivors made their way to Luna, the moon that orbits Terra.\nFilled with hope, dreams, and determination, Humanity continued to survive and flou...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/780/780a1c2cb38a65ea7c9e1674677869f9.jpg",
+        "https://media.rawg.io/media/screenshots/48a/48ab1b5333353961169511aeca52737c.jpg",
+        "https://media.rawg.io/media/screenshots/7a2/7a258dc54222c18833afbb5539a9b1b2.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "LunarLux(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bd834733-4445-4842-8327-901f0eb7eaa6",
+      "title": "Lunistice",
+      "tags": "Plataforma 3d",
+      "cover": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000054657/d6d2e5141da9c94efd492d52c2bf6ff09620d870bf7f2e0cd05a7f9d84a46f69",
+      "description": "Before you buy, a little warning - this game was made in a self-imposed challenge to create a commercially viable game in only 30 days.\nThe goal was still to make a fun game in the end, with polished gameplay, but - you know - still expect some jank and not a TON of playtime!\nEversleep? More like Nosleepforthedeveloper, am I right, hahaha (help).But what is Eversleep?Now that's a good question! Eversleep: Lunistice Gaiden is a 3D Platformer created with simple but fun gameplay and a cute PS1/SEG...",
+      "images": [
+        "https://projectn.com.br/wp-content/uploads/2022/10/Lunistice_10-26-22-768x432-1.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Lunistice(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "393fe715-11a3-4c4e-87d0-672c6a6504c4",
+      "title": "Lyrica2 Stars Align",
+      "tags": "Ritmo",
+      "cover": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/store/software/switch/70010000035310/766239c4a37792cfeeeeaeea82a4b441e19dea31726bd0a1ee9234e08cf2c2e2",
+      "description": "Jogo de Nintendo Switch. Ritmo",
+      "images": [],
+      "genre": "Jogos de música",
+      "raw": "Lyrica2 Stars Align(Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "dbff4748-86f2-4193-9046-6def2a66c685",
+      "title": "Majogami",
+      "tags": "Plataforma 2d /ação",
+      "cover": "https://media.rawg.io/media/screenshots/448/448b7be4c6d18f5c176396b54eae247c.jpg",
+      "description": "Paper craft character action!A new 2D action platforming adventure where you'll need to cut your way through a dark paper craft world.Majogami - the story of one girl who cuts gods like paper.Features・ Full story mode where you'll cut your way through more than 35 action stages!・ Rich, colorful cast of characters with full Japanese voice acting, over 8 hours of dialog in total!・ Transform into 7 different fighting forms to change up the action and get the advantage in battle! ・ Customize your ga...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/47d/47d0eea947794fbb697740cf978c6bf8.jpg",
+        "https://media.rawg.io/media/screenshots/234/234f365c7cb7b4fd80f2731aaec0754f.jpg",
+        "https://media.rawg.io/media/screenshots/318/3186744670b63f6ccc739c0690ec7fff.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Majogami(Plataforma 2d /ação)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a1354524-95ea-42fa-a277-bd86373af05d",
+      "title": "Mandragora: Whispers of the Witch Tree",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/d0a/d0a69e26b006172a7ecbce4a3a8f33bd.jpg",
+      "description": "A STORY-DRIVEN 2.5D ACTION RPG\n\nMankind has surrendered the world to the monsters. People hide away behind walls of brick and palisades of ignorance, constructed by their leaders. Joy and delight are coveted jewels, out of reach of the masses. This is not the world you were promised. Travel by night and take it back.\nJourney through a world in decline, slowly falling prey to the damaging effects of Entropy. Challenge unique & deadly bosses, meet new allies, enemies, and every shade in-between, a...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/29c/29c5074ca46178f385d3a9c0accbe0d1.jpg",
+        "https://media.rawg.io/media/screenshots/743/743011f5eb1cf5a2d3376c406fe1d4d7.jpg",
+        "https://media.rawg.io/media/screenshots/125/125b3a36388c72b42308c87fd6f04764.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Mandragora: Whispers of the Witch Tree(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8fb16ba0-33df-4b93-8c28-fff9a650764e",
+      "title": "Manic mechanics",
+      "tags": "overcooked like",
+      "cover": "https://media.rawg.io/media/screenshots/a43/a435308aecbe6b6cdac02feacccc0b39.jpg",
+      "description": "It’s time to dust off your overalls and hitch on your toolbelt in Manic Mechanics – a chaotic couch co-op game where you and up to three fellow grease monkeys pay a visit to the car-obsessed Octane Isle.\nYour mission? Work your way around the island’s six neighbourhoods – from the rust buckets of Betty’s Scrapyard to the spooky shores of Banshee Bay – challenging the Master Mechanics that rule each part of town. Repair as many cars, trucks, choppers, tractors, mini-subs (and even UFOs) as possib...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1f9/1f94ce04cff2674733d4e3837790733c.jpg",
+        "https://media.rawg.io/media/screenshots/b81/b8103d76615c1fd09c7990ddcffd418c.jpg",
+        "https://media.rawg.io/media/screenshots/362/362f9a87aaf408b8bee716d6fc150924.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Manic mechanics(overcooked like)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "23ed4768-e72d-4d02-9a8f-865b432a864f",
+      "title": "Mario & Luigi: Brothership",
+      "tags": "jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/75c/75c5779488d0334fba5ff8ec65ea7161.jpg",
+      "description": "The brothers return for a brand new adventure on the high seas! Set sail with Mario and Luigi on Shipshape Island (part ship, part island) and journey through the vast world of Concordia. Launch out of Shipshape’s cannon to visit, explore, and quest your way through islands that range from tropical rainforests to bustling cities.\n\nMeet new friends along the way, like Connie and Snoutlet (who's definitely not a pig), and encounter familiar faces from the Mushroom Kingdom like Peach and Bowser, wh...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/04c/04c14fef2d94282c6d9ade42127f1aae.jpg",
+        "https://media.rawg.io/media/screenshots/240/240438a631339fa5385b897be73bbddf.jpg",
+        "https://media.rawg.io/media/screenshots/197/1971aacf26d5d5da4a2d107c9cd54caa.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Mario & Luigi: Brothership(jrpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "8485bed2-2ccb-418a-94b5-424aa0781150",
+      "title": "Mario & Sonic at the Olympic Games",
+      "tags": "Multiplayer",
+      "cover": "https://media.rawg.io/media/screenshots/3ee/3eeb1b95603db8a965f82b43cd2a6fcb.jpg",
+      "description": "Mario & Sonic at the Olympic Games[a] is a crossover sports and party game developed by the Sega Sports R&D Department. It was published by Nintendo in Japan and by Sega in other regions, released on the Wii in November 2007 and the Nintendo DS handheld in January 2008. The first official video game of the 2008 Summer Olympic Games, it is licensed by the International Olympic Committee (IOC) through exclusive licensee International Sports Multimedia (ISM), and is the first official crossover gam...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ad4/ad4cc10c65f24df84e54a393dff2ef02.jpg",
+        "https://media.rawg.io/media/screenshots/b7e/b7ecdc1c0d5f84a4d5c2795ea9d27fa3.jpg",
+        "https://media.rawg.io/media/screenshots/f2c/f2c09e14eb2e66a338fa71f946c448c5.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Mario & Sonic at the Olympic Games(Multiplayer)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "f62e4e51-b7d0-478f-bb83-f103c792cabd",
+      "title": "Mario + Rabbids Kingdom Battle",
+      "tags": "Tactics",
+      "cover": "https://media.rawg.io/media/games/5be/5befaab8379bd48b8e9b97cc60b0f5e6.jpg",
+      "description": "The Mushroom Kingdom has been torn apart by a mysterious vortex,\ntransporting the chaotic Rabbids into this once-peaceful land. To\nrestore order, Mario, Luigi, Princess Peach, and Yoshi must team up with\na whole new crew: four Rabbids heroes! Together, they will battle with\nweapons through four worlds filled with combat, puzzles, and\nunpredictable enemies.\n\nDeveloped exclusively for the Nintendo Switch™ system, Mario + Rabbids\nKingdom Battle is the best of the Mario and Rabbids franchises,\ncombi...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4e8/4e8b80d4540c93853ebc76f8b15074b3.jpg",
+        "https://media.rawg.io/media/screenshots/f3c/f3c94c5550422a5e74b631eb3e34aca0.jpg",
+        "https://media.rawg.io/media/screenshots/30d/30dc90235ef2c0460fb755ef2ec76031.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Mario + Rabbids Kingdom Battle(Tactics)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "a13698ee-6d7e-4360-bba4-935d3f7fa98b",
+      "title": "Mario + Rabbids Sparks of Hope",
+      "tags": "Jrpg Tático",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false,
+      "raw": "Mario + Rabbids Sparks of Hope(Jrpg Tático)",
+      "description": "Explore and uncover mysterious secrets while meeting each planet’s curious inhabitants. Use your heroes` skills in an innovative combat system, which combines freedom of movement and strategic turn-based decision making as you take on new and familiar foes. Take control of your heroes to dash your enemies, team jump on your allies, hide behind cover… and make the best out of your turn.",
+      "cover": "https://media.rawg.io/media/games/1fa/1faa976b3f7a43195fa708d9a80e7468.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3a2/3a2fca6297af88d426fd72776dccf60d.jpg",
+        "https://media.rawg.io/media/screenshots/dee/deef5606dfee986e8d3c42444dc0158f.jpg",
+        "https://media.rawg.io/media/screenshots/629/629bd8825199e18a028632b8d0bf307a.jpg"
+      ]
+    },
+    {
+      "id": "44f7d7e6-3bb8-4867-ba49-4f67a2c6299f",
+      "title": "Mario Golf: Super Rush",
+      "tags": "Golf",
+      "cover": "https://media.rawg.io/media/screenshots/07f/07f4cc2e79ba23509c6fc3958c9e9288.jpg",
+      "description": "Tee off with family and friends in the biggest Mario Golf game yet\n\nHit the green with up to four players locally* or online** and golf with familiar Mushroom Kingdom characters. Modes range from Standard Golf to the energetic Speed Golf and an RPG-like golf adventure in story mode. Intuitive motion or button controls, a shot gauge that adapts to the curve of the course, and other new features make it easy for both new players and seasoned pros to drive and putt with power.\n\nSwing simultaneously...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c80/c80b525a4cde49a9aae92405d374bc42.jpg",
+        "https://media.rawg.io/media/screenshots/f06/f0605dfde5d67965d2c7481a063dd9bd.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Mario Golf: Super Rush(Golf)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "0c593c13-436c-4e50-b853-b8e0a1214418",
+      "title": "Mario Kart 8 Deluxe",
+      "tags": "Multiplayer",
+      "cover": "https://media.rawg.io/media/games/6f8/6f846e941c78cfbabe53cd67e55ced83.jpg",
+      "description": "Hit the road with the definitive version of Mario Kart 8 and play\nanytime, anywhere! Race your friends or battle them in a revised battle\nmode on new and returning battle courses. Play locally in up to 4-player\nmultiplayer in 1080p while playing in TV Mode. Every track from the Wii\nU version, including DLC, makes a glorious return. Plus, the Inklings\nappear as all-new guest characters, along with returning favorites, such\nas King Boo, Dry Bones, and Bowser Jr.!\n\nFeatures:\n\nRace your friends in t...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f94/f94b27140ac3b7af61ba844f4d54bb42.jpg",
+        "https://media.rawg.io/media/screenshots/9a1/9a13007b3ea3d8e6a4e16cc3d8f41a93.jpg",
+        "https://media.rawg.io/media/screenshots/dea/dea2a3fa3c99c73d7efe04a88bbc29d4.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Mario Kart 8 Deluxe(Multiplayer)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "6a23e102-05fa-40c4-84f5-e7d31ffdc844",
+      "title": "Mario Party Superstars",
+      "tags": "Coleção de minigames do Mario Pary 1 ao 10",
+      "cover": "https://media.rawg.io/media/games/92c/92cb7c505365879a95d08fe11cc6ac8b.jpg",
+      "description": "A Superstar collection of classic Nintendo 64™ boards\nCalling all superstars! The Mario Party™ series is back with 5 classic boards from the Nintendo 64 Mario Party games. Race to get the most stars (and sabotage your opponents) on boards like the stellar Space Land or the spooky Horror Land! Party at your own pace by suspending a game and picking up right where you left off! The tides can turn quickly in Mario Party, so stay vigilant, partygoers. All modes can be played online*, too!\n\nPlay 100 ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4b8/4b854ff1631610e3e18cf72988ddb367.jpg",
+        "https://media.rawg.io/media/screenshots/8e8/8e853fe5477956b336306fc3fd1cff7d.jpg",
+        "https://media.rawg.io/media/screenshots/a8c/a8c093ddb57a559670eed4036f6edf69.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Mario Party Superstars(Coleção de minigames do Mario Pary 1 ao 10)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "54117e7b-9d64-41ee-b6d5-3fd8ac343513",
+      "title": "Mario Strikers: Battle League",
+      "tags": "Futebol",
+      "cover": "https://media.rawg.io/media/games/7bc/7bc6f95486e6ec39b959dc37a9e8093b.jpg",
+      "description": "Tackle, pass, and score in battle soccer with the Mushroom Kingdom gang\nIntroducing Strike, a 5-on-5, soccer-like sport with no rules—do whatever it takes to win! Get gritty and try to score the most goals by tackling enemies, using items, and pulling off score-boosting special shots. Super Mario series mainstays like Peach, Toad, and Yoshi put their cleats (and stats) to the pitch and will stop at nothing to score. Customize your characters with gear that can augment their stats and appearance...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f3c/f3cdab43da9cb4f2011531390af483e3.jpg",
+        "https://media.rawg.io/media/screenshots/dd7/dd7e7548a62ca9db2ab6d0adbf390e35.jpg",
+        "https://media.rawg.io/media/screenshots/a81/a81a083b0755c89b895bee5058ed63f2.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Mario Strikers: Battle League(Futebol)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "59e443cc-18e0-41fa-9ef5-b3bea6b9159e",
+      "title": "Mario Tennis Aces",
+      "tags": "Tênis",
+      "cover": "https://media.rawg.io/media/games/655/655977041d1fcd25a71a54727b93bb2f.jpg",
+      "description": "Earn double Gold Points when you pre-purchase Mario Tennis Aces!\n\nReceive a bonus of 300 My Nintendo Gold Points when you pre-purchase the\ndigital version of the Mario Tennis™ Aces game through Nintendo eShop or\nNintendo.com (where available). Offer ends 6/21 at 11:59 p.m. ET. Bonus\npoints will be issued a few days after the release day of the game and\nare earned based on the original list price of the game on Nintendo\neShop, and will vary by country and currency.\n\nUnleash an arsenal of shots an...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2cc/2cceb05f1d7fe8a7757bc221095f3907.jpg",
+        "https://media.rawg.io/media/screenshots/814/8147571d35ca9219a5e0c0dca2b2a0ac.jpg",
+        "https://media.rawg.io/media/screenshots/6e7/6e704a886e6c82beaccced8d1819a98f.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Mario Tennis Aces(Tênis)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "bd9f283d-535a-49b7-8c05-642e912c26c8",
+      "title": "Mario vs. Donkey Kong",
+      "tags": "Puzzle",
+      "cover": "https://media.rawg.io/media/games/128/128ba90b057b7c2606b8483a7cfd9960.jpg",
+      "description": "Run, jump, and backflip your way to rescuing the stolen Mini-Mario toys in this puzzling twist on Mario action. Obstacles like spikes, moving platforms, and falling bricks stand in your way—put your brain to work and figure out the best way to reach the Mini-Marios. The rivalry that originally heated up on the Game Boy™ Advance system reignites on the Nintendo Switch™ system with newly-added co-op play and updated visuals.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/eaf/eaf83039993cd911820a9470c2ccad5b.jpg",
+        "https://media.rawg.io/media/screenshots/cdb/cdb5349b8f1f9d7ae59fb85ec77b261d.jpg",
+        "https://media.rawg.io/media/screenshots/4e0/4e07dae8f7d08e73c7d2eb36dd448bc7.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Mario vs. Donkey Kong(Puzzle)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "fda9a02b-1b8d-49e0-bf23-95941963ffa3",
+      "title": "Mars 2120",
+      "tags": "Metroidvânia",
+      "cover": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_Mars2120_image1600w.jpg",
+      "description": "MARS 2120 is a metroidvania with engaging melee combat inspired by classics like Super Metroid, Castlevania: Symphony of the Night, or Guacamelee! With the use of special abilities tied to elements like ice, fire, and electricity help Sgt. Anna “Thirteen” Charlotte navigate the colony and battle her way through the secrets of Mars",
+      "images": [
+        "https://gameblur.net/wp-content/uploads/2024/08/Mars-2120-04-1160x653.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Mars 2120(Metroidvânia)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fb8ec371-72f7-4a8f-a9dd-dcd115502904",
+      "title": "MARSUPILAMI - HOOBADVENTURE",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/21a/21af1301f53315655f467c1bb6a60da6.jpg",
+      "description": "Discover the Marsupilamis as you have never seen them before in an adventure full of surprises!\n\nPunch, Twister and Hope are three Marsupilamis who live a peaceful life in Palombia. While the three companions open a cursed sarcophagus by playing with debris on a beach, they inadvertently release a mysterious ghost that puts a terrible curse on all animals. Fortunately for them, the Marsupilamis are immune. Our three heroes will have to go on an adventure and chase the ghost in order to ward off ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0e0/0e053def57f269caea1bbf18b8277861.jpg",
+        "https://media.rawg.io/media/screenshots/3ac/3ac98748a7ddb1ffa743118717ac84a1.jpg",
+        "https://media.rawg.io/media/screenshots/9ac/9acb197c4dccb8021d80e62f58c357ec.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "MARSUPILAMI - HOOBADVENTURE(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8b53131c-6d10-4e16-8427-57c3e2d5b580",
+      "title": "Marvel Ultimate Alliance 3: The Black Order",
+      "tags": "Actionrpg",
+      "cover": "https://media.rawg.io/media/games/e80/e802f7a84a3ab4767b09521315de8dda.jpg",
+      "description": "Assemble your ultimate team of Marvel Super Heroes from a huge cast including the Avengers, the Guardians of the Galaxy, the X-Men, and more! Team up with friends to prevent galactic devastation at the hands of the mad cosmic tyrant Thanos and his ruthless warmasters, The Black Order.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cb8/cb8d434ed77448d5beefeece6e66365a.jpg",
+        "https://media.rawg.io/media/screenshots/38e/38eff51a56aca1401c27b1d26f2297c3.jpg",
+        "https://media.rawg.io/media/screenshots/f1f/f1f9d3cd2cd1544c15a7dba5ad6867bc.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Marvel Ultimate Alliance 3: The Black Order(Actionrpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "db449e39-5e56-4bc8-bae1-276c2bc39035",
+      "title": "Marvel's Midnight Suns",
+      "tags": "Tactics",
+      "cover": "https://media.rawg.io/media/games/d47/d471344cc698b2dc660ab09880e1e884.jpg",
+      "description": "Marvel’s Midnight Suns is a new tactical RPG set in the darker side of the Marvel Universe, putting you face-to-face against demonic forces of the underworld as you team up with and live among the Midnight Suns, Earth's last line of defense.\n\nAfter centuries of sleep, Lilith, Mother of Demons, has been revived by Hydra through a twist of dark magic and science. Lilith stops at nothing to complete an ancient prophecy and bring back her evil master, Chthon. Pushed to the brink, the Avengers desp...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f99/f99970fabc4deba6ab3e28ad56ac79d5.jpg",
+        "https://media.rawg.io/media/screenshots/857/857de383a35829826ae0fefb5e3c467d.jpg",
+        "https://media.rawg.io/media/screenshots/3b9/3b933eed13c818908b4e23a35dbc5dfe.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Marvel's Midnight Suns(Tactics)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "122b56c4-c33b-491e-b483-9ab8971eefbf",
+      "title": "Master Detective Archives: RAIN CODE",
+      "tags": "investigação",
+      "cover": "https://media.rawg.io/media/screenshots/dcb/dcb3b3f9921e604028e9e98d3b8851fb.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1ec/1ec2f54ad29bb9d04e199065d965faac.jpg",
+        "https://media.rawg.io/media/screenshots/5c9/5c90a9d4c9558e5b3cfa2160d406bfa6.jpg",
+        "https://media.rawg.io/media/screenshots/8b1/8b18bf9e91f9f51bf642089a897c85b6.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Master Detective Archives: RAIN CODE(investigação)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "724b0266-9750-41b6-90ef-03e44ad5044a",
+      "title": "Mayhem Brawler",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/639/639c587fa291a960efb704ea721e69b5.jpg",
+      "description": "TO PROTECT AND SERVE While answering a routine call on a patrol, Dolphin, Star, and Trouble -the most popular officers of the super-powered law enforcement agency, Stronghold- find themselves in a sequence of events that will alter the fate of the entire city. \nEXCESSIVE FORCE Let’s get one thing straight; if you ever think that a day in the life of a super-powered law enforcer is easy, you couldn’t be more wrong, as there are greater threats than street gangs in urban fantasy-themed Mayhem Braw...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/41e/41eb191ac4f2ffa77c89abff1572d9aa.jpg",
+        "https://media.rawg.io/media/screenshots/a9d/a9d9f99fbcef4b81a32210d6039d2145.jpg",
+        "https://media.rawg.io/media/screenshots/066/06646ab47f5a5d34d07a0f107f9d42da.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Mayhem Brawler(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2a03401a-d869-4762-9590-d71b0391a81f",
+      "title": "Mega man 11",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/f75/f751a9a43abb507bf95f9b96cc79feac.jpg",
+      "description": "Mega Man 11 is the eleventh game in the main series of Mega Man franchise. It is designed n the vein of classic 16-bit 2D platformers.\n\n###Plot\nLong ago, Dr. Wily, a would-be mad scientist, created a device called the Double Gear System that could increase the powers of robots by pushing them to the limit. The device was banned for being too dangerous for robots. This time, however, Dr. Wily decided to complete his creation and test it on the eight robots he stole from his former colleague, the ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a7d/a7d47833ef6d71117a8085ebb229aaac.jpeg",
+        "https://media.rawg.io/media/screenshots/e36/e36d92993a67f6d29f4ad532c4627354.jpg",
+        "https://media.rawg.io/media/screenshots/32f/32f17a28b67ca25d331e50b233bfc2ad.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Mega man 11(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5266b4e9-e6d6-4f19-a29d-8d8645a7e406",
+      "title": "Mega Man Legacy Collection 1 e 2",
+      "tags": "coleção do megaman 1 ao 10",
+      "cover": "https://media.rawg.io/media/games/041/041026016869e440fb1fb2b6be5222c4.jpg",
+      "description": "Mega Man Legacy Collection is a celebration of the 8-bit history of Capcom’s iconic Blue Bomber. Featuring faithful reproductions of the series’ origins with the original six Mega Man games, the Legacy Collection will remind long-time fans and introduce newcomers to what made Mega Man such a popular and iconic character. Mega Man Legacy Collection will feature all six games and more!\nIn addition to the six Mega Man games, Mega Man Legacy Collection features new ways to experience the classic gam...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/89b/89bdd8611b7a287d1e269ea5ed9926de.jpg",
+        "https://media.rawg.io/media/screenshots/163/163def0d53e757bcc9b0fec0e3f839ab.jpg",
+        "https://media.rawg.io/media/screenshots/f53/f5372111f744fe3ef2ce39f69afb0c6a.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Mega Man Legacy Collection 1 e 2(coleção do megaman 1 ao 10)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b2c04610-0692-4960-9186-2895715bc1eb",
+      "title": "Mega Man Star Force Collection",
+      "tags": "Coleção de jogos starforce",
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "multiplayer": false,
+      "raw": "Mega Man Star Force Collection(Coleção de jogos starforce)",
+      "description": "When aliens from planet FM plot to invade Earth, alien Omega-Xis escapes\nto warn a courageous boy, Geo Stelar. Together, they must face the\naliens on the electromagnetic system known as the Wave Road, and combine\nto become the ultimate champion for Earth: Mega Man!\n\nFeatures\n\n• Dynamic Brother Band system - Play up to 6 friends for\npower-ups in combat: Favorite Cards, Link Ability, Best Combo, Connect\nand Transform.\n• Call upon the Power of the Elements -\nUse the Flame Burner to incinerate whate...",
+      "cover": "https://media.rawg.io/media/screenshots/09a/09a97e6f646e3c4aa4c5c40a6900240a.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/913/9139ae4427134a83f2c53761035cef24.jpg",
+        "https://media.rawg.io/media/screenshots/359/3594a893ae07e3325f09f04958cfb784.jpg",
+        "https://media.rawg.io/media/screenshots/501/50168ba3c2f453d0ac68456f531d5ccc.jpg"
+      ],
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5cbf57f0-764e-4abc-9ad1-2ecf56a3aa96",
+      "title": "Mega Man x Legacy Collection 1 e 2",
+      "tags": "Coleção do megaman x ao x8",
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "multiplayer": false,
+      "raw": "Mega Man x Legacy Collection 1 e 2(Coleção do megaman x ao x8)",
+      "description": "The celebrated Mega Man X series returns! Play as Mega Man X – the\npowerful successor of classic fighting robot Mega Man – as he battles a\nvariety of deadly bosses known as Mavericks in four hit titles. Mega Man\nX Legacy Collection includes the legendary 16-bit titles and the series'\nexciting foray into the 32-bit era: Mega Man X, Mega Man X2, Mega Man\nX3, and Mega Man X4. The heroic robot grows stronger as he takes down\nMavericks and steals their weapons, and can dash and wall jump making\nfor a...",
+      "cover": "https://media.rawg.io/media/games/250/250a012af7e4cd0d24863e5993e0620c.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/079/0799c739cdba40451bc749d086daa1ab.jpg",
+        "https://media.rawg.io/media/screenshots/6e1/6e17651758c82c00a45014af1ceddbb6.jpg",
+        "https://media.rawg.io/media/screenshots/f43/f4311ff62a52d29ee8c73f9c11990e1e.jpg"
+      ],
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9c8a5758-3048-49dc-ab9a-6ebfdc71cc98",
+      "title": "Mega Man Zero Collection",
+      "tags": "Coleção de megaman zero",
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "multiplayer": false,
+      "raw": "Mega Man Zero Collection(Coleção de megaman zero)",
+      "description": "The Mega Man Zero series is comprised of all four Mega Man Zero titles\npreviously released on the GameBoy Advance onto one cartridge for the\nNintendo DS. In the tradition of most Mega Man games, the Mega Man Zero\nCollection is a fast-paced, 2D action side-scrolling platform game. For\nthe first time, it will be available for Nintendo DS complete with all\nnew modes.\n\nFirst launched on the GameBoy Advance in 2002, the Mega Man Zero series\nfollows Zero, originally introduced in Mega Man X. Players w...",
+      "cover": "https://media.rawg.io/media/screenshots/0a2/0a2922d6b9aab5a1986de5e0975c0440.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a77/a778e6ec0c8159f9b8673047f06c99bb.jpg",
+        "https://media.rawg.io/media/screenshots/6a7/6a74c06d7853c6d0a073ca7e858f5b24.jpg",
+        "https://media.rawg.io/media/screenshots/eee/eeec2fb44b291d4603d9c94839f321c3.jpg"
+      ],
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9843bcab-d2d6-46f4-b9dc-299ba1b4d701",
+      "title": "Melatonin",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/games/f98/f98fccb1d2870efd911b189b03496016.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7ff/7ff5dc9b9f35f702170091e663d6ae1b.jpg",
+        "https://media.rawg.io/media/screenshots/9ad/9adaf088ce44683931bee4e21164b8ef.jpg",
+        "https://media.rawg.io/media/screenshots/f3d/f3d29fd763f992be08087b95b52ab7f1.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Melatonin (Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c629c1f9-d30d-4647-becb-423cbb1aee97",
+      "title": "MELTY BLOOD: TYPE LUMINA",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/games/5f5/5f5823e3eba2d204ad0500e24e9e6dbf.jpeg",
+      "description": "* This set contains both the MELTY BLOOD: TYPE LUMINA game as well as the MELTY BLOOD ARCHIVES content. Please be careful not to purchase multiple copies of the same item.\n\nEarly Purchase Bonuses:\n- Additional Content: Arcueid Round Announcements\nThese bonuses will be available to download for free until October 27.\nCustomers who purchase the game after October 27 will be able to get the bonus content as paid DLC.\n\nGame Details\nMelty Blood is reborn.\nThis is the latest addition to the s...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5fa/5fa9b17e2bae77200ee9ab71132d6670.jpg",
+        "https://media.rawg.io/media/screenshots/abe/abe98ba3283cc4927286e92ea9ad32dd.jpg",
+        "https://media.rawg.io/media/screenshots/cbe/cbe41e7ce29c41944cc612f2e0367fef.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "MELTY BLOOD: TYPE LUMINA(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d67b50c8-6aea-4630-b68a-34b60e5808b8",
+      "title": "Metal Gear Solid",
+      "tags": "Stealth",
+      "cover": "https://media.rawg.io/media/games/bbc/bbce6f1659d35ffc16aed8b66e9990a1.jpg",
+      "description": "You are Snake, a government agent on a mission to regain control of a secret nuclear weapons base from terrorist hands. Lightly armed and facing an army of foes, Snake must avoid firefights in order to survive. If Snake can locate them he can utilize advanced hardware, ranging from silenced pistols to ground-to-air missiles. Enemies react to sight and sound - so stay quiet and stay in the shadows. State-of-the-art graphics: textures, transparencies, models and explosions. Taut, gripping story wi...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f22/f2220a7412d41e7242d90e06e4d13e4f.jpg",
+        "https://media.rawg.io/media/screenshots/103/1033c7398e4007b315cd2c780dd1c044.jpg",
+        "https://media.rawg.io/media/screenshots/80f/80f3f4aad1e511c2a6f70cc7964a13ab.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Metal Gear Solid(Stealth)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "109e7570-479a-4072-872f-f33b13e7f1cb",
+      "title": "Metal Gear Solid 2: Sons of Liberty",
+      "tags": "Stealth",
+      "cover": "https://media.rawg.io/media/games/0f1/0f105a3d3ba6225269c4a08b43ecbb73.jpg",
+      "description": "Since the incident on Shadow Moses Island, Metal Gear's top-secret technology has been leaked into the black market through the machinations of Revolver Ocelot. As a result, countless variations of Metal Gears have sprung up in every corner of the globe, making the weapon an increasingly common component of the armed forces of nuclear powers. \nIn the midst of all of this, Solid Snake, now a member of the anti-Metal Gear group \"Philanthropy,\" has learned that a new prototype Metal Gear has been ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b41/b41d266e0df00a709033b5df801951f4.jpg",
+        "https://media.rawg.io/media/screenshots/b4a/b4a112017533a5d916747f93fc799459.jpg",
+        "https://media.rawg.io/media/screenshots/f3b/f3b44dbfc5738efacccd627a9ff83861.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Metal Gear Solid 2: Sons of Liberty(Stealth)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f358cb89-8784-462a-a973-3f6197051214",
+      "title": "Metal Gear Solid 3: Snake Eater",
+      "tags": "Stealth",
+      "cover": "https://media.rawg.io/media/games/2c6/2c60e20bebae94ee080bdf0993253b4d.jpg",
+      "description": "The story shifts back to 1964, the height of the Cold War. Naked Snake heads into Soviet territory to help the scientist Sokolov defect to the West. But due to the betrayal of Snake's mentor and mission advisor The Boss, a female soldier known as \"the Mother of Special Forces\", Naked Snake fails and heads back into the Soviet Union on a mission to kill The Boss... The third MGS game tells the story of men and women who struggle to remain loyal even while their fates are at the mercy of the ever ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6b8/6b8e894892a0b620de66fdcfcdca1323.jpg",
+        "https://media.rawg.io/media/screenshots/088/0880a716283792de2cafc5aeb9cbdce5.jpg",
+        "https://media.rawg.io/media/screenshots/ea3/ea31f615f986af1b83d485cbc442808a.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Metal Gear Solid 3: Snake Eater(Stealth)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ee25099d-a9a0-4564-a13c-2a28a5330243",
+      "title": "Metal Gear Solid: Master Collection",
+      "tags": "Coleção metal gear 1,2 e 3",
+      "cover": "https://media.rawg.io/media/screenshots/cec/ceccb8666c8db4e548f7d85bdbcf5f05.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/12f/12fb37bb92f00d291e667ad4973cf0b3.jpg",
+        "https://media.rawg.io/media/screenshots/6be/6bea181a65ae5ce65af7bfe53f11f9e9.jpg",
+        "https://media.rawg.io/media/screenshots/ed4/ed4118303235aeef45488503a2beced4.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Metal Gear Solid: Master Collection(Coleção metal gear 1,2 e 3)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5524e435-75cc-495b-b2e5-25322cc7a016",
+      "title": "Metal slug tactics",
+      "tags": "rogue like tático",
+      "cover": "https://media.rawg.io/media/games/154/1549d6e532ed746ae4ae754fd6d65082.jpg",
+      "description": "METAL SLUG is back with a brand new entry in the METAL SLUG universe. Discover a new side of the emblematic run'n'gun and jump into a dynamic tactical RPG with roguelike elements! Super fun and lighthearted, Metal Slug Tactics takes what makes METAL SLUG so special and unique and brings it to the tactical genre!\n\n\n\nTACTICAL RPG WITH ROGUELIKE ELEMENTS\n\nExperience the iconic dynamic battles of the METAL SLUG series with a brand new perspective. Build up your adrenaline bar to unlock super attacks...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/397/3974728be1fb5b9901f45698fbb2d51e.jpg",
+        "https://media.rawg.io/media/screenshots/369/3692c1c8c075f8d76653681ab01f4ab8.jpg",
+        "https://media.rawg.io/media/screenshots/f7b/f7b7586886f4b18f90a33c401ee5a821.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Metal slug tactics(rogue like tático)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ae8dd068-faf3-4eda-9771-6c7eb0c0deda",
+      "title": "Metro 2033 Redux",
+      "tags": "Fps",
+      "cover": "https://media.rawg.io/media/games/4fb/4fb548e4816c84d1d70f1a228fb167cc.jpg",
+      "description": "Metro 2033 Redux is a rebuilt extended version of the original post-apocalyptic first-person action shooter Metro 2033. The game saved its pace and atmosphere of the gone world and except numerous technical issues, added several survival elements to the gameplay. The main plot is based on Dmitry Glukhovsky’s book Metro 2033. According to the storyline, the Earth was devastated by the nuclear war, and only a few people were able to survive hiding in the underground warehouses. Players assume the ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/432/432cf94eb1f25d7415f05def5d18cedc.jpg",
+        "https://media.rawg.io/media/screenshots/82c/82cb9461b5ad0ebdb6edc4b3acdfb731.jpg",
+        "https://media.rawg.io/media/screenshots/b95/b957aad3c646822893fe084ae6bf7652.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Metro 2033 Redux(Fps)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0771c419-803d-4306-af54-ae2e975856c5",
+      "title": "Metro: Last Light Redux",
+      "tags": "FPS",
+      "genre": "Tiro e Navinha",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Metro: Last Light Redux(FPS)",
+      "description": "It is the sequel to the game Metro 2033. Both games are based on the world of Dmitry Glukhovsky's novel Metro 2033 - in post-apocalyptic Moscow, in the tunnels of subway lines groups of very different people survive. And not only people. There are mutated people there, and mutated animals. They are distinguished by unusual abilities, but even more - behaviour strategies. In the struggle for the remnants of resources, all these beings spend their gloomy days.\nAll characters use unusual and unexpe...",
+      "cover": "https://media.rawg.io/media/games/7a4/7a45e4cdc5b07f316d49cf147b083b27.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/111/11118bdcf7cd62d35f63826c79983e16.jpg",
+        "https://media.rawg.io/media/screenshots/11b/11b420a51d555aad055e37916b112fd1.jpg",
+        "https://media.rawg.io/media/screenshots/7ba/7ba241860b68b0a5fe0cda616bde2596.jpg"
+      ]
+    },
+    {
+      "id": "9b04413b-41ac-4f11-b9b0-b9033885370f",
+      "title": "Metroid Dread",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/c26/c262f8b54b46edc72594c4a9bb8ee13e.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 04 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0f1/0f123e7f6b6c2f5f2a3f022244356e1f.jpg",
+        "https://media.rawg.io/media/screenshots/442/442d0ab90c41a4fc2b2e21853fc64f97.jpg",
+        "https://media.rawg.io/media/screenshots/3cb/3cbf63f3ac060880f29a468fa28b7b10.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Metroid Dread",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "c225c07b-faef-4986-a79a-e0de98110dec",
+      "title": "Metroid Prime Remastered",
+      "tags": "Fps/Metroidvania",
+      "cover": "https://media.rawg.io/media/games/f2f/f2f9f11997ee841550ba2b8ccf3c51e9.jpg",
+      "description": "Suit up for an iconic adventure\nIntergalactic bounty hunter Samus Aran receives a distress signal from a wrecked frigate in orbit around planet Tallon IV. Upon investigation, the frigate reveals itself to be a Space Pirate research vessel home to terrifying genetic experiments using the mysterious Phazon substance. There, Samus encounters her nemesis, Meta Ridley, whom she pursues to the surface of Tallon IV. It’s up to her alone to explore the planet’s interconnected regions, investigate its da...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/dd5/dd5a7731f6ebd4587b4d72dee859c19c.jpg",
+        "https://media.rawg.io/media/screenshots/314/31477e1cbaa10f6adda65eff7fed74da.jpg",
+        "https://media.rawg.io/media/screenshots/72e/72e119bc318e08e0b1bdbda4fbc6f801.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Metroid Prime Remastered(Fps/Metroidvania)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "a35b2882-3484-4e2c-b8a1-055362c39624",
+      "title": "Metroid Prime Remastered",
+      "tags": "FPS",
+      "cover": "https://media.rawg.io/media/games/f2f/f2f9f11997ee841550ba2b8ccf3c51e9.jpg",
+      "description": "Suit up for an iconic adventure\nIntergalactic bounty hunter Samus Aran receives a distress signal from a wrecked frigate in orbit around planet Tallon IV. Upon investigation, the frigate reveals itself to be a Space Pirate research vessel home to terrifying genetic experiments using the mysterious Phazon substance. There, Samus encounters her nemesis, Meta Ridley, whom she pursues to the surface of Tallon IV. It’s up to her alone to explore the planet’s interconnected regions, investigate its da...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/dd5/dd5a7731f6ebd4587b4d72dee859c19c.jpg",
+        "https://media.rawg.io/media/screenshots/314/31477e1cbaa10f6adda65eff7fed74da.jpg",
+        "https://media.rawg.io/media/screenshots/72e/72e119bc318e08e0b1bdbda4fbc6f801.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Metroid Prime Remastered(FPS)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "c39df119-a44c-4f9b-9046-eee30504ff0d",
+      "title": "Mighty Morphin Power Rangers: Rita's Rewind",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/a74/a7458dd39aaa05bd55411a1a914543f1.jpg",
+      "description": "In Mighty Morphin Power Rangers: Rita's Rewind, the team faces off against a robotic reincarnation of the Power Rangers' long-time nemesis. Robo Rita has conjured a portal to send herself back in time so she can finally vanquish the Power Rangers by forming an alliance with her younger self. Working together, Robo Rita and Rita Repulsa rewind, rewrite, and remix the past in an attempt to stop the very formation of the Power Rangers, altering the course of history.\nWill the two Ritas and their ar...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9f6/9f6b27f0a13095740ba0f977761cb42e.jpg",
+        "https://media.rawg.io/media/screenshots/eaa/eaa5b9225b5e48b19c6f41ab0098a648.jpg",
+        "https://media.rawg.io/media/screenshots/083/0834244fe70647eade4ee86462a6ae81.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Mighty Morphin Power Rangers: Rita's Rewind(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d08230d8-6eb4-4a00-abd8-a44ca54eee7b",
+      "title": "Mina the hollower",
+      "tags": "criador de shovel knight,zelda like",
+      "cover": "https://media.rawg.io/media/games/9e5/9e5914a9b6537391752af07412cd8ce3.jpg",
+      "description": "Mina the Hollower is a bone-chilling action adventure featuring classic gameplay and an 8-bit aesthetic in the style of Game Boy Color, refined for the modern era. Smooth 60fps action combat, a world full of mystery and horror, and top-down adventuring combine in a mix that may remind you of classic titles like Castlevania, The Legend of Zelda: Link’s Awakening, or even Bloodborne. Whip foes, burrow through the ground, and explore a pixel-perfect world in Mina the Hollower, a brand new game from...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/df9/df99c82b99e526feff6423273faece09.jpg",
+        "https://media.rawg.io/media/screenshots/ccc/ccca7d6fe05bd03a318cc95f253177c0.jpg",
+        "https://media.rawg.io/media/screenshots/63b/63b57500c2e5848c16d01f167f7090e1.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Mina the hollower(criador de shovel knight,zelda like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "af56b6b5-855d-40bf-9122-c7db8a310c25",
+      "title": "Mio: memories in orbit",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/599/599396b361afbee649f03f4e32594ae0.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/075/0751315945edb100e49c619b0b07f708.jpeg",
+        "https://media.rawg.io/media/screenshots/848/8484e20134fc65b2cee183e55c4a1f8e.jpeg",
+        "https://media.rawg.io/media/screenshots/ba1/ba105badea0e180e618c4888152567c2.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Mio: memories in orbit(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a174bfc4-167a-4608-9533-e7451b69d17d",
+      "title": "Momodora",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/1e6/1e64b88dbbcf56e36c15ac5a6b1416cb.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/053/0530c399b5c71ec50e6cab18d00a3666.jpg",
+        "https://media.rawg.io/media/screenshots/c50/c501e1c73916798f0d764a912b2e7ff9.jpg",
+        "https://media.rawg.io/media/screenshots/23f/23fcd393be1027096bebee02c076035f.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Momodora (Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d681ee29-161a-499d-9113-4aaf38f790bb",
+      "title": "Monomals",
+      "tags": "ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/439/4392452320dfc12716d5ee32d69863a2.jpg",
+      "description": "There's a big music contest going on amongst the animal-DJ’s of the world! Armed with a fishing rod and plug as gear - help them catch all of the Monomals™ in deep waters to create your own music in the MonoMaker™!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/adf/adf07fbd5dcfb4c213881e18523fd111.jpg",
+        "https://media.rawg.io/media/screenshots/906/9067c565b5c15a0a49bfe96cc2d5e521.jpg",
+        "https://media.rawg.io/media/screenshots/439/4392452320dfc12716d5ee32d69863a2.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Monomals(ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "180ba8fb-4674-46bb-8574-77eb3cb5e74b",
+      "title": "Monster Boy and the Cursed Kingdom",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/3cd/3cd488dcccb38d73dc8d881e6c83701d.jpg",
+      "description": "A legendary series returns with a grand new adventure!\nEnjoy a colorful action-adventure game made alongside Ryuichi Nishizawa, creator of the original Wonder Boy in Monster World series.\nMonster Boy and the Cursed Kingdom borrows the best from the classic series to deliver a fresh, modern adventure with fun gameplay, memorable music and gorgeous hand drawn animations.\nCan Jin save Monster World Kingdom? Help our young hero defeat challenging enemies, discover hidden locations, upgrade powerful ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/98b/98ba217221d54b1eb5aef0e23055aa99.jpg",
+        "https://media.rawg.io/media/screenshots/049/04930c490d4fc17e2230c6c43270abcd.jpg",
+        "https://media.rawg.io/media/screenshots/fea/fead5fc010ee93c4540620fdc85c3ceb.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Monster Boy and the Cursed Kingdom(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d0ae1bbd-49e6-4004-8fbc-c46d4dccce90",
+      "title": "Monster Hunter Rise",
+      "tags": "Rpg de caçada",
+      "cover": "https://media.rawg.io/media/games/dbb/dbba6100aae179b5f24052c9141d426d.jpg",
+      "description": "Set in the ninja-inspired land of Kamura Village, explore lush ecosystems and battle fearsome monsters to become the ultimate hunter. It’s been half a century since the last calamity struck, but a terrifying new monster has reared its head and threatens to plunge the land into chaos once again.\nHunt solo or in a party with friends to earn rewards that you can use to craft a huge variety of weapons and armor. Brand new gameplay systems such as the high-flying ‘Wire Action’ and your canine compan...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4fd/4fde628fb5a29a98d806fb2a71f3bfd1.jpg",
+        "https://media.rawg.io/media/screenshots/7d2/7d21ff31e4adec7363214a11e3bfb560.jpg",
+        "https://media.rawg.io/media/screenshots/0c1/0c14820a685d353cd3b53d5a9659f5bb.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Monster Hunter Rise(Rpg de caçada)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f22c20fc-f221-4ddb-b8f9-08ff30feac5d",
+      "title": "Monster Hunter Stories",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/574/5745a352ca526a4ab1eeb519f27083b7.jpg",
+      "description": "When a monster strikes, the fearful hide, but the brave? They ride.\nVenture into monster nests to collect eggs and hatch a wide array of\nspecies with uniquely powerful skills. Form teams, battle alongside\nthem, crush opponents with combo attacks, and ride into the sunset a\nchampion. Need more muscle? Then mix and match genes to create monsters\nwith more abilities!\n\nWhen a monster infected by the Black Blight attacks your remote village\nof riders, tragedy will thrust you into an exciting yet dang...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9d8/9d83576928e55c4ec598bc556461f1e1.jpg",
+        "https://media.rawg.io/media/screenshots/326/326d3839104bad436a2882f37b705b80.jpg",
+        "https://media.rawg.io/media/screenshots/015/01534caf5b170bb57fd2c5c71fe3271d_G06UEyK.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Monster Hunter Stories",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "07d17e6b-9063-4995-8fc4-d7bcb7769579",
+      "title": "Monster Hunter Stories 2: Wings of Ruin",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/f79/f79662d3267e50434ab6c674d47aa1f1.jpg",
+      "description": "Monster Hunter Stories 2: Wings of Ruin offers both RPG and Monster Hunter fans a unique new experience with a rich storyline featuring charming characters, challenging quests and friendly encounters with familiar monsters from the Monster Hunter series. Assuming the role of a young Monster Rider who can use a Kinship Stone to form strong bonds with monsters, players can gain experience and improve their skills to form deeper connections with these wonderful creatures. When ready, players can em...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/51b/51bd2216c433bf3b588c241076f0fb79.jpg",
+        "https://media.rawg.io/media/screenshots/de6/de6dbf2833190460f21feae74f50901c.jpg",
+        "https://media.rawg.io/media/screenshots/b9b/b9bd323061c7f03309dcf8f3706fccf1.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Monster Hunter Stories 2: Wings of Ruin(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "91bd85dd-d6ad-47b2-95fc-33c6be447ac3",
+      "title": "Moonstone island",
+      "tags": "Pokemon de fazendinha",
+      "cover": "https://media.rawg.io/media/screenshots/c96/c9681f839991647f9746483b530953d0.jpg",
+      "description": "Moonstone Island is a creature-collecting life-sim set in an open world with 100+ islands to explore. Make friends, brew potions, collect Spirits, and test your strength in card-based encounters to complete your Alchemy training!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1ed/1eddca07cc31500bc7b8ce05a11a51be.jpg",
+        "https://media.rawg.io/media/screenshots/e51/e512758667cd0ab7254ab1f36b73a6aa.jpg",
+        "https://media.rawg.io/media/screenshots/aa5/aa5b1ef4e61f0c0f47c4d767c30ca9f6.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Moonstone island(Pokemon de fazendinha)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "82c9467c-d49f-453c-9b88-b9cc5ba3d98e",
+      "title": "Morsels",
+      "tags": "roguelike",
+      "cover": "https://media.rawg.io/media/games/595/595f0ce5b55a784878f422253729c03d.jpg",
+      "description": "Você é um camundongo faminto, catando lixo no esgoto, quando encontra um sebozila senciente mágico que te ensina a se transformar em um poderoso Morsel. Com seus novos poderes parta para os perigosos mundos superiores onde você enfrentará as forças opressoras dos gatos e coletará Morsels, fazendo trocas estratégicas pelo caminho.\nDa desenvolvedora Furcula, Morsels é um roguelite de coleta de criaturas com visão de cima bem maluco com um grupo variável de personagens jogáveis dentre os quais você...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9d2/9d27d6b868a742817ee85d9196d65833.jpg",
+        "https://media.rawg.io/media/screenshots/3a0/3a0459d830855dadea534a7cb892f92d.jpg",
+        "https://media.rawg.io/media/screenshots/937/937a354a3d229342e4d5e7c59c1d4930.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Morsels(roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e6f49e61-6801-41f5-95f0-af0fb3c113ed",
+      "title": "Mortal Kombat 1",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/155/155087d7b9c1225cda0ab9e586b6374d.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 08 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/68f/68fe836ccd881479c4fa5542730581b0.jpg",
+        "https://media.rawg.io/media/screenshots/542/542579a2b5bde8c617a203b32be74d4f_ayR2HfE.jpg",
+        "https://media.rawg.io/media/screenshots/f2d/f2d8831f1b228168d687f4f3333072c8.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Mortal Kombat 1",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fefa7a25-aa19-4c2d-b2f3-73a5ebedd95e",
+      "title": "Mortal Kombat 11",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/eb5/eb514db62d397c64288160d5bd8fd67a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a00/a00efc47937162641fcabb21aa8dfe4b.jpg",
+        "https://media.rawg.io/media/screenshots/c05/c050e7dba8faa76591562c4bec0f20d7.jpg",
+        "https://media.rawg.io/media/screenshots/ced/ced39afe7c7474eb01fdecb9b3dd6361.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Mortal Kombat 11",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c5bfd261-fa22-4078-b832-46d6db14551a",
+      "title": "Mortal Kombat: Legacy Kollection",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/screenshots/977/97721c187d0b3ad55b5f3e876a9fff2a.jpg",
+      "description": "Step into the arena and choose your fighter! Mortal Kombat: Legacy Kollection includes all the essential games from Mortal Kombat's early years. Experience the legendary origins of the franchise with the iconic arcade classics that started it all—alongside a curated selection of most-loved home versions and rare, fan-favorite releases—a celebration of the franchise’s groundbreaking legacy.Digital Eclipse's interactive documentary format explores how Mortal Kombat changed the way society perceive...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8a0/8a05b16c4dbd94030c6c587dd7395002.jpg",
+        "https://media.rawg.io/media/screenshots/cc5/cc542d3964f14ab7093e72ae566e2412.jpg",
+        "https://media.rawg.io/media/screenshots/2f5/2f519d695bfd2285a9cdaf09a10a3c27.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Mortal Kombat: Legacy Kollection(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b94307cb-80fc-499e-855d-2b616751a4ca",
+      "title": "Mother Russia Bleeds",
+      "tags": "briga DE rua",
+      "cover": "https://media.rawg.io/media/games/450/450ccffea136d06ef8d18802d583f8e5.jpg",
+      "description": "Mother Russia Bleeds is an independent beat 'em up title developed by Le Cartel Studio.\n\n###Plot\nThe game is set in an alternate version of USSR in the eighties. The government cannot do anything with widespread crime, so it simply ignores that. Four street fighters from a gypsy community unwillingly become the test subjects for a new drug called Necro. After escaping from the laboratory, the main character returns back to their community only to find it in ruins and the whole population becomin...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/001/001edcca59e0778cb13c84f3ce5c4644.jpg",
+        "https://media.rawg.io/media/screenshots/eb1/eb149dea73c7805d49f385d7c3982865.jpg",
+        "https://media.rawg.io/media/screenshots/097/097f21b595d675c907c1efa9f10b95a7.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Mother Russia Bleeds(briga DE rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5bdaa6b1-b335-4cba-918e-fca09c499f8c",
+      "title": "MULLET MADJACK",
+      "tags": "Boomer Shooter",
+      "genre": "Tiro e Navinha",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "MULLET MADJACK(Boomer Shooter)",
+      "description": "OUR COMMUNITY:https://store.steampowered.com/app/2111190\nAbout the Game Your HEALTH is TIME\nYou must KILL to get more TIME\nWe are in the 90s... 2090 to be precise. MULLET MADJACK is a frantic first-person action game set in a vintage ANIME world:\nIn this future, MAN and INTERNET have merged into a new being. This being needs DOPAMINE every 10 SECONDS, or else it will DIE!\nThe world is now ruled by super rich A.I. robots called \"ROBILLIONAIRES\",\nThose who put their 10 SECONDS OF LIFE on the line ...",
+      "cover": "https://media.rawg.io/media/games/abb/abb7001813e2976becc44289d61d59c3.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5a4/5a484c2a17da552251430d2e8a2d2796.jpg",
+        "https://media.rawg.io/media/screenshots/2cc/2cc5d5c595d773d022693946ce66cc5d.jpg",
+        "https://media.rawg.io/media/screenshots/eb8/eb838f84a04b32cdbae14c59fd9804ae.jpg"
+      ]
+    },
+    {
+      "id": "18ff67eb-2a91-4801-b51c-e317fa76394f",
+      "title": "Muse Dash",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/games/6bf/6bf6786b23b4c04ebc06f9319b7b4109.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3da/3da623007644671ca5fd637a96bd2323.jpg",
+        "https://media.rawg.io/media/screenshots/c1a/c1a6aea23cffebd37380b2275dffd6db.jpg",
+        "https://media.rawg.io/media/screenshots/0c0/0c08f194586ce6ca825fc3e69506b9de.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Muse Dash (Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e82b3932-8cc6-4bb8-a5dd-7212cdd6739e",
+      "title": "Musynx",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/e9b/e9bcf33f4d225a7268d9d897bea962c0.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0bc/0bcfa0d79b2be1ea1771bbd87892d689.jpg",
+        "https://media.rawg.io/media/screenshots/58b/58b5e3a909670988a6cc204db38a0f4e.jpg",
+        "https://media.rawg.io/media/screenshots/2d0/2d0f1d87eafe1a94dc11552f07658cd3.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Musynx(Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a825db5a-3c32-40c8-9f97-05620f0fcadc",
+      "title": "My Hero One’s Justice",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/games/d3b/d3bf5fdcc86ed61032d90022b2c13196.jpg",
+      "description": "Whether you want to see the destruction of humanity or believe heroes should defend those in need, fight to prove your justice in MY HERO ONE’S JUSTICE.  The popular Weekly Shonen Jump manga series comes to life, as players experience the abilities of fan favorite characters such as Izuku Midoriya, Katsuki Bakugo, Tomura Shigaraki, and many more in this arena brawler, where you’ll get to choose between hero and villain in your path to justice. \n\nUtilize Quirks and call upon your side-kicks to ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/662/6626095b4768a953a2120b8ed9538997.jpg",
+        "https://media.rawg.io/media/screenshots/ee0/ee0281c7117eeea46e2ba586e9603076.jpg",
+        "https://media.rawg.io/media/screenshots/913/9138800ff116293125b9f825dc866888.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "My Hero One’s Justice(Luta)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "aeee006f-84ba-41c9-9d7a-393a7552bb8e",
+      "title": "My time at sandrock",
+      "tags": "Fazendinha",
+      "cover": "https://media.rawg.io/media/games/b13/b1315418c35bd241dc592f4e271b7bec.jpg",
+      "description": "My Time at Sandrock – Just like My Time at Portia, takes place in a wholesome post-apocalyptic world around 300 years after the Day of Calamity.\n\nYou'll take a job offer in the city-state of Sandrock, assume the role of a fledgling Builder being sent to a wild and rugged townscape. It’s up to you and your trusty toolset to gather resources, build machines, and fix up your workshop into a well-oiled production machine, and save the town from the jaws of economic ruin, as well as a few other unexp...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/997/9971c2ac9da4d49cb5585342d87ba57a.jpg",
+        "https://media.rawg.io/media/screenshots/b19/b1950c32f394d208fae46b28864d715d.jpg",
+        "https://media.rawg.io/media/screenshots/4ca/4cabf2c31749e0862ce514b52733379c.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "My time at sandrock(Fazendinha)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "91caab34-13da-4278-aaa9-22214efaf307",
+      "title": "Naruto Ultimate ninja storm 4",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/screenshots/89c/89cbbdff281fac41adf04987f4c8a3f2.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 08 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/820/820624b350d688c9c6e1481eec7879ba.jpg",
+        "https://media.rawg.io/media/screenshots/f8b/f8b07a3e40264a0a345d5af77a3faa80.jpg",
+        "https://media.rawg.io/media/screenshots/263/263f0cc3340eb3ac3429872d1cbca43f.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Naruto Ultimate ninja storm 4(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fd6b533e-5d57-46a9-9339-faa7b5ca665a",
+      "title": "Naruto X Boruto connections",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/screenshots/b56/b56c8500b4760e23ccc1f42e4f10a642.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1ff/1ff4d627e0a107529da54cbfe031a2aa.jpg",
+        "https://media.rawg.io/media/screenshots/27d/27d8027a524f4e07c6d76440264ca6f2.jpg",
+        "https://media.rawg.io/media/screenshots/adb/adb19bb2f45e7b1e7566d9ffdec912c4.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Naruto X Boruto connections(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3928dd5d-c748-4201-8176-8f7c1b5428e8",
+      "title": "NBA 2K25",
+      "tags": "Basquete",
+      "cover": "https://media.rawg.io/media/screenshots/d6a/d6a58b272dc77a5e2b38ed5729dee9a8.jpg",
+      "description": "Command every court with authenticity and realism Powered by ProPLAY™, giving you ultimate control over how you play in NBA 2K25. Define your legacy in MyCAREER, MyTEAM, MyNBA, and The W. Express yourself with an array of customization options and explore an all-new City rich with opportunity.\nPOWERED BY ProPLAY™\nBring your game to life with ProPLAY™, immersive technology that directly translates NBA footage into engaging gameplay. Get up close and personal with your favorite NBA superstars and ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/241/241ce5acd0ebe55bc962edc71032ff9e.jpg",
+        "https://media.rawg.io/media/screenshots/34e/34ed53b8a41ac309149d6dd476bd104f.jpg",
+        "https://media.rawg.io/media/screenshots/775/7754ba4a080330a16dca68bbb7ce568d.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "NBA 2K25(Basquete)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "08bea36f-42c1-44d9-8b40-5ab5843f584d",
+      "title": "Need for Speed Hot Pursuit",
+      "tags": "Corrida",
+      "cover": "https://media.rawg.io/media/games/367/367463d43c2a1465f27e830b5b1334ee.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fcd/fcd2de939064eff5a8b6b53cca256e07.jpg",
+        "https://media.rawg.io/media/screenshots/a40/a4083dff4da425436f28daa91059914d.jpg",
+        "https://media.rawg.io/media/screenshots/ece/ece127829ebfd354e1c7044d3695c3b4.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Need for Speed Hot Pursuit(Corrida)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d9b207c9-f488-4291-980f-306439e02626",
+      "title": "NEO: The World Ends with You",
+      "tags": "Jrpg",
+      "genre": "Briga de rua, Runandgun",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "NEO: The World Ends with You(Jrpg)",
+      "description": "Explore a stylized recreation of Shibuya, as you take on the role of Rindo to battle for survival and unravel the mysteries of the deadly “Reaper’s Game” in this new Action RPG for PlayStation 4 and Nintendo Switch.",
+      "cover": "https://media.rawg.io/media/games/90d/90d8760ba2c817ab86f56d23bcc42e0a.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7d6/7d6a8d2a300349857e9043674e4265ef.jpg",
+        "https://media.rawg.io/media/screenshots/90a/90a8470608efefda0b77c7ce2b119ba5.jpg",
+        "https://media.rawg.io/media/screenshots/f65/f65b8689adb32d616b991a8fffcc3a49.jpg"
+      ]
+    },
+    {
+      "id": "faac5fc1-697d-466b-8aa5-38bca0f8e466",
+      "title": "Neon Inferno",
+      "tags": "Run and Gun",
+      "cover": "https://media.rawg.io/media/screenshots/b5b/b5b19e404d99b4a3534870eb903569f0.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b8a/b8a533523b6029344ed3e9e88543f4db.jpg",
+        "https://media.rawg.io/media/screenshots/953/953535a93ffd06f7ab949d3e294cf697.jpg",
+        "https://media.rawg.io/media/screenshots/067/0675f5815d97abb6eab74e8c28020cf9.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Neon Inferno(Run and Gun)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0d095f0c-db77-4ede-8be7-18011a784748",
+      "title": "Neon White",
+      "tags": "plataforma,tiro,puzzle",
+      "cover": "https://media.rawg.io/media/games/a12/a120fc7faed7666f8c320a755137e316.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d80/d80f355d433a4c3e65c03f895cce13fb.jpg",
+        "https://media.rawg.io/media/screenshots/a7f/a7f382410a233f33878f8ba889507424.jpg",
+        "https://media.rawg.io/media/screenshots/e4e/e4e6e0e28de770d8a7741848772a5bc7.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Neon White (plataforma,tiro,puzzle)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "76821ef2-f960-4b50-8922-112d42dedf68",
+      "title": "Neva",
+      "tags": "criadores de gris",
+      "cover": "https://media.rawg.io/media/games/5eb/5eb783656623aa13d6fc65e470dd5dba.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 59 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7de/7deaff1818f5ae1d6ecb72f35a8ec2c1.jpg",
+        "https://media.rawg.io/media/screenshots/bc1/bc12059ecdcb9709f4bc4b35b5c18856_FSPEIVC.jpg",
+        "https://media.rawg.io/media/screenshots/f89/f899364f64e83da38f552e3fea16b125_6Wh2aAv.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Neva (criadores de gris)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "396a45c9-925d-48d9-8523-b93994a64d32",
+      "title": "NeverAwake",
+      "tags": "Navinha",
+      "cover": "https://media.rawg.io/media/screenshots/b99/b99961893b1e7419e24b3d94cac9780c.jpg",
+      "description": "A girl who never wakes up. She has been fighting monsters in her dreams...\n\"NeverAwake\" is a nightmarish twin-stick shooter with a unique worldview and original game rules.\nThe girl fights against vegetables, dogs, school friends, and other things she hates. What does the girl see at the end of the battle? And will she be able to wake up?\nAbout NeverAwake\"NeverAwake\" has a unique worldview with its high quality hand-drawn graphics and beautiful animations.\nThe enemies are not demons...but vegeta...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b6d/b6d3751d3e1633207be903f6d1b4eb55.jpg",
+        "https://media.rawg.io/media/screenshots/9d3/9d39260dff3cdac403135d3eef34df66.jpg",
+        "https://media.rawg.io/media/screenshots/bd5/bd50db58d8ed03375f39ca8ac38eeee2.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "NeverAwake(Navinha)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5351c79e-9f09-4e0a-80b8-f671b068bbf0",
+      "title": "Nevergrave:Thewitchandthe curse",
+      "tags": "Metroidvânia",
+      "cover": "https://media.rawg.io/media/screenshots/fc1/fc12a20721979d7527563e3dfd540a4a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b2f/b2ffc8c5966179f2ee6bb03105538f28.jpg",
+        "https://media.rawg.io/media/screenshots/a9e/a9ee1d3e7b2f7e0ebfe40d29ca42b152.jpg",
+        "https://media.rawg.io/media/screenshots/35d/35dbd4b971cfb275e53e12f5db68756b.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Nevergrave:Thewitchandthe curse(Metroidvânia)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a87625d4-d5f0-4c28-bc08-04e18a17e6d8",
+      "title": "NEW Joe & Mac - Caveman Ninja",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/b67/b67fc1603006c789cdaa45ff489f5c02.jpg",
+      "description": "Welcome to prehistorical jungle!\nWe’re back in the distant Past, when “Rock & Roll” was just about rocks and “Fast food”, a dinner that you couldn’t catch.\n2 cave dudes named Joe & Mac live in a peaceful and cool village. Cool it was, until a bogus bunch of Neanderthal snatched all the village’s women.\nIt’s now up to Joe & Mac to save them all, and fight against deadly dinosaurs and carnivorous plants in this crazy and colorful action-plateformer from Jurassic time, with completely redesigned gr...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5cc/5cc9e09fbb7b430737ae11ec140283fc.jpg",
+        "https://media.rawg.io/media/screenshots/2fc/2fcfdd60cf3c6fe870e724896b4041f2.jpg",
+        "https://media.rawg.io/media/screenshots/74a/74ac6b439762453045a22052a8201057.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "NEW Joe & Mac - Caveman Ninja(Plataforma 2d)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a7da79ed-ff70-44ba-a352-ceaf19f37236",
+      "title": "New Pokemon Snap",
+      "tags": "jogo de tirar foto",
+      "cover": "https://media.rawg.io/media/screenshots/967/967d912c7ae0a728bd2f78bce076eb9c.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ec3/ec304161282f02b712c6d322e84a4390.jpg",
+        "https://media.rawg.io/media/screenshots/3c7/3c780bd36f769c5ff4057167d3a09295.jpg",
+        "https://media.rawg.io/media/screenshots/028/02876931efa59cbb6daa0c0b938bb0ba.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "New Pokemon Snap(jogo de tirar foto)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "5e0c8fab-d409-42a6-b236-cbbc0c67c4a2",
+      "title": "New Super Lucky's Tale",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/screenshots/880/880ca9c8cb5b3270c719c0202f27f2a7.jpg",
+      "description": "Join Lucky on his thrilling journey through the Book of Ages, a magical artifact that opens doors to amazing worlds. Meet new friends, explore exciting lands, and recover the missing pages from the evil sorcerer Jinx and his villainous family, the dreaded Kitty Litter.\n• Featuring a huge variety of gameplay, from expansive 3D hubs, to story-based adventure levels, 2D side-scrolling challenges, rewarding mini-games, mind-bending puzzles, and thrilling boss battles.\n• Thousands of collectibles to ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6a8/6a8e8f42c112af0d1b9aac3830291589.jpg",
+        "https://media.rawg.io/media/screenshots/c5c/c5cb4a4e5f7076509f82b6c5dedbc7f9.jpg",
+        "https://media.rawg.io/media/screenshots/c78/c78afeceb6589389ee36a5ee8c8df457.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "New Super Lucky's Tale(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "6be8df07-98e4-43a1-8dfb-24eb94ac61cc",
+      "title": "New Super Mario Bros. U Deluxe",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/61c/61cf09a86fe686a01a0c9863fc4230a7.jpeg",
+      "description": "Take on two family-friendly, side-scrolling adventures with up to three \n      friends* as you try to save the Mushroom Kingdom. Includes the New Super \n      Mario Bros. U and harder, faster New Super Luigi U games—both of which \n      include Nabbit and Toadette as playable characters!\n    \n      Two games in one, for double the fun! Simple, straightforward controls, \n      new playable characters optimized for younger and less-experienced \n      players, and a wealth of bonus content—l...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b31/b3107d85a92a906e0a2664382e3df332.jpg",
+        "https://media.rawg.io/media/screenshots/6f1/6f1f963f4e088a631e30605891873889.jpg",
+        "https://media.rawg.io/media/screenshots/b8b/b8b2f486afa1d48427eb02e6a2a20cb8.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "New Super Mario Bros. U Deluxe(Plataforma 2d)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "6c773495-765c-4aed-a124-8abcebe873bc",
+      "title": "Nexomon",
+      "tags": "Pokemon like",
+      "cover": "https://media.rawg.io/media/screenshots/853/853b0b21698ce3abe9b60a2b534da87e.jpg",
+      "description": "Catch, evolve and collect over 300 unique Nexomon! Assemble the ultimate Nexomon team to save your friends and the world! Clash against legendary champions and become a hero in this epic journey!\nGame Features:\nOver 300 Nexomon to catch and train.\nFull controller & keyboard support.\nEvolve your Nexomon into new and powerful forms.\nA deep and engaging battle system.\nMighty and unique legendary Nexomon, find all eight of them!\nEmbark on an epic adventure to save the world from the Nexomon King!\nBa...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8b0/8b0de30485f496881d364aeda32d91d0.jpg",
+        "https://media.rawg.io/media/screenshots/147/1477fd87b6ab67c4aabe139ae5d8adc5_5p4O0zJ.jpg",
+        "https://media.rawg.io/media/screenshots/182/182fd537bb2263111498470f5afe33d2_HdjGBjF.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Nexomon(Pokemon like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "85a7fefa-7528-418c-84c7-3176ad10c1e7",
+      "title": "Nexomon: Extinction",
+      "tags": "Pokemon like",
+      "cover": "https://media.rawg.io/media/games/c65/c65e07a823c169cfa9711f4d3d3ba74c.jpg",
+      "description": "Nexomon: Extinction is a return to classic monster catching games, with a brand new story, eccentric characters and over 300 unique Nexomon to trap, tame and evolve.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/eeb/eeb2e361aca2577c4893b1cd8b204234.jpg",
+        "https://media.rawg.io/media/screenshots/ab7/ab7479c579815df9c59046095d371ac9.jpg",
+        "https://media.rawg.io/media/screenshots/b39/b3921d9f9a1b777fba54a963010e7bff.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Nexomon: Extinction(Pokemon like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4ba8ff76-2d2a-4491-b79d-b3f46074cee1",
+      "title": "Ni no Kuni II: Revenant Kingdom",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/b92/b924c4beeed6617201d5d91511cfcf8e.jpg",
+      "description": "Re-enter the animated world of Ni no Kuni in a role-playing masterpiece!\n\nRe-enter the animated world of Ni no Kuni in the sequel to the role-playing masterpiece developed by LEVEL-5. \n\nExplore a beautifully crafted world and experience the gripping story in an all-new RPG adventure. LEVEL-5 reunites with Yoshiyuki Momose on character design and Music created by Joe Hisaishi in the production of the next Ni no Kuni tale.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a77/a774be97e287ef3b355fb1c3d21504ce.jpg",
+        "https://media.rawg.io/media/screenshots/405/4052fb50c7facc60139ca57a07b53deb.jpg",
+        "https://media.rawg.io/media/screenshots/fd4/fd4bf15634d5407c36010c7277b7e0d9.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Ni no Kuni II: Revenant Kingdom(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9b6dbff6-5819-465b-9cbe-38dc5ed44dcf",
+      "title": "Ni no Kuni: Wrath of the White Witch",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/95e/95ee6bf3accffaf3dc886a8e3ecc24d8.jpg",
+      "description": "Ni no Kuni: Wrath of the White is a Japanese role-playing game with anime visuals. In addition to the visual style in the game, there are animated sequences from Studio Ghibli, where famous animator Hayao Miyazaki works. The player takes control of Oliver the young boy, who goes on a journey to save his mother.\n\nThe player controls the main character using the third person perspective. The main task is to complete the linear quests for further development of the plot. During a collision with ene...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9fe/9fe353356d0868baa93cdfa4c21aadb4.jpg",
+        "https://media.rawg.io/media/screenshots/395/3951ebd5fa0cb1c28b34881f46e40b6a.jpg",
+        "https://media.rawg.io/media/screenshots/631/631b28c7c13b80df6acb51143dc46e40.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Ni no Kuni: Wrath of the White Witch(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a0466fb2-b6c6-41da-882c-736b2b90b71e",
+      "title": "Nicktoons and the Dice of Destiny",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/749/7494f9ab225bb023f31e83eae2b3b721.jpg",
+      "description": "Adventure Calls. Destiny Awaits.Embark on a fantastical quest with your favorite Nicktoons characters—reimagined as epic Action-RPG heroes!Nicktoons & The Dice of Destiny is a vibrant, universe-spanning mashup that brings iconic Nickelodeon heroes into a world of fantasy-style tropes and real-time RPG action. Get ready to roll the dice and dive into a wild, action-packed adventure with SpongeBob, Katara, Leonardo, and others as they swing spatulas, bend water, slice katanas, and more. Get ready ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bb8/bb835b94885d1a8f231e6a4f53ff2b3c.jpg",
+        "https://media.rawg.io/media/screenshots/ca4/ca4aa3e1b86a1eb0569f95c43a8d6945.jpg",
+        "https://media.rawg.io/media/screenshots/be8/be887614f44b19c0a1472db599229834.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Nicktoons and the Dice of Destiny(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e1a7a705-e97c-44ce-b7d6-83c6e16106a2",
+      "title": "Nidhogg 2",
+      "tags": "Multiplayer",
+      "cover": "https://media.rawg.io/media/games/962/9626e41ae5809e9545a34c2562e3b749.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/138/138ac499dfd1ed2e1c5dfdc20f8c0a43.jpg",
+        "https://media.rawg.io/media/screenshots/cba/cbafc544c1ccd4704d36a74d694987a8.jpg",
+        "https://media.rawg.io/media/screenshots/c6c/c6c3f8040d2841f5b13d72b0a7cd5d8b.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Nidhogg 2(Multiplayer)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7368e26b-f8ff-41b9-b621-b8864b94bbf9",
+      "title": "NieR:Automata",
+      "tags": "ActionRpg",
+      "cover": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg",
+      "description": "NieR: Automata is an action RPG, a sequel to Nier and a spin-off to the Drakenguard series. The story is set in the middle of the war between humans and machines where you take on the role of an android warrior called 2B. The story develops around the theme of androids' ability to feel and make their own decisions.\nThe gameplay of NieR: Automata combines RPG elements, such as character progression,  with action-based combat and some platforming features, including climbing and jumping over obsta...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/286/28651ead277f96a8b950ded95b617b25.jpg",
+        "https://media.rawg.io/media/screenshots/818/8186c49e4788cb1a9d346689afeff9e4.jpg",
+        "https://media.rawg.io/media/screenshots/974/9747126200ff91b7b9515c4484e562a5.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "NieR:Automata(ActionRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ebeb9275-c8a3-4fe5-a306-d584ec78f801",
+      "title": "Nikoderiko: The Magical World",
+      "tags": "plataforma estilo DK",
+      "cover": "https://media.rawg.io/media/screenshots/62b/62b485edfb91980c4130aab41909e033.jpg",
+      "description": "Join Niko and Luna on a journey to save a magical island from the evil Baron Grimbald in Nikoderiko: The Magical World, a charming platforming game! Play on your own, or burst into this vibrant adventure together with a friend in couch co-op.BEGIN YOUR ADVENTURE!Run, jump and ride as the trailblazing treasure-hunting mongoose Niko and Luna! Venture through 2.5D levels packed with platforming thrills, minecart rides, wild chases, underwater odysseys, and even classic 3D segments in a quest to res...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5c2/5c2f8a2e99604d1563d8faf19a2f35d8.jpg",
+        "https://media.rawg.io/media/screenshots/812/812c0760705d42c7ca6dccc075e41608.jpg",
+        "https://media.rawg.io/media/screenshots/965/965ff23bf42b45c9d99af9cc0470ba82.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Nikoderiko: The Magical World(plataforma estilo DK)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "195d4db2-887e-4a9b-8d69-11e0e587aec8",
+      "title": "Nine Sols",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/cee/cee02d983e2e1e457caa562420f532fb.jpg",
+      "description": "Nine Sols is a lore rich, hand-drawn 2D action-platformer featuring Sekiro-inspired deflection focused combat. Embark on a journey of Asian fantasy, explore the land once home to an ancient alien race, and follow a vengeful hero’s quest to slay the 9 Sols, formidable rulers of this forsaken realm.\nStory\nIn New Kunlun, hero Yi has awakened the 9 rulers of this forsaken realm. To defeat the 9 Sols in the deserted city.\n\n“Becomes one with the way of Tao…”\n\nNew Kunlun, the Solarian’s last sanctuary,...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/466/4667e5767784f82f1ef4350b016b04b3.jpg",
+        "https://media.rawg.io/media/screenshots/3f0/3f0f888930401c88053d0ec43e14a8fb.jpg",
+        "https://media.rawg.io/media/screenshots/57d/57dc26114d04ef76025fd6c2017406ac.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Nine Sols(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "07912338-131a-434d-a7cc-06b5dcabd5a3",
+      "title": "Nintendo Switch Sports",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/ea1/ea1a98c673cdd4c290aa29bc2e2fbd9b.jpg",
+      "description": "Get moving with Soccer, Volleyball, Bowling, Tennis, Badminton, and Chambara (swordplay) using Joy-Con™ controllers!\n\nControls are intuitive, so you can hit the court (or lanes, or field, or arena) and get started. With controlled motions you can curve your bowling ball, add spin to a tennis shot, or even use a Joy-Con with the included Leg Strap accessory to kick the ball in a Soccer Shoot-Out. Family and friends can join in on the fun on the same system* or online**. Plus a seventh sport is pl...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e34/e34ce6fecc00fbac07f2c27f0d07ce9e.jpeg",
+        "https://media.rawg.io/media/screenshots/046/0468e947ad7651d9ef8a913d52f1a948.jpg",
+        "https://media.rawg.io/media/screenshots/d3a/d3af4395fe18cffc7a7f5f1280ca2fb2.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Nintendo Switch Sports",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "c7027030-a5b1-40b8-83be-ff40b0c225f6",
+      "title": "Nintendo World Championships: NES Edition",
+      "tags": "Speedrun de jogos de NES",
+      "cover": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/software/switch/70010000080664/aa0f9e570ce4b3907d2544376d1da43959e4bf0a7825e1377376a448f41b24e0",
+      "description": "Jogo de Nintendo Switch. Speedrun de jogos de NES",
+      "images": [
+        "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/Microsites/nintendo-world-championships-nes-edition-switch/Switch_NWCNES_PMP_WCM"
+      ],
+      "genre": "Party game",
+      "raw": "Nintendo World Championships: NES Edition(Speedrun de jogos de NES)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "5dfb7b72-c5b9-494d-bba1-c6cf88a1ecc6",
+      "title": "No heroes here 2",
+      "tags": "Tower defenseMultiplayer",
+      "cover": "https://media.rawg.io/media/screenshots/0a3/0a3c98823fc50c481b8868b5f837ecb1.jpg",
+      "description": "RALLY YOUR FRIENDS AND HOLD YOUR GROUND!!!A group of non-adventurers is the last hope in defending the castle in this chaotic co-op tower defense game with roguelike features. With up to 4 players, your party must organize the castle, work as a team to craft ammo, and shoot at enemies to protect your kingdom!PLAN, CRAFT AND DEFEND THE CASTLE!Use the power of teamwork to prosper through 15 rounds against hordes of brute invaders by preparing the castle stations, reinforcing your defenses each day...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7d5/7d5a253202a795fbec957c9f4006d168.jpg",
+        "https://media.rawg.io/media/screenshots/2c8/2c8d02d75d8243fd745ce887d8d9e2c9.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "No heroes here 2(Tower defenseMultiplayer)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9b87128d-2f2e-4179-8707-058bcd4741ab",
+      "title": "No Man Sky",
+      "tags": "Mundo Aberto",
+      "cover": "https://media.rawg.io/media/games/174/1743b3dd185bda4a7be349347d4064df.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/34a/34a9f8a7a487e90c51d0ed1782a122f8.jpg",
+        "https://media.rawg.io/media/screenshots/77d/77d311572d90024a03d1ac722a2d21d3.jpg",
+        "https://media.rawg.io/media/screenshots/6a7/6a766ebcc837efc2d324a44a81959a3a.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "No Man Sky (Mundo Aberto)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c034e09e-7959-46fe-8b1f-762935c21cea",
+      "title": "No More Heroes 3",
+      "tags": "Aventura/Hack n Slash",
+      "cover": "https://media.rawg.io/media/games/fce/fce0716b555c161ef1b286eecb7abc16.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 41 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3ed/3ed978dc6dae45815de7bdb6058a1650.jpg",
+        "https://media.rawg.io/media/screenshots/5f9/5f92eb64b7c5d9d0f33f3effad78a020.jpg",
+        "https://media.rawg.io/media/screenshots/bf1/bf181aaf797b5fae92901a4fbc873d47.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "No More Heroes 3 (Aventura/Hack n Slash)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ae3b92bf-1899-4dd1-a091-b01ae9b0904e",
+      "title": "No straight roads",
+      "tags": "Ritmo e aventura",
+      "cover": "https://media.rawg.io/media/screenshots/0e8/0e86c1f3a1dc83096bbc2c70b6234a75.jpg",
+      "description": "Fight the massive EDM empire as an indie rock band in our unique PC & PS4 action game! Directed by Wan Hazmer, lead game designer of Final Fantasy XV, and Daim Dziauddin, concept artist of Street Fighter V, No Straight Roads was made with the intention of elevating the role of audio in game design without turning it into a rhythm game, and using strong visuals to tell a story of music cultures and ideals.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/41f/41f454bf95e2fe2507711b7657a3eebd.jpg",
+        "https://media.rawg.io/media/screenshots/b3b/b3b62d1b2ed040b56fc60705f5e49f2e.jpg",
+        "https://media.rawg.io/media/screenshots/a02/a02a5a150f6f4b84ac05750b6f35bfb7.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "No straight roads(Ritmo e aventura)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a68e2925-1d2d-43e5-9340-692e816b1634",
+      "title": "Nobody saves the world",
+      "tags": "rpg rogue like",
+      "cover": "https://media.rawg.io/media/games/b44/b448c0725eb490dda9cfb23b826da68a.jpg",
+      "description": "Transform from a featureless nobody into a SLUG, a GHOST, a DRAGON, and MORE in this new take on Action RPGs from the creators of Guacamelee!\n\n\n\nComplete quests to discover and swap between 15+ varied and distinct Forms. Mix and match abilities in unexpected ways to unlock and complete even MORE challenging quests. Explore a vast overworld - on your own or with a friend online - while clearing shape-shifting dungeons in an effort to stop The Calamity and SAVE THE WORLD!\n\n\nKEY FEATURES\nTransform ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c1e/c1e1f997b48489adce0750d12054291b.jpg",
+        "https://media.rawg.io/media/screenshots/05a/05a8e3329ea405bc410c239376194408.jpg",
+        "https://media.rawg.io/media/screenshots/b05/b0516803265ef31256382bfe01be1c74.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Nobody saves the world(rpg rogue like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "63dae3b9-a4ae-4674-842d-7553b3bec95b",
+      "title": "Oceanhorn 2: Knights of the Lost Realm",
+      "tags": "Zelda like",
+      "cover": "https://media.rawg.io/media/screenshots/6c9/6c9d9cff470a3abdfea980d14db29f69.jpg",
+      "description": "Oceanhorn 2: Knights of the Lost Realm, set a thousand years before the events of the first chapter, takes you on a magical journey across the vast world of Gaia, brimming with mythology and lore. A young Knight faces an impossible challenge, as Warlock Mesmeroth has returned with a formidable Dark Army. Will our hero be able to unite the Owrus, Gillfolk, and men in a fight for the fate of the world?",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6c9/6c9d9cff470a3abdfea980d14db29f69.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Oceanhorn 2: Knights of the Lost Realm(Zelda like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f81f7487-710b-4c43-96ab-644182468555",
+      "title": "Oceanhorn: Monster of Uncharted Seas",
+      "tags": "Zelda like",
+      "cover": "https://media.rawg.io/media/games/71b/71b37378002a263be62e89823c7c446c.jpg",
+      "description": "You wake up and find a letter from your father. He is gone… The only lead is his old notebook and a mysterious necklace. What happened?\nOceanhorn: Monster of Uncharted Seas combines captivating storytelling, breathtaking 3D visuals and exciting gameplay into one epic action-adventure experience. In the game you explore the islands of Uncharted Seas, a world filled with many dangers, puzzles and secrets. You must fight monsters, learn to use magic and discover ancient treasures, which will help y...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f86/f86f9363f80e084645ad3dacf0d04f85.jpg",
+        "https://media.rawg.io/media/screenshots/b1c/b1ca6b5d5aa4ff8b2ba4788eb15da074.jpg",
+        "https://media.rawg.io/media/screenshots/06a/06a3607da08940e0b78ff6a04aba3619.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Oceanhorn: Monster of Uncharted Seas(Zelda like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f3610714-650c-4f3e-a1be-8bf56566e05c",
+      "title": "Octopath Traveler",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/e23/e2345c839b323a94b6811705fda5af73.jpg",
+      "description": "Eight travelers. Eight adventures. Eight roles to play in a new world\nbrought to life by Square Enix. And now, you can enjoy all of them in\nthe new demo. Step into the shoes and live the stories of each of the\neight travelers and freely explore the world of Orsterra. Then, carry\nyour choices and adventure into the main game with save data transfer.\n\nUse each character’s special abilities in and out of battle. Break\nthrough enemy defenses by discovering and targeting weaknesses. Store\nBoo...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/58d/58d9675a1900e2393e49d71ff62146f7.jpg",
+        "https://media.rawg.io/media/screenshots/1bd/1bdbfcb03e7681d89098eac5cb7028ee.jpg",
+        "https://media.rawg.io/media/screenshots/c55/c55be20356af61a27aa2eadaf60c3543.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Octopath Traveler(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a714fbea-bcc7-4810-958b-7ee1ffb47e74",
+      "title": "Octopath Traveler 0",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Octopath Traveler 0(Jrpg)",
+      "description": "Start from zero and discover the newest entry in the OCTOPATH TRAVELER series. Experience a story of restoration and retribution over the divine rings—an epic saga that unfolds across the realm of Orsterra.",
+      "cover": "https://media.rawg.io/media/screenshots/f1b/f1b0778dffc9162299536461bf9238cf.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f1b/f1b0778dffc9162299536461bf9238cf.jpg"
+      ]
+    },
+    {
+      "id": "e4dc8fac-0284-4b0a-9c8c-198fd7d636d0",
+      "title": "Octopath Traveler 2",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Octopath Traveler 2(Jrpg)",
+      "description": "This game is a brand-new entry in the OCTOPATH TRAVELER series, the first installment of which was initially released in 2018 and sold over 3 million copies worldwide. It takes the series’ HD-2D graphics, a fusion of retro pixel art and 3DCG, to even greater heights.\nIn the world of Solistia, eight new travelers venture forth into an exciting new era.\nWhere will you go? What will you do? Whose tale will you bring to life?\nEvery path is yours to take.\nEmbark on an adventure all your own.\n\n■Sellin...",
+      "cover": "https://media.rawg.io/media/games/2d1/2d1439e74ece0eae3f571211410646dc.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b12/b12e399abe01d45b7aa302ae38a33d86.jpg",
+        "https://media.rawg.io/media/screenshots/1d2/1d23cb922ae5546220d64cc8eb9cf568.jpg",
+        "https://media.rawg.io/media/screenshots/130/1304891450deefb75216327b5707a9cf.jpg"
+      ]
+    },
+    {
+      "id": "e79ab2a8-a042-4e45-9ff0-039185389e60",
+      "title": "Oddballers",
+      "tags": "Queimada",
+      "cover": "https://media.rawg.io/media/games/6da/6da671c79b95482b1c5d07553124e4ac.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/958/9588a4f0f56139a6dab9ddd999f6c3b4.jpg",
+        "https://media.rawg.io/media/screenshots/63f/63f2575ff44464c6861237b9381dfc31.jpg",
+        "https://media.rawg.io/media/screenshots/1fd/1fd120db34afbeea367d460ca464fdba.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Oddballers(Queimada)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "45f1fb8c-dce9-4cbd-b09e-76e9a3190f67",
+      "title": "Okami HD",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/a38/a3857b2445c70ac5dbe73b210a827ad8.jpg",
+      "description": "Okami HD is a remaster of the original Ōkami released for PS2 and Wii in 2006. While the original game has only visited PS2 and Wii, the HD Remaster is playable on all the current generation consoles.\n\n###Remastered\nWhile the original game has only visited PS2 and Wii, the HD Remaster is playable on all the current generation consoles. The updated version differs from the original in texture quality, HD does not feature some songs and include trophies.\n\n###Key features\nThe whole narrative in the...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0ac/0acef7da2162e1323dc7be0e59214b2e.jpg",
+        "https://media.rawg.io/media/screenshots/48b/48b317514627e92562eeb5f68f9c51e4.jpg",
+        "https://media.rawg.io/media/screenshots/591/5915a3b9fdc78e53a6effac80024d69f.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Okami HD",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "22cc1521-bf1e-4239-bdf8-0ac565681f17",
+      "title": "Oldschool musical",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/games/822/82216891e99df586716e7faeab7fdb9c.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 06 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bb1/bb19afd80709b9e15193d4ac530167e3.jpg",
+        "https://media.rawg.io/media/screenshots/fa5/fa54b2874cda3161f9d14805cd2f92c2.jpg",
+        "https://media.rawg.io/media/screenshots/d9a/d9a4b02d514db92878c3a1efa059ef79.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Oldschool musical (Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9f5f794b-a487-4dcb-87f9-52a7442a5d2d",
+      "title": "OliOli World 2",
+      "tags": "Skate)(Multiplayer",
+      "cover": "https://media.rawg.io/media/games/6c4/6c44f016aa1293cf9fb60cb1812dc687.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/836/83623f3b723b46eb03c0c4c7505bc42f.jpg",
+        "https://media.rawg.io/media/screenshots/e5f/e5f55fe56bed0e4f511b767870fcf124.jpg",
+        "https://media.rawg.io/media/screenshots/885/885fb4056a41918e648d2808fb284709.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "OliOli World 2(Skate)(Multiplayer)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "54b6dd95-1f80-4048-b02e-8b9a7a01a2de",
+      "title": "One Piece Odyssey",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/cf8/cf8f731368240a2048b9f153b835f529.jpg",
+      "description": "The famed pirate, Monkey.D.Luffy, better known as Straw Hat Luffy, and his crew the Straw Hat Pirates, are sailing across the New World in search of the next island and the next adventure that awaits them.\nBut during their voyage they are caught in a storm and shipwrecked. They find themselves washed up on a lush tropical island surrounded by constantly raging storms...\n\nSeparated from his crew, Luffy sets off on a grand, new adventure to find his friends and escape the island!\nDangerous new ene...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/91c/91c54c0f5afb7813c16b8db27aba0f6a.jpg",
+        "https://media.rawg.io/media/screenshots/1fc/1fcca4b14cf6573c3c68e988d00554f7.jpg",
+        "https://media.rawg.io/media/screenshots/46d/46dd43d0a2cf75f04551c913d19f0a26.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "One Piece Odyssey(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bae7efdc-1de6-4a48-8bd0-c78e96718b3b",
+      "title": "One Piece Pirate Warriors 3",
+      "tags": "Warriors like",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "One Piece Pirate Warriors 3(Warriors like)",
+      "description": "ADVENTURES OF LUFFY AND HIS STRAW HAT CREW ARE COMING TO PC!\nEnjoy the original story of ONE PIECE from Fuschia village, where everything has started, to the kingdom of Dressrosa, a mysterious island dominated by the evil Donquixote.Doflamingo.\nWill your resolution be strong enough to defeat the most dangerous pirates, including Doflamingo and many more?\nGather every member of the Straw Hat Crew, like in the original story, sail to the most emblematic places and enter the most epic battles: Mari...",
+      "cover": "https://media.rawg.io/media/screenshots/c4e/c4e663905c6ad9aa0b42fe0d26e7ce5a.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/361/3618f60ac1c1239c81c4d21f5f397e3c.jpg",
+        "https://media.rawg.io/media/screenshots/3f4/3f42f580eea58f6c0eaf3adcf3373819.jpg",
+        "https://media.rawg.io/media/screenshots/ccb/ccb6518e87c79e11a57cd29fc19f6c2c.jpg"
+      ]
+    },
+    {
+      "id": "14946872-ce99-4b82-975d-cbf24023f9d2",
+      "title": "One step from eden",
+      "tags": "M Nework like",
+      "cover": "https://media.rawg.io/media/screenshots/511/511265756e127eb7eaae06f36e24bb6f.jpg",
+      "description": "One Step From Eden is a deck-building bullet hell with roguelike elements. Cast powerful spells on the fly, battle evolving enemies, collect game-changing artifacts, make friends or make enemies. Make it one step from Eden, the last shining beacon of hope in a bleak post-war world. Fight alone (or with a friend in co-op) and lead your character down a path of mercy or destruction.\nFree demo here: https://gamejolt.com/games/OSFE/366092Features:Deckbuilding with 200+ spells & 100+ game-changing it...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2b7/2b75e64a9b26830b62bd39f3a56f412e.jpg",
+        "https://media.rawg.io/media/screenshots/52b/52b1dbdcd7a2f3f25fac4b13cd6fcc87.jpg",
+        "https://media.rawg.io/media/screenshots/f5e/f5ef1e292a621aa6aae674a2d62dae84.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "One step from eden(M Nework like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cba9a7a0-0074-4174-be86-a88c30a6e0d6",
+      "title": "Onimusha 2: Samurai's Destiny",
+      "tags": "Hack n Slash",
+      "cover": "https://media.rawg.io/media/games/65e/65e968d98c82138abaa6e9067f073019.jpg",
+      "description": "The sequel to Onimusha takes place ten years after the lone swordsman Samanosuke rose up against an army of demon warriors. As Nobunaga''s evil campaign continues to wreak havoc across feudal Japan, you must assume the role of a young warrior, Jubei Yagyuu, as she embarks on an epic and magical adventure of vengeance. Earn the respect of confidants along the way to help Jubei battle demons and monstrous bosses, overcome ingenious puzzles, and defeat Nobunaga''s pillaging hordes.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5b2/5b297ac689d1e03bad11e8b97e7937ac.jpg",
+        "https://media.rawg.io/media/screenshots/11c/11c95604b5cebe54e4fe24c50165024e.jpg",
+        "https://media.rawg.io/media/screenshots/439/43986c3ed228a03e42a2c9977367370e.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Onimusha 2: Samurai's Destiny(Hack n Slash)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f6fa6b96-462e-4307-8d0d-16126ba344ac",
+      "title": "Onimusha: Warlords",
+      "tags": "Hack n Slash",
+      "genre": "Souls like e Hack n Slash",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Onimusha: Warlords(Hack n Slash)",
+      "description": "Capcom’s riveting samurai adventure returns! This version includes the original game’s intense swordplay and dramatic revenge story, plus a host of enhancements. Improved controls allow players to move and fight with analog-stick precision. The crisp, high-definition visuals support 16:9 widescreen as well as the original 4:3 resolution display. A new soundtrack brings the feudal Japan setting to life with an air of authenticity and intrigue. Experience this enhanced version of the best-selling ...",
+      "cover": "https://media.rawg.io/media/games/377/37729d1d479e919fd01d32cf1150c2b3.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7d0/7d0697dde6dae02716952be563b0ca5b.jpg",
+        "https://media.rawg.io/media/screenshots/193/193bf52b74edd1b4ce4f73b5ad266b0b.jpg",
+        "https://media.rawg.io/media/screenshots/dc5/dc592d4d1bf0beb53ac3293886466946.jpg"
+      ]
+    },
+    {
+      "id": "94158911-9ef9-409f-8b08-ccdb23fdb573",
+      "title": "Oninaki",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/games/c77/c77fa12eb1cd2fe1de43072d5b1e124d.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  10 HOURS 46 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/dc6/dc6185c6fa4a0469745b50a270e51310.jpg",
+        "https://media.rawg.io/media/screenshots/6d8/6d8b6876774b71ab90893f2e5ca712ab.jpg",
+        "https://media.rawg.io/media/screenshots/2c9/2c9617610c98c7752e12785439a26ad6.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Oninaki (JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7a2fc116-3de4-4b3d-9df5-8590eacaf774",
+      "title": "Orange Season",
+      "tags": "fazendinha",
+      "cover": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_OrangeSeason_image1600w.jpg",
+      "description": "Orange Season is a Fun,Simple,Original,Addictive,Retro Gaming Inspired App Game. @LarryJuneTFM, @CookinSoul & @Rapsmyinitials\nBring to you, classic retro gaming at its finest with a twist !!\nSimply Collect Orange's by tapping the left & right side of the screen they are on & don't go to slow or the Orange Power Meter will run out. Compete with the Game Center leaderboard and post your score.\n\"Sock it to Me\", we hope to keep you coming back for more to beat your highest score!",
+      "images": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/store/software/switch/70010000075962/a41c1ae589589217ac1264f14bcfbd3f5eea9dc85785f18839876ff956aab345"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Orange Season(fazendinha)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "316adf57-8053-4a73-8849-aad8b94dbce3",
+      "title": "Ori and the will of the wisps",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/718/71891d2484a592d871e91dc826707e1c.jpg",
+      "description": "A New Journey Begins\n\nEmbark on an adventure with all new combat and customization options while exploring a vast, exotic world encountering larger than life enemies and challenging puzzles. Seek help from discoverable allies on your path to unravel Ori’s true destiny.\n\nExplore a vast, beautiful, and immersive world\nExplore a vast, beautiful, immersive, and dangerous world filled with gripping enemy encounters, challenging puzzles and thrilling escape sequences. Unravel Ori’s true destiny i...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/85d/85dcab4cda43f9b04a7c266d888b0d2a.jpeg",
+        "https://media.rawg.io/media/screenshots/787/78717a4bd40ff4490bf779903c999807.jpeg",
+        "https://media.rawg.io/media/screenshots/943/943907c512a780b1a4db86cef846ee37.jpeg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Ori and the will of the wisps(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bb031fa2-3d05-45ea-8451-e81cea8d8057",
+      "title": "Outlast",
+      "tags": "Terror em primeira pessoa",
+      "cover": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+      "description": "Cinematic gameplay is used to make a stylistic point, and this psychological horror game performs just that. Outlast follows the story of investigative journalist Miles Upshur, that got the lead on the inhuman experiments, performed on the asylum patients. Outlast forces players to run away from danger, simply because there is no combat system. All Miles can do is to document what is happening inside the Mount Massive Asylum. Players do not have a flashlight, only a night vision camera, which co...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/83f/83ff600f8e2dd8507e7961d3e9f32126.jpg",
+        "https://media.rawg.io/media/screenshots/283/283c90039e31e07f99979ccb445cf7b7.jpg",
+        "https://media.rawg.io/media/screenshots/03f/03f4171763bda5824da07fc087cec609.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Outlast(Terror em primeira pessoa)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "dc7691e2-e5dd-4d7c-aa3d-678affaecf48",
+      "title": "Outlast 2",
+      "tags": "Terror em primeira pessoa",
+      "cover": "https://media.rawg.io/media/games/880/880f6aa65fe9d786f1a455963df76180.jpg",
+      "description": "Outlast 2 is a first-person survival horror game developed by Red Barrels. While continuing the ideas of the first Outlast, the game's story does not continue the plot of the first title in the series. \n\n###Plot\nBlake and his wife Lynn are journalists that investigate a case involving the murder of a pregnant woman. The set out to visit the crime scene in the remote Arizona village by a helicopter that breaks down mid-air and crashes. Blake has to find his wife and figure out what is going on in...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1d0/1d0baf5f83b7bd6d615a0159ced2d674.jpg",
+        "https://media.rawg.io/media/screenshots/c9e/c9ec08fc80d4945670e52bc3e1b77309.jpg",
+        "https://media.rawg.io/media/screenshots/c3b/c3b867117cf89e0968eee0c9386a17a4.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Outlast 2(Terror em primeira pessoa)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "60985c90-2f70-4892-8290-dd4ac3fab0f0",
+      "title": "Overcooked! All You Can Eat",
+      "tags": "Overcooked 1 e 2",
+      "cover": "https://media.rawg.io/media/screenshots/2a6/2a61b0ed0bf014f9f6fbbc8294d08f39.jpg",
+      "description": "Overcooked!, Overcooked! 2 and all additional content are blended together and remastered in this delicious definitive edition!\nEnjoy hundreds of levels of cooperative cooking chaos across increasingly perilous and obscure kitchens.\nOvercooked! Goes Online\nFor the first time ever, online multiplayer has been fully integrated into Overcooked! Revisit your favourite kitchens from the first game in stunning 4K and ONLINE!\nA Visual Feast!\nBoth games have been taken to the next level with stunning, e...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f04/f04666ae6e00a8460b4be8fdfd69afa3.jpg",
+        "https://media.rawg.io/media/screenshots/21c/21c368d70a467749035e446d18048f55.jpg",
+        "https://media.rawg.io/media/screenshots/540/5405c3babaa8cdc0846dc7dbde7c845f_JTrF5zm.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Overcooked! All You Can Eat(Overcooked 1 e 2)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "129a3018-e3bd-47e2-9ff6-ef2da65a6f81",
+      "title": "Owlboy",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/0fc/0fc933e3dfbbf4306840ef429d73fa9a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/03d/03dba5dfdb250f46db34fd742221e2a2.jpg",
+        "https://media.rawg.io/media/screenshots/079/0793986c1e38129bbf6b3a3909fe3c8c.jpg",
+        "https://media.rawg.io/media/screenshots/920/920e4f75fe81cd77baf6703240d0c25b.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Owlboy(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7c386f3d-9b26-4d53-bb40-b13bf87aa49d",
+      "title": "Oxenfree",
+      "tags": "Narrativo",
+      "cover": "https://media.rawg.io/media/games/7ba/7baf4663962bad7197e2470d59a6e322.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/840/8400ed0f4357e23d26f33b8145a6fc01.jpg",
+        "https://media.rawg.io/media/screenshots/ea3/ea3daa33095e912ffb9e0ea90dc7f163.jpg",
+        "https://media.rawg.io/media/screenshots/909/9090097e44dabd2d898de697e87ff969.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Oxenfree(Narrativo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5e9d8542-2b87-4e51-90f9-8e03f7ea08fc",
+      "title": "Oxenfree II: Lost Signals",
+      "tags": "Narrativo",
+      "cover": "https://media.rawg.io/media/games/55e/55e23d1452e7f7f0295c4fe2a4d298b5.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 10 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cda/cdae429e5a584da120c31a04cd36402d.jpg",
+        "https://media.rawg.io/media/screenshots/72b/72b86c19db5aef75ec15ef779c3fe31f.jpg",
+        "https://media.rawg.io/media/screenshots/c5c/c5c1bcef5e77520940398c0183f52472.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Oxenfree II: Lost Signals(Narrativo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7dd441c4-3403-41a3-b0f8-e2713ebc6461",
+      "title": "PAC-MAN MEGA TUNNEL BATTLE",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/e73/e73c7c3b08809d010da41e838d2b9531.jpg",
+      "description": "Jump into 64-player games and show everyone who's the leader of the PAC! Invade other players' mazes, eat their dots and power ups - even other players! - and dominate the mazes! But watch out: viewers can vote on power-ups that can cause you - or your opponents! - to stumble on the field and be eliminated from battle! Invade, defend, and rack up high scores across a field of 64 interconnected mazes. Take advantage of brand-new power-ups, spy on neighboring boards, and much more! Spectator inter...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/678/6781dca11eefb4a00d8252e9b9c53d7f.jpg",
+        "https://media.rawg.io/media/screenshots/e73/e73c7c3b08809d010da41e838d2b9531.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "PAC-MAN MEGA TUNNEL BATTLE",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b4dae7b7-5995-4c4e-b4ec-bbea42a55fe2",
+      "title": "PAC-MAN WORLD 2 Re-PAC",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/screenshots/6dc/6dc3c08cc42a0fbea8a8062900d929a6.jpg",
+      "description": "Deluxe Edition\nLa edición deluxe es una versión digital exclusiva que contiene el juego principal y contenido descargable de PAC-MAN WORLD 2 Re-PAC.\nAcerca del juego¡Modernizamos, mejoramos y actualizamos PAC-MAN WORLD 2! ¡El juego favorito de los fans regresa como PAC-MAN WORLD 2 Re-PAC!\nLos fantasmas se metieron a escondidas en la Aldea-Pac y robaron la fruta dorada, liberando sin querer al todopoderoso rey fantasma, Spooky. ¡PAC-MAN debe aventurarse en PAC-LAND para recuperar la fruta dorada ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3c1/3c169a106e76d0d42bfdb313a14a7b2e.jpg",
+        "https://media.rawg.io/media/screenshots/fe3/fe3a2b8b2ec0a161761014556855c226.jpg",
+        "https://media.rawg.io/media/screenshots/e1c/e1c059409fdee2b67fd8617c9af19e77.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "PAC-MAN WORLD 2 Re-PAC(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4b67ac66-e468-4640-b19f-4dd6c63e7279",
+      "title": "Paper Mario: The Origami King",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/075/07556ef3826d83fdb19c8e1836d25c1a.jpg",
+      "description": "A new paper-crafted Mario adventure unfolds on Nintendo Switch\n\nThe kingdom has been ravaged by an origami menace! Join Mario and his new partner, Olivia, as they team up with unlikely allies like Bowser and the Toads to battle evil Folded Soldiers.\n\nTry to free Princess Peach’s castle from the clutches of King Olly in this comedy-filled adventure, only on the Nintendo Switch system.\n\nNew abilities… and new battles!\n\nUse the 1,000-Fold Arms ability to extend your arms to interact with the enviro...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cdf/cdf117515f269597573dace353a784ba.jpg",
+        "https://media.rawg.io/media/screenshots/2c1/2c1f8cf5f72cb79fed190606ef3730af.jpg",
+        "https://media.rawg.io/media/screenshots/d18/d18e145ca5c76fe56b168c77c9291aff.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Paper Mario: The Origami King(Jrpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "3f7258ee-88fe-45ed-985b-bfc46d9bc4bc",
+      "title": "Paper Mario: The Thousand-Year Door",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/screenshots/bab/babed03dbdb81548a84e65437d2bc387.jpg",
+      "description": "Paper Mario: The Thousand-Year Door is a role-playing video game developed by Intelligent Systems and published by Nintendo for the GameCube. The Thousand-Year Door is the second Paper Mario game.\nThe Thousand-Year Door borrows many gameplay elements from its predecessor, such as a paper-themed universe and a turn-based battle system with an emphasis on action. For the majority of the game the player controls Mario, although Bowser and Princess Peach are playable at certain points. The plot foll...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ca7/ca771db7f802185559887ce525d43963.jpg",
+        "https://media.rawg.io/media/screenshots/920/920602f57434c1484db3b40da0c320c7.jpg",
+        "https://media.rawg.io/media/screenshots/356/3566925e5eac8a117f3daddd5092b97f.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Paper Mario: The Thousand-Year Door(JRpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "e4ea782e-d1f7-4657-9557-df1b295a9ce2",
+      "title": "Paper Trail",
+      "tags": "puzzle",
+      "cover": "https://media.rawg.io/media/screenshots/cfe/cfe6c852d5c977f8506a52b2eca0e6b8.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 10 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/184/184060613b50aa9302de3fbfeaef4542.jpg",
+        "https://media.rawg.io/media/screenshots/cfe/cfe6c852d5c977f8506a52b2eca0e6b8.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Paper Trail",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5d8cc746-36e6-4e3a-8752-bc7ce526d5c8",
+      "title": "Patapon",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/a73/a73ce51bff960a92a7e810db7bf4fb89.jpeg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/101/1016b253b8f3d60a7aadab22a00d4995.jpeg",
+        "https://media.rawg.io/media/screenshots/e09/e096e973cbe407a3edb36e5f396b9dcc.jpeg",
+        "https://media.rawg.io/media/screenshots/40b/40bce8d8e2931d5f3dfd551abd16a388.jpeg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Patapon",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "71397b6e-d341-4c83-b969-80063691cb71",
+      "title": "Patapon 2",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/731/7313eaf3ac2d7a75d968ce5408546170.jpeg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1da/1da486f2c0d4596e749bd35bf73dd89d.jpeg",
+        "https://media.rawg.io/media/screenshots/926/926605259043fcdd8d955315eae7e9a4.jpeg",
+        "https://media.rawg.io/media/screenshots/cd4/cd4f9e937c675774130e8c3fe5965583.jpeg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Patapon 2",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "24e6c8fd-6055-495c-8b7a-6fae4e84f680",
+      "title": "Path to purge",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/2d0/2d061ce4fd2aa4b6a6b0671ecbb10e24.jpg",
+      "description": "When the demon is a lovely little girl, will you still give her a wide berth?\nIn the face of increasingly hard fighting, Play the Demon to purge the Human beings that corrupted by the Holy Spirit. Dealing with the angel's difficulties, let's see how far you can go\n*background story\nIn modern society, human beings gradually put entertainment first, indulging in the happiness brought by material things, and gradually human beings lost the purpose of chasing the truth of the world. Such degenerate ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/863/8636a74f660de92e156f2e25b626f326.jpg",
+        "https://media.rawg.io/media/screenshots/0dd/0dd2fd89d90bbfc86b98012e143bd322.jpg",
+        "https://media.rawg.io/media/screenshots/6dc/6dc925601afd6f9faebcf1e3a8dce2e4.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Path to purge(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ec293cbb-85ce-4cd1-82f4-eefa5d3faca2",
+      "title": "Penny's Big Breakaway",
+      "tags": "plataforma 3d",
+      "cover": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_PennysBigBreakaway_image1280w.jpg",
+      "description": "Jogo de Nintendo Switch. plataforma 3d",
+      "images": [
+        "https://steamuserimages-a.akamaihd.net/ugc/2434829473600141579/85976CC544F25AD12F3E15C968B47CC97012DF71/"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Penny's Big Breakaway(plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3da4f129-74f1-4de7-923a-07de1f1c5bfd",
+      "title": "Pepper Grinder",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/191/191a912ecff431a959419dadeb5fd493.jpg",
+      "description": "Pepper Grinder is an action platformer about a shipwrecked treasure hunter named Pepper and her drill, Grinder.\nDrill through the earth like a dolphin swims through water and burst back out again to sail through the air in order to reach new heights in pursuit of Pepper's stolen treasure.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c2f/c2f1c448a72862d65077b1a4e951d59a.jpg",
+        "https://media.rawg.io/media/screenshots/8d9/8d9ba499b81095d04fd37d340ab9703b.jpg",
+        "https://media.rawg.io/media/screenshots/7fa/7fa0211816465f1fe4ac198a6d336f7c.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Pepper Grinder(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1a8a76b4-d719-4af2-8fc3-59022382dec3",
+      "title": "Persona 3 Portable",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/68a/68a5aaddf51fa089fe1d2fcc9aa1b62b.jpg",
+      "description": "Terrible creatures lurk in the dark, preying on those who wander into the hidden hour between one day and the next. As a member of a secret school club, you must wield your inner power—Persona—and protect humanity from impending doom. Will you live to see the light of day?\nHailed by critics and players alike for breathing new life into the RPG genre, Persona®3 now finds a new home on your PSP® (PlayStation®Portable) system. All of the compelling and seamless mixture of social simulation and dung...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e9d/e9d0789128df3119542b3ec1cde5ecdc.jpg",
+        "https://media.rawg.io/media/screenshots/8db/8db96e101e96795959fc9ad336a2db5d.jpg",
+        "https://media.rawg.io/media/screenshots/a09/a09d536204933390bd7d8101c28c9458.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Persona 3 Portable(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "531bec7c-e22d-4170-bc3c-741a0b697473",
+      "title": "Persona 4 Golden",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/b2c/b2c9c6115114c8f7d461b5430e8a7d4a.jpg",
+      "description": "Persona 4 Golden is the jRPG and the remake of the Persona 4, released four years after the original. This is the fifth part of Persona series which is at the same time a sub-series to an even bigger franchise called Shin Megami Tensei. The remake is released exclusively for PS Vita handheld. \n\n###Gameplay\nThere is a similar pattern to all Persona games: the gameplay is divided into the usual school life and the underworld dungeon crawler part. During the first sections of the game, the player c...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3ff/3ff6df8e240e57dbc13a11526b101426.jpg",
+        "https://media.rawg.io/media/screenshots/f5d/f5d6c268748ad155f0f7f11aea88d08c.jpg",
+        "https://media.rawg.io/media/screenshots/954/9541b8505125a105771b6d61e8c35302.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Persona 4 Golden(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "77f8e1af-8426-4861-8a5c-5f0989254614",
+      "title": "Persona 5 Royal",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/a9c/a9c789951de65da545d51f664b4f2ce0.jpg",
+      "description": "Wear the mask.  Reveal your truth.\nPrepare for an all-new RPG experience in Persona®5 Royal based in the universe of the award-winning series, Persona®! Don the mask of Joker and join the Phantom Thieves of Hearts. Break free from the chains of modern society and stage grand heists to infiltrate the minds of the corrupt and make them change their ways! Persona®5 Royal is packed with new characters, story depth, new locations to explore, & a new grappling hook mechanic for access to new areas. Wi...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e70/e701311c431504ccd8653a5243188a13.jpg",
+        "https://media.rawg.io/media/screenshots/5af/5af7efeca549b9a768870c52eff7e128.jpg",
+        "https://media.rawg.io/media/screenshots/fff/fff1f025d1390753810154b7a40f5bad.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Persona 5 Royal(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "18b224d4-0849-405a-bf40-0cde415763ea",
+      "title": "Persona 5 Tactica",
+      "tags": "Tactics",
+      "cover": "https://media.rawg.io/media/games/e33/e33f0377ac6770a6a481b9b7725aacc3.jpg",
+      "description": "After a strange incident, the Phantom Thieves wander into a bizarre realm where its citizens are living under tyrannical oppression. Surrounded by a military group named Legionnaires, they find themselves in grave danger until a mysterious revolutionary named Erina rescues them and offers an enticing deal in exchange for their help. What truth lies behind Erina and the deal she offers to the Phantom Thieves?\n\nPersona 5 Tactica features an all-new story, the return of fan-favorite characters, and...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1a7/1a7822d5a8565753b1664e02d9964212.jpg",
+        "https://media.rawg.io/media/screenshots/985/985641b85e35384e850626fdb7fbbd80.jpg",
+        "https://media.rawg.io/media/screenshots/846/846b96798b26dd512e33c0bf2ff83fcb_yMdaN4b.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Persona 5 Tactica(Tactics)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f5a6a7ab-b69a-4e95-b352-b30fcbb095af",
+      "title": "Phantom Brave: The Lost Hero",
+      "tags": "RpgTatico",
+      "cover": "https://media.rawg.io/media/screenshots/87b/87b9a33c48ac2c3342f7d29c6ad04bcd.jpg",
+      "description": "Set sail to save the day in this colorful strategy RPG! Join Marona – a gifted young girl with the power to speak to Phantoms – as she traverses the ocean world of Ivoire, providing aid to those in need. When a fleet of ghost ships attack, it’s up to Marona and her new friend Apricot to assemble the legendary crew that once defeated these spectral foes. Recruit Phantoms, bind them to objects, combine them with Gadgets, and even merge them with Marona herself to unleash show-stopping abilities an...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/deb/deba6b93225c85eef9bfb62e51357016.jpg",
+        "https://media.rawg.io/media/screenshots/edd/edd5523f5999c7bb2338e66f8e5b31d9.jpg",
+        "https://media.rawg.io/media/screenshots/8a5/8a5454256f6e0ec9066de81ada1d72b2.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Phantom Brave: The Lost Hero(RpgTatico)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fdd2b1b3-c11e-4ccd-9ec6-b145dab285bd",
+      "title": "Pikmin 2",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/4ad/4ad9f6dedf9764d885d3e3071ebd963b.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/38d/38dd74444c826795150d05176b0c7933.jpg",
+        "https://media.rawg.io/media/screenshots/957/9578f0ee5497c21b643cc635bbf4fc30.jpg",
+        "https://media.rawg.io/media/screenshots/16f/16f2ccbadff67a21697c2a9df8632071.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Pikmin 2",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "8d90c90f-903c-4e24-9f7c-33d7eec6bd05",
+      "title": "Pikmin 3",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/screenshots/450/450788922a6ca76924fffd0f4daf363a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cfa/cfad3c2cefbedcb3b9583cc104a8c632.jpg",
+        "https://media.rawg.io/media/screenshots/62a/62a0cfa21ae682162920a7f5453b64b5.jpg",
+        "https://media.rawg.io/media/screenshots/b84/b84b0e32ae907d5d9acfb5403717e34e.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Pikmin 3",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "0bf91ac6-ee32-4e0a-8ff3-2ec96b3f90ab",
+      "title": "Pikmin 4",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/274/2740b879e28df2ac3cdbc929a553863d.jpg",
+      "description": "Meet Pikmin, small, plantlike creatures you can grow, pluck, command, and overpower your enemies with! These curious helpers come in different types—fire is no sweat for Red Pikmin and the brand-new Ice Pikmin can freeze enemies and the environment. Use your Pikmin’s miniature might (and a bit of strategy) to explore this mysterious planet.\n\nYou get a dog, too! Oatchi (pronounced oat-chee), resident good boy and dependable partner, can help with things like smashing obstacles and carrying Pikmin...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/72d/72dc596a3541cbd63e9a09cb26e59462.jpg",
+        "https://media.rawg.io/media/screenshots/b89/b8968016a2d15b5bbb288862ae283352.jpg",
+        "https://media.rawg.io/media/screenshots/351/351111c988552c63fe13cb65407ecf59.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Pikmin 4",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "22a0da76-e016-4a4c-9f6c-80a3aab3bb28",
+      "title": "Pipistrello and the Cursed Yoyo",
+      "tags": "zelda 2d like",
+      "cover": "https://media.rawg.io/media/games/17a/17ae991fdf4afd2b4167daa4083b018f.jpg",
+      "description": "Explore a vast urban landscape in this exciting 2D top-down platforming adventure! Pipistrello and the Cursed Yoyo combines combat, platforming action, puzzle-solving, and exploration — all enveloped in a delightful character-driven story about corporate shenanigans! Face off against the rival crime entrepreneurs and their underlings using the weapon you know best: your prized yoyo! Featuring Yoko Shimomura as a guest composer, so prepare yourself an authentic nostalgia blast!Pay close attention...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9a5/9a547a7d2ddb45d7b3b6319eb003d93a.jpg",
+        "https://media.rawg.io/media/screenshots/91f/91f481b3b69cb3a046fc935f961079b2.jpg",
+        "https://media.rawg.io/media/screenshots/b56/b56c053d98367de5ff22e6da779eb16b.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Pipistrello and the Cursed Yoyo(zelda 2d like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9fe24f5e-9aac-4b13-80bb-882fd86bdda6",
+      "title": "Pixel Cup Soccer",
+      "tags": "Futebol",
+      "cover": "https://media.rawg.io/media/screenshots/6ba/6baaf72620a2201232c1d09400e44ceb.jpeg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d2d/d2d36210c7d6bffce74c09cdb29c1291_rUtorhL.jpg",
+        "https://media.rawg.io/media/screenshots/710/7108728cb9814c17632a3acd24bdd15e_kmbRXPX.jpg",
+        "https://media.rawg.io/media/screenshots/edd/edd0bfc73ec6e2ada9d84623486b5ca0_IdfF76N.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Pixel Cup Soccer(Futebol)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bb83f5f6-e7d9-4bbf-90d0-d4b1589b76d9",
+      "title": "Pizza tower",
+      "tags": "Wario land like",
+      "cover": "https://media.rawg.io/media/games/2d0/2d02bcfc07f4b5ed8623599ff999ee91.jpg",
+      "description": "Pizza Tower is a fast paced 2D platformer inspired by the Wario Land series, with an emphasis on movement, exploration and score attack. Featuring highly stylized pixel art inspired by the cartoons from the '90s, and a highly energetic soundtrack.\nPeppino Spaghetti, a surprisingly agile and powerful fat balding italian, is on a mission to destroy the titular Pizza Tower in order to save his restaurant from annihilation. Follow him through his rampage across the many wacky floors of the tower, co...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/699/69940fefe5f221114ba947ab42263cff.jpg",
+        "https://media.rawg.io/media/screenshots/b52/b5228f3e5ed4fe13f26f7fbf47056550.jpg",
+        "https://media.rawg.io/media/screenshots/554/554af312c768e785a93d960cd44b0597.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Pizza tower(Wario land like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7a1963b1-7e42-4515-8cf7-a36b0b7a7fb5",
+      "title": "Planet cube: edge",
+      "tags": "plataforma",
+      "cover": "https://media.rawg.io/media/screenshots/a5c/a5c06a3d0f34e0ede0ff72901b1cf342.jpg",
+      "description": "Join Our Community\nAbout the GamePlanet Cube is being invaded by a mysterious aggressor, and its populace are not ready for a fight. While most cubes run to the nearest exit, one square-headed lab technician named Edge finds it in himself to save the world. Of course, he'll have a little help from co-workers and the illustrious Dr Quadratus, as well as some experimental weapons...\nBut why is the planet being invaded? Who is the invading force? The answers will become clear as our hero makes his ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bfe/bfe071f272d9ed8b0a54ceabf91d6617.jpg",
+        "https://media.rawg.io/media/screenshots/d44/d4406df9735ee7afc9d713732b7cb928.jpg",
+        "https://media.rawg.io/media/screenshots/ef0/ef083a9b6dda54eef4c2bfe65dc23a12.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Planet cube: edge(plataforma)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5fd4542c-8a1e-4193-b6af-9cde623ef9e3",
+      "title": "Pocket Bravery",
+      "tags": "Luta (Jogo brasileiro)",
+      "cover": "https://media.rawg.io/media/screenshots/1f1/1f1f629bdb7bf5e9dde676c7fe2b1316.jpg",
+      "description": "Digital Ultimate Edition\nWHAT'S INCLUDED?\nFull STD Edition Game\n13 Playable Characters At Launch\n20 Stages At LaunchFUTURE DLC\n8 Additional Future DLC Characters*\n8 Additional Future DLC Stages*\n8 Additional Future DLC OST*\n8 Additional Future DLC Arcade Endings**All future DLC and Seasonal content will be announced and delivered post-release.\nDigital Deluxe Edition\nWHAT'S INCLUDED?\nFull STD Edition Game\n13 Playable Characters At Launch\n20 Stages At LaunchFUTURE DLC\n4 Additional Future DLC Chara...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/76a/76ab90f419e61e73183b167b6c499fdc.jpg",
+        "https://media.rawg.io/media/screenshots/754/75457ba29cb3a9877f03026f47fbb3b8.jpg",
+        "https://media.rawg.io/media/screenshots/50e/50e3ba3a5f6d1acc44cb612b718150f2.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Pocket Bravery(Luta (Jogo brasileiro))",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "700ef31c-2a63-416b-894c-f944b8ecb6d1",
+      "title": "Pocky & Rocky Reshrined",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/670/670e9d93c1a180e5632df9c492d8aeec.jpg",
+      "description": "The adventures of Pocky & Rocky begin again in this new game in the original shrine maiden shooting series! Pocky & Rocky™ Reshrined is a multi-directional scrolling shooter with classic 16-bit style graphics, sound, and fun!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/717/717f6c80506bfa3f3104df1bf7cd37fa.jpg",
+        "https://media.rawg.io/media/screenshots/8b4/8b4d75401226b7626434798668969b1b.jpg",
+        "https://media.rawg.io/media/screenshots/d63/d63601787db97f7b250e9d3b294143e5.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Pocky & Rocky Reshrined(Plataforma 2d)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c533ce61-a85a-4472-a4c6-4790ccdf6fac",
+      "title": "Pokémon Brilliant Diamond, Shining Pearl",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/b35/b35a365997998da1d667b4dec99d0253.jpg",
+      "description": "The Sinnoh Region of the Pokémon Brilliant Diamond and Pokémon Shining Pearl Games\n\nExperience the nostalgic story from the Pokémon Diamond™ and Pokémon Pearl™ games in an adventure reborn on the Nintendo Switch™ system.\n\nAdventures in the Pokémon Brilliant Diamond and Pokémon Shining Pearl games will take place in the Sinnoh region. Rich in nature and with Mount Coronet towering at its heart, Sinnoh is a land of many myths passed down through the ages. You’ll visit many different locations ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/57e/57e499adfc1344e6cfcbd10207bd5ede.jpg",
+        "https://media.rawg.io/media/screenshots/845/84545594332be906320c7b782339c4a8.jpg",
+        "https://media.rawg.io/media/screenshots/243/24307b59ecf6cdc99ce5c2f20ec743f9.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Pokémon Brilliant Diamond, Shining Pearl(Jrpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "bc7e748d-b722-4126-9144-c682787a4d8d",
+      "title": "Pokémon Legends: Arceus",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/80a/80a3e1060b49c02f901e781b263cd881.jpg",
+      "description": "First came Sinnoh remakes. Then came Sinnoh pre-makes.\n\nIntroducing #PokemonLegendsArceus​, a new challenge and a new frontier for the Pokémon world.\nThe Pokémon Legends: Arceus game honours past Pokémon games’ core gameplay while infusing new action and RPG elements.\n\nYou’ll need to catch, survey, and research wild Pokémon in a long-gone era of the Sinnoh region to create and complete the region’s first Pokédex.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/002/0027de7e28bd3f3ae82ab64fe7154d2c.jpg",
+        "https://media.rawg.io/media/screenshots/518/51841584f540acbde38b2bd66c1846f2.jpg",
+        "https://media.rawg.io/media/screenshots/de0/de04a30693a4351cb459b259c2c8ec2b.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Pokémon Legends: Arceus(Jrpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "f9af5bd3-f193-43a0-a05a-edf22a8d5991",
+      "title": "Pokémon Scarlet and Violet",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/5ab/5abb8e4af55eb8c867410c3a740355b9.jpg",
+      "description": "This new adventure features two different professors, and which one you meet depends on which version of the game you choose to play. Find out about these new professors along with Nemona, your new friend.\n\nPokémon Scarlet and Pokémon Violet are the first open-world RPGs in the Pokémon series. As you enjoy the hallmarks of the series—meeting, teaming up with, battling, training, and trading Pokémon—you’ll be able to immerse yourself in a newly evolved adventure.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/581/5816076624f9bfebae7395cacae23ad3.jpg",
+        "https://media.rawg.io/media/screenshots/342/3423f674284923255c0ad9ffd3af33a3.jpg",
+        "https://media.rawg.io/media/screenshots/aa6/aa690c7c409ab48aa7315699e2ea1aee.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Pokémon Scarlet and Violet(Jrpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fee19fe0-e826-458e-bc9f-ce5c968fcaca",
+      "title": "Pokémon Sword and Shield",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/82f/82f7b1424c5ee7eebee83faf694889c5.jpg",
+      "description": "Pokémon Sword and Pokémon Shield will be set in Galar, an expansive region with many environments—idyllic countryside, contemporary cities, thick forests, and craggy, snow-covered mountains. The people and Pokémon live together in this region, and they’ve worked together to develop the industries here.\n\nThe adventure begins in Pokémon Sword and Pokémon Shield when players choose one of three new Pokémon—Grookey, Scorbunny, or Sobble. Grookey, a Grass-type Chimp Pokémon, is mischievous and full o...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a4c/a4c6d591c61e6cc9fc67581fceab23ad.jpg",
+        "https://media.rawg.io/media/screenshots/2cd/2cdf0d6a8790d91d72eed926e384f1c4.jpg",
+        "https://media.rawg.io/media/screenshots/559/55927d65a4031ecae28e9ac71cf5c5e9.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Pokémon Sword and Shield(Jrpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "3ea75182-4c46-47d4-b1a8-2f7edd69a103",
+      "title": "Pokémon: Let's Go, Pikachu! and Eevee!",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/6a6/6a68e7e64bf02c9e9b0f090491df93e9.jpg",
+      "description": "Pokemon: Let's Go, Pikachu! and Let's Go, Eevee! are two versions of the same game based on the Pokemon franchise. They are the first Pokemon games made for Nintendo Switch. Both of them are loose remakes of the 1998 game Pokemon Yellow that was released for Game Boy. Both games are set in the region of Kanto in the Pokemon universe. \n\n###Gameplay\nAs usual in the Pokemon games, the players use their Pokemon (small monsters) to fight against other Pokemon, either wild or controlled by other ch...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/367/3678f6d8485207d52c91702b884b4fc0.jpg",
+        "https://media.rawg.io/media/screenshots/12b/12b2253966330076402b3047f3a05c87.jpg",
+        "https://media.rawg.io/media/screenshots/98f/98f06870dd99a73bf9a8a0010f026234.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Pokémon: Let's Go, Pikachu! and Eevee!(Jrpg)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "31ea6377-613a-436f-826e-d319a5ab5839",
+      "title": "Pokkén Tournament",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/screenshots/b13/b13cdcd0222456f517a577fcb2ccc11c.jpg",
+      "description": "Battle Pokémon like never before in all-new, action-packed arena fights!\nPerform vivid Pokémon moves in all their glory with button combinations\nthrough an intuitive fighting system to unleash devastating attacks upon\nyour opponent to become the Pokkén Tournament champion!\n\nLearn various fighting styles of Pokémon such as Pikachu, Charizard,\nLucario, and more. Any fan will be able to learn and execute signature\nPokémon moves with a press of a button. Turn the tide of battle by\ncalling upon suppo...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5b3/5b3feeaf82b15d10562b1ad15cc4ddca.jpg",
+        "https://media.rawg.io/media/screenshots/c13/c13e81c6cf9d5c72e0191fa68ac6a7c1.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Pokkén Tournament(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "48576f26-7ac8-4348-9008-f1a400721d2e",
+      "title": "Popucom",
+      "tags": "coop",
+      "cover": "https://media.rawg.io/media/games/556/556dcb7133d2a08d47950a04390618f3.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 10 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f40/f40e6e103f503e75210ecf95e8090e08.jpg",
+        "https://media.rawg.io/media/screenshots/74f/74f78771e474551f5fb091f7942fbe56.jpg",
+        "https://media.rawg.io/media/screenshots/101/101cdbbcb42a28453b25f6d8f20797b1.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Popucom(coop)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9467ae43-7f00-412a-a6ff-c7bef40647cf",
+      "title": "Portal 2",
+      "tags": "Puzzle",
+      "cover": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/221/221a03c11e5ff9f765d62f60d4b4cbf5.jpg",
+        "https://media.rawg.io/media/screenshots/173/1737ff43c14f40294011a209b1012875.jpg",
+        "https://media.rawg.io/media/screenshots/b11/b11a2ae0664f0e8a1ef2346f99df26e1.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Portal 2(Puzzle)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9d23c5cc-b89a-4d22-ac2d-aa904401419f",
+      "title": "Potion Permit",
+      "tags": "Fazenda",
+      "cover": "https://media.rawg.io/media/games/496/49664cc0aca1a464a778f0c7d2600c2b.jpg",
+      "description": "The town of Moonbury has always been wary of the advances of the outside world, preferring to rely on their traditional methods of healing. Until one day, when the mayor's daughter falls ill, and the local witch doctor can do nothing to help her, they are forced to look outside their small community for help.\n\nThe Medical Association decides to send their most accomplished chemist - you - to help cure the mayor's daughter and convince the residents of Moonbury of the wonders of modern alchemy. G...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fbd/fbd0f3570aa06c13946d885acf0d030d.jpg",
+        "https://media.rawg.io/media/screenshots/3cc/3cc57bc6cb7de5c214cbb401c6697141.jpg",
+        "https://media.rawg.io/media/screenshots/e80/e80d4e04b418a7495203133d4c551cc3.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Potion Permit(Fazenda)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2b9233e0-4975-4d3a-b336-c141f91b69a6",
+      "title": "Power Rangers: Battle For The Grid",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/games/7f5/7f5972ab99f48b84b770dea1edd2f5c5.jpg",
+      "description": "A modern take on the 25 year franchise, Power Rangers: Battle for the Grid showcases stunning graphics and vivid details. Pit current and classic Rangers and villains like never before in 3 vs. 3 tag battles. Test your skills online against friends and players from around the world for endless replayability. A streamlined combat system welcomes newcomers with simplified controls while maintaining depth for the most dedicated competitor to learn and master.\n25 YEARS OF RANGERS\nGenerations of Po...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/446/446f6e302571ccfa08d5f7796082faec.jpg",
+        "https://media.rawg.io/media/screenshots/2b9/2b9e5d0f2b02a767c5c3c0872a5d5b8b.jpg",
+        "https://media.rawg.io/media/screenshots/686/686e378561a860a7011246106277c0a3.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Power Rangers: Battle For The Grid(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "eb8365bc-a93d-4ed0-8167-5fc0d72801bb",
+      "title": "PowerWash Simulator",
+      "tags": "Simulador",
+      "cover": "https://media.rawg.io/media/games/659/65959a07c4e6dc7a9034993bbb3ba232.jpg",
+      "description": "POWERWASH SIMULATORHunt down dirt wherever it’s hiding, respond to calls from across the world, build your own power-washing business and unlock new tools, upgrades and more – all with the soothing satisfaction of power-washing to a sparkling finish!RELEASE THE PRESSUREAbsorb the relaxing atmosphere and stress-free pace as you strip dirt from patios and pavements, vehicles and public parks. Stress gets to us all, so here you can channel all your tension and wash your worries down the drain!CLEAN...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f09/f09c8d376448c03406ab00e468d8fede.jpg",
+        "https://media.rawg.io/media/screenshots/043/043839a461c6a253524f253b2bb78ca6.jpg",
+        "https://media.rawg.io/media/screenshots/d8a/d8aa8e2aaa54ad0238b85f12acb72c61.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "PowerWash Simulator(Simulador)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "79968cee-5ee0-4579-86fd-b3f0ea25dfe6",
+      "title": "Prince of Persia: The Lost Crown",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/cca/ccaa933775fe1ffcebe40a01f52545db.jpg",
+      "description": "UNLEASH YOUR INNER WARRIOR\nUse your Time Powers, combat, and platforming skills to perform deadly combos and defeat time-corrupted enemies and mythological creatures.\n\nLOSE YOURSELF IN THE PRODIGIOUS MOUNT QAF\nDiscover a cursed Persian-inspired world filled with larger-than-life landmarks and explore a variety of highly detailed biomes, each with their own identity, wonder, and danger.\n\nLIVE AN EPIC ADVENTURE\nImmerse yourself in a Persian mythological​ fantasy through an intriguing and original ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fc0/fc03983d06ff39095176e4d44535e3ad.jpg",
+        "https://media.rawg.io/media/screenshots/9b2/9b2c52dd3c53675e5fa3682562f33c5a.jpg",
+        "https://media.rawg.io/media/screenshots/1c5/1c598576f67907fa7a9dcfb66afe7a94.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Prince of Persia: The Lost Crown(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bc18da2f-7e08-4273-842c-368b1b4cc087",
+      "title": "Princess Peach: Showtime!",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/18a/18a2bae4052cb181decd48765869a2e5.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2df/2df3d70558c357d3919060a0c17208a9.jpg",
+        "https://media.rawg.io/media/screenshots/c74/c747baf36079ef6a68b67b51b59e2c0f.jpg",
+        "https://media.rawg.io/media/screenshots/f06/f0682fb4b2602afd9e8c06968fb77a77.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Princess Peach: Showtime!(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "53c6990a-4c34-4845-a3af-b8689e9bcf3e",
+      "title": "Promenade",
+      "tags": "Plataforma 2d",
+      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRh1aaYiQJJ_TXt9st3w5f76ncCbK9gEepkEqorxEQn1de24_E9-UKmop3Y0HoagwzZ0jvUT-r4l2w_xGdRN8YbYYqIbMDAL5J21I4bAotvQI-BZXZtAWKEGPfVHfDz6gJ7j6dzeyJwKVHLfz8jzAkQ3OV8RkInbfqHETVMC8UP6v1QqAmlj7mh76bhtDb/w1200-h630-p-k-no-nu/Promenade_Holy_Cap.jpg",
+      "description": "Jogo de Nintendo Switch. Plataforma 2d",
+      "images": [],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Promenade(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bf443fe3-8be5-4b2a-b73b-54a1e794c574",
+      "title": "Pronty",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/e74/e74f3aa8512f10e34f00ec4169492276.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/39f/39f3106b61e926d84999b8a5950b8d55.jpg",
+        "https://media.rawg.io/media/screenshots/bc5/bc5b4c19dab62da7ea6ff8b587370a44.jpg",
+        "https://media.rawg.io/media/screenshots/b4c/b4cca2640c8522f0edb4c69082b9e286.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Pronty ( metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "350ab6c6-1f58-4762-b3cb-a61c74345ad7",
+      "title": "Punhos de Repudio/Pulling no Punches",
+      "tags": "Briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/cfb/cfbb5feeefcf85bd33cc1fee3997d6e9.jpg",
+      "description": "Pulling No Punches is a satirical game in the 2D beat'em up style with classic arcade influences and modern visuals.\nThe game follows the fictional story of a global pandemic that engulfed the world and is being ignored by fanatics who do not believe that the disease is real. It is up to the main characters, 4 common citizens adequately protected with gloves and masks, to deal with these fanatics and solve the situation with the force of their own fists.\n\n● 4 Co-op Local Multiplayer!\n● 4 Charact...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b2d/b2da32b587f5eaaa5bf720b289dd4711.jpg",
+        "https://media.rawg.io/media/screenshots/bdf/bdfc6ad1a56f832f45b0ab715c13ec2b.jpg",
+        "https://media.rawg.io/media/screenshots/045/045356fb1dbca61f24c46dac70b000e2.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Punhos de Repudio/Pulling no Punches(Briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ee354507-828b-46d6-8f13-89f91924f0f6",
+      "title": "PuyoPuyo Tetris",
+      "tags": "Multiplayer",
+      "cover": "https://media.rawg.io/media/screenshots/b70/b704e6378681e5bd80b09fcf8a21c8df.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/68e/68ecdaa116b409ee2209e6c1715105af.jpg",
+        "https://media.rawg.io/media/screenshots/354/354f0d4f4d7b3a92681f735737eb40aa_bf2TKUy.jpg",
+        "https://media.rawg.io/media/screenshots/d88/d88924e73baa7ee8133c7dd7422279ac.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "PuyoPuyo Tetris(Multiplayer)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5fcab0f9-05f4-4455-99a9-c7e602de840e",
+      "title": "R-Type Dimensions",
+      "tags": "Navinha",
+      "genre": "Tiro e Navinha",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "R-Type Dimensions(Navinha)",
+      "description": "The coin-op classics, R-Type & R-Type II, are together on the PlayStation®Network! Fight through all 14 Bydo-infested stages in retro 2D graphics or shiny 3D graphics - and swap back and forth with the touch of a button 'on-the-fly'. The new 3D graphics are accompanied by fully re-imagined arrangements of the timeless R-Type music tracks! The classic game-play remains untouched while the new Infinite game mode allows continuous progression from game start to final boss... the Bydo will not evade...",
+      "cover": "https://media.rawg.io/media/screenshots/c27/c27c673eea5e2cfdf73a4589ec70e448.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e6e/e6e8e05c5adc9b373eb1a643d175f27b.jpg",
+        "https://media.rawg.io/media/screenshots/3bc/3bc96a5504c9c4be24fa05e5ace1e30b.jpg",
+        "https://media.rawg.io/media/screenshots/203/203204a2d910a33ffb80684c6c8ac4ec.jpg"
+      ]
+    },
+    {
+      "id": "97da988b-86da-4893-97f8-059d7fb75478",
+      "title": "Rabbids: Party of Legends",
+      "tags": "Party game)(Multiplayer",
+      "cover": "https://media.rawg.io/media/games/fbb/fbba8c91d655a0e662cfefda8429d8e6.jpg",
+      "description": "Embark on a legendary journey with the Rabbids in this hilarious party game! Join them on an incredible quest, filled with hilarious moments and colorful characters. Gather with friends and family and enjoy a multitude of ridiculously fun mini-games in the most epic Rabbids party yet.\n\n- Jump into multiplayer with up to four players locally.\n- Build a custom playlist of your favorite mini-games to curate a perfect party night.\n- Customize the difficulty and controls so anyone can get in on the a...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/de5/de5e7f520656fc7032d5ff9c566c7182.jpg",
+        "https://media.rawg.io/media/screenshots/7b5/7b577c2ed57a6d8628d56283fdb64fcb.jpg",
+        "https://media.rawg.io/media/screenshots/656/656cad67d6dcc3ddab4276514e34f033.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Rabbids: Party of Legends(Party game)(Multiplayer)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "daa1a329-2beb-43ae-a23f-e1d91eab9eed",
+      "title": "Radiant Silvergun",
+      "tags": "Navinha",
+      "cover": "https://media.rawg.io/media/screenshots/082/08204cebaa6276237d4ac940d3aea52d.jpg",
+      "description": "Radiant Silvergun, restored by Treasure, is now available! The shoot ‘em up gameplay that made this a legend remains unchanged, but a hidden \"Ikaruga-style\" shooting mode gives everyone something new. Previously only available in Japan, Radiant Silvergun on Xbox LIVE Arcade also provides leaderboards, co-op play locally or over Xbox LIVE, downloadable replays, and improved visuals making it the version to own. Download Radiant Silvergun now!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2f1/2f1c18ae44488465a2a8267de9f63819.jpg",
+        "https://media.rawg.io/media/screenshots/e1e/e1ea5a584ea82fe87e9831d0b5d381a1.jpg",
+        "https://media.rawg.io/media/screenshots/7b5/7b544e95817365461decd1316cb6f6c2.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Radiant Silvergun(Navinha)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "71e3e2b5-c8f2-4b4a-9f93-3b164b75027b",
+      "title": "Ravenswatch",
+      "tags": "rogue like",
+      "cover": "https://media.rawg.io/media/screenshots/ff9/ff9c7b0cab02818ba0f06e3ea1c2dcd1.jpg",
+      "description": "Ravenswatch is a top-down roguelike action game that combines intense real-time combat with deep gameplay and high replay value. After the success of Curse of the Dead Gods©, Passtech returns with a new formula and game experience that can be played solo or with up to four players in co-op.\nBANISH THE NIGHTMARE FROM YOUR REALM\nThe Nightmares are spreading within Reverie, corrupting everything in their path. You must hone your skills and find the strength to defeat the creatures of the Nightmare ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8dc/8dceefc8631279f174c97a2f5cb06daa.jpg",
+        "https://media.rawg.io/media/screenshots/eb0/eb0062d159fd540a385dad7304020200.jpg",
+        "https://media.rawg.io/media/screenshots/99e/99efe7648896b3ce1bcbdcc539f4f893.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Ravenswatch(rogue like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "55d0ae51-2bd4-4033-b3a7-05ed3c7dd72f",
+      "title": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/5a7/5a74c02d95b963ca2a9a8e40e53a2721.jpg",
+      "description": "Record of Lodoss War: Deedlit in Wonder Labyrinth is a 2D action adventure game.■StoryDeedlit awakens suddenly in a mysterious, unknown place.\nWhere am I? Why am I here?\nWith nobody around to respond, her questions are met with only silence.\nSeeking answers, Deed eventually sets off on foot, alone...■Game FeaturesSword and Arrow Attacks\nUse your sword for powerful melee attacks against enemies within range, or employ projectile attacks using your bow and arrows against those farther away.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ca9/ca95cd8055119d847ee4babba2f0db97.jpg",
+        "https://media.rawg.io/media/screenshots/a28/a288685dd2151deebf2bb112b893dc07.jpg",
+        "https://media.rawg.io/media/screenshots/62c/62cf683e46bc433f03f57bbb1981d41f.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Record of Lodoss War: Deedlit in Wonder Labyrinth(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "aa6ef426-90aa-4a50-9e19-b68e48fab9e6",
+      "title": "Remnant: From the Ashes",
+      "tags": "tiro",
+      "cover": "https://media.rawg.io/media/games/30f/30f2c0f6890da6971102210c56d8513c.jpg",
+      "description": "Remnant: From the Ashes is a third-person survival action game where players create characters to suit their playstyle and set out alone or alongside a team of up to three other players to explore and survive the perils of diverse and deadly environments.\n\n\nTHE REMNANT OF MANKIND.\nThe world is in ruins. Only a remnant of mankind remains, hunted to near extinction by horrors from another world. Most of humanity live like rats in the rubble of devastated cities. A few survivors with the technology...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3c5/3c54941443fba92b97734ce587b50bbe.jpg",
+        "https://media.rawg.io/media/screenshots/728/7282fc89149242b177f35b90c5e8d41b.jpg",
+        "https://media.rawg.io/media/screenshots/5a0/5a0d6797fa307cc8a7fe4044b04f427e.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Remnant: From the Ashes(tiro)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a89787f1-554d-4d7e-b993-b83ef4954248",
+      "title": "Resident Evil",
+      "tags": "Remake de Re1",
+      "cover": "https://media.rawg.io/media/games/d24/d24ceb45b267f4b69b5d51c36c9a46db.jpg",
+      "description": "Jogo de Nintendo Switch. Remake de Re1",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2ba/2badcd49bb35d12063415bea86c6438b.jpg",
+        "https://media.rawg.io/media/screenshots/022/022e853733b3f5a1c11605c27a73ca2c.jpg",
+        "https://media.rawg.io/media/screenshots/d89/d89eab5de6ceadb66fa06a985b9e5919.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Resident Evil(Remake de Re1)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "79a40379-0e11-400b-b464-1bacecb33b1d",
+      "title": "Resident Evil 0 / Biohazard 0 HD REMASTER",
+      "tags": "Terror",
+      "cover": "https://media.rawg.io/media/games/955/9554440f1c17236c0233b644e47909d2.jpg",
+      "description": "Buzz\nAbout the GameBe prepared to relive the first nightmare in Resident Evil 0, a remastered version of the popular prequel to the original Resident Evil game. This remastered version takes the fear-inducing atmosphere from the original 2002 release and transforms it with stunning new HD visuals, improved sound, widescreen support and an optional modernized control system and more. It’s the best way to experience the story of what really happened before the iconic mansion incident that was the ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0f7/0f75866f9cf36bb30544b93e39333c05.jpg",
+        "https://media.rawg.io/media/screenshots/8a9/8a903179bac07067039b7c2ca34eb4bf.jpg",
+        "https://media.rawg.io/media/screenshots/a25/a259130e9f5ba944418a44da74f6d95f.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Resident Evil 0 / Biohazard 0 HD REMASTER(Terror)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "af31ecd8-45d0-4c3e-8267-b7f412dfcc6a",
+      "title": "Resident Evil 4",
+      "tags": "Terror",
+      "cover": "https://media.rawg.io/media/games/51a/51a404b9918a0b19fc704a3ca248c69f.jpg",
+      "description": "Survival is just the beginning\n\nResident Evil 4 is a remake of the 2005 original Resident Evil 4.\n\nReimagined for 2023 to bring state-of-the-art survival horror.\n\nResident Evil 4 preserves the essence of the original game, while introducing modernized gameplay, a reimagined storyline,\nand vividly detailed graphics to make this the latest survival horror game where life and death, terror and catharsis intersect.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/26c/26c298b0426461ebbca4a17d14a8c87b.jpg",
+        "https://media.rawg.io/media/screenshots/33d/33dbe045a82988878cd865b80fcc6269.jpg",
+        "https://media.rawg.io/media/screenshots/cdd/cdd81f8b87c0352e20ab9f8eefba7ddb.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Resident Evil 4(Terror)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "df451373-dd42-402c-a883-d8a59cfd7c55",
+      "title": "Resident Evil 5",
+      "tags": "Terror",
+      "cover": "https://media.rawg.io/media/games/974/974342a3959981a17bdbbff2fd7f97b0.jpg",
+      "description": "Resident Evil 5 (also known as Biohazard 5 in Japan) is the third-person shooter with elements of a survivor-horror game. This is the fifth main installment in Capcom’s acclaimed franchise Resident Evil.  \nThe story follows Chris Redfield, the protagonist of the original Resident Evil, and his partner Sheva Alomar. As the members of the Bioterrorism Security Assessment Alliance, they are tasked to intercept an illegal bioweapon trade in Kijuju, Africa. Upon arrival, they find out that Kijuju is...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4ad/4adb836eae33db45da2cb9bd919becc4.jpg",
+        "https://media.rawg.io/media/screenshots/673/673c00d710a685e727a6a8b97f1d6c3b.jpg",
+        "https://media.rawg.io/media/screenshots/998/998d87968d7f9a9b9fda30d988b9377b.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Resident Evil 5(Terror)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f115db42-dedd-482a-88e7-a384bbb58323",
+      "title": "Resident Evil 6",
+      "tags": "Terror",
+      "cover": "https://media.rawg.io/media/games/f6f/f6f39c5b56413f7f4513b25989a1b747.jpg",
+      "description": "Bioterrorism ... Terrorists infect the US President with a vaccine that makes him an aggressive zombie. And one of the heroes of the game will have to kill him. Behind the terrorists, there is a mafia organisation that wants to hide the truth about the impossibility to control the biological weapons developed by it, which turns people into zombies. Bioterrorists opposed by a detachment of special forces - it serves two other characters.\nThe action of the game periodically turns from a personal ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fe3/fe360941c0dfeff5f463621821fded97.jpg",
+        "https://media.rawg.io/media/screenshots/5e4/5e40f084bff861a6a6ab4779aa31fab4.jpg",
+        "https://media.rawg.io/media/screenshots/071/071f2d49c10619f054864e84367e0151.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Resident Evil 6(Terror)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "6cc4dc41-dbba-4198-8f1b-e8a2d1292377",
+      "title": "Resident Evil Revelations",
+      "tags": "Terror",
+      "cover": "https://media.rawg.io/media/games/89a/89ac2742fcfeba3b95ac94457af766ef.jpg",
+      "description": "O 2 funciona multiplayer",
+      "images": [
+        "https://media.rawg.io/media/screenshots/dc2/dc23f696d6b0e1c0384beb27acec1033.jpg",
+        "https://media.rawg.io/media/screenshots/295/295e595838e5d9299c0a9cb955d9dc97.jpg",
+        "https://media.rawg.io/media/screenshots/8f0/8f04d8b8633545125f505a8a005e180c_tl5lc3O.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Resident Evil Revelations(Terror)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "de9f18ce-c315-4d78-8a9e-b8b88c146cd2",
+      "title": "Retro Racer",
+      "tags": "corrida",
+      "cover": "https://media.rawg.io/media/screenshots/905/9052a8ff5b5c21949c3967fade186b89.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0b2/0b217c34e627d0797da3f261a954a445.jpg",
+        "https://media.rawg.io/media/screenshots/e0f/e0faa75fac9d4583a890ef26eb122837.jpg",
+        "https://media.rawg.io/media/screenshots/f03/f03120d62c7936399762507b8bdd3dc3.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Retro Racer",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2ad13718-b481-4cee-87ca-8098e4ff11af",
+      "title": "Return to Monkey Island",
+      "tags": "Point click",
+      "cover": "https://media.rawg.io/media/games/db8/db86188577f4b61dfd2a960e18f660a5.jpg",
+      "description": "Return to Monkey Island is an unexpected, thrilling return of series creator Ron Gilbert that continues the story of the legendary adventure games The Secret of Monkey Island and Monkey Island 2: LeChuck’s Revenge developed in collaboration with Lucasfilm Games.\n\nIt’s been many years since Guybrush Threepwood was last locked in a battle of wits with his nemesis, the zombie pirate LeChuck. His true love, Elaine Marley, has turned her focus away from governing and Guybrush himself is adrift and ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/db3/db3cbff75d693c6850d03d2c3badc3c3.jpg",
+        "https://media.rawg.io/media/screenshots/5bb/5bbf2cd35b97ef715d31b0a68cc1a601.jpg",
+        "https://media.rawg.io/media/screenshots/b8f/b8f9f5be1704c34a25dfcd455419da45.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Return to Monkey Island(Point click)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1646161b-06f8-44fb-82bb-d1d49a02690c",
+      "title": "Reynatis",
+      "tags": "actionrpg",
+      "cover": "https://media.rawg.io/media/games/061/0613dfab340b7cbea1e36e8116c26fba.jpg",
+      "description": "Fantasy meets reality in Shibuya, Tokyo, where magic is something to be feared. In this action RPG, a young wizard seeks freedom through strength, and an officer seeks to control magic and restore order. When their paths cross, a darkness that will transform the world descends.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e5a/e5a567bd18342ca888176229fe299ea9.jpg",
+        "https://media.rawg.io/media/screenshots/dcb/dcba526d4220905787211f47feba1e29.jpg",
+        "https://media.rawg.io/media/screenshots/aa4/aa48beb5686c732c0d8096e54c912b9b.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Reynatis(actionrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "db1f78e5-56b8-4614-86d3-6751e4dc09c5",
+      "title": "Rhythm sprout",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/ff3/ff391ba4c2b844de3148580af69460a0.jpg",
+      "description": "RHYTHM SPROUT is a unique take on a rhythm game where you progress through each level by playing to the rhythm.\nMove! Attack! Dodge! All to the beat of the song.\nEnvisioned as a weird mix between Guitar Hero and the Paper Mario-series, RHYTHM SPROUT is a rhythm game heavily focused on rhythm, timing and pattern recognition. The game features 22 playable levels with electronic music inspired by a variety of styles, genres and time-periods.\nStory\nYou play as the Chosen Onion, Sprout, tasked with s...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a2d/a2dffc914e501d47dce559c7124ca470.jpg",
+        "https://media.rawg.io/media/screenshots/2c4/2c482e7da355105ba99724f1a15ff82b.jpg",
+        "https://media.rawg.io/media/screenshots/4c3/4c3fbdc06c8e56bb81c2c7734a8cf168.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Rhythm sprout(Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "553d4180-fbe0-46aa-84bd-d993ede1c41f",
+      "title": "Rift of the necrodancer",
+      "tags": "música",
+      "cover": "https://media.rawg.io/media/games/901/901063edf96455d11bcdaebee5062a55.jpg",
+      "description": "The NecroDancer's back in a brand new rhythm game spinoff! Help Cadence navigate the modern world while repairing the rifts that have torn her life apart. Do rhythmic battle via rift mode, minigames, and boss battles! All to the beat of a brand new soundtrack from Danny Baranowsky & friends.\n\nKey Features:\n\n    Rift Mode -- A rhythmic battle against streams of monsters pouring out of the Rift!\n    Mini Game Mode -- Help Cadence overcome the challenges of the modern world via rhythmic mini games!...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8b1/8b1f10f56c8c0dd5c2f2ce0b5b7f3099.jpg",
+        "https://media.rawg.io/media/screenshots/a10/a10fe5d0483ffda9aaa91ffd579f28e2.jpg",
+        "https://media.rawg.io/media/screenshots/b75/b75e6596a5932b1338f5b382c22b121a.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Rift of the necrodancer(música)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8b71ed74-7e98-4156-9f91-ba10da9a1255",
+      "title": "Rivals of Aether",
+      "tags": "Smashlike",
+      "cover": "https://media.rawg.io/media/screenshots/9a0/9a0e8a4379d465ac6c17a599456b5374.jpg",
+      "description": "Rivals of Aether is a platform fighting game developed and published by Dan Fornace in 2014. The game takes heavy inspiration from the founder series of its genre, Super Smash Bros., and specifically its second entry, Super Smash Bros. Melee. Dan Fornace describes himself as a long-time fan of the Smash Bros. series, being the developer of the 2010 'de-make' fangame Super Smash Land.\n\nLike in Smash Bros., instead of a traditional fighting game arena, a game of Rivals of Aether takes place on a s...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/282/28220df6bf38e705ca1789075acb1e97.jpg",
+        "https://media.rawg.io/media/screenshots/fd1/fd18356d7419771fcbd72552bb7b6731.jpg",
+        "https://media.rawg.io/media/screenshots/468/468e445aa409604fd43051896e7ac731.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Rivals of Aether(Smashlike)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b9fa1952-60cb-4240-ac82-baa569f5f629",
+      "title": "River City Girls 2",
+      "tags": "Briga de rua",
+      "cover": "https://media.rawg.io/media/games/939/939f73c1c57e883ea91667fb3993f762.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/54d/54daf81012c0e978f02ab21881a31f9a.jpeg",
+        "https://media.rawg.io/media/screenshots/de9/de9c61102b41f677a94a1db0fe3b70e7.jpeg",
+        "https://media.rawg.io/media/screenshots/b82/b8220c56cc432e1fad1d103038a4d653.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "River City Girls 2(Briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "aa33d1b7-3236-4ce4-931c-1d45468c2e35",
+      "title": "River City Saga",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/7aa/7aa78f30e2c20db457a817f6e244eefc.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/88b/88b19886d63dcf302c5d65e729b0887e.jpg",
+        "https://media.rawg.io/media/screenshots/b43/b4313c6ba1adacaf8b72ddd3023d8006.jpg",
+        "https://media.rawg.io/media/screenshots/995/995143696fb181dfd868770cd498f76d.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "River City Saga(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "61a624b3-18fc-4be7-acad-25ec5194fe15",
+      "title": "Rocket Knight Adventures: Re-Sparked",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/e08/e080c66a79271482be39beac90df6cbe.jpg",
+      "description": "Rocket Knight Adventures: Re-Sparked est une compilation électrisante regroupant 3 jeux classiques où vous redécouvrirez avec nostalgie l'expérience des jeux vidéo à défilement horizontal en incarnant Sparkster. Dans la peau de Sparkster, préparez-vous à affronter une armée de robots et de cochons pour sauver la princesse.\n\nLes principales caractéristiques du jeu sont les suivantes :\n> 3 jeux de la franchise sont disponibles\n> Rocket Knight Adventures\n> SPARKSTER Rocket Knight Adventures 2\n> SPA...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/667/6678b94a102f7f13fdc89fd4fd0b7868.jpg",
+        "https://media.rawg.io/media/screenshots/65a/65a2e7e96d194eee1cf4381b656b902b.jpg",
+        "https://media.rawg.io/media/screenshots/0e2/0e28d86b76670d23ed2093c896c818f5.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Rocket Knight Adventures: Re-Sparked(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "754085a0-35eb-4a69-99a3-2710a7908e5b",
+      "title": "Rogue Heroes",
+      "tags": "Roguelike",
+      "cover": "https://media.rawg.io/media/screenshots/413/4134947bf921ffc548abf729c2c4a2c6.jpeg",
+      "description": "Rogue Heroes is fast-paced 2D action-platforming game with RPG elements.\n- explore the depth of procedurally generated levels\n- upgrade your hero\n- level up and collect equipment with unique set bonuses\n- complete quests\n- discover secrets\n- fight against dangerous bosses and enemies\n- progress through different locations with deadly traps and obstacles\n- earn achievements\n- no in-apps, no ads!\nhttp://mykungfugames.com/rogue-heroes/",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6da/6da6c9aff52e0a9863192ab3a6aaa573.jpeg",
+        "https://media.rawg.io/media/screenshots/776/7761fe760866d3b9aa8d7f80e6513c97.jpeg",
+        "https://media.rawg.io/media/screenshots/c36/c36c0f20285ea2fc090afd8056f3bcb1.jpeg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Rogue Heroes(Roguelike)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e1360385-6879-410b-b423-80b110af0f81",
+      "title": "Rogue Legacy",
+      "tags": "Roguelike",
+      "cover": "https://media.rawg.io/media/games/598/59851e152a6898c8bf79069b5bf2f4db.jpg",
+      "description": "The game begins in the castle, in which the heroes are \"settled\", there are also important things for the game, money and useful qualities. Much can be bought outside the castle.\nYou meet not only enemies but also other characters with whom interaction is possible. The smith can sell weapons and armour, and the gipsy can sell different magic things. A meeting with an architect can help with the exploration and reconstruction of the castle. The study of the castle promises useful finds. Among ot...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ca7/ca781134b4435815ce7475b8049e9b9f.jpg",
+        "https://media.rawg.io/media/screenshots/6ce/6ce5cb9adc0c93fd307d55f425929b02.jpg",
+        "https://media.rawg.io/media/screenshots/de6/de69ef434072c5c1be2acc23fe48abde.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Rogue Legacy(Roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3151a2b1-0e72-4924-aecd-0114e1f9ff07",
+      "title": "Rogue Legacy 2",
+      "tags": "Rogue like",
+      "genre": "Rogue Like",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Rogue Legacy 2(Rogue like)",
+      "description": "Rogue Legacy is back!  But now it's got a 2 in front of it!\nRogue Legacy 2 is a genealogical Rogue-LITE.  That means it has all the trappings of a typical rogue-like (randomized runs, changing characters, and more), but with persistent upgrades, and persistent dead heirs.  In this game, the grind is optional.  Play well and you can dive deeper into the depths of the ever-changing world.  Or don't!  Who cares!  With hardcore platforming mixed with a deep RPG system, everyone can win eventually.\n...",
+      "cover": "https://media.rawg.io/media/games/776/776ebcf6f05c98eab89af736e6f38283.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/604/604e1cefc4aed4d7ed21bf7c6889a8e0.jpg",
+        "https://media.rawg.io/media/screenshots/679/679a6ca5bafed0a299c992c87f36b461.jpg",
+        "https://media.rawg.io/media/screenshots/380/380033c17f9326d54748ea328f97208f.jpg"
+      ]
+    },
+    {
+      "id": "f0897ac2-b999-43a9-9886-f90bb6e746cf",
+      "title": "RollerCoaster Tycoon® Classic",
+      "tags": "Simulador de parque",
+      "cover": "https://media.rawg.io/media/screenshots/7dc/7dc9e27d38e7e2ec0060c1403764bc76.jpg",
+      "description": "Take a trip to fame and fortune by building the biggest, best, scariest, and most thrilling rides ever seen in any theme park. Can you make money in this volatile business? Can you become the ultimate Roller Coaster Tycoon?\nOne of the best games from acclaimed Tycoon series, with well designed gameplay mechanics, appealing graphics, and really high re-playability value. There’s no limit to what you can create so design and build the most thrilling roller coaster the world has ever seen - and buc...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f8b/f8b79d1272452ea9330198efec127dd8.jpg",
+        "https://media.rawg.io/media/screenshots/7dc/7dcfd5035128270954b113d637331f00.jpg",
+        "https://media.rawg.io/media/screenshots/7d8/7d841c4be8acf313e6c029eb04ee1863.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "RollerCoaster Tycoon® Classic(Simulador de parque)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "dcd286d2-4c49-46a8-8c87-af4ea5721f7c",
+      "title": "Romancing Saga 2: Revenge of the Seven",
+      "tags": "jrpg",
+      "cover": "https://media.rawg.io/media/games/ca9/ca991a85b5a8cb4d46f1f89a189ef072.jpg",
+      "description": "Romancing SaGa 2: Revenge of the Seven Demo\nIn the demo, you can enjoy the beginning of the story, up until Emperor Leon and his teammates challenge Kzinssie, one of the Seven Heroes. Save data from this demo can be carried over to the full game.\nAbout the Game\nSave Your Empire. Defend Your Legacy.\nRomancing SaGa 2: Revenge of the Seven is a full remake of the groundbreaking non-linear RPG Romancing SaGa 2, which originally launched in Japan in 1993.\nEmbark on an adventure featuring both new and...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/de4/de465f8908e36eb6bfb9d35b526edeeb.jpg",
+        "https://media.rawg.io/media/screenshots/6cb/6cb82c3b1d75efad8c15fd59b4d98583.jpg",
+        "https://media.rawg.io/media/screenshots/aa0/aa0235974319fee95136ce357200ba5b.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Romancing Saga 2: Revenge of the Seven(jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b2885494-887d-417d-b0f8-bb718a429552",
+      "title": "Roots of pacha",
+      "tags": "fazendinha pré histórica",
+      "cover": "https://media.rawg.io/media/screenshots/791/7911b8503c4020a69529b2e3c3249cbd.jpg",
+      "description": "Jogo de Nintendo Switch. fazendinha pré histórica",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7d5/7d50a82b6e6f955b91795bed28787cb8.jpg",
+        "https://media.rawg.io/media/screenshots/47b/47ba07fef34d6360223c6e68684276e4.jpg",
+        "https://media.rawg.io/media/screenshots/ab4/ab44697c89c2c54e682ff890ba7b1747.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Roots of pacha(fazendinha pré histórica)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2cadbdfd-3367-4045-90e3-a6472f8c9930",
+      "title": "Rpg Maker With",
+      "tags": "Criar jogo de rpg",
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Rpg Maker With(Criar jogo de rpg)",
+      "description": "Jogo de Nintendo Switch. Criar jogo de rpg",
+      "cover": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_RpgMakerWith_image1600w.jpg",
+      "images": [
+        "https://alertetgo.com/wp-content/uploads/2020/09/RPGMMV-8.jpg"
+      ]
+    },
+    {
+      "id": "023b66be-b243-4233-97ec-893bd700cfac",
+      "title": "Rubber bandits",
+      "tags": "Party game",
+      "cover": "https://media.rawg.io/media/games/146/146b12e9098b450d607a979033eca64d.jpg",
+      "description": "Join our discord\nAbout the Game\nEARLY BIRD OFFER! Early birds who buy and play the game before or on December 9th can unlock an exclusive Earl The Bird skin from the Bandit Store. A little something to shake your tailfeathers in!\nRubber Bandits throws players into a wild party brawler to steal, smash, and scavenge as much cash as you can! Prepare for hilarious physics-based combat with wacky weapons and a huge lineup of criminal characters. Dodge deadly traps, bash rival bandits, and race from t...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ed4/ed43938d2e2b4a009e79db0c445e1e9b.jpg",
+        "https://media.rawg.io/media/screenshots/365/3651a33e8cf694d21f20fa333e3c2f00.jpg",
+        "https://media.rawg.io/media/screenshots/eac/eac217298600994d3a4a563287b03500.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Rubber bandits(Party game)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "52738451-a007-437f-b691-a66f097f08c2",
+      "title": "Ruffy and the riverside",
+      "tags": "plataforma 3d(Gráficos de paper mario)",
+      "cover": "https://media.rawg.io/media/screenshots/4ff/4ff240226c92c2deee63a7dbea00e955.jpg",
+      "description": "Ruffy and the Riverside\nEnter the beautiful hand-drawn open world of Riverside and experience a fantastic action-adventure game with unique gameplay!\n\nUnique Gameplay\nYou are Ruffy, the Chosen One. And you have the SWAP! You wonder what the SWAP is? The SWAP holds the legendary power of imagination. With the SWAP, Ruffy can change the entire game world - the way you imagine it and the way it should be! With the SWAP you can turn ice into lava or a waterfall into a climbing vine. The SWAP can tra...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/972/97245a90097ebb2848f3857a48f3650f.jpg",
+        "https://media.rawg.io/media/screenshots/3c6/3c65fddf3bcbfda14ba8635bd666afe1.jpg",
+        "https://media.rawg.io/media/screenshots/5b3/5b3797f1bd9d35ad4422b6d1a6b10c53.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Ruffy and the riverside(plataforma 3d(Gráficos de paper mario))",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fa9e3e8b-488a-4e25-889d-ae6f7baf6d45",
+      "title": "Rugrats: Adventures in Gameland",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/79d/79d5d107f42c1234222ee770a7afa7ff.jpg",
+      "description": "When Tommy, Chuckie, Phil and Lil see a commercial for the new Reptar video game, they pretend that they're in a video game of their own! Toggle between beautiful 8-bit and HD art, select your favorite baby and play solo or co-op in Rugrats: Adventures in Gameland, a neo-retro platformer.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/33d/33dedc86cdbb20e8809049271a5f0d87.jpg",
+        "https://media.rawg.io/media/screenshots/e0f/e0fbe5d4910f7911cca100201e389a88.jpg",
+        "https://media.rawg.io/media/screenshots/1b2/1b29c331779c05701ff829a94f77982a.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Rugrats: Adventures in Gameland(plataforma 2d)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "13a7babb-8525-4af9-9ca5-cfcafb437dc8",
+      "title": "Runbow",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/dc0/dc04262654df3927821d1ee0a01d8baa.jpg",
+      "description": "Runbow, and all its 9-player madness, is now on Steam!\nWith tons of competitive modes for up to 9 players--locally and online--and a massive Single Player Adventure, Runbow is the crazy, colour-based platformer you've been waiting for.\nThe world of Runbow changes with each swipe of the background, so you'll have to stay on your toes as platforms and obstacles disappear--If you can't see something, it doesn't exist. Fast, frantic, and fun for up to 9 players, Runbow is filled with tons of modes a...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d64/d6410621d4c3760c8b30a1078828ead3.jpg",
+        "https://media.rawg.io/media/screenshots/5b5/5b59cb15a43102bf3d5c094c42fba99c.jpg",
+        "https://media.rawg.io/media/screenshots/15c/15cddf541450f6cea5daf0744fbab757.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Runbow",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1740a776-bd06-4350-a8d1-460d2f28c739",
+      "title": "Rune Factory 5",
+      "tags": "Fazenda/action rpg",
+      "cover": "https://media.rawg.io/media/games/fb3/fb34bac9f5990156739452ae06a9b9cf.jpg",
+      "description": "Rune Factory 5 - Digital Deluxe Edition\nRune Factory 5 - Digital Deluxe Edition features the main game and the \"Rune Factory 4 Marriage Candidates Outfit Set.\"\nDress up as your favorite character from the much-loved Rune Factory 4, with 13 additional outfits to wear in Rune Factory 5!\nAbout the GameSow seeds of a new life in Rigbarth as you embark on a grand Rune Factory adventure!\nIn the sleepy border town of Rigbarth, mysterious events are unfolding, affecting the runes that govern the balance...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bdb/bdbb5aa28484b11220d04e5bac28b618.jpg",
+        "https://media.rawg.io/media/screenshots/fbf/fbfacb1d7baf02424193dd71c6b8d410.jpg",
+        "https://media.rawg.io/media/screenshots/720/720e63227215ded72732d142e7a427aa.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Rune Factory 5(Fazenda/action rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e8567770-dd19-431f-a508-cc94d1127ab8",
+      "title": "Rune Factory: Guardians of Azuma",
+      "tags": "Jrpg Fazendinha",
+      "cover": "https://media.rawg.io/media/screenshots/659/65950e5c2cf25284d09935ce5e070253.jpg",
+      "description": "Welcome to the eastern nation of Azuma! In this fresh take on Rune Factory, use your powers as an Earth Dancer to restore the land, its people, and even its gods. Along the way, battle corrupted monsters, rebuild seasonal farms and villages, and form bonds with the colorful locals.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b51/b51db3f72e4e954f7f345b9343a6b706.jpg",
+        "https://media.rawg.io/media/screenshots/383/3836effc9fff648c9b818b8956fb4db8.jpg",
+        "https://media.rawg.io/media/screenshots/ab6/ab6cc17a335550b00315a5d5cfdd520f.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Rune Factory: Guardians of Azuma(Jrpg Fazendinha)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c1f4bdae-9a56-4469-82d2-6a72e6880be0",
+      "title": "Runner3",
+      "tags": "correr e pular",
+      "cover": "https://media.rawg.io/media/screenshots/bf7/bf773c19650f1f2195041ecc974ae264.jpg",
+      "description": "The rhythm-music platformer gameplay of BIT.TRIP RUNNER and Runner2 is back and better than ever!\nThe Timbletot is determined to rid the multiverse of all its love and happiness. CommanderVideo, a lover if ever there were one, refuses to let this happen. He’s ready to jump, double-jump, wall-jump, slide-jump, slide, kick, float, fly, and dance his way to victory, all across a medley of thrilling, challenging, and joyous levels!\nFeatures:\nCharles Martinet! - Charles Martinet, known best as the vo...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5e8/5e8482f90aca9d4a026b8c3cbbc64962.jpg",
+        "https://media.rawg.io/media/screenshots/773/7735c168cd8f8c27b20b1e676f736220.jpg",
+        "https://media.rawg.io/media/screenshots/e70/e70a96e26952c4d26b94ec677b5f426f.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Runner3(correr e pular)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ed046faa-d705-4516-8a71-e57fb8bdc83f",
+      "title": "Rusty rabbit",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/cc9/cc9e342e66d612650e5e459c8b61c34e.jpg",
+      "description": "The earth has entered another ice age. Humans have abandoned the planet. Over time, those who would inherit the world are... rabbits!This civilization of highly evolved of rabbits took to the task of reclaiming human technology in the ruins known as \"Smokestack Mountain\". This fluffy society has long refered to humans as \"giants\" from the past and think the book Peter Rabbit is the Bible. Those fearless enough to explore this vast unknown are called \"rust diggers.\" Our protagonist, an old rabbit...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5a1/5a103badbb5d55000752244f81efbf29.jpg",
+        "https://media.rawg.io/media/screenshots/2ae/2aef66fc97a581dcfc0196cdf28e5f82.jpg",
+        "https://media.rawg.io/media/screenshots/d3f/d3f52ff93589ff9be7f4230b5243d9ff.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Rusty rabbit(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "59600073-5e0f-4384-85ae-bdeb0197c47f",
+      "title": "RWBY: Arrowfell",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/38e/38eb527febd9d813a9bb670f1247ba3b.jpg",
+      "description": "Dive into an explosive new RWBY action-adventure! Instantly switch between all four members of Team RWBY — Ruby Rose, Weiss Schnee, Blake Belladonna, and Yang Xiao Long — and use their signature weapons and Semblances to battle the Creatures of Grimm and other foes in side-scrolling, 2D combat and exploration! Featuring an in-canon story set during RWBY Volume 7, all-new cutscenes from the team behind the show, and an original theme song by Jeff Williams and Casey Lee Williams, RWBY: Arrowfell l...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8af/8af0cfa8b96ab82c2973a5e08b8308e9.jpg",
+        "https://media.rawg.io/media/screenshots/e9b/e9b4c859586680abef23a7a0abc833d0.jpg",
+        "https://media.rawg.io/media/screenshots/501/501121a0618f418c1d044784cb4791cd.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "RWBY: Arrowfell(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7218b205-d155-4e2e-ad3c-b91a3bd38bb8",
+      "title": "Saga frontier remastered",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/e76/e7629b93f8c2ac1d395400343e5498ac.jpg",
+      "description": "The adventure is always up to you…\nThe beloved 1998 RPG Classic, SaGa Frontier, is reborn with improved graphics, additional features, and a new main character!\n\nExperience this role-playing adventure as one of the eight heroes, each with their own storyline and goals. With the Free Scenario system, unfold your own unique journey.\nEngage in dramatic battles, using the Hirameki system to gain new skills and carry out combined attacks with your allies!\n \n\n・New Main Character, Fuse!\n\nThe new main c...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/787/7878bb5f1d6acbea26a72fedf40ff4f2.jpg",
+        "https://media.rawg.io/media/screenshots/02e/02ea699a151de7c66936b5a33fbab051.jpg",
+        "https://media.rawg.io/media/screenshots/305/305dd4051c5454193020a590a7e1eea1.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Saga frontier remastered(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5ba34534-d730-4698-b98f-f5ce61d9cd1c",
+      "title": "Sakuna: Of Rice and Ruin",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/276/276161d772f7f3f9a4520f6e9698f8c8.jpg",
+      "description": "Players take on the role of Sakuna, a proud yet lonely harvest goddess who is banished to a dangerous island with a group of outcast humans. As she tames the island by defeating demons in gorgeous, mysterious natural settings, she will also find a home in a mountain village, proving herself worthy of her title by harvesting rice and bettering the lives of humans. In addition to serving as a love letter to Japanese mythology, Sakuna: Of Rice and Ruin is an ode to the artistry of cultivating rice,...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d96/d9622438e5c2a0fe7975e8f897105fc8.jpg",
+        "https://media.rawg.io/media/screenshots/47c/47ca4a9c0cb495f7943d6f3db79d88d5.jpg",
+        "https://media.rawg.io/media/screenshots/b5a/b5aa4665c120591df6a27141fb011118.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Sakuna: Of Rice and Ruin(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1cc44c66-a05d-44e5-9c62-a6bb2edc7359",
+      "title": "Salt and sacrifice",
+      "tags": "Metroidvania souls",
+      "cover": "https://media.rawg.io/media/games/f56/f561a3c018a085d2e41f01718fe05816.jpg",
+      "description": "Beyond sanctuary, a realm of elemental pandemonium awaits.\nA once-peaceful kingdom is plunged into chaos by encroaching tides of Mages: merciless embodiments of elemental chaos. The Marked Inquisitors, a doomed force of the condemned, once again mobilizes to stand against the existential threat of Magic. A buried secret threatens to bring an ancient empire to utter ruin.\nIn a land plagued by powerful and twisted Mages, the condemned Marked Inquisitors take up the hunt.\nAs a Marked Inquisitor, yo...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5a0/5a07e7eb6d15c610b84c03d1cb9132c8.jpg",
+        "https://media.rawg.io/media/screenshots/c3e/c3ea9235474fb354625809770b78610d.jpg",
+        "https://media.rawg.io/media/screenshots/6d0/6d0daa129805585129d12cc7db890abf.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Salt and sacrifice(Metroidvania souls)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2f64cc60-f9a3-4749-9771-66fe364d0268",
+      "title": "Samba De Amigo : Party Central",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/a0b/a0bea0f1d13b9d0804850777cc1dca65.jpg",
+      "description": "Get up and shake it on center stage in this vibrant rhythm action game!\nGroove to 40 hit songs from the world's most popular genres, with even more arriving as post-launch DLC!\nTest your technique in a variety of minigames and challenges.\nStrut that style by customizing your character with unique costumes and accessories.\nHit the floor and play online in World Party mode!\nShow the world what you've got by competing on the online leaderboards.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3ca/3cae5fb9849a3152199fb14119fea5ea.jpg",
+        "https://media.rawg.io/media/screenshots/f17/f17252838c8546f37bdb4791d0ae7169.jpg",
+        "https://media.rawg.io/media/screenshots/fb2/fb29178bdfa75202aeb54b7e550e0dd9.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Samba De Amigo : Party Central(Ritmo)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d6cca7d9-f75e-40d3-8b88-59586b485037",
+      "title": "Samurai maiden",
+      "tags": "Hack n slash",
+      "cover": "https://media.rawg.io/media/screenshots/602/6027d9a416234145ab978dac708a15c6.jpg",
+      "description": "Digital Deluxe Edition\nThe SAMURAI MAIDEN DELUXE EDITION includes the full game and a variety of DLC packs. The DELUXE EDITION features a total of 32 costumes for characters to wear, a weapon to help you conquer the early stages of the game, and special additional BGM. Also included is the Extra BGM: Bullet Girls Special Sound Pack, an item exclusive to the DELUXE EDITION.\nThe SAMURAI MAIDEN DELUXE EDITION contains:\n① SAMURAI MAIDEN (Base Game)\n② Tsumugi's Costume: Victory Swimsuit 4-Color Set\n③...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3a1/3a1a3b2a3b4812bfa4aef5f7115b584e.jpg",
+        "https://media.rawg.io/media/screenshots/1cd/1cde79ac5fdfbc367a5b0a125793f57b.jpg",
+        "https://media.rawg.io/media/screenshots/8c0/8c0ce302fbbb41b3b198a155d71f56db.jpg"
+      ],
+      "genre": "Souls like e Hack n Slash",
+      "raw": "Samurai maiden(Hack n slash)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ca4d0157-5272-4580-83da-e5bf7a9ecb3a",
+      "title": "Samurai Shodown",
+      "tags": "Luta(3d)",
+      "cover": "https://media.rawg.io/media/screenshots/97c/97cd94d7d6d89a12ed562d3a4e40c4a5.jpg",
+      "description": "Samurai Shodown (Samurai Spirits in Japan) is a fighting game series by SNK. In Japan, the name of the series is officially in katakana, but is often written in kanji (侍魂, samurai tamashii), with the second character pronounced supirittsu, \"spirits\", to better reflect the game's setting.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b07/b078d57c3ddda12249a929e9d41a47ea.jpg",
+        "https://media.rawg.io/media/screenshots/67a/67ab2151fb427a205e73878e1c535913_JVILxuV.jpg",
+        "https://media.rawg.io/media/screenshots/886/8869821f8228f0cb5cb3fe9ad4c1d76a.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Samurai Shodown(Luta(3d))",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0c8d98db-72df-4210-8d10-8bfd51fc0e6a",
+      "title": "Sanabi",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/8fd/8fddf3eec9b26d7d40965d57da53cce0.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c21/c213369fd9cdf8d655a408114f3521d4.jpg",
+        "https://media.rawg.io/media/screenshots/13b/13b00e75e0fca7bd7645554a700cf8c2.jpg",
+        "https://media.rawg.io/media/screenshots/49a/49a83e606d01782ade047b6b4ee3236e.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Sanabi(plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "38a39639-177d-4350-b99a-6437698b3334",
+      "title": "Saviorless",
+      "tags": "Plataforma 2d/puzzle",
+      "cover": "https://media.rawg.io/media/screenshots/c33/c3364db332890cac328b0787e52f3fd8.jpg",
+      "description": "Saviorless presents a captivating 2D platformer set in a stylish dark fantasy world. The game features exquisite hand-drawn artwork and animations that enhance the visual experience. Players take on the role of Antar, a determined child aspiring to become a Savior. Embark on a journey through the treacherous path to the forbidden land, the Smiling Islands, overcoming a multitude of obstacles along the way.\nA strange world to exploreDive into a captivating narrative-driven platformer featuring di...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/200/20040656c7fc9ab0b111c589cd3cac4b.jpg",
+        "https://media.rawg.io/media/screenshots/48a/48aacbc55cb8281a595792978c06ccbf.jpg",
+        "https://media.rawg.io/media/screenshots/a96/a967ae865b6f334fc7e07c4f01fd4148.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Saviorless(Plataforma 2d/puzzle)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cc7a2d9e-b340-40e3-9a0f-587a3397a195",
+      "title": "Sayonara Wild Hearts",
+      "tags": "música",
+      "cover": "https://media.rawg.io/media/games/77c/77ca75b962f0ca9f7de6eb03814d6b5b.jpg",
+      "description": "Sayonara Wild Hearts is a euphoric music video dream about being awesome, riding motorcycles, skateboarding, dance battling, shooting lasers, wielding swords, and breaking hearts at 200 mph.\nAs the heart of a young woman breaks, the balance of the universe is disturbed. A diamond butterfly appears in her dreams and leads her through a highway in the sky, where she finds her other self: the masked biker called The Fool.\nTraveling through futuristic cities, dark forests, and electric deserts, The ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5e7/5e70f3418fa74dbd8a8787e6f8e0e4be.jpg",
+        "https://media.rawg.io/media/screenshots/f13/f13adb07eccf4956ecd6a91a84f9be08.jpg",
+        "https://media.rawg.io/media/screenshots/e32/e32a42b305924f991468e63dd714ca02.jpeg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Sayonara Wild Hearts(música)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a06c812c-f211-485e-b834-d6adf8fa3533",
+      "title": "Scarlet Symphony",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/5e7/5e7cb3df9fa5361c52d13a96c43cdcee.jpg",
+      "description": "Koumajou Remilia: Scarlet Symphony has been loved by many gamers since its initial release, highly praised for its quality gameplay and soundtrack as well as Banpai Akira's sharp and gothic reinterpretation of Touhou characters.\nThis title is the enhanced version of the original game that supports HD remastered graphics and a variety of bonus features. In hopes that more gamers would enjoy Reimu's adventure, the game now supports 6 languages including English. Fans of the original game and the T...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/14c/14cc724bfaad3115517c3fcf7ce1c8cd.jpg",
+        "https://media.rawg.io/media/screenshots/d20/d205d0c3885333cf2b29be8156114362.jpg",
+        "https://media.rawg.io/media/screenshots/405/405447a6584c41b169f9f377ad3a2f56.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Scarlet Symphony(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d209c472-33a6-4e31-a978-022de080a667",
+      "title": "Sclash",
+      "tags": "Bushidoblade like",
+      "cover": "https://media.rawg.io/media/screenshots/ec4/ec4686050d2ac0b9cbe142a019a5e0e3.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ee4/ee4f4f6e0a91a418d05960584b5cfe07.jpg",
+        "https://media.rawg.io/media/screenshots/0c5/0c5814dd2dd14ce33ab25f1488d9dc03.jpg",
+        "https://media.rawg.io/media/screenshots/876/876298f477f5cdb3ec667a5f307402ee.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Sclash(Bushidoblade like)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e756ef14-5a1c-4d02-a7df-051cc225fda5",
+      "title": "Screencheat",
+      "tags": "Tiro",
+      "cover": "https://media.rawg.io/media/screenshots/1c3/1c305353b224d8196489bbc4792a4c0b.jpg",
+      "description": "Screencheat is a rare kind of game that encourages its players to cheat. It is an online multiplayer-only game that allows a sort of second-person view. The players cannot see their opponents, but they can see what their opponents see.\n\n###Premise\nScreencheat is based on the idea of \"screen cheating,\" a form of cheating in local multiplayer in which the cheaters peeks at the other players' monitors to see what they're doing. This kind of behavior is unwelcome in most games, but Screencheat is...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0e5/0e5264c66ae3d5b33b627cb352b0592d.jpg",
+        "https://media.rawg.io/media/screenshots/6b2/6b2b002294087b8e468791baf27fbb62.jpg",
+        "https://media.rawg.io/media/screenshots/12e/12ea1eba2284d450b5deacf74edf25cd.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Screencheat(Tiro)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "18b66834-065f-4154-a30c-77de4376f143",
+      "title": "Screencheat",
+      "tags": "Fps party game",
+      "cover": "https://media.rawg.io/media/screenshots/1c3/1c305353b224d8196489bbc4792a4c0b.jpg",
+      "description": "Screencheat is a rare kind of game that encourages its players to cheat. It is an online multiplayer-only game that allows a sort of second-person view. The players cannot see their opponents, but they can see what their opponents see.\n\n###Premise\nScreencheat is based on the idea of \"screen cheating,\" a form of cheating in local multiplayer in which the cheaters peeks at the other players' monitors to see what they're doing. This kind of behavior is unwelcome in most games, but Screencheat is...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0e5/0e5264c66ae3d5b33b627cb352b0592d.jpg",
+        "https://media.rawg.io/media/screenshots/6b2/6b2b002294087b8e468791baf27fbb62.jpg",
+        "https://media.rawg.io/media/screenshots/12e/12ea1eba2284d450b5deacf74edf25cd.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Screencheat(Fps party game)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4a7454ff-909c-4c94-b6e9-8054f8aaa93b",
+      "title": "Sega Genesis Classics",
+      "tags": "Coleção de jogos antigos da sega",
+      "cover": "https://media.rawg.io/media/screenshots/4ae/4ae52f0e5a0e8fdac200e844ab65b8f4.jpg",
+      "description": "Over 50 titles across all genres from all-time classics like Sonic and Streets of Rage 2 to deep RPGs like the Phantasy Star series; arcade action, shooters, beat’m ups, puzzlers, old favourites and hidden gems.\n\nNew features bring modern convenience to the classics. Save your game at any time, rewind those slip-ups, or customise your controls. Earn bragging rights with online multiplayer and achievements.\n\nThe largest collection of retro classics on console in one great package!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1f2/1f226dff952471d91e5d3ba22001f014.jpg",
+        "https://media.rawg.io/media/screenshots/17a/17abb142dbda5a8d6cea417461b63b83.jpg",
+        "https://media.rawg.io/media/screenshots/19b/19ba7964c0a22570ffc9c2d823731d2c.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Sega Genesis Classics(Coleção de jogos antigos da sega)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "02a4941c-4847-40ef-b057-fcdef11aa8e3",
+      "title": "Shadow labyrinth",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/522/5227ddcdde2134c176630fa0af86e684.jpg",
+      "description": "Shadow Labyrinth is a 2D action platformer and a genre-twisting alternate take on the iconic Pac-Man.\n\nAs Swordsman No. 8, awoken by a floating yellow orb, PUCK, on a mysterious planet where relics from past wars remain, you are chosen to become the instrument of its will.\n\nTo survive you will discover many secrets, start preying on your enemies, and become the apex predator as embrace your true purpose.",
+      "images": [],
+      "genre": "Metroidvânia",
+      "raw": "Shadow labyrinth(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5d7c00bf-f676-475b-aeb5-5ee68800bac1",
+      "title": "Shadow of the Ninja - Reborn",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/4be/4be36ee4891a5f7eccd4db11319d8042.jpg",
+      "description": "Asian Community\nAbout the GameShow off ninja skills in the remake of a legendary dark and futuristic classic!\nIt’s 2029. A vicious dystopian future. And it’s up to two warriors of the night to save the nation!\nAfter 34 years in the shadows, prepare to see this legendary action adventure in a new light!\nLooking and playing better than ever before, Shadow of the Ninja - Reborn is Tengo Project’s remake of a cult classic, that the fans have been waiting for.\nAn arsenal of deadly weapons:\nIn this th...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/80e/80e1bbe0aa5e3ffb12b9ca1b38307efd.jpg",
+        "https://media.rawg.io/media/screenshots/38c/38ce4e071f883adf77e547dcf8f5f2c6.jpg",
+        "https://media.rawg.io/media/screenshots/d3a/d3a22262a3e84515740cb8ba284872d8.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Shadow of the Ninja - Reborn(plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "de6a7dfe-dab4-4aa6-9d69-cc88ae7ba38a",
+      "title": "Shantae and the Seven Sirens",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/be6/be6a548f22fb9e2d2da35e43dfdeb6e4.jpg",
+      "description": "Shantae and the Seven Sirens sends the belly-dancing, hair-whipping, half-genie hero to a tropical island where Shantae and her friends encounter other Half-Genie allies, but they soon learn there’s trouble in paradise. As Shantae gets caught up in the island’s sinister secrets, she’ll use all-new dance abilities and instant-transformation Fusion Magic to explore the nonlinear, interconnected world where she’ll visit multiple towns, overcome treacherous labyrinths, and battle dastardly bosses. T...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/610/610a6b3280b4fdeddc0d65a59d53ff41.jpg",
+        "https://media.rawg.io/media/screenshots/5df/5df9c6b7b740d37bc4e4011015fec841.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Shantae and the Seven Sirens(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5faba7bb-4b75-4490-af75-f725eb05d571",
+      "title": "Shieldmaiden: Remix Edition",
+      "tags": "plataforma2d",
+      "cover": "https://media.rawg.io/media/screenshots/0f1/0f1fc8b536eea5e49ac5f36b9dac855b.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e4d/e4d1579c513c17b51ff22b03bacfc041.jpg",
+        "https://media.rawg.io/media/screenshots/8b3/8b3a36ebf5510765f84b6b3907b9a704.jpg",
+        "https://media.rawg.io/media/screenshots/ff3/ff36d5b5f6d7cd65fbe3e78be5fd7117.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Shieldmaiden: Remix Edition(plataforma2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "65956e9d-ae6b-49d2-85fb-f8a624ef76ae",
+      "title": "Shin chan: Shiro and the Coal Town",
+      "tags": "cozy game",
+      "cover": "https://www.shop-justforgames.eu/cdn/shop/files/shin-chan-shiro-and-the-coal-town-switch-clear-river-games-927808.png?v=1749052766&width=970",
+      "description": "about usFollow us on social media for more information and games!\nTwitter：@Coconut_Island\nFacebook：CoconutIslandStudio\nAbout the Game“Shio” isn’t your typical platformer. Floating lanterns aren’t just decorations – their purpose is to help you explore the world of “Shio”. Jumping from lantern to lantern should be easy, no? Wrong. You’ll need to harness the best of your wits and dexterity to navigate through this world.\nWho is the man under the mask? What is he doing in this world? What is he see...",
+      "images": [],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Shin chan: Shiro and the Coal Town(cozy game)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "64ac95fe-3caf-45ad-be10-40d93bdaa41b",
+      "title": "Shin Megami Tensei III: Nocturne",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/f84/f84344325c668c21460bddc45b9a1566.jpg",
+      "description": "As the world comes to an end through the acts of a cult's sacrifice, a teenage boy is transformed into the Demi-Fiend, neither fully human nor demon. With opposing forces fighting to shape a new world, he has the power to guide the path of its creation.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/786/786dfb46ba1df19a935b2f295b52d45f.jpg",
+        "https://media.rawg.io/media/screenshots/7de/7de87a30c13887899884cf35d9f73b8b.jpg",
+        "https://media.rawg.io/media/screenshots/c72/c72aa5094046ff1683da85924e81cc54.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Shin Megami Tensei III: Nocturne(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8c3dfd85-ea0d-4b0d-8aa1-f83339ec3cf1",
+      "title": "Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs. the Soulless Army",
+      "tags": "actionrpg",
+      "cover": "https://media.rawg.io/media/screenshots/ac6/ac67d86c9804709e4ff6eb41397d10c9.jpg",
+      "description": "Having inherited the mantle of Devil Summoner Raidou Kuzunoha, a young man goes to work at a detective agency and becomes involved in an occult conspiracy.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0fa/0fa6ee04c699eb577012c8c07080a361.jpg",
+        "https://media.rawg.io/media/screenshots/ebf/ebf0ab08daa02dfde1173dc8ced014ec.jpg",
+        "https://media.rawg.io/media/screenshots/9a3/9a38eb8a0f27a6f2aa2a05e0f07c2f9d.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs. the Soulless Army(actionrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ac4276d9-b671-4601-b482-f038b4d97e28",
+      "title": "Shining Resonance Refrain",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/games/0d5/0d526ea44b82eadaff0e8727638acf99.jpg",
+      "description": "Play as Yuma Ilvern and stop the Empire from exploiting the power of the ancient dragons, including the soul of the Shining Dragon within you. With the help of your friends, realize your destiny, save Astoria, and unleash the strength you’ve always had locked away.\nIn the original game, previously released only in Japan, Imperial Princess Excella was an unplayable character, but in the new “Refrain Mode” in Shining Resonance Refrain, both she and Dragonslayer Jinas can be added as party members ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a97/a97ce4d117f92896c0246a7dec1ad1f5.jpg",
+        "https://media.rawg.io/media/screenshots/d1b/d1b331ca70b9ff8b985a2eb1af6b1bf0.jpg",
+        "https://media.rawg.io/media/screenshots/02e/02e3efc2d5e9a7d0426852241e36252a.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Shining Resonance Refrain(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d337aa02-b04f-427c-a3fc-e5a538daa520",
+      "title": "Shovel Knight Dig",
+      "tags": "roguelike",
+      "cover": "https://media.rawg.io/media/games/703/70390b77e8325881a0fa264cfc8bd31e.jpg",
+      "description": "We’re very proud to announce Shovel Knight Dig, the newest project from Yacht Club Games. As a joint development project between Nitrome and Yacht Club Games, Shovel Knight Dig has been in development for more than a year! It’s got quite a ways to go still, but we wanted to give you a taste of the amazing adventure that Shovel Knight will be embarking on next!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/21e/21e2e89f0e5747f05770cb8c2ee242c4.jpg",
+        "https://media.rawg.io/media/screenshots/5a2/5a22ca055341942a8d39489c99b1be7a.jpg",
+        "https://media.rawg.io/media/screenshots/7f7/7f78e5893d7c0196faf379b26d9db74c.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Shovel Knight Dig(roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4ec2af50-de3d-4e9e-8963-ca18a1fd8ed0",
+      "title": "Shovel Knight Pocket Dungeon",
+      "tags": "Puzzle",
+      "cover": "https://media.rawg.io/media/games/d00/d000ad5d0b5cebe9192be5210f8cf85e.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/131/1319fcacf7bb0c6d2118ead1a4799004.jpg",
+        "https://media.rawg.io/media/screenshots/68b/68b1b7b9cab5973e4210aa3614981188.jpg",
+        "https://media.rawg.io/media/screenshots/b0c/b0c2122d5068143581229e6baad924b3.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Shovel Knight Pocket Dungeon(Puzzle)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3a1ada6f-9df7-4f6b-bd28-2928e4658b90",
+      "title": "Sifu",
+      "tags": "Briga de rua roguelike",
+      "cover": "https://media.rawg.io/media/games/3a9/3a9ea2db24f879e61fe7b824f5888d2a.jpg",
+      "description": "Is one life enough to have Kung Fu?\nIn Sifu, you play a young Kung-Fu student on a path of vengeance.\nRunning after shadows from his past, one against all, he will have to draw deep into his unique mastery of Pak-Mei Kung-Fu to prevail.\nOn the path of vengeance:\nThe hunt for your enemies will take you through the hidden corners of the city, from the gang-ridden suburbs to the cold hallways of the corporate towers. You have got one day, and countless enemies on your way. Time will be the pric...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0e6/0e6ddc47bf0e68d645f32d4f9521a849.jpg",
+        "https://media.rawg.io/media/screenshots/808/80862b57d0eeb2a6b0269b6e7644ecf2.jpg",
+        "https://media.rawg.io/media/screenshots/f84/f842b0e7c2c52dc7cf8f0dd0e1567ab6.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Sifu(Briga de rua roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e43b8d3b-dc24-492f-8e35-9b72c8fae139",
+      "title": "Sigma Star Saga Dx",
+      "tags": "Navinha",
+      "genre": "Tiro e Navinha",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Sigma Star Saga Dx(Navinha)",
+      "description": "Sigma Star Saga is a 2006 hybrid science fiction role-playing-space-shooter developed by WayForward Technologies for the Game Boy Advance. The player explores a standard 2-D overworld but is transported into space for side-scrolling shooter random battles. In this game, Ian Recker goes undercover against Earth's enemies, the Krill, in a battle to save the planet.",
+      "cover": "https://media.rawg.io/media/screenshots/f7c/f7c7f5f4e7ea1cc69a79c169c4e25234.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/320/32079d3fb19b68ee8c173c932a4830fe.jpg",
+        "https://media.rawg.io/media/screenshots/37d/37d498ce55830e999759bd8df16a1d19.jpg",
+        "https://media.rawg.io/media/screenshots/92b/92b219e1e438e220248f36a63f56d27d.jpg"
+      ]
+    },
+    {
+      "id": "57a8228c-6047-4836-b243-e4d01303d30b",
+      "title": "Signalis",
+      "tags": "terror",
+      "cover": "https://media.rawg.io/media/games/480/480295ba922318bb052d169174ec88aa.jpg",
+      "description": "A classic survival horror experience with a unique aesthetic, full of melancholic mystery. Investigate a dark secret, solve puzzles, fight off nightmarish creatures and navigate dystopian, surreal retrotech worlds as Elster, a technician Replika searching for her lost dreams.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1ba/1ba77befb152970f5b21546aa1aef370.jpg",
+        "https://media.rawg.io/media/screenshots/dde/dde918a415dc05de5335f707723e6f08.jpg",
+        "https://media.rawg.io/media/screenshots/11f/11f517b83221d481fac6f98cf3366677.jpg"
+      ],
+      "genre": "Terror",
+      "raw": "Signalis(terror)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "82a5d0e4-fc6b-470c-bf15-bdd752af72ae",
+      "title": "Silent hope",
+      "tags": "Rpgdungeon",
+      "cover": "https://media.rawg.io/media/games/c64/c6471adb36051a56de3d8f1a0d10f4fa.jpg",
+      "description": "Explore, fight, and create items to grow stronger as seven distinct heroes in the tragic world of Silent Hope. This isometric dungeon-crawler harkens back to the glory days of action RPGs but with a modern flair. Guided by The Princess, you’ll delve into The Abyss and learn the mysteries of this now-ruined kingdom.\n\nTravel between The Abyss and Base Camp as your heroes grow stronger. Comb the dangerous floors below to collect treasures and materials, then return to your sanctuary to create new i...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b71/b71f4ca94c8109c071975965ac4a7e11.jpg",
+        "https://media.rawg.io/media/screenshots/f0f/f0f3673772add8defa5ee8c2c0cfe481.jpg",
+        "https://media.rawg.io/media/screenshots/200/200515eec0c64f4c986e3f8a688ecc91.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Silent hope(Rpgdungeon)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d476060b-dd8d-405f-915c-fb4f1c805f20",
+      "title": "Skate xl",
+      "tags": "skate",
+      "cover": "https://media.rawg.io/media/games/3c6/3c6675b071608d3b00009308e191b79c.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 08 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/01c/01c3b0ce2d0f1b1167ddffdb7eeafd45.jpg",
+        "https://media.rawg.io/media/screenshots/aa3/aa311757d6c13008d6cbb139fe463eb5.jpg",
+        "https://media.rawg.io/media/screenshots/e68/e6883826dc56c8637ff9bae965cc3600.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Skate xl (skate)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d0fae747-fd3a-46c6-bd01-ca8ab79f9ccc",
+      "title": "Sky oceans: Wings for hire",
+      "tags": "jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/c9b/c9b3eef87f2b7a2fdef3a2c85b942088.jpg",
+      "description": "Sky Oceans: Wings For Hire is a homage to JRPG classics! Set in the open skies, experience adrenaline-filled turn-based dogfights as you take the role of captain and unite a party of rag-tag sky pirates setting upon an unforgettable, touching journey.\nRelive the charm of classic RPGs with a touching story about the search for purpose. Take the role of Glenn Windwalker as you assemble your team of sky pirates and fight against the 'Alliance'.\nFight adversaries within the open skies in strategic t...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/706/706482c6ee0a4e863e6a7882582e7224.jpg",
+        "https://media.rawg.io/media/screenshots/527/52782fbfd651001860fb0ddb296d83f1.jpg",
+        "https://media.rawg.io/media/screenshots/9db/9db31d6e7dcda8d591532266b8e13c09.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Sky oceans: Wings for hire(jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9974da47-cb6d-46b0-9a9c-74e73211996e",
+      "title": "Sky Racket",
+      "tags": "Navinha",
+      "cover": "https://media.rawg.io/media/screenshots/eb6/eb641a432d779bac4dbd1c7621ca8054.jpg",
+      "description": "The universe is in peril! Two kids are chosen to hold the powerful artifact \"Sky Racket\" and put a stop to an evil tyrant. Play as Racket Boy or Racket Girl, and with the help of cute and strong buddies, travel through a nonsense dystopian pixel art universe in a fast paced Shoot'em Up inspired game. Use your mighty Sky Racket to strike back at enemies and anything in your way, from cute blocks to gigantic half-peeled banana bosses.\nThe world's first Shmup Breaker game!\nYou are not alone in this...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/69a/69af0f5ae0a1632c67538df92f3bc441.jpg",
+        "https://media.rawg.io/media/screenshots/c6f/c6f7dc52cbed20635529e7858947f2f5.jpg",
+        "https://media.rawg.io/media/screenshots/6c7/6c75b47e7789c4c1931b702e64a23e39.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Sky Racket(Navinha)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "065e75c4-4803-43bd-ab05-0671f145b4a7",
+      "title": "Slipstream",
+      "tags": "corrida) (Multiplayer",
+      "cover": "https://media.rawg.io/media/screenshots/41e/41e72fd7afde605b4f0d91bd7fd5889e.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4e1/4e1af3502885b3fd8bc0f4b2761a996c.jpg",
+        "https://media.rawg.io/media/screenshots/c01/c01c6ddfda348e6e9b3e61f2226ce281.jpg",
+        "https://media.rawg.io/media/screenshots/1d2/1d2140bebb7ace7d0318c55feaf7d6a7.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Slipstream(corrida) (Multiplayer)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cce7207d-e0d4-497c-ab86-6721c8ed54a7",
+      "title": "Small Saga",
+      "tags": "rpg",
+      "cover": "https://media.rawg.io/media/screenshots/0e8/0e832774a67b69a849a51a6ef1779945.jpg",
+      "description": "Venture below the streets of London, and you will find the bustling kingdom of Rodentia, home to creatures great and small.\nThe mouse brothers Verm and Lance have heard rumour of a divine food hoard. But to reach it, they will have to venture through the territory of the lawless sewer rats...\nThis demo is just a snippet of what's to come.\n~~~\nControls:\nArrow keys - MoveZ - ConfirmX - Cancel, open menu\n~~~\nNote: This demo requires WebGL to run. If you encounter graphic glitches, you may need to u...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f54/f547ecec5a6fd9e32f86be4cddc68e6b.jpg",
+        "https://media.rawg.io/media/screenshots/0e8/0e832774a67b69a849a51a6ef1779945.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Small Saga(rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "6cfe31a6-1ef0-4103-9430-cac20288c7ab",
+      "title": "Smelter",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/80b/80bbd7e4c15e186771579fb1b4ce124a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/213/2131185cfb0c37dd330d22406f8f32f6.jpg",
+        "https://media.rawg.io/media/screenshots/52d/52de2c4366dede9abd494d93f3a74326.jpg",
+        "https://media.rawg.io/media/screenshots/f6b/f6b75f3d0a4be0c796d4182e7464fcd1.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Smelter(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4c183d0c-9a9c-41e3-8778-cbd09b31bcdc",
+      "title": "Snipperclips",
+      "tags": "Puzzle",
+      "cover": "https://media.rawg.io/media/screenshots/706/7068196eb5089a05caecc45e5bdd36e5.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f8f/f8f9df24420799a35cedb3099d855761.jpg",
+        "https://media.rawg.io/media/screenshots/11e/11e1d4758a4012e4918717745caeac5e.jpg",
+        "https://media.rawg.io/media/screenshots/750/750c2132f7f80bd840abd124b29d5f5a.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Snipperclips(Puzzle)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "3a4e6706-0e46-4462-90cf-507fb798a0b3",
+      "title": "SNK Heroines: Tag Team Frenzy",
+      "tags": "luta",
+      "cover": "https://media.rawg.io/media/screenshots/083/0833604a9555b1109e0baf70c20f0b00.jpg",
+      "description": "Activate Special Moves with a single button, and make use of special\nitems to change the tide of battle! However, the fight isn't over the\nmoment you've chipped enough health away. Once your opponent is on the\nropes, utilize your Dream Finish technique to win the match! Spectate on\nother battles online, and wage on who you think will win using in-game\npoints. Use your winnings to buy voice clips and accessories in an\nall-new costume system, and customize your favorite heroine to your\nheart's con...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/20a/20a128fa6c7db6a602637394aca51050.jpg",
+        "https://media.rawg.io/media/screenshots/c90/c90f89b334e04a56f0a75e01f7f971e7.jpg",
+        "https://media.rawg.io/media/screenshots/a24/a24f3da5a108a724b68644b289019de5.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "SNK Heroines: Tag Team Frenzy(luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "141b2724-3cb5-44bc-a9a0-cb4b3682b950",
+      "title": "SNK vs. Capcom: SVC Chaos",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/screenshots/c25/c25bd5f517ac92c834c052b1c6a8278d.jpg",
+      "description": "SNK vs. Capcom: SVC Chaos (エス・エヌ・ケイ バーサス カプコン エスブイシー カオス Esu Enu Kei Bāsasu Kapukon Esbuishī Kaosu) is a 2003 fighting game produced by Playmore (now SNK) for the Neo Geo arcade and home platform.\n\nThe game is a crossover featuring characters from SNK's and Capcom's respective fighting game properties such as The King of Fighters, Samurai Shodown, Street Fighter, and Darkstalkers. It was the third arcade game in a series of crossovers between these two companies (see SNK vs. Capcom series) and t...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c2a/c2ac9c70518a149479ee4d448f6d7707.jpg",
+        "https://media.rawg.io/media/screenshots/2c4/2c4bcb593053633857a3a003bfdfbf5b.jpg",
+        "https://media.rawg.io/media/screenshots/8e5/8e5d676840e81eed0f04854d48609105.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "SNK vs. Capcom: SVC Chaos(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bf890c98-466f-4db9-b711-32854b3c5150",
+      "title": "Snow Bros. Wonderland",
+      "tags": "Aventura, party game",
+      "cover": "https://media.rawg.io/media/screenshots/dd6/dd6d110deb60e6db2bc9345f1026d707.jpg",
+      "description": "ICE PELLETS AND SNOWBALLSThe legendary Snow Bros. series began over 30 years ago. Snow Bros. Wonderland is the newest chapter—and boy, has a lot changed in the last couple of decades! For starters, the graphics aren’t two-dimensional anymore; the new game offers a gorgeous 3D isometric style. Armed with an endless supply of ice pellets, gamers can turn monsters into snowballs, which can be kicked to destroy whole hordes of foes! Attacks can be chained to take down multiple enemies at once, and y...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/afa/afacda3e2debfcf13f73ecdac1b18a2a.jpg",
+        "https://media.rawg.io/media/screenshots/393/393841811d1a4d35165b5d3f54b8a901.jpg",
+        "https://media.rawg.io/media/screenshots/962/9623d5848435913a4a9046d01e208631.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Snow Bros. Wonderland(Aventura, party game)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ff563da7-de5b-4e53-a777-3e858988003e",
+      "title": "Snowrunner",
+      "tags": "Carro off-road",
+      "cover": "https://media.rawg.io/media/games/d22/d22ea1bfb636fbf1a9c235cc304312a8.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/40f/40f40efd0ed50d6ea4e76f7c8e6753d4.jpg",
+        "https://media.rawg.io/media/screenshots/002/00240cb84c42d1da021707c9f1999f3e.jpg",
+        "https://media.rawg.io/media/screenshots/e8e/e8ea92963b7be41e868191b3de6c2682.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Snowrunner(Carro off-road)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9637ddc7-cc00-448b-88ba-c3373a220a63",
+      "title": "Soccer Story",
+      "tags": "Rpg de futebol",
+      "cover": "https://media.rawg.io/media/screenshots/418/4189e75cc35c0d857c6a1977290e2e73.jpg",
+      "description": "It's been a year since The Calamity™ tore apart the very foundations of soccer as we know it, and since then, Soccer Inc. has made dang well sure that not a soul has been allowed to even look at a soccer ball, let alone kick it.\nSoccer may have been banned across the world... but now there is hope! A magical soccer ball has chosen you, our Savior of Soccer!\nSoccer Story is a physics-driven adventure RPG, where every problem can be solved with your trusty magic ball. Along the way, you'll need to...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f3c/f3ca8372b99af6ad3f92aecd53c8eb91.jpg",
+        "https://media.rawg.io/media/screenshots/fd7/fd7806d5d650da753f9b7a9b1f34f2d5.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Soccer Story(Rpg de futebol)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cf2a06c4-3e35-4cb9-a0d4-91cf018c6520",
+      "title": "Solar Ash",
+      "tags": "Aventura",
+      "cover": "https://media.rawg.io/media/games/e84/e844fe6d2f7182096b1e9f214e511ca6.jpg",
+      "description": "Solar Ash Kingdom is the second game from Heart Machine, the creators of the award winning 2016 game Hyper Light Drifter.\n\nJourney through a surreal, vivid and highly stylized world filled with mystery, wild high-speed traversal, endearing characters, and massive enemy encounters.\n\nThe Void beckons...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/164/164ce500a653d3261be766afe2385852.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Solar Ash(Aventura)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fa160c09-e51e-41ac-a379-f9f9103909c8",
+      "title": "Sonic Colors: Ultimate",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/screenshots/e03/e03546b5b5b7b7de9fc16714c84f8f41.jpg",
+      "description": "The evil Dr. Eggman has built an interstellar amusement park – but he’s powering it with a captured alien race called “Wisps.” Use Sonic’s speed to free the Wisps and gain their amazing powers as you explore six unique worlds, filled with hurdles to overcome. Now with stunning upscaled visuals, additional features a new game mode and enhanced gameplay - it's the Ultimate Sonic Colors experience.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9d9/9d9373ed34b7f43c6e735c56152d839d.jpg",
+        "https://media.rawg.io/media/screenshots/254/2546299c0c0e951fc83806940df50d45.jpg",
+        "https://media.rawg.io/media/screenshots/e03/e03546b5b5b7b7de9fc16714c84f8f41.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Sonic Colors: Ultimate(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "109b25b5-7d0b-4343-9f61-18fd96e32660",
+      "title": "Sonic CrossWorlds",
+      "tags": "Corrida",
+      "cover": "https://media.rawg.io/media/games/8e8/8e839d5e075f0b94cd064c7d5e46f945.jpg",
+      "description": "Jogo de Nintendo Switch. Corrida",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7b9/7b975a3e6ba26b9ae837359bfc7ec3fc.jpg",
+        "https://media.rawg.io/media/screenshots/94b/94bb80c308f3549d0ab47aeb05eef294.jpg",
+        "https://media.rawg.io/media/screenshots/79e/79e7ff5e347073c16b6f8d6ff6506e20.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Sonic CrossWorlds(Corrida)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d9378415-5c22-462f-985a-33c9a55db252",
+      "title": "Sonic Frontier",
+      "tags": "Mundo aberto",
+      "cover": "https://media.rawg.io/media/games/f2b/f2bc84509d92c95a8ad22caa8c8afa06.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 03 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fa4/fa4be1f90c7496b38abf418ad4aad690.jpg",
+        "https://media.rawg.io/media/screenshots/e10/e109d5784c1ea10eccd3df7f9895c682.jpg",
+        "https://media.rawg.io/media/screenshots/5e1/5e183d09c49ff23ba489e8d1acbc6d72.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "Sonic Frontier (Mundo aberto)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "edbe1f95-a633-416b-a572-9153a70f125c",
+      "title": "Sonic mania",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/bbf/bbf8d74ab64440ad76294cff2f4d9cfa.jpg",
+      "description": "Experience the ultimate celebration of past and future in Sonic Mania, an all-new 2D Sonic adventure running at a crisp 60FPS with stunning HD retro-style graphics. Multiple playable characters give you the ability to go explosively fast as Sonic, soar as Tails, or power through tough obstacles with Knuckles’ brute strength. You can re-live the Sonic of the past with an exciting new twist on classic zones while fighting against new bosses and Dr. Eggman’s evil robot army. Go head to-head with pl...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/40d/40dd1127a5ea6ed3a685043df6cd08a0.jpg",
+        "https://media.rawg.io/media/screenshots/24b/24b4503ee2ebde09fb5026e11956b304.jpg",
+        "https://media.rawg.io/media/screenshots/230/230e659226fc8f81804cea52aae5f770.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Sonic mania(Plataforma 2d)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b4514b78-a3c4-472d-bd9e-395a6314c43e",
+      "title": "Sonic Superstars",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/d83/d83e841857f4eb686f35b193aa56440f.jpg",
+      "description": "New thrills. Classic feels.\n\nAdventure through the mystical Northstar Islands in this all-new take on classic 2D Sonic high-speed action platforming. Play as Sonic, Tails, Knuckles, and Amy Rose and harness all-new Emerald powers to move and attack in dynamic new ways. Navigate gorgeous, never-before-seen environments solo or with up to 3 other players and stop Dr. Eggman, Fang, and a mysterious new adversary from converting the islands' giant animals into Badniks before it's too late!\n\nA new Sp...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/864/86458fda6e9ac3746e95088bb6bf05d6.jpg",
+        "https://media.rawg.io/media/screenshots/e04/e04aa66b96b4c4eb4f92709845f9d1c2.jpg",
+        "https://media.rawg.io/media/screenshots/638/6387a947c9e60dc20bf52b0e0572a61c.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Sonic Superstars(plataforma 2d)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "597a71d6-0aae-46e6-a547-7e0a035069c1",
+      "title": "Sonic wings reunion",
+      "tags": "navinha",
+      "cover": "https://media.rawg.io/media/screenshots/821/821704ddcb3621d3950a87abfd001540.jpg",
+      "description": "In the year 20XX, cities around the world were attacked.The mysterious organization “Fata Morgana,” which possesses superweapons and controls the world's military arsenal with unknown technology, has returned.The international secret rescue team “Project Blue,” a group of sky-riding knights, stands up against this global threat.What awaits them as they take the fight to a powerful enemy for various reasons? ......!SONIC WINGS REUNION is a sequel to the arcade-style shooter SONIC WINGS. The previ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/145/145ac8b80d5d0a029edcfb717bfd212b.jpg",
+        "https://media.rawg.io/media/screenshots/70b/70b2f78072d261196f37fa09808b0d84.jpg",
+        "https://media.rawg.io/media/screenshots/757/7577f71ae887d7a24871c9248b1f0892.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Sonic wings reunion(navinha)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "06378ba2-63dd-4d76-a0a8-843ba5631641",
+      "title": "SONIC X SHADOW GENERATIONS",
+      "tags": "plataforma 2d e 3d",
+      "cover": "https://media.rawg.io/media/screenshots/797/797fc5d525fd1ec461268f43aad06dfd.jpg",
+      "description": "Digital Deluxe Edition\nAbout the GameSONIC X SHADOW GENERATIONS DIGITAL DELUXE EDITION\nPurchase the SONIC X SHADOW GENERATIONS Digital Deluxe Edition and receive additional iconic music tracks from previous Sonic and Shadow games, a Terios skin based on Shadow’s original concept, behind-the-scenes art, the Sonic the Hedgehog 3 Movie Pack featuring the voice of Keanu Reeves, and more!\nIt includes:\n•\tBase Game\n•\tDigital Deluxe Season Pass:\no\tSonic the Hedgehog 3 Movie Pack (releasing December 12, ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a6b/a6bf8c1476e9e5bd2660679c9fb64e4a.jpg",
+        "https://media.rawg.io/media/screenshots/a1c/a1c4f76c07409649474283059e439280.jpg",
+        "https://media.rawg.io/media/screenshots/f35/f35a234b92ffe951c4eb7fa2b86303db.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "SONIC X SHADOW GENERATIONS(plataforma 2d e 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5b37ca04-944e-498f-9415-2d5af2d7359a",
+      "title": "Souldiers",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/7a1/7a13e94294e95d3800d803e2e89bc42a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5af/5af1b2c7132aaf6fd6880d077c38aa63.jpg",
+        "https://media.rawg.io/media/screenshots/5fb/5fbb3b243eff21b87d755b7d5e135459.jpg",
+        "https://media.rawg.io/media/screenshots/0f9/0f9321d6adb638e2c1a03cd1d56496f7.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Souldiers(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "28c131ce-a75c-457c-9f7b-9bfcb42e8f01",
+      "title": "SOUTH PARK: SNOW DAY!",
+      "tags": "coop online",
+      "cover": "https://media.rawg.io/media/screenshots/f90/f9017218e38ee5321dce6d6f8ad98c4a.jpg",
+      "description": "Digital Deluxe Edition\nGet even more South Park with the \"SOUTH PARK: SNOW DAY! Digital Deluxe Edition\". This special edition includes the base game and the Season Pass.\n\nThis Season Pass includes 6 DLCs in total:\nAll-new game mode\nAll-new ranged weapon and new cosmetics\nAll-new melee weapon and new cosmetics\nNew weapon variation for the Daggers\nCRED cosmetic pack\nAsspen cosmetic pack\nGAME MODE: This all-new Game Mode changes the rules again! Prepare for hellish, new rules and special challenges...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/dc0/dc036a4a46400cd436bccd07ed9bd290.jpg",
+        "https://media.rawg.io/media/screenshots/fde/fde4078c0643ed017957854b2efe6650.jpg",
+        "https://media.rawg.io/media/screenshots/194/19455a00b67190932f904c4a0c842cb2.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "SOUTH PARK: SNOW DAY!(coop online)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a3ea356b-e22f-43c6-a8dd-32fee1f1ac63",
+      "title": "South Park: The Fractured but Whole",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "South Park: The Fractured but Whole(Jrpg)",
+      "description": "###Worthy ancestor\nThe second part in a series of jRPG-like games in the popular cartoon universe about the of schoolchildren adventures. South Park already had attempted to make quality games, but until recently they were unsuccessful. In this case, the stars converged and the game, like its predecessor, proved to be successful.\n\n###Geniuses at work\nThe developers themselves were the creators of the original show - Trey Parker and Matt Stone. The plot of the game is in no way connected with the...",
+      "cover": "https://media.rawg.io/media/games/63c/63cb04333dea1726e90b38dc3d10258f.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b5e/b5eb530752490da8a92a97ef3e7d32df.jpg",
+        "https://media.rawg.io/media/screenshots/ee2/ee2db89e45f37125dd80682105a8f5a5.jpg",
+        "https://media.rawg.io/media/screenshots/685/685458700797b82c56f401901e764238.jpg"
+      ]
+    },
+    {
+      "id": "ca7d012a-949b-4a73-931c-0c0597c94ee1",
+      "title": "South Park: The Stick of Truth",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg",
+      "description": "South Park: The Stick of Truth is an action RPG based on the American animated series South Park. Players assume the role of the New Kid, who moved to eponymous fictional town in Colorado State with his parents. According to the storyline, the New Kid meets the army of humans led by Wizard King Cartman in the Kupa Keep Kingdom (Cartman’s backyard) and gets his nickname Douchebag. Cartman, as well as other characters of the original series, introduce The Stick of Truth, the key to the war between...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b38/b389d7861b0def2304970aba71a9d715.jpg",
+        "https://media.rawg.io/media/screenshots/c64/c64770dd0e4f0926f78632ddac02e1a1.jpg",
+        "https://media.rawg.io/media/screenshots/d23/d23f94ad8fb95cf5b93eeb1c72796c91.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "South Park: The Stick of Truth(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ee965117-4403-4deb-879f-efb1955706e7",
+      "title": "Sparklite",
+      "tags": "Roguelike",
+      "cover": "https://media.rawg.io/media/screenshots/7d1/7d17d7e55980764359b62b75e9e3b699.jpg",
+      "description": "Sparklite is a roguelite brawler-adventure. Using an arsenal of gadgets, guns, and gear, you will battle foes in top-down action combat, solve puzzles and explore dangerous corners of the world. Having crash-landed your first job will be to search for missing gyrocopter parts before you take on the task of saving the Sparklite.\nEverything in the world is tied together by Sparklite... it's the life force of the planet and the inhabitants have learned how to channel it for their own gain. It can b...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/348/3482b9fb97a91c608958e1fb314b2743.jpg",
+        "https://media.rawg.io/media/screenshots/813/8134b05619c9f88433b1f384d9aedc5a.jpg",
+        "https://media.rawg.io/media/screenshots/34e/34eb24140f47c9078a1c8df9bbf22e37.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Sparklite(Roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7ee9010e-ddec-476a-bffd-d14298ce01b5",
+      "title": "Spelunky 2",
+      "tags": "roguelike",
+      "cover": "https://media.rawg.io/media/games/686/68625f8bef120a2a6074c394baf27f77.jpg",
+      "description": "Meet the next generation of treasure hunters in Spelunky 2! Follow Ana Spelunky and her friends on an exciting new adventure as they journey deeper than they could have ever imagined...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/94b/94b7d39757c22ee784b6080732b1f1ee.jpg",
+        "https://media.rawg.io/media/screenshots/8f9/8f92c630dac130dd097518fe10bf5085.jpg",
+        "https://media.rawg.io/media/screenshots/cd2/cd23759113036ad0953ef21dacb7084a.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Spelunky 2(roguelike)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ec7a5313-45d4-438b-ac7f-478d11ac6fa7",
+      "title": "Spin rhythmXD",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/6a8/6a8b7c8b4933d0e4f15296efaaf00415.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4a0/4a0f5847b1cf0d9295d241700030a3ef.jpg",
+        "https://media.rawg.io/media/screenshots/53e/53e72af47615071fe6bd91c9527f6411.jpg",
+        "https://media.rawg.io/media/screenshots/dd4/dd44fad7f57fdd36dbe0edbb19e9a602.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Spin rhythmXD (Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "91cd309d-394d-4732-b6e3-29a10cb76830",
+      "title": "Spiritfall",
+      "tags": "rogue like estilo smash",
+      "cover": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000085713/19087f9c9c45db6995b73974fbb60e85d0a0bbb437737d29cd8fc984017d5c18",
+      "description": "Jogo de Nintendo Switch. rogue like estilo smash",
+      "images": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/software/switch/70010000085713/3c1f0d6bbfdbf5884f8f1ca2ff7f1a4ca6d7ec8430838b95364f63dd53291cf3"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Spiritfall(rogue like estilo smash)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "582e338c-afb7-4b31-aa34-cfc150e57fda",
+      "title": "Spiritfarer",
+      "tags": "fazendinha",
+      "cover": "https://media.rawg.io/media/games/727/727f889060e688bbdcba7b2a5d26a603.jpg",
+      "description": "What will you leave behind?\nSpiritfarer  is a cozy management game about dying. You play Stella, ferrymaster to the deceased, a Spiritfarer. Build a boat to explore the world, then befriend and care for spirits before finally releasing them into the afterlife. Farm, mine, fish, harvest, cook, and craft your way across mystical seas. Join the adventure as Daffodil the cat, in two-player cooperative play. Spend relaxing quality time with your spirit passengers, create lasting memories, and, ultim...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6d8/6d88b55590b6d0f5f46a28a9cfb8f929.jpg",
+        "https://media.rawg.io/media/screenshots/fe7/fe755947578573e0cf0628550d2e4f0e.jpg",
+        "https://media.rawg.io/media/screenshots/84f/84f3ca61f971f71152e88bf1aef38179.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Spiritfarer(fazendinha)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2dddc0f5-69f1-4a90-be65-b43d35675d8b",
+      "title": "Splatoon 3",
+      "tags": "",
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false,
+      "raw": "Splatoon 3",
+      "description": "Ink up the Splatlands in the next Splatoon™ game!\n\nEnter the Splatlands, a sun-scorched desert inhabited by battle-hardened Inklings and Octolings. Splatsville, the city of chaos, is the adrenaline-fueled heart of this dusty wasteland.\n\nEven in this desolate environment, Turf War* reigns supreme and battles rage in new stages located in the surrounding wilds.\n\nDynamic new moves help these fighters dodge attacks and cover more ground, along with a new bow-shaped weapon to sling ink. Stay tuned fo...",
+      "cover": "https://media.rawg.io/media/games/360/360ac0a839ab0f0d9a70b35d38264cb0.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/52a/52ab56f49dacec085803b93e20cde2d8.jpg",
+        "https://media.rawg.io/media/screenshots/4ef/4ef5d976b974873c574126ed3e081f99.jpg",
+        "https://media.rawg.io/media/screenshots/3eb/3eb910c77a5597197276f3ea541916d2.jpg"
+      ]
+    },
+    {
+      "id": "0e06583f-0c58-4ca8-9a1f-b486fc688c0d",
+      "title": "SpongeBob SquarePants: Battle for Bikini Bottom — Rehydrated",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/793/79307648580a262f6cac402c3007efe0.jpg",
+      "description": "Are you ready, kids?\n The cult classic is back, faithfully remade in spongetastic splendor! Play as SpongeBob, Patrick and Sandy and show the evil Plankton that crime pays even less than Mr. Krabs. Want to save Bikini Bottom from lots of rampant robots with your mighty bubbles? Of course you do! Want to underpants bungee jump? Why wouldn't you! Want to join forces in a brand new multiplayer mode? The battle is on!\nGAME FEATURES\nPlay as SpongeBob, Patrick and Sandy and use their unique sets of sk...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cb6/cb6d428ab55b3af5f1b6016d6d82795e.jpg",
+        "https://media.rawg.io/media/screenshots/ab7/ab70ac3a91f590907e75e3ebede374c0.jpg",
+        "https://media.rawg.io/media/screenshots/ab5/ab5df64c3a9524107fd367fa8c046834.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "SpongeBob SquarePants: Battle for Bikini Bottom — Rehydrated(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "6993f318-7ae0-4013-99f5-da267b6d6fe8",
+      "title": "SpongeBob SquarePants: The Cosmic Shake",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/678/67805379742d1880cd1177676699238c.jpg",
+      "description": "Wish-granting Mermaid’s Tears in the hands of SpongeBob and Patrick… What could possibly go wrong?\nSure, the very fabric holding the very universe very together could come very undone, opening up portals into Wishworlds full of knights, cowboys, pirates, and prehistoric snails.\nBut that’s nothing everyone’s favorite sponge can’t handle - with the right cosmic costume! Everybody do the Cosmic Shake!\n\n\n\nKEY FEATURES\n\nUnlock classic and new platforming skills like the Fishhook Swing and Kar...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5d4/5d4391915fdce8ec02383847a1dbedb7.jpg",
+        "https://media.rawg.io/media/screenshots/da0/da0e4592f1b509812f659be7fc151b85.jpg",
+        "https://media.rawg.io/media/screenshots/498/498c03e8b40fa28a4d0b0c6165ec153f.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "SpongeBob SquarePants: The Cosmic Shake(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "feee9137-954a-4d6d-85b0-2a03d21412db",
+      "title": "Sports Story",
+      "tags": "Rpg de Esporte",
+      "cover": "https://media.rawg.io/media/screenshots/de7/de784ebbc23e8faf5935d4e89b9fdf29.jpg",
+      "description": "Sports story is a game about sports, but not always. Various non-sporting pursuits provide variety. Alternate activities like dungeon exploration, stealthy infiltrations and fishing expeditions mean something unexpected waits around every corner. Sometimes\n\nit is even sports.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/25b/25b6d3df81cafeedf7534ffa72c38019.jpg",
+        "https://media.rawg.io/media/screenshots/864/864f0935415a403f06f7712965f7c802.jpg",
+        "https://media.rawg.io/media/screenshots/665/665a44c670b9970339e4f5c0ef677be0.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Sports Story(Rpg de Esporte)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "05da4629-559b-4992-a085-0c48ccd13e97",
+      "title": "Spyro Reignited Trilogy",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/a50/a505bccdcfdc79970a93574c747f6e0d.jpg",
+      "description": "Spyro Reignited Trilogy is a collection that includes three remastered games from the Spyro franchise that were released in the late 1990s: Spyro the Dragon, Spyro 2: Ripto's Rage! and Spyro: Year of the Dragon\n\n###Plot\nThe plot of the game is identical to that of the three original games. They all follow Spyro, a small cutesy purple dragon, on his quest to save his dragon kin from various villains.\n\nThe games are set in the Dragon Kingdom, a fantasy world inhabited by sentient dragons. The...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d44/d4419651cfdcc780e660393d49e67e05.jpg",
+        "https://media.rawg.io/media/screenshots/d77/d77481bae3f6f58d5d47636ee309819c.jpg",
+        "https://media.rawg.io/media/screenshots/8b0/8b0825d8be950e428476a50f9059096d.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Spyro Reignited Trilogy(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "574d7a63-83de-4b23-9ab8-585f081fdb28",
+      "title": "Squad 51 vs. the Flying Saucers",
+      "tags": "Navinha",
+      "cover": "https://media.rawg.io/media/screenshots/28a/28aa3878010d18e76f6a844e7b2590de.jpg",
+      "description": "Esquadrão 51 contra os discos voadores",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7e5/7e580a64944854474fb58ac3bd811b8b.jpg",
+        "https://media.rawg.io/media/screenshots/cba/cba19f0d9d06d87683175bd778b636b0.jpg",
+        "https://media.rawg.io/media/screenshots/ba1/ba18e3e293d57a561420f952380f9b81.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Squad 51 vs. the Flying Saucers(Navinha)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "574d43de-6108-4f04-8597-654d43838f5c",
+      "title": "Star Ocean: The Second Story R",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/5aa/5aa16a80d9717ac54f12eb0bcebba6d2.jpg",
+      "description": "The highly acclaimed second instalment in the STAR OCEAN series, returns as STAR OCEAN THE SECOND STORY R.\n\nSpace Date 366 - A Federation officer finds himself transported to a mystical planet. While searching for a way home, an encounter with a young girl draws him into a quest to save her people, just as an ancient prophecy foretold...\nChoose your path and witness an awakened destiny.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0fb/0fb37d3cd85b148b31f3e24419256b32.jpg",
+        "https://media.rawg.io/media/screenshots/ea6/ea63e6ac48583b70fc6c6973b83fc87f.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Star Ocean: The Second Story R(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d72f12bd-7cb8-4503-933d-d95431df517e",
+      "title": "Star overdrive",
+      "tags": "Mundo aberto",
+      "cover": "https://media.rawg.io/media/games/5ac/5ac8ac51ecb538c8c5859ef8510e79d7.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 03 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a08/a08ebcb83dbc5d23fb9c49a73770705f.jpg",
+        "https://media.rawg.io/media/screenshots/6ec/6ec2579d67ddf6009bd25b9de7081916.jpg",
+        "https://media.rawg.io/media/screenshots/fbe/fbe37706d59a12925ccdfadd68a981d8.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "Star overdrive(Mundo aberto)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3e190760-d919-4902-aedb-78204c8b51eb",
+      "title": "Star overdrive",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/5ac/5ac8ac51ecb538c8c5859ef8510e79d7.jpg",
+      "description": "Journey to the galaxy's depths in this high-speed sci-fi epic!\nAfter receiving a mysterious distress signal, you'll embark on a daring adventure through an alien world, uncovering secrets hidden in its depths. Ride your stylish Hoverboard to traverse stunning landscapes filled with alien structures, from scorching sands to wavy waters, each testing your traversal skills to the limit.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a08/a08ebcb83dbc5d23fb9c49a73770705f.jpg",
+        "https://media.rawg.io/media/screenshots/6ec/6ec2579d67ddf6009bd25b9de7081916.jpg",
+        "https://media.rawg.io/media/screenshots/fbe/fbe37706d59a12925ccdfadd68a981d8.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Star overdrive",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d24cc79d-f557-4a9d-81ea-9eda7fee795b",
+      "title": "Star Wars Episode I: Jedi Power Battles",
+      "tags": "aventura",
+      "cover": "https://media.rawg.io/media/screenshots/979/979da18f4ba96777d485e74c7d89f8c3.jpg",
+      "description": "Star Wars Episode I: Jedi Power Battles is an action adventure Star Wars video game set during the time frame of Star Wars: Episode I – The Phantom Menace. The game was first released for the PlayStation, afterwards for the Dreamcast and the Game Boy Advance (in the last case under the title Star Wars: Jedi Power Battles).",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4b8/4b8712d66a8eb3b3512f18450008e988.jpg",
+        "https://media.rawg.io/media/screenshots/15d/15d4ae4c2dcac88f87fabc3c1c500ffb.jpg",
+        "https://media.rawg.io/media/screenshots/09d/09dab28765dc64ef7e9c67b72e58568c.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Star Wars Episode I: Jedi Power Battles(aventura)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e82cf1ad-3115-4f46-a4c4-363868770651",
+      "title": "Star Wars: Knights of the Old Republic 2",
+      "tags": "Rpg",
+      "cover": "https://media.rawg.io/media/games/6e0/6e0c19bb111bd4fa20cf0eb72a049519.jpg",
+      "description": "The game takes place in the world of the epic \"Star Wars\".\nWhen creating a character, first select a class - Soldier, Scoundrel or Scout. Classes differ in the proportion of strength, health and cunning. Later, three more classes will open, each of which will be a Jedi: Jedi Guardian, Jedi Consular, and Jedi Sentinel. This will also be the choice in favour of different proportions of strength, intelligence and skills.\nIn the world of \"Star Wars,\" there is a Force that can be vested both by the...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/866/8664afa49dd3268e4338df05e26035ff.jpg",
+        "https://media.rawg.io/media/screenshots/896/896826c50179f5344b2047d374bc7536.jpg",
+        "https://media.rawg.io/media/screenshots/065/065cd3bf885528491e75b34daef75a3a.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Star Wars: Knights of the Old Republic 2(Rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b2201786-5214-4754-8de3-3d375d30e4bf",
+      "title": "Stardew Valley",
+      "tags": "Fazenda",
+      "cover": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
+      "description": "The hero (in the beginning you can choose gender, name and appearance) - an office worker who inherited an abandoned farm. The landscape of the farm can also be selected. For example, you can decide whether there will be a river nearby for fishing.\nThe farm area needs to be cleared, and it will take time.\nThe hero has many different activities: plant and care for plants, raise livestock, practice crafts, extract ore, and also enter into relationships with residents of the neighbouring town to ea...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b72/b722b1746256f64ce5e15558d1ac7613.jpg",
+        "https://media.rawg.io/media/screenshots/733/7330aea66ef9de06bb201e1d3f10ff70.jpg",
+        "https://media.rawg.io/media/screenshots/0a6/0a6dfc3ef9ac018b737427405e686e23.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Stardew Valley(Fazenda)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7873700d-4e26-4ea6-900e-fc61a958c195",
+      "title": "Starlair",
+      "tags": "metroidmaker",
+      "cover": "https://media.rawg.io/media/screenshots/b7f/b7ff96913f40f5254c9ca95b75a0a3bc.jpg",
+      "description": "Starlair is a Metroidvania where the players create the worlds. You play as a bounty hunter traveling the galaxy looking for adventure - and riches. Every planet in the galaxy is created by another player. Either play or build - or both! It's up to you.\nThe world creator allows you to build your own Metroidvania style adventure game - with potentially dozens of hours of gameplay, and then upload it to the Starlair universe to challenge players. Each world will have unique rewards that will entic...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e93/e935984cca67c8e661ec3c0ea7541457.jpg",
+        "https://media.rawg.io/media/screenshots/7eb/7eb54c46be2f1d17c68c95edbfcb6a15.jpg",
+        "https://media.rawg.io/media/screenshots/808/808343fc0344c85f88da7ce73b88477a.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Starlair(metroidmaker)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "57c53e86-e922-4b86-b8b7-aab8895c32c2",
+      "title": "Steamworld Build",
+      "tags": "Simulador",
+      "cover": "https://media.rawg.io/media/games/ad6/ad69e5e89dead3b7616dddf68819203a.jpg",
+      "description": "Join the SteamWorld Build Community on Discord!\nAbout the Game\nOne final landrush! The planet is dyin', Astrid, and it's dig or die trying!\nThat mine under our town is sitting empty, and wouldn't you know there's rumours of ancient tech down there that might help us out of this predicament. Round up the posse, circle the wagons, and let's get to buildin' a new home! Collect resources above ground and ores down below so we can get those wealthy bots in here to help us build bigger, and we can get...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/58f/58fe727e117e0ea7456c38cee0a2fda3.jpg",
+        "https://media.rawg.io/media/screenshots/101/1015efe91c4e41ae364f1fad87a3b4e0.jpg",
+        "https://media.rawg.io/media/screenshots/212/2127f5a32927d7c4048c26746a3f482d.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Steamworld Build(Simulador)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "abe22008-28e2-46a9-ab0b-fbc37dfee718",
+      "title": "Steel Assault",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/d2a/d2a9119366efa3005221210a0cfea47a.jpg",
+      "description": "Join the community\nAbout the Game\nPunch, whip, and zipline your way through a post-apocalyptic America in this 16-bit retro-style action platformer! Play as Taro Takahashi, a resistance soldier on a revenge mission against the dictator who lords over the ashes.\nFast-paced 2D platforming: Dynamic, fluid side scrolling combat with a stylish moveset and tons of enemies & bosses to fight\nUnique zipline action: A new twist on classic grappling-hook mechanics, opening up fun movement possibilities\n16-...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/887/88743d2d9ddaad5dff28f79a92c2ba27.jpg",
+        "https://media.rawg.io/media/screenshots/c59/c59b6cf237d243bc4f6e11d40e80d4c3.jpg",
+        "https://media.rawg.io/media/screenshots/442/442b13c76db27fbad54b28b68536c745.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Steel Assault(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a4f18123-7bcd-4a12-9f63-1d09ab334d39",
+      "title": "Storm Lancers",
+      "tags": "rogue like",
+      "cover": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/stormlancers/16x9_StormLancers_image1600w.jpg",
+      "description": "Jogo de Nintendo Switch. rogue like",
+      "images": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/store/software/switch/70010000091770/8ed618226abdf1c18068cef8a5108703f95753ce07eee759205c3b0ce4d6649f"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Storm Lancers(rogue like)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7ab5b1c1-b9a3-433c-a230-9f7e473293de",
+      "title": "Story Of Seasons: A Wonderful Life",
+      "tags": "fazenda",
+      "cover": "https://media.rawg.io/media/screenshots/2eb/2ebcf27d4d1f8654e2c7c522008e01cb.jpg",
+      "description": "An unforgettable tale of friendship, family and farming blooms back to life on Nintendo Switch™.\n\nYour new life begins in Forgotten Valley, a tranquil community where your father and his friend Takakura once dreamed of running a farm. As you befriend the valley’s residents and fulfill your father’s legacy, you’ll live a carefree life on the farm growing crops and raising animals. As the seasons go by, you’ll find your lifelong partner, raise a child together, and watch them grow up before your v...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d7b/d7ba6da3d16f23ab98d7cfbd80df7a69.jpg",
+        "https://media.rawg.io/media/screenshots/4c7/4c73ffaf7f45018f6ceaa1277743a232.jpg",
+        "https://media.rawg.io/media/screenshots/146/146598364b422c52f65bbd3a15b1b968.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Story Of Seasons: A Wonderful Life(fazenda)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "dc29b7e4-9cf8-4cc8-ba3b-35d884b45e2c",
+      "title": "Stray",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6c9/6c9d036518f78895ddf552d2cb7421d6.jpg",
+        "https://media.rawg.io/media/screenshots/444/44480d0f02c17e41dd1d9b58affad214.jpg",
+        "https://media.rawg.io/media/screenshots/e38/e38f600f4ad9145d0bcba128064503db.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Stray (Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "48adea43-5a9e-4394-b885-bc17639a9cfa",
+      "title": "Streets of Rage 4",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/games/e56/e56d74b0a1072662eea7c1a194363884.jpg",
+      "description": "Streets of Rage, known as Bare Knuckle (ベア・ナックル Bea Nakkuru) in Japan, is a trilogy of beat 'em up games developed and published by SEGA in the 1990s.\n\nFamously known for its non stop action and electronic dance influenced music - scored by Yuzo Koshiro and Motohiro Kawashima - the series has gained the status of cult classic throughout the years. It is considered one of the best beat 'em up series of all time. After many years, Axel and Blaze are finally picking up the fight where they left.\n\nF...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b77/b77f44765439c5b1bb1cf775d9d5a0cb.jpg",
+        "https://media.rawg.io/media/screenshots/d79/d791d33bad726d39b0cbe35a9d7843a6.jpg",
+        "https://media.rawg.io/media/screenshots/fc5/fc5102789a23bc2f827833620af8d346.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Streets of Rage 4(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1826d841-6ce5-41ef-9e1d-e67dacb64141",
+      "title": "Strikey Sisters",
+      "tags": "Arkanoid like",
+      "cover": "https://media.rawg.io/media/screenshots/b65/b659845160be178fdab9f95c40663f00.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/476/476dc2d96cb1b037f40f1a7361097ac2.jpg",
+        "https://media.rawg.io/media/screenshots/c76/c7612e370737839d19c5165b59596298.jpg",
+        "https://media.rawg.io/media/screenshots/3c7/3c75c01c3391858b6222aecaf22fe835.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Strikey Sisters(Arkanoid like)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b124885c-0213-4cb0-9d85-8bce97d8b1e1",
+      "title": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/c88/c8840488aaf64680ace8b71239e7d78e.jpg",
+      "description": "A hero's destiny is written in the stars\nKonami's legendary JRPGs, Suikoden I and Suikoden II, now remastered in HD!\n\nThe story of Suikoden I\nA former hero turned violent tyrant and an empire in decline.\nA liberation army rises up in an act of rebellion against an oppressive law.\nOne by one, the 108 stars of Fate come together to shape the course of history.\n\nThe story of Suikoden II\nThe hero of our story and his friend Jowy are members of the Unicorn Brigade, which was involved in a long-standi...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e36/e36bf552a4375400ef0d8f208eff46a0.jpg",
+        "https://media.rawg.io/media/screenshots/be2/be2d1acc99af2022d33fefe5992817a8.jpg",
+        "https://media.rawg.io/media/screenshots/e11/e117eec523569bed6e9a612300eb108b.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "96ba00ac-ea3b-4d21-b313-32b134317d74",
+      "title": "Summum Aeterna: Prologue",
+      "tags": "rogue like",
+      "cover": "https://media.rawg.io/media/screenshots/594/594109e7d02dd54e5f4f0dbab61525fc.jpg",
+      "description": "ADD FULL GAME TO YOUR WISHLISThttps://store.steampowered.com/app/1815230/Summum_Aeterna/\nAbout the Game\nSummum Aeterna: Prologue is a free version of the fast-paced Roguelite set in the Aeterna Universe! The prologue allows players to play some of the features that differentiate this game from other Roguelite titles.\nLet's see what incles this free version:Tutorial\nA brief episode to understand the movement and combat controls of Summum Aeterna. Learn to control the King of Darkness in this fast...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/788/78816b137decd6d48bca947fdd01b261.jpg",
+        "https://media.rawg.io/media/screenshots/db1/db13d09fcb610af3141b350e13482380.jpg",
+        "https://media.rawg.io/media/screenshots/895/8956b3e7470b8d553048774a6cf842e8.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Summum Aeterna: Prologue(rogue like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c42d9e1c-30a0-4132-b43e-eec56965165e",
+      "title": "Sunblaze",
+      "tags": "Celeste like",
+      "cover": "https://media.rawg.io/media/screenshots/375/3751567b445a703a4469d05305471feb.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0e3/0e377ae922ca4f7191cdaa8b2a8f74b4.jpg",
+        "https://media.rawg.io/media/screenshots/107/107599676effb26da0a7388e1d19d699.jpg",
+        "https://media.rawg.io/media/screenshots/896/89654775f96ae450b24e97ae9a8e56d6.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Sunblaze(Celeste like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3f875442-b58b-461a-9ed1-1624195793aa",
+      "title": "Sundered",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/3f5/3f511f83640249c3225e40050909301c.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4d0/4d0753f1b691b7c036a242e4f333fdc2.jpg",
+        "https://media.rawg.io/media/screenshots/77b/77bc576449c419be00246e4ab64c0be1.jpg",
+        "https://media.rawg.io/media/screenshots/c4a/c4a856f4e395c81b300e0b13772d20e3.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Sundered(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b1183b85-ee76-4bd0-86aa-65dd5e4fe367",
+      "title": "Super beat sport",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/e7b/e7ba903b587392b20b176c9485c80e94.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3af/3af876ce3212f3c736ea3fd8a73e3a4f.jpg",
+        "https://media.rawg.io/media/screenshots/9c5/9c5392ff3c86b3d7661e761111a8088c.jpg",
+        "https://media.rawg.io/media/screenshots/ca7/ca70558382db4d86464a054383b1491d.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Super beat sport(Ritmo)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0bad624d-a550-4ba7-a7e2-adea540563e6",
+      "title": "Super Bomberman Collection",
+      "tags": "Coleção dos 5 bomberman de Snes",
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Super Bomberman Collection(Coleção dos 5 bomberman de Snes)",
+      "description": "Jogo de Nintendo Switch. Coleção dos 5 bomberman de Snes",
+      "cover": "https://media.rawg.io/media/screenshots/ae6/ae64cd340b32e7931a6ec54753589e78.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/89d/89dcd8f20b9e2a04860aae293fa1303b.jpg",
+        "https://media.rawg.io/media/screenshots/11f/11ff4789a3350d8e99862f0f10fc5aaf.jpg"
+      ]
+    },
+    {
+      "id": "d883e8e0-6c38-4971-8174-4f124c1eee34",
+      "title": "Super Bomberman R2",
+      "tags": "Battle Royale",
+      "cover": "https://media.rawg.io/media/screenshots/9d0/9d0c899bcf9c32aa64917a995a3b8d08.jpg",
+      "description": "Pre-Purchase OfferPre-order items\nAdditional Character \"Golden Vic Viper\"\nAdditional Characters \"8 Shiny Bomberman Brothers \"\nAbout the GameSuper Bomberman R is coming to PC!\nPlay alone or with a friend in a Story Mode jam-packed with different levels. Re-experience classic Battle Mode,\nor discover the brand new Grand Prix Mode in which team play is just as important as individual skills!\nNew characters are joining the fight. Play locally or online with friends and players from around the world!...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d74/d748a3397bd74e20dc8c8783888eacb9.jpg",
+        "https://media.rawg.io/media/screenshots/ca6/ca695dbbdce8fa329f89593eb7893fbe.jpg",
+        "https://media.rawg.io/media/screenshots/d41/d414038e3399ef538b989d106c0fa8c6.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Super Bomberman R2(Battle Royale)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "7a6e089f-0c84-4441-b3b8-961c421c4e31",
+      "title": "SUPER CRAZY RHYTHM CASTLE",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/e9d/e9d1b255e19fe4181ca1460b4c589b33.jpg",
+      "description": "It’s Super Crazy Rhythm Castle, the chaotic rhythm adventure! A puzzling co-op mashup unlike anything you've ever heard – work together to think outside the box while keeping your combo. Solo, or with a band of up to three friends …\n… Can you conquer the castle?\nAn unforgettable journey with a light heart and a tapping foot. You’ll become one with the music and the madness. Unlikely heroes, approach Rhythm Castle!\nInside, the unhinged King Ferdinand awaits, ready to defend his crown and ruin you...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ee7/ee794d25b8a3c4a40d2a843b8d168164.jpg",
+        "https://media.rawg.io/media/screenshots/a51/a51f5f3741993f238b59bbe3582a9dd0.jpg",
+        "https://media.rawg.io/media/screenshots/41c/41cbdd852e6a33dd35acf2504b2e07a7.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "SUPER CRAZY RHYTHM CASTLE(Ritmo)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "21863c40-c1f9-47d7-b0c2-18ce3c03d1f2",
+      "title": "Super dungeon maker",
+      "tags": "jogo de fazer dungeon",
+      "cover": "https://media.rawg.io/media/screenshots/dfc/dfc09c80def42a32db849250369526ac.jpg",
+      "description": "Create & Play the dungeons of your dreamsThe classic action-adventure dungeon experience of your dreams is about to be made... by you! Create and share your very own dungeons, then play a nearly infinite number of highly creative, trap-ridden dungeons made by other creators from all over the world.\nShare your dungeons with your friends, family or communityUnleash your creative streak as a dungeon creator and place as many enemies, floors and secret paths as you like. Make the journey more diffi...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/de0/de0e30f46105efc3c4555dc8fbb72404.jpg",
+        "https://media.rawg.io/media/screenshots/deb/deb8ec1f5d30d11889412335ebe3042b.jpg",
+        "https://media.rawg.io/media/screenshots/216/216485188e5e95337d07283196f8fbdd.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Super dungeon maker(jogo de fazer dungeon)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "70088dc9-63bc-4855-bb7d-f942dfcb1fc2",
+      "title": "Super Hiking League DX",
+      "tags": "Jogo de chegar no topo primeiro",
+      "cover": "https://media.rawg.io/media/screenshots/de6/de647541922cefdcca4d2fe598db41e6.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/506/506b44e473e2ac8c7104139d90da9df5.jpg",
+        "https://media.rawg.io/media/screenshots/f33/f332e972b6963b0c1e76e8973f56fc2e.jpg",
+        "https://media.rawg.io/media/screenshots/0ec/0ec8f15e662e2022da9b4cfa3c52c9a2_JGgnQMQ.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Super Hiking League DX(Jogo de chegar no topo primeiro)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e888cd36-7e09-4fe5-ac26-e97b87c76846",
+      "title": "Super Mario 3D All-Stars",
+      "tags": "Mario 64,Sunshine e Galaxy 1",
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false,
+      "raw": "Super Mario 3D All-Stars(Mario 64,Sunshine e Galaxy 1)",
+      "description": "Play three of Mario’s greatest 3D platform adventures—all in one package!\nPlay three classic games at home or on the go—all in one package on the Nintendo Switch™ system! Jump into paintings in Super Mario 64™, clean up paint-like goop in Super Mario Sunshine™, and fly from planet to planet in Super Mario Galaxy™.\n\nRun, jump, and dive with ease!\n\nMake Mario move using the Nintendo Switch system’s Joy-Con™ controllers. You can also pass a Joy-Con controller to a friend to play the Super Mario Gal...",
+      "cover": "https://media.rawg.io/media/games/58a/58a051c3626dcac72bc111fb056b082c.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ae9/ae9327f54646a6ce29dcf01ac52f96b9.jpg",
+        "https://media.rawg.io/media/screenshots/ffe/ffe628b63a43cea5a3d2332c8ab0f43b.jpg",
+        "https://media.rawg.io/media/screenshots/363/363db3f68598b8496e8a2c9138ff04eb.jpg"
+      ]
+    },
+    {
+      "id": "710ed1f6-f61a-4671-a82a-1b1249e0610b",
+      "title": "Super Mario 3D World",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/cb7/cb78e5b2ada0e38cafb14cd00cfafbd7.jpg",
+      "description": "Work together with your friends or compete for the crown in the first\nmultiplayer 3D Mario game for the Wii U console. In the Super Mario™\n3D World game, players can choose to play as Mario, Luigi, Princess\nPeach, or Toad.\n\nFeatures:\n\nEach character has unique abilities and play styles. For example,\nPrincess Peach glides over gaps, while Luigi has his trademark\nextra-high jump.\n\nThe new cat transformation allows players to run on all fours, pounce\non enemies, attack in midair, or use their claws...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c11/c11cc7edc484d1d90373bd60d0e11a21.jpg",
+        "https://media.rawg.io/media/screenshots/d11/d11272a96305cad7897af4b61af01d04.jpg",
+        "https://media.rawg.io/media/screenshots/c71/c71df2ad53a6867e9645fc00d3f33c2d.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Super Mario 3D World(Plataforma 3d)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "e6bf6931-8a1f-4f33-a1d0-b5d07910d901",
+      "title": "Super Mario Bros. Wonder",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/1fd/1fd3f030bee73452d46a0678084a7ed9.jpg",
+      "description": "Join Mario and friends on a new 2D side-scrolling adventure full of wonder! \n\nEvery course contains its very own Wonder Flower – collect one, and anything can happen. From moving pipes to tilting terrain, singing Piranha Plants to stampeding Bulrushes, skydiving to space walks, you never know what’ll happen next. You might even transform into something totally new!\n\nPick to play as Mario, Luigi, Peach and more! They all play in exactly the same way, so you can freely use your favourite character...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/319/31931839e14e813b3fb46c92aebd4ee5.jpg",
+        "https://media.rawg.io/media/screenshots/611/6117e095de93147d33a32584d1eecf64.jpg",
+        "https://media.rawg.io/media/screenshots/f28/f28d087ea237d04b0f511232746b33fd.jpeg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Super Mario Bros. Wonder(Plataforma 2d)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "f28f3d7e-6f2c-47b1-9249-b41cf650ffa7",
+      "title": "Super Mario Galaxy 2",
+      "tags": "Remaster",
+      "genre": "Plataforma,Ação,Aventura",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false,
+      "raw": "Super Mario Galaxy 2(Remaster)",
+      "description": "Mario is invited to Princess Peach's castle, and on his way notices a\nstrange light in the grass. As he peers cautiously through the reeds, he\nsees a small, lost Luma. With the baby Luma tucked safely under his cap,\nMario rushes on to the castle. But when he gets there, something\nunexpected is waiting for him...\n\nCollect stars as Mario travels from galaxy to galaxy, working through\nvarious levels—sometimes upside-down, sometimes floating from place to\nplace. Mario can also team up with his dinos...",
+      "cover": "https://media.rawg.io/media/games/578/578ff52303d0e2563e28a4149f1485c2.jpeg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/018/01820c00321809689719810909597a8a.jpg",
+        "https://media.rawg.io/media/screenshots/c69/c6962ca0448e505f4a3f7fee40b0763c.jpg",
+        "https://media.rawg.io/media/screenshots/5c8/5c86ddad098f86c728af5a60ee546cd3.jpg"
+      ]
+    },
+    {
+      "id": "84d5e3e7-a74d-4833-a879-cd8f9f7eeb84",
+      "title": "Super Mario Maker 2",
+      "tags": "Jogo de criar jogo de mario",
+      "cover": "https://media.rawg.io/media/games/25f/25f1b4a7b6ed811a5f6e34e43d6cc550.jpg",
+      "description": "Let your imagination run wild with new tools, course parts, and features as you create the Super Mario courses of your dreams. This sequel to Super Mario Maker launches exclusively on Nintendo Switch.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ab9/ab98871dc9c538266acb6402762ad9a0.jpg",
+        "https://media.rawg.io/media/screenshots/b0e/b0e81c17a813e4dce39005deebbcaf65.jpg",
+        "https://media.rawg.io/media/screenshots/1fb/1fb1754afaadb43a916b7fbd40177c5f.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Super Mario Maker 2(Jogo de criar jogo de mario)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "6d2ce15c-2f77-4612-8481-80b6a4a2c602",
+      "title": "Super Mario Odyssey",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/267/267bd0dbc496f52692487d07d014c061.jpg",
+      "description": "Super Mario Odyssey is a 3D platform game, a part of Nintendo’s Super Mario series. \n\n###Story \nThe game follows Mario on his quest to save Princess Peach from her forced marriage with Bowser. The game starts with Mario fighting Bowser on its aircraft. Bowers knock Mario off the ship and shreds his cap into pieces. Mario awakens in the Cap Kingdom inhabited with hat-like spirits and befriends one of them named Cappy. It turns out, Bowser also kidnapped Cappy’s sister Tiara, and now the heroes mu...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a38/a38e8c2161eb6c3c233b0488a3c2d5f1.jpg",
+        "https://media.rawg.io/media/screenshots/ff8/ff80f35e3301fa9c0027d9f021c24340.jpg",
+        "https://media.rawg.io/media/screenshots/82c/82ce6aa4915756bd39cd1e6a02e17a77.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Super Mario Odyssey(Plataforma 3d)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "02af4f2c-e633-4a14-a93c-4a9bc73c0f74",
+      "title": "Super Mario party",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/d8b/d8bfed2209bf96866506cca8022db5b7.jpg",
+      "description": "Super Mario Party is the eleventh game in its series of party games and the first to be released for Nintendo Switch.\n\n###Plot\nThe characters from the Mario universe decide to start a party with a lot of competitive games to determine who of them is going to be the Super Star. \n\n###Gameplay\nThe player controls his or her character from the third person view and navigates it in the Mario world to collect stars and participate in mini-games. \n\n###Characters\nThe game features all the main playable ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a7c/a7c4414a4d7458080e95d4a29574eb9d.jpg",
+        "https://media.rawg.io/media/screenshots/039/03907625dccd06d3fb8e5323265042bd.jpg",
+        "https://media.rawg.io/media/screenshots/49c/49cd4d8b82015e2e26334326eb266cb7.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Super Mario party",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "baa38b4b-57a8-4b86-bcc7-68191becbc3b",
+      "title": "Super Mario Party Jamboree",
+      "tags": "",
+      "cover": "https://assets-prd.ignimgs.com/2024/06/18/switch-1x1-supermariopartyjamboree-keyart-1718723521329.jpg",
+      "description": "- Party fun with family and friends - only with Nintendo Switch!\n- The biggest selection in a game in the Mario Party range includes action-packed as well as tricky puzzles and challenges that can be mastered with motion control. Discover seven game boards with over 110 mini games, including two game boards from previous Mario party games.\n- And that's not all. In the Bowserathlon, up to 20 players can compete online (a Nintendo Switch Online membership is required). Nozzle in the bowserathlon o...",
+      "images": [
+        "https://sm.ign.com/ign_in/photo/default/switch-supermariopartyjamboree-scrn-02-1718727144247_7zq8.jpg",
+        "https://cogconnected.com/wp-content/uploads/2025/07/super-mario-party-jamboree-tv-review-5.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Super Mario Party Jamboree",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "89724453-3eba-44c8-bd0f-81d9fba81f4a",
+      "title": "Super Mario rpg",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/708/70869ed6abd95011cbd42f533db16175.jpg",
+      "description": "Mario, Bowser, and Peach partner up to repair the wish-granting Star Road in this approachable role-playing adventure\n\nTeam up with an oddball group of heroes to save Star Road and stop the troublemaking Smithy Gang. This colorful RPG has updated graphics and cinematics that add even more charm to the unexpected alliance between Mario, Bowser, Peach, and original characters Mallow and Geno. Enter (or revisit) this world of eccentric allies and offbeat enemies in an RPG for everyone.\n\nJump throug...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/315/315133dba44240613073eff926206bbd.jpg",
+        "https://media.rawg.io/media/screenshots/ad8/ad8ec8510c43ae574a208b7b6f0298b0.jpg",
+        "https://media.rawg.io/media/screenshots/c14/c14532e36242e42d4333fdd127060f2e.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Super Mario rpg(Jrpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "815e4967-8ce6-41a5-8524-d6312da86773",
+      "title": "Super Mombo quest",
+      "tags": "Plataforma 2d/metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/8e3/8e3ed938b10a8381961633d2f8018454.jpg",
+      "description": "Super Mombo Quest is an action-packed, fast-paced precision platformer! It mixes up the arcade and metroidvania genres, featuring some intense acrobatic combat, crazy long combos, ridiculous platforming challenges, and a boatload of collectibles - all in a huge interconnected world!\nGET THE PERFECT COMBO ON HUNDREDS OF LEVELS!\nSuper Mombo Quest takes place in a gigantic world made out of hundreds of connected areas, and you can defeat all the enemies in any of the levels with just one combo! Can...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/36b/36b68d84476202d2dad7723d14dd1c40.jpg",
+        "https://media.rawg.io/media/screenshots/74b/74b55eebf1d135ac977a715fa2cd1347.jpg",
+        "https://media.rawg.io/media/screenshots/6ad/6ad17bd43a7f0af056ecee854857b422.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Super Mombo quest(Plataforma 2d/metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8fdc57da-d2cd-477f-af8f-9d2b1a9ff9a7",
+      "title": "Super Monkey Ball: Banana Mania",
+      "tags": "plataforma 3d-Multiplayer",
+      "cover": "https://media.rawg.io/media/games/5a4/5a447ceb56af54944c5a09fc42ba6595.jpg",
+      "description": "Roll through wondrous worlds with AiAi and friends as you race to stop monkey mad scientist Dr. Bad-Boon from blowing up Jungle Island! Join the all-star monkey team of AiAi, MeeMee, GonGon, Baby, YanYan and Doctor as you bounce, tilt, and roll your way across hundreds of delightfully crafted levels and mazes. It’s monkey business for the gang as you take down Dr. Bad-Boon and steal back your beloved bananas!\n\nFeatures:\nThe ultimate Super Monkey Ball Experience – More than 300 stages from Super ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/860/86034cfdebec0483d084125b37e3dd1e.jpg",
+        "https://media.rawg.io/media/screenshots/64c/64c300741cc762a8680e1c0035c89516.jpg",
+        "https://media.rawg.io/media/screenshots/205/2055a85c3df624c175de0fb5a1f2f341.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Super Monkey Ball: Banana Mania(plataforma 3d-Multiplayer)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5a7bee96-fee5-4004-80da-06a0f9d8489e",
+      "title": "Super Smash Bros. Ultimate",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/games/9f3/9f3c513b301d8d7250a64dd7e73c62df.jpg",
+      "description": "Super Smash Bros. Ultimate is the fifth game in its franchise. It is also the first game in its series to be released for Nintendo Switch.\n\n###Premise\nThe series is a crossover of characters from various video game franchises, such as The Legend of Zelda, Pokemon, Sonic the Hedgehog, Super Mario, Metroid, and Mega Man, among many others. Their famous protagonists fight each other on an arena. In accordance with its name, the game is the “ultimate” installment of the series, in that it offers ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1c9/1c9ae7a68285ad0d4aa046b22bcdc4bf.jpg",
+        "https://media.rawg.io/media/screenshots/f67/f670247976d1b8121a5149bdfd8dbc21.jpg",
+        "https://media.rawg.io/media/screenshots/e3e/e3eaf49fe84fdc175e07d86d13e5bec5.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Super Smash Bros. Ultimate(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9407cb4c-8320-46ae-af42-8a926554b555",
+      "title": "SUPERBEAT: XONiC",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/03b/03b8dcdd07678a80a5d9f11ee2854e74.jpg",
+      "description": "Experience SUPERBEAT: XONiC, the new music game sensation that's bound to have you on the edge of your seat! Enjoy the stunning visuals and effects as you play your way through over 50 unique songs and unlock tons of hidden rewards and items! Perform and perfect awesome combos and show the world you’re the best by climbing the Ranking system!\nSome functions and features may not be available on the PlayStation TV.\n1 player(s)\n10000KB Minimum\nTouchscreen\nDual Analog Sticks\nSoftware subject to lice...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d19/d1909e0753305cadb1629d7900327634.jpg",
+        "https://media.rawg.io/media/screenshots/e83/e83c0f6b6a610f31dac064495ff543c5_cjEOpq3.jpg",
+        "https://media.rawg.io/media/screenshots/124/124ba8a312fad2cba104e5c52dd81907.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "SUPERBEAT: XONiC(Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e0fbb3fa-a5a5-4db6-a3d5-5c16df4038ef",
+      "title": "Symphonia",
+      "tags": "plataforma musical",
+      "cover": "https://media.rawg.io/media/screenshots/e79/e798477413a08e16369dc064dc55524b.jpg",
+      "description": "In the realm of Symphonia, music acts as a source of life and energy. But since the founders and their orchestra vanished the inhabitants are divided, and the world slowly falls into silence. What if there was a way to gather a new orchestra? That's the question Philemon, the mysterious musician in Symphonia, will have to answer. Embody a mysterious violinist, brought back to life in a declining world. Your violin and bow are both your instrument and a means of transport. Catapult yourself throu...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0b1/0b1aaa822ea3a1a2b7dc3b0651329b66.jpg",
+        "https://media.rawg.io/media/screenshots/247/24722a7a582d37c502015e23cb182a0b.jpg",
+        "https://media.rawg.io/media/screenshots/1e5/1e5fdaf0efe576b5a37330852fecc64d.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Symphonia(plataforma musical)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e42b0b90-c32d-4df5-8afa-c938d8c0b52d",
+      "title": "Tactics Ogre: Reborn",
+      "tags": "Rpg tático",
+      "cover": "https://media.rawg.io/media/games/2a5/2a558eb173e355b55765b61738d7b644.jpg",
+      "description": "Digital Premium Edition ContentsThe Digital Premium Edition includes the following content:\n-Tactics Ogre: Reborn Standard Edition (the core game)\n-Tactics Ogre: Reborn Original Soundtrack\nThis soundtrack includes new pieces composed by Hitoshi Sakimoto for Tactics Ogre: Reborn, as well as rerecorded live versions of Tactics Ogre favorites like Fight It Out! and Limitation.\n*The Tactics Ogre: Reborn Original Soundtrack is planned to be sold separately at a later date.\nAbout the GameTactics Ogre,...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/7d7/7d7afa68e8c8ba37792a352aac8f0c27.jpg",
+        "https://media.rawg.io/media/screenshots/e7d/e7d79504bb21d61d209482e24eb65edf.jpg",
+        "https://media.rawg.io/media/screenshots/3eb/3eb2727d4633f5c86d70d67998a683f2.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Tactics Ogre: Reborn(Rpg tático)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e25a21b2-e828-48a1-bf1c-410997b37222",
+      "title": "Tadpole Treble",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/0cb/0cb5186b1fe1ff908a05ec71d062fd3c.jpg",
+      "description": "\"Seeing that music plays such a core role in this game, how good is it? In a word — amazing.\"\n-Nintendo Enthusiast, 9/10\n\"If I had to pick one word to describe Tadpole Treble, that word would be 'charming'.\"\n-Destructoid, 8/10\n\"Guys, I freaking love this game. Seamlessly synchronized and filled to the brim with charm and personality, Tadpole Treble is unquestionably a must-have.\"\n-The Inner Circle Games Network, 9.4/10\n\"Tadpole Treble is one of the sweetest games I’ve ever played, despite it bei...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/19f/19f530e8d09cc215d135ad7e0597bf95.jpg",
+        "https://media.rawg.io/media/screenshots/215/215ba259e8d186a76e4fc9b28e13a418.jpg",
+        "https://media.rawg.io/media/screenshots/a09/a09a138ff835d27d514391c162965f50.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Tadpole Treble(Ritmo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c485031c-6641-428a-ac62-e601e32ed44a",
+      "title": "Taiko no tsujinrhytm festival",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/screenshots/c60/c60ed1aa14d75567a533f57477fab4cd.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/09e/09ea1f0143efad5fc3ecb4889dce8b41.jpg",
+        "https://media.rawg.io/media/screenshots/c60/c60ed1aa14d75567a533f57477fab4cd.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "Taiko no tsujinrhytm festival(Ritmo)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "de7eaa10-6df2-4430-8435-76bd65ce4965",
+      "title": "Tails of iron",
+      "tags": "metroidvania",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0915/FydSR3UQ5ZPogNlsbohbkBhD.jpg",
+      "description": "Jogo de Nintendo Switch. metroidvania",
+      "images": [],
+      "genre": "Metroidvânia",
+      "raw": "Tails of iron(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b06d09d1-c090-435f-935b-3e5b6ecc0120",
+      "title": "Tales of Berseria",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/158/15880530ce424311f264671e4b0611ee.jpg",
+      "description": "A tale of emotion versus reason…\nIn Tales of Berseria, players embark on a journey of self-discovery as they assume the role of Velvet, a young woman whose once kind demeanor has been replaced and overcome with a festering anger and hatred after a traumatic experience three years prior to the events within Tales of Berseria. Velvet will join a crew of pirates as they sail across the sea and visit the many islands that make up the sacred kingdom of Midgand in an all-new adventure developed by the...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cc9/cc9dc6277a5a434e57c87dcd8bd47e40.jpg",
+        "https://media.rawg.io/media/screenshots/3f2/3f2e0cfc50b75c2392bd67579c7f5d4f.jpg",
+        "https://media.rawg.io/media/screenshots/bfb/bfb9face82bcd191ae66f18d1b854c92.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Tales of Berseria(Jrpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fdf05e7f-c6d0-4f52-ac17-a8c92b1770a7",
+      "title": "Tales of Eternia Remastered",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Tales of Eternia Remastered(Jrpg)",
+      "description": "Tales of Eternia (Japanese: テイルズ オブ エターニア, Hepburn: Teiruzu Obu Etānia), known as Tales of Destiny II in its original North America release, is a role-playing video game published by Namco as the third main title in their Tales series. Initially released for the PlayStation in November 2000 in Japan, an English version was later released in North America in September 2001. It was developed by members of Telnet Japan's \"Wolfteam\", who had previously worked on its predecessors Tales of Phantasia a...",
+      "cover": "https://media.rawg.io/media/games/3c2/3c2d663e04df01bbf5b86259ccc0e70a.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/739/739849bc859a1c5af457291e74f43ab2.jpg",
+        "https://media.rawg.io/media/screenshots/004/004d874aacbdf02c23d1d2a8dd7533e0.jpg",
+        "https://media.rawg.io/media/screenshots/b4d/b4d78cecdc6c219209bd8680975eb837.jpg"
+      ]
+    },
+    {
+      "id": "f42bdd62-6582-4a7e-b00e-68866405df4b",
+      "title": "Tales of Graces f Remastered",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/c3f/c3f7c36e31e0aa76db0d1a2b42ac0914.jpg",
+      "description": "Deluxe Edition\nThe Deluxe Edition includes:\n• Tales of Graces f Remastered\n• Battle BGM pack\n• Digital Artbook & Soundtrack\n• Super Growth Support Herb Set\nAbout the GameTales of Graces f is back with a beautiful and easier-to-play version!\nThe game also includes Lineage and Legacies, an after-story to the main scenario!\nTales of Graces f is an action RPG all about adventure in fantasy worlds and overcoming obstacles through friendship and determination.\n• A child’s promise is the world’s last h...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/560/560dc51ef811ad159b16be718ddd0b48.jpg",
+        "https://media.rawg.io/media/screenshots/635/6352bb5e2d8610bbd68370efa289f1e4.jpg",
+        "https://media.rawg.io/media/screenshots/465/4650941b20823b879ecb14a051a08602.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Tales of Graces f Remastered(Jrpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5cfacfc8-9585-4377-9b54-56f44daa377c",
+      "title": "Tales of Kenzera: ZAU",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/09a/09a7148fe2e1408b223351339575406b.jpg",
+      "description": "Wield the dance of the shaman. Reclaim your father’s spirit.\nA grieving boy begins to read a Bantu tale written by his late father. Adventure into the beautiful and treacherous lands of Kenzera as Zau, a young shaman who bargains with the God of death to bring his Baba back from darkness.\nWith your cosmic powers and untried courage, you advance into unknown mythological lands. Once bursting with life, Kenzera is now rife with lost ancestral spirits. As Zau advances toward his goal, 3 mighty bei...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0bb/0bbc68d5a90eec274445cb1c9cb9f9b0.jpg",
+        "https://media.rawg.io/media/screenshots/483/4838d95afe032aaf10d1d6fa39f605c6.jpg",
+        "https://media.rawg.io/media/screenshots/ff7/ff72203d4b07e1e5d3a1ba8da85138ad.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Tales of Kenzera: ZAU(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "deb9663d-6e7f-4a2e-8984-456c32c865cb",
+      "title": "Tales of Symphonia Remastered",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/dd8/dd897c2d6b4acdcfbffb35b221ec7ff2.jpg",
+      "description": "Jogo de Nintendo Switch. Jrpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/325/325df2bf30b1c6384b4d25c54d64dd89.jpg",
+        "https://media.rawg.io/media/screenshots/411/41185038cbadd17e09642ac5a383474c.jpg",
+        "https://media.rawg.io/media/screenshots/dd8/dd897c2d6b4acdcfbffb35b221ec7ff2.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Tales of Symphonia Remastered(Jrpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8349e961-6420-46f8-9976-75a1aaa748e5",
+      "title": "Tales of Vesperia: Definitive Edition",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/bde/bdeec8652a076c7b6d3dfaa13ad9fc38.jpg",
+      "description": "Celebrate the 10th anniversary of Tales of Vesperia and the return of this fan-favorite with the Definitive Edition!\nA power struggle begins in a civilization dependent on an ancient technology, the blastia, and the Empire that controls it. The fates of two friends traveling separate paths intertwine in an epic adventure that threatens the existence of all.\nDive into the Definitive version of this game with updated full HD graphics, brand-new music tracks, exciting mini-games, bosses, and a coll...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/049/04925120f4aba4c7d44e1f7770c8678a.jpg",
+        "https://media.rawg.io/media/screenshots/7bc/7bc642673d610df10d0646fc1de3ad72.jpg",
+        "https://media.rawg.io/media/screenshots/085/085b1f06b974a6714a638b2cae2b7167.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Tales of Vesperia: Definitive Edition(Jrpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0b8b9346-bfae-4346-b86d-e6deee386eb3",
+      "title": "Tales of Xillia",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/cc3/cc3fe06a5684a2c0a20bf54d9ae458c2.jpg",
+      "description": "Step into the shoes of one of two main characters and experience the world of Rieze Maxia through its ferocious dungeons, vibrant towns, and sprawling landscapes. Link up with comrades to execute powerful, combination attacks in exciting real-time battles! Customize character appearance and skill set to truly personalize the epic journey ahead!\n1-4 players\nHDTV screen resolution: 720p\nDUALSHOCK®3\nPurchase or use of this item is subject to the PlayStation®Network Terms of Service and User Agreeme...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3d2/3d2c96ccf2fc0da17dfb78980aafcf16.jpg",
+        "https://media.rawg.io/media/screenshots/c84/c843fe7c77855d43a73a2b4254b80e2b.jpg",
+        "https://media.rawg.io/media/screenshots/785/7857472f470f72e14ae4459614be855d.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Tales of Xillia(Jrpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "00dc8f3f-77d7-41d8-a99b-3b9010c2aa89",
+      "title": "Team Sonic Racing",
+      "tags": "corrida",
+      "cover": "https://media.rawg.io/media/games/069/069ac576aa3cc90a2b720ed15c31b0c9.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0c9/0c90d37094afa690d613eafb7343ea16.jpg",
+        "https://media.rawg.io/media/screenshots/7b7/7b78dbc2dc73d5ee73d4a592b6ebc497.jpg",
+        "https://media.rawg.io/media/screenshots/e06/e06b3b2ca0b830b21b83407166d2f754.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Team Sonic Racing(corrida)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "aec23cf0-3d9a-42dc-bca6-36bd755cf436",
+      "title": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
+      "tags": "aventura",
+      "cover": "https://media.rawg.io/media/screenshots/697/697bc1af3234314bb5daefa39a25e102.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b26/b264b9c29bcc77657fb77935905c4858.jpg",
+        "https://media.rawg.io/media/screenshots/9ac/9acadc9b9dae2584e830319c561ef20f.jpg",
+        "https://media.rawg.io/media/screenshots/3f8/3f8fe684ed92d2a6841b9716bf146ea1.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Teenage Mutant Ninja Turtles: Mutants Unleashed(aventura)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "172c384d-c96e-48c2-b033-ee665e9fc363",
+      "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/games/aac/aac683272f862540a18625f02f5f3679.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b34/b34b4c8020f3c6cbfc4f4e83bb1746bd.jpg",
+        "https://media.rawg.io/media/screenshots/725/725f27119ac3682dbbe0e1a266aa8cf3.jpg",
+        "https://media.rawg.io/media/screenshots/cb8/cb8ae3e4abef7e0caa746865873caebd.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Teenage Mutant Ninja Turtles: Shredder's Revenge(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bdc3d2b8-2e89-47a8-bc71-e0afe647d39d",
+      "title": "Teenage Mutant Ninja Turtles: Splintered Fate",
+      "tags": "Briga de rua/Roguelike",
+      "cover": "https://media.rawg.io/media/screenshots/4b2/4b2afe96f30b1b2c39d9e4fae37fd6b6.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a1a/a1a654a58c789aa34eef62a886214f5d.jpg",
+        "https://media.rawg.io/media/screenshots/c86/c86c114ff60d9ef38c2344a4d3561739.jpg",
+        "https://media.rawg.io/media/screenshots/e50/e509cd2d8d871c6ff783a17f5162c3eb.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Teenage Mutant Ninja Turtles: Splintered Fate(Briga de rua/Roguelike)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "77310ead-f328-46af-9ce5-845a6868e2c8",
+      "title": "Temtem",
+      "tags": "Rpg estilo pokemon",
+      "cover": "https://media.rawg.io/media/screenshots/439/439a0559c2519c12632b7a633d6eda6e.jpg",
+      "description": "Join our Discord\nAbout the Game\nEvery kid dreams about becoming a Temtem tamer; exploring the six islands of the Airborne Archipelago, discovering new species, and making good friends along the way.  Now it’s your turn to embark on an epic adventure and make those dreams come true.\nCatch new Temtem on Omninesia’s floating islands, battle other tamers on the sandy beaches of Deniz or trade with your friends in Tucma’s ash-covered fields. Defeat the ever-annoying Clan Belsoto and end its plot to r...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/655/655c66478e7056af9558fa76973af0b6.jpg",
+        "https://media.rawg.io/media/screenshots/9a2/9a29b094a53380587bd7e3cfd6029a81.jpg",
+        "https://media.rawg.io/media/screenshots/cf2/cf223f3705ff7a93838eee4887bcbd5b.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Temtem(Rpg estilo pokemon)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "96fa84e3-76ce-421d-9ea9-4739ed9eaae9",
+      "title": "Terminator 2D: No Fate",
+      "tags": "Run and Gun",
+      "cover": "https://media.rawg.io/media/games/458/45856718997a655e2c1c6c2dd8fe2f44.jpg",
+      "description": "Jogo de Nintendo Switch. runandgun",
+      "images": [
+        "https://media.rawg.io/media/screenshots/315/315ee48abb3db5401ad4a6c126c5a6fa.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Terminator 2D: No Fate(Run and Gun)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e6166e7f-02a3-47ec-ae47-176cf0f6b94c",
+      "title": "Terra Memoria",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/8a5/8a5c33b6864aa3bb313ccd639cf9514e.jpg",
+      "description": "More from us\nAbout the GameTerra Memoria welcomes you with open arms: six lovable characters, an investigation through all ages, a world with crazy inhabitants, and cozy music… a little RPG with exploration, fighting, construction, and puzzles.\nVisit the past and present to discover who controls the crystals, why the ancient machines are attacking, and how everything is linked (nooo, really?😱)Main characteristics\nSet up your camp with the handyman and the blacksmith while the summoner and the s...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/19f/19f242fbfaee285821097b3c4408ac7f.jpg",
+        "https://media.rawg.io/media/screenshots/b76/b7676444c1989c306a84ebec24b1f640.jpg",
+        "https://media.rawg.io/media/screenshots/e2b/e2b81a67dde38ddead882f5b6f7f301c.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Terra Memoria(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bfb148b6-875c-45d2-9921-c0d4560a6a91",
+      "title": "Tetris Effect",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/59d/59d568770eecc7b3f18fcedd314b68d3.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bef/bef018c9428b11cf764d386beb95a3ca.jpg",
+        "https://media.rawg.io/media/screenshots/078/078a251c2b46421acce5ca09efc12426.jpg",
+        "https://media.rawg.io/media/screenshots/936/936f56d63035218cf897120f15273036.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Tetris Effect",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ab45f89d-5f55-49fa-92f5-4328ca850219",
+      "title": "The Alliance Alive HD Remastered",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/02e/02e711fb8ff189967abba0b8697ac6b6.jpg",
+      "description": "Humanity has been shattered by invading Daemons from another realm. To reclaim their home, an unlikely fellowship of heroes will band together to spark a fiery revolution. Explore various Daemon-controlled realms, awaken your inner strength in the heat of battle, and form alliances to amass a force strong enough to stand against the invading forces.\nRemote Play requires PS Vita system and sufficiently robust Wi-Fi connection.\n1 player\n7GB minimum save size\nDUALSHOCK®4\nRemote Play\nSoftware subjec...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6de/6debe71bc8d430071c03caf283950539.jpg",
+        "https://media.rawg.io/media/screenshots/34f/34fed000651af5f2eb2b60a9d1600891.jpg",
+        "https://media.rawg.io/media/screenshots/621/62147f471aa919d6dedcdd51f86a1aa1.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The Alliance Alive HD Remastered(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a4d0095b-1f7c-477e-a4e2-074b91468290",
+      "title": "The Dark Pictures Anthology: Little Hope",
+      "tags": "Point-click historia",
+      "cover": "https://media.rawg.io/media/games/643/6431f15213a854efd273943f2cf6a925.jpg",
+      "description": "The Dark Pictures Anthology is a series of intense, standalone, branching cinematic horror games featuring single and multiplayer modes.\n\n4 college students and their professor become stranded in the abandoned town of Little Hope. Trapped by an impenetrable fog they try desperately to escape whilst witnessing terrifying visions from the past. They must figure out the motivation of these apparitions before the evil forces at work drags each of their souls to hell.\n\nWitness terrifying visions of t...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9ef/9ef03b736a58e9a8cb267977eb0161bf.jpg",
+        "https://media.rawg.io/media/screenshots/bb9/bb90da99a678b9eba6539c8430c2e6ff.jpg",
+        "https://media.rawg.io/media/screenshots/716/71601efe684bb2b09dc8f177169a7ba1.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "The Dark Pictures Anthology: Little Hope(Point-click historia)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d5ed7e22-084f-4e01-9bc8-2354adaa18cb",
+      "title": "The DioField Chronicle",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/6ea/6ea6e36e16f45ea54736ada64ff33041.jpg",
+      "description": "The era of myths gives way to an era of great turmoil… \n\nThe world of men is mired in upheaval, as an age of war rages for years on end. A mercenary band arise from amidst the flames and the chaos, they who's fated deeds will be sung of in ages yet to come. \n\nBut when all is said and done, will the name \"Blue Fox\" come to be a byword for hope or darkest tragedy?",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3dd/3dd461da49362e17fdcfb56fd9f2bac6.jpg",
+        "https://media.rawg.io/media/screenshots/3c3/3c3bf886b9f8fc652aaf009580023201.jpg",
+        "https://media.rawg.io/media/screenshots/6a3/6a32574d45c2dc65ee3a29b6d29d999c.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The DioField Chronicle",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0f7f0140-9862-4f17-9e8b-42a404e12ef5",
+      "title": "The Elder Scrolls V: Skyrim",
+      "tags": "Rpg",
+      "cover": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+      "description": "The fifth game in the series, Skyrim takes us on a journey through the coldest region of Cyrodiil. Once again player can traverse the open world RPG armed with various medieval weapons and magic, to become a hero of Nordic legends –Dovahkiin, the Dragonborn. After mandatory character creation players will have to escape not only imprisonment but a fire-breathing dragon. Something Skyrim hasn’t seen in centuries.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3bd/3bd2710bd1ffb6664fdea7b83afd067e.jpg",
+        "https://media.rawg.io/media/screenshots/d4e/d4e9b13f54748584ccbd6f998094dade.jpg",
+        "https://media.rawg.io/media/screenshots/599/59946a630e9c7871003763d63184404a.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The Elder Scrolls V: Skyrim(Rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a760a6aa-276c-4e8d-88f3-1df576274b84",
+      "title": "The Karate Kid: Street Rumble",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/941/941aac6c2674cbeae890104fb8ad3c52.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9dd/9dd215b93a3831c9f443d1b8e28025ef.jpg",
+        "https://media.rawg.io/media/screenshots/d52/d52011f149b83e3799093b95b5a72a26.jpg",
+        "https://media.rawg.io/media/screenshots/b80/b80b6bbf783e3883a68d1ba6dfae6c28.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "The Karate Kid: Street Rumble(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "962724b2-8631-408e-a98d-eddb6323eee3",
+      "title": "The Knight witch",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/games/130/130eb53afa1ffae7864455d8c4a97da2.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 04 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0b1/0b182684fe86c38b2326ab1c1fb22107.jpg",
+        "https://media.rawg.io/media/screenshots/435/4356957296eb3ef1bbea084b0ba9d454.jpg",
+        "https://media.rawg.io/media/screenshots/fc7/fc7559ac8ac156aa4eba2a2100f0c225.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "The Knight witch( Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1e77f99f-f56d-4aee-a524-356469f1dfb1",
+      "title": "The Lara croft collection",
+      "tags": "Coleção de tomb raiders antigos",
+      "cover": "https://media.rawg.io/media/games/a92/a92272ea5cfc35b8ad6317fbd81ce0f6.jpg",
+      "description": "Lara Croft and the Guardian of Light is an action adventure game developed by Crystal Dynamics. The title serves as a spin-off to Tomb Raider series and is not connected to the series storyline whatsoever.\n\nTwo thousand years ago there was a battle between the Guardian of Light and the Keeper of Darkness. The Keeper won using the Mirror of Smoke with which he summoned a horde of horrible monsters, but the Guardian survived the encounter and imprisoned the Keeper in his own mirror. Fast-forward t...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/65e/65e671b2db117b10e049f9bcea5ff38e.jpg",
+        "https://media.rawg.io/media/screenshots/b09/b092f443d1a815c61099eaa31f23baa6.jpg",
+        "https://media.rawg.io/media/screenshots/fce/fce52e1f7e1da23c219e47b0981a4f67.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "The Lara croft collection(Coleção de tomb raiders antigos)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d07f6a84-1b03-40da-af5b-743fc5f68387",
+      "title": "The last faith",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/5c5/5c54a7b428f422f682a0e58543743a2e.jpg",
+      "description": "The Last Faith is an exploration-based Metroidvania, action side-scrolling platformer with dark and gothic horror themes at its core. An ancient religion is ruling for centuries the world left to its fate. The once majestic capital and full of a glorious past, is now decadent and haunted by a fatal disease. Eric will have to subvert the words of the hidden prophecy and discover the truth behind the now corrupted and ravaged world.\n\nWield one of the variety weapons, use elemental buffs to power t...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cf4/cf4e1343c8da9eacb500578693c82b4d.jpg",
+        "https://media.rawg.io/media/screenshots/f38/f3888f850e182fa2a19bdfdd7057116c.jpg",
+        "https://media.rawg.io/media/screenshots/712/71295e2495c603a3d8be4d7e53e946d4.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "The last faith(Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e5a749f1-ebe8-4f1b-99c1-247fdb252760",
+      "title": "The Last Penelope",
+      "tags": "Corrida topdown",
+      "cover": "https://media.rawg.io/media/screenshots/574/574ab1c9a0f421017f5fb8b18989366c.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/83e/83ed8ce11523cfc4dcaa48fbace9862e.jpg",
+        "https://media.rawg.io/media/screenshots/2ad/2ad09c2b5f19da09279ca0b3be5ab47b.jpg",
+        "https://media.rawg.io/media/screenshots/a1f/a1f9ae452e1b1061a590167ecf80e30b.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "The Last Penelope(Corrida topdown)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1b98ed23-d726-46d7-b7cf-d4abfde03c63",
+      "title": "The Legend of Heroes: Trails beyond the Horizon",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "The Legend of Heroes: Trails beyond the Horizon(Jrpg)",
+      "description": "Van Arkride and the members of Arkride Solutions are back, and this time the future of the entire Zemurian continent is at stake! The people of Zemuria await the launch of man’s first foray into space with bated breath. A sudden invitation from Marduk to cooperate in a high-tech training exercise sets Van and the members of Arkride Solutions on a collision course with the secrets that lay at the very core of Zemuria.\nAt the same time, the Ashen Chevalier Rean Schwarzer and Father Kevin Graham of...",
+      "cover": "https://media.rawg.io/media/screenshots/683/6833ba60f09b664c3d6b8c7cb3a7bb06.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/20c/20c11b0e7bbfe988c71c211f096d9e17.jpg",
+        "https://media.rawg.io/media/screenshots/8ec/8ec473250c09d80d0529e10af7473a26.jpg",
+        "https://media.rawg.io/media/screenshots/904/904a78abe3a53fbe839f0799b0be4bf2.jpg"
+      ]
+    },
+    {
+      "id": "35f8e9c7-604d-4e8f-8833-c0e04533b06b",
+      "title": "The Legend of Heroes: Trails from Zero",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "The Legend of Heroes: Trails from Zero(Jrpg)",
+      "description": "This game is part of the GOG Games Festival!\nDiscover new releases, hot gaming deals, latest demos to try and a whole line-up of exciting upcoming titles that you can wishlist.\nLloyd Bannings returns to his hometown to follow his late brother's footsteps and join the Crossbell Police Department. However, he finds himself assigned to a ragtag new division called the Special Support Section, which performs odd jobs and helps people in need. But he and his new teammates slowly discover that their v...",
+      "cover": "https://media.rawg.io/media/games/f0a/f0ac99c638c25a5975cd74919564bda5.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a18/a184248c506dee8c2927bd78966b1190.jpg",
+        "https://media.rawg.io/media/screenshots/b71/b71fba569c141095ce35f81c9b449011.jpg",
+        "https://media.rawg.io/media/screenshots/bd4/bd4ae45c86104d44bf4753bcb848be1f.jpg"
+      ]
+    },
+    {
+      "id": "02721600-af1f-4a3f-b229-11ed6468421d",
+      "title": "The Legend of Heroes: Trails into Reverie",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "The Legend of Heroes: Trails into Reverie(Jrpg)",
+      "description": "This game is part of the GOG Games Festival!\nDiscover new releases, hot gaming deals, latest demos to try and a whole line-up of exciting upcoming titles that you can wishlist.\nWhat destinies await these three fateful figures? Use the Crossroads system to switch between Rean Schwarzer, Lloyd Bannings, and the masked figure \"C\", and determine the fates of key characters and locations within Zemuria. Dive into refined tactical combat with new features such as United Front, and discover new allies ...",
+      "cover": "https://media.rawg.io/media/games/6b4/6b45e71c67bc54f7a3c2a943aea46e3d.jpeg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8dd/8dd1886f16c1babb239aa24435d0b36d.jpg",
+        "https://media.rawg.io/media/screenshots/e28/e28368c0bbce1d5fa0c5618c895ef8b3.jpg",
+        "https://media.rawg.io/media/screenshots/f47/f4771ed5ff28b92571017ac9958a1982.jpg"
+      ]
+    },
+    {
+      "id": "a57952c9-0ada-4db2-8688-e65f5e69565a",
+      "title": "The Legend of Heroes: Trails of Cold Steel",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "The Legend of Heroes: Trails of Cold Steel(Jrpg)",
+      "description": "Among the nations on the Zemurian continent, the mighty Erebonian Empire has been quick to outwardly stake its claim militarily; yet politically, ugly bouts of internal conflict between the upper class and commoners attempting to rise to power have been steadily intensifying day by day. The Noble and Reformist Factions have been none too kind to one another over the years, and tensions between the two only stand to worsen if compromises aren’t made in the very near future.\nRean Schwarzer, like a...",
+      "cover": "https://media.rawg.io/media/games/291/2917eaf996afa24584de1f020ce6571a.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d63/d6363388d6ad4ad459de576b34b57544.jpg",
+        "https://media.rawg.io/media/screenshots/5b1/5b1b265d1662578bd5cd90b77e587762.jpg",
+        "https://media.rawg.io/media/screenshots/bac/bacb3215e7df17eeb326473fb803b9d5.jpg"
+      ]
+    },
+    {
+      "id": "841f4434-211b-4f07-af56-e81c92c45e8a",
+      "title": "The Legend of Heroes: Trails of Cold Steel II",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "The Legend of Heroes: Trails of Cold Steel II(Jrpg)",
+      "description": "Peace is but a memory.\nIn the wake of the Noble Faction’s occupation of Heimdallr, civil war has broken out across Erebonia. The provincial armies, loyal to the aristocracy and the Four Great Houses, have claimed many of the nation’s great cities in the name of the Noble Alliance. The Imperial Army, called back from the four corners of the Empire, has only just begun its sweeping counterattack.\nAfter Rean managed to escape Trista with Celine and Valimar, he awakens in the mountains near his home...",
+      "cover": "https://media.rawg.io/media/games/2b5/2b55fa9b23ba1324a5ae3998a28edcf2.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/96b/96b16f0929f62c90baa258f36cf6dfc2.jpg",
+        "https://media.rawg.io/media/screenshots/547/547436a68f75ffe133e80af588792eb7.jpg",
+        "https://media.rawg.io/media/screenshots/2df/2dfc82b9b8ec89e7a274c33fbb1307ad.jpg"
+      ]
+    },
+    {
+      "id": "68e2ad37-e07d-4a98-99af-cbb4fd54b9d2",
+      "title": "The Legend of Heroes: Trails of Cold Steel III",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/76a/76aa13d770101bd8ce1d3fca4211c1c8.jpg",
+      "description": "Welcome to the New Class VII – Explore the newly annexed lands of the Empire with a brand new squad, and catch up with familiar faces from the past.\nAn Immersive Story – Experience an epic story developed across three titles, and crafted for new and old fans alike. Also includes an interactive introduction to catch up new players to the ongoing story so anyone can dive right in to the world of Trails of Cold Steel.\nCombat Honed to a Fine Edge – Challenge oncoming threats with a combat system tha...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/83d/83dc33f404045e687305abc3d4caa238.jpg",
+        "https://media.rawg.io/media/screenshots/b95/b957510d9cd4190ac9e1e26bcdd29641.jpg",
+        "https://media.rawg.io/media/screenshots/937/9371a1f91067a3382c01bd311a6050b3.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The Legend of Heroes: Trails of Cold Steel III(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5b9ffc64-9427-4154-8670-83266d4b3f78",
+      "title": "The Legend of Heroes: Trails of Cold Steel IV",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/207/207fa0efeaf7905cc93b98ca12bc9ea3.jpg",
+      "description": "The Legend of Heroes: Trails of Cold Steel IV THE END OF SAGA is the fourth and final installment to the Trails of Cold Steel saga. It is the concluding chapter of the Erebonian Empire arc.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/020/020bec1b3d947e5574706560686439e8.jpg",
+        "https://media.rawg.io/media/screenshots/83b/83bd475bb35a98f35482c01982b4f63f.jpg",
+        "https://media.rawg.io/media/screenshots/d30/d30bcab62032697a0845f2c7880aa9ac.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The Legend of Heroes: Trails of Cold Steel IV(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "06d71fdf-31b5-4ffa-bbff-7ccd6eaf2ec1",
+      "title": "The Legend of Heroes: Trails through Daybreak",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "The Legend of Heroes: Trails through Daybreak(Jrpg)",
+      "description": "The Legend of Heroes: Trails through Daybreak includes:\nThe Legend of Heroes: Trails through Daybreak (Base Game)\nThe Legend of Heroes: Trails through Daybreak - Free Sample Set\n\nAfter the war, Calvard is enjoying unprecedented economic prosperity. However, the public grows uncertain as the number of immigrants increases and political reform runs rampant. Follow Van, a young man and local spriggan, on a unique request that will prove more than he bargained for. Will the nation fall into chaos?\n\n...",
+      "cover": "https://media.rawg.io/media/screenshots/5bd/5bd5f2353da0a886833151e899d60830.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0fc/0fc6ddf61a630644b24cc277361ceb2f.jpg",
+        "https://media.rawg.io/media/screenshots/650/6504ed8c5a19f5194ed2203c94830e3a.jpg",
+        "https://media.rawg.io/media/screenshots/5fb/5fb48ab3f83638491a6d6dac7ed0c0ed.jpg"
+      ]
+    },
+    {
+      "id": "7d3179f4-51ea-487f-ae4e-ea9fda2ba0d8",
+      "title": "The Legend of Heroes: Trails through Daybreak II",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "The Legend of Heroes: Trails through Daybreak II(Jrpg)",
+      "description": "No longer threatened by the mafia organization Almata, the people of Calvard have returned to their peaceful lives. But one day, a shocking series of murders involving a mysterious crimson beast sets the wheels of fate in motion once again. Various factions spring into action – both those who abide by the law to uncover the truth and those looking to capitalize on any new developments wherever possible, no matter how sinister.\nWith chaos once again looming on the horizon, the spriggan Van Arkrid...",
+      "cover": "https://media.rawg.io/media/screenshots/ba6/ba6e50ecec7e1c852900c0622fddf153.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0f0/0f03b76f7c483515339711233762a68d.jpg",
+        "https://media.rawg.io/media/screenshots/8f8/8f891e88cc35ba396ff20a384858fa2a.jpg",
+        "https://media.rawg.io/media/screenshots/c11/c11ae1d285ceeaf801557d798034e2b2.jpg"
+      ]
+    },
+    {
+      "id": "b5f515c3-4db5-49a0-93c8-c81289de48fa",
+      "title": "The Legend of Heroes: Trails to Azure",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "The Legend of Heroes: Trails to Azure(Jrpg)",
+      "description": "This game is part of the GOG Games Festival!\nDiscover new releases, hot gaming deals, latest demos to try and a whole line-up of exciting upcoming titles that you can wishlist.\nFollowing the events of Trails from Zero, the Special Support Section find themselves with new members and new duties. However, rising tensions in Crossbell along with pressure from two neighboring political powers threaten both the safety of their home, as well as the integrity of their team.\nAbout\nThe story of aspiring ...",
+      "cover": "https://media.rawg.io/media/games/77c/77c7ff1b56cf0a7b6b3ce8deb7359543.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cef/cefb5efe6aef191578b4ef74e375d5d9.jpg",
+        "https://media.rawg.io/media/screenshots/800/8004a0fe6e4bf9dda5ad6f14fe9ce055.jpg",
+        "https://media.rawg.io/media/screenshots/a5e/a5e45a3798187f9316b488455b4e8c42.jpg"
+      ]
+    },
+    {
+      "id": "f4a33761-df5e-4139-8b06-e859dbd794b4",
+      "title": "The Legend Of Legacy",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/369/369aabcbade12eca8d1bebcb1714ae7f.jpg",
+      "description": "A mysterious island emerges, prompting adventurers to head towards it in\nhopes of obtaining glory, treasure, and more. But what does it truly\nhold? Join the 7 characters in The Legend of Legacy and unravel the\nmystery of Avalon's past.\n\nExplore Avalon and discover each character's motivation in traveling to\nthe island. With 7 different perspectives from which to experience the\nadventure, whose story will you unravel first? Perhaps the Elementalist\nwho uses spirits as his guide? Or will you sympa...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/98a/98a9c7e034a78dea22c6c19e07662612.jpg",
+        "https://media.rawg.io/media/screenshots/976/97642e4be46201f2b5dd56cd70e5c721.jpg",
+        "https://media.rawg.io/media/screenshots/8dd/8dd3f36aa06cf53abd3b06e1564f0544.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The Legend Of Legacy(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "eede9b92-5baa-44a9-a84c-840ff8fabf97",
+      "title": "The Legend of Nayuta: Boundless Trails",
+      "tags": "Action rpg",
+      "cover": "https://media.rawg.io/media/screenshots/e7c/e7cc7a3b4201e5edc8f13ed65ac75c54.jpg",
+      "description": "The Official Digital Soundtrack is available for a limited time during the launch week. The soundtrack will not be sold separately.\nNayuta has always dreamed of exploring beyond the horizon of his island home. After a fateful encounter with a fairy by the name of Noi, he and his friends find themselves whisked away on an adventure through multiple worlds in order to stop an evil plot that has been set in motion.\nAbout\nNayuta spends his days gazing up at the stars above his island home and wonder...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/93f/93f13a347e3362358cc554ab1ad556ab.jpg",
+        "https://media.rawg.io/media/screenshots/86b/86bab555458a3a57cf14299f64822460.jpg",
+        "https://media.rawg.io/media/screenshots/e7c/e7cc7a3b4201e5edc8f13ed65ac75c54.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The Legend of Nayuta: Boundless Trails(Action rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c3215562-49ad-48ef-99e4-b4481018d798",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "tags": "Mundo aberto",
+      "cover": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg",
+      "description": "The Legend of Zelda: Breath of the Wild is an adventure game developed by Nintendo. It is the nineteenth installment in the series.\n\nAfter awakening from a hundred year sleep, memoryless Link hears a mysterious female voice that guides him to a destroyed kingdom of Hyrule. He finds a Wiseman who says that a ruthless creature, Calamity Ganon, was imprisoned for 100 years. Even though the creature is trapped, it is still gaining power. Link sets out to kill Ganon before he frees himself and destro...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/3c4/3c4a8f6b1994def75e73e1cb64624e7f.jpg",
+        "https://media.rawg.io/media/screenshots/8f5/8f5d4264b12090bb7aa5626fcfb5be18.jpg",
+        "https://media.rawg.io/media/screenshots/b77/b771adc0585c655f8a747d3160e5325a.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "The Legend of Zelda: Breath of the Wild(Mundo aberto)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "3cdcc9b1-7ce9-4317-ac77-c89df01b855c",
+      "title": "The Legend of Zelda: Echoes of Wisdom",
+      "tags": "Exploração",
+      "cover": "https://media.rawg.io/media/games/ef0/ef095574ebf35dbe30cbb85f3798b4e5.jpg",
+      "description": "The Legend of Zelda: Echoes of Wisdom is an adventure game. It came out on 26-09-2024. Most rawgers rated the game as ´Recommended´. The Legend of Zelda: Echoes of Wisdom is available on Nintendo Switch. Eiji Aonuma produced the game.",
+      "images": [],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The Legend of Zelda: Echoes of Wisdom(Exploração)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "4a75fa16-723e-4360-b1f0-5849232d9e3f",
+      "title": "The Legend of Zelda: Link's Awakening (2019)",
+      "tags": "Exploração",
+      "cover": "https://media.rawg.io/media/games/1bb/1bb38f1354db6596ccd6bdcb4a7f6cbc.jpg",
+      "description": "In this modern re-imagining, players travel to the mysterious island of Koholint to guide Link on a perilous adventure.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/55f/55f83f0dc48c6d5907947b04fe3a3bf7.jpg",
+        "https://media.rawg.io/media/screenshots/e21/e21615c4b4d3ddeb3e5104768c436e6d.jpg",
+        "https://media.rawg.io/media/screenshots/63d/63d28b0704246943e8e405ba34fdd283.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The Legend of Zelda: Link's Awakening (2019)(Exploração)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "e7415f0f-1b13-41e3-84dd-586440529965",
+      "title": "The Legend of Zelda: Skyward Sword HD",
+      "tags": "Exploração/Aventura",
+      "cover": "https://media.rawg.io/media/games/624/624ee5ea783877a9ad8ccf68b8d8300b.jpg",
+      "description": "The Legend of Zelda: Skyward Sword game soars onto Nintendo Switch!\n\nTake to the skies, draw your sword, and experience the earliest story in the Legend of Zelda series. Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny. Soar between floating islands and descend to the treacherous surface world in this updated HD version of the Legend of Zelda: Skyward Sword.\n\nMaster realistic swordplay that matches your movements\nSwing your sword and angle your s...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4e0/4e0de58309e3b5b802e1ec727772e70c.jpg",
+        "https://media.rawg.io/media/screenshots/b08/b08968a340a09c8ce345f3e52a317837.jpg",
+        "https://media.rawg.io/media/screenshots/805/805c364cd9ca40f694c3bf51232a3826.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The Legend of Zelda: Skyward Sword HD(Exploração/Aventura)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "8e3a8630-9e47-495e-a1ad-e9404d6e6b21",
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "tags": "Mundo aberto",
+      "cover": "https://media.rawg.io/media/games/556/55684bfd048706f4266d331d70050b37.jpg",
+      "description": "An epic adventure across the land and skies of Hyrule awaits in The Legend of Zelda™: Tears of the Kingdom for Nintendo Switch™. The adventure is yours to create in a world fueled by your imagination. In this sequel to The Legend of Zelda: Breath of the Wild, you’ll decide your own path through the sprawling landscapes of Hyrule and the mysterious islands floating in the vast skies above. Can you harness the power of Link’s new abilities to fight back against the malevolent forces that threaten ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/51f/51f7928a2630fc4bbb3dac59b8f31448.jpg",
+        "https://media.rawg.io/media/screenshots/104/10431d15726ed2593401cc70e2115a82.jpg",
+        "https://media.rawg.io/media/screenshots/c0d/c0dafd15ec182acab8f5879665eaa642.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "The Legend of Zelda: Tears of the Kingdom(Mundo aberto)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "661bc63b-7275-4dc7-9f53-fd80e69250d3",
+      "title": "The Mageseeker: A League of Legends Story",
+      "tags": "Actionrpg isométrico",
+      "cover": "https://media.rawg.io/media/screenshots/6e2/6e255d703ec5483978693453af35efd4.jpg",
+      "description": "Digital Deluxe Edition\nThe Mageseeker: A League of Legends Story™ Deluxe Edition includes the Silverwing Supply Station Pack, the Home Sweet Cave Pack, the Hijacked Spells Pack, and the Unchained Skins Pack.\nAbout the GameDeveloped by Digital Sun, creators of Moonlighter, The Mageseeker: A League of Legends Story™ is an action RPG that takes place in the League of Legends universe. In the kingdom of Demacia, the Mageseekers hold the power to oppress magic-using citizens in the name of public ord...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/721/72187811043c7b2efd2b8984229cfd64.jpg",
+        "https://media.rawg.io/media/screenshots/4f7/4f7b97cf8b6dd01df87a0597357475c0.jpg",
+        "https://media.rawg.io/media/screenshots/924/9242fc140eb141a84262475751c5fca4.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The Mageseeker: A League of Legends Story(Actionrpg isométrico)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fddcb9a7-e4eb-45b9-be27-79725146bfc2",
+      "title": "The Messenger",
+      "tags": "Plataforma 2d/Metroidvânia",
+      "cover": "https://media.rawg.io/media/screenshots/16c/16c1f5e91a061e064f373406164d1e40.jpg",
+      "description": "The game moves between 8-bit and 16-bit art styles, allowing the player to move between the two by going forward or backwards in time. As a demon army besieges his village, a young ninja ventures through a cursed world, to deliver a scroll paramount to his clan’s survival. What begins as a classic action platformer soon unravels into an expansive time-traveling adventure full of thrills, surprises, and humor.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a66/a6636b53f9f51b390c03f2dfb2717325.jpg",
+        "https://media.rawg.io/media/screenshots/cf2/cf21b710ac8b2a1cd4a0f9dd47f42c3f.jpg",
+        "https://media.rawg.io/media/screenshots/0d7/0d71a6ea81be8e966b6a2543d0b5b5a1.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "The Messenger(Plataforma 2d/Metroidvânia)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0c9bf3d8-947c-4ba6-b2db-48e9bc1b4b38",
+      "title": "The mummy demastered",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/256/2567e3ac5b300a6f4b8056cd163d0f08.jpg",
+      "description": "A powerful ancient evil has arisen, and the war to save humanity has begun! The Mummy Demastered throws you into a 16-bit-inspired battle against the undead in a 2D, nonlinear, action-packed adventure. As an elite agent in the monster-hunting Prodigium organization, you must use a variety of weapons, upgrades, and mysterious artifacts to defend mankind against the supernatural hordes of Princess Ahmanet. Your Prodigium unit is already on the scene, but HQ lost contact with them hours ago. Only b...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/947/9479ca8fa1ce116124dca1e713eb227e.jpg",
+        "https://media.rawg.io/media/screenshots/b40/b409fc1c8f366b8fbe1626baaff18153.jpg",
+        "https://media.rawg.io/media/screenshots/df3/df3af72f7d8cd92d7306092c3f14f93f.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "The mummy demastered(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "481b9c53-6e9b-4b24-9ff5-23ec45a3ca14",
+      "title": "The Ninja Saviors: Return of the Warriors",
+      "tags": "Briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/d93/d93f76a5e6301084ea01298d41243800.jpg",
+      "description": "A self-remaster of the 1994 spinoff to Taito's 1987 arcade classic, The NinjaWarriors, with The Ninja Saviors: Return of the Warriors, Tengo Project have taken the original console beat 'em up and reimagined it, adding extra moves & combos, 2 new characters, 2 player co-op, fluid, even more hand animated pixel art and an amped up soundscape to boot!\nSelect one of five android ninjas, each with their own unique ninjutsu techniques, and take the battle to Banglar's army alone, or with a ninja part...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/87d/87d355940e1aaa152aa229a1a7e45c59.jpg",
+        "https://media.rawg.io/media/screenshots/733/733c9eb4513253d41dc8acda3b4de152.jpg",
+        "https://media.rawg.io/media/screenshots/a16/a164f8a7219dd5944a557cf97df232c1.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "The Ninja Saviors: Return of the Warriors(Briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ad2a4f8c-a273-46a3-b528-757e1301b7df",
+      "title": "The outer worlds",
+      "tags": "Mundo aberto ,Rpg de tiro",
+      "cover": "https://media.rawg.io/media/games/704/704f831d2d132e9614931f1c4eab9e86.jpg",
+      "description": "The Outer Worlds is a new single-player first-person sci-fi RPG from Obsidian Entertainment and Private Division.\n\nIn The Outer Worlds, you awake from hibernation on a colonist ship that was lost in transit to Halcyon, the furthest colony from Earth located at the edge of the galaxy, only to find yourself in the midst of a deep conspiracy threatening to destroy it. As you explore the furthest reaches of space and encounter various factions, all vying for power, the character you decide to become...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/348/348854a13c58be0ef06a2655b2963566.jpg",
+        "https://media.rawg.io/media/screenshots/64b/64bc01576c6b3899f5f1ed2aec4a87a0.jpg",
+        "https://media.rawg.io/media/screenshots/77b/77ba0ad199b18b78e5c26a531cd8e872.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "The outer worlds(Mundo aberto ,Rpg de tiro)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0c81dc79-2c35-4f49-b6de-93134dcacd8c",
+      "title": "The Pathless",
+      "tags": "indie ação 3d",
+      "cover": "https://media.rawg.io/media/games/1f2/1f283264816de6f464d7de144530e9b8.jpg",
+      "description": "From the creators of ABZÛ, The Pathless is the mythic adventure of an archer and an\neagle in a vast forest.\n\nBecome the Hunter, a master of archery who travels to a mystical island to dispel a curse of darkness that grips the world. Forge a connection with your eagle companion as you hunt corrupted spirits, but be careful to not become the hunted yourself. Explore misty forests full of secrets, solve puzzles in ancient ruins, and test your skill in epic battles. The bond with your eagle and t...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d55/d554fd69eb68e42443092b8dab23344d.jpg",
+        "https://media.rawg.io/media/screenshots/2f3/2f30d3936382d18b28f6aa786c2c7349.jpg",
+        "https://media.rawg.io/media/screenshots/436/436f725bfedee42aacf61d4d6737e96c.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "The Pathless(indie ação 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f0957192-868c-41c8-b23b-aafbbe19be92",
+      "title": "The pedestrian",
+      "tags": "Puzzle",
+      "cover": "https://media.rawg.io/media/screenshots/789/789144172022eb539a9fe76e5ca61527.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/6df/6df8612dd3f38284b29b8087b7fa1c8e.jpg",
+        "https://media.rawg.io/media/screenshots/98f/98f7dcc4fd1965009f82d5e108dca4f5.jpg",
+        "https://media.rawg.io/media/screenshots/112/1127ab376490ee11bbbb1689c2348347.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "The pedestrian(Puzzle)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d4e99fb9-af49-43f9-8abe-47dabb3442f9",
+      "title": "The Phantom",
+      "tags": "briga de rua",
+      "cover": "https://www.nintendo-difference.com/wp-content/uploads/2025/03/The-Phantom-Visuel-2-scaled.jpg",
+      "description": "Jogo de Nintendo Switch. briga de rua",
+      "images": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/software/switch/70010000086160/149d9a77d96419547df5bac0c189d85d199f891b17aab03d37101b00b38ec068"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "The Phantom(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "354c87e4-7dfb-4d67-a275-b4a79a97372e",
+      "title": "The Plucky Squire",
+      "tags": "plataforma 3d e 2d",
+      "cover": "https://media.rawg.io/media/games/15b/15b8dfa78091b549baa744597e49edd3.jpg",
+      "description": "The Plucky Squire follows the magical adventures of Jot and his friends - storybook characters who discover a three-dimensional world outside the pages of their book.\nWhen the malevolent Humgrump realizes he's the villain of the book - destined to lose his battle against the forces of good for all eternity - he kicks the heroic Jot out of its pages and changes the story forever.\nJot must face challenges, unlike anything he's ever seen if he is to save his friends from Humgrump's dark forces and ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bed/bed30ba055a986da0e9bcf5ea584e722.jpg",
+        "https://media.rawg.io/media/screenshots/ace/ace74e7b46350ace9e7fc2c67fb6eaa5.jpg",
+        "https://media.rawg.io/media/screenshots/86f/86f01c9f2fa2f34272fba8bd667c6f89.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "The Plucky Squire(plataforma 3d e 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a6cf770c-befe-4a04-a8bc-709209cc824a",
+      "title": "The rogue prince of persia",
+      "tags": "roguelike",
+      "cover": "https://media.rawg.io/media/games/85c/85c86ed632879f104bb2d6536b14035e.jpg",
+      "description": "Jump into this action roguelite installment in the Prince of Persia series as you flow between death-defying platforming and acrobatic combat as the Prince himself. Battle through the capital city again and again with one goal – find a way to save Persia from a Hun invasion wielding dark magic.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/635/63573d998dbdda86c99e398dc4ce75b9.jpg",
+        "https://media.rawg.io/media/screenshots/471/47130605b69c811862b27b3107fc8e50.jpg",
+        "https://media.rawg.io/media/screenshots/d37/d37507d2d32fd5d47146f53cec243740.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "The rogue prince of persia(roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5dee2887-e62d-4881-bc00-99acbeef153a",
+      "title": "The rumble fish +",
+      "tags": "luta",
+      "cover": "https://media.rawg.io/media/screenshots/ad3/ad3c06abffea0e1947ca25773c6bcb70.jpg",
+      "description": "The Rumble Fish, a game developed in 2004 by DIMPS, renown for its smooth animation and deep game mechanics, has returned as The Rumble Fish +, packed with new features.\nFrom online PvP with rollback netcode to a training mode with features such as CPU recording and playback, everything you need as a fighting game lover is here!\nMain Game Modes:\nArcade\nLocal PvP\nOnline PvP\nTraining\nNew feature: A CPU recording and playback feature has been added as an enemy behavior setting in training mode. Now...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e4d/e4d79106939a45b19d586214ae282143.jpg",
+        "https://media.rawg.io/media/screenshots/a18/a18a43498590516af22b0244e82ebf87.jpg",
+        "https://media.rawg.io/media/screenshots/861/861c09edf2cabd8898f5140d033cc193.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "The rumble fish +(luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "235dedc7-c4ed-4c94-a525-230265cf286c",
+      "title": "The smurfs - dreams",
+      "tags": "plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/f86/f86c3c3d6eabaeee5bbe1393430fc1c8.jpeg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cd2/cd2eeb77fd253420443dd25bb5023f66.jpg",
+        "https://media.rawg.io/media/screenshots/21a/21a498fc3442755ea87b21c0e59cbc34.jpg",
+        "https://media.rawg.io/media/screenshots/c0a/c0ad330cc304d51731a074dafa43d770.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "The smurfs - dreams(plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "35a285f7-06e7-48be-b1ae-bb06465040d7",
+      "title": "The Smurfs - Village Party",
+      "tags": "Party game",
+      "cover": "https://media.rawg.io/media/screenshots/fb5/fb591ea9f74b126450647a38dc768b42.jpg",
+      "description": "Papa Smurf has decided to organize an exceptional party!\nTo do so, he asks all the Smurfs to get involved with the preparations to make the party unforgettable!\n\nWalk around the village and invite all the Smurfs scattered around the world to the event, but be careful with Gargamel as he has heard about the party and will do everything to spoil it…\nIn party-game mode, gather your friends and family for Smurf-tastic hours of fun through 50 mini-games inspired by the cheerful spirit of the Smurfs.\n...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d1d/d1dd10e9c532dc9135fe3dfe3e791312.jpg",
+        "https://media.rawg.io/media/screenshots/ca2/ca2a7721baa264262267e321868af5bf.jpg",
+        "https://media.rawg.io/media/screenshots/b6b/b6bc298803c78555e554682f0d5d51d4.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "The Smurfs - Village Party(Party game)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9c8c7b84-b6ab-4f87-87b6-b1797f3cc97e",
+      "title": "The Smurfs 2 - The Prisoner of the Green Stone",
+      "tags": "plataforma 3d",
+      "cover": "https://media.rawg.io/media/screenshots/c92/c9257055d2d63a69fb74b722161f6f71.jpg",
+      "description": "In the same universehttps://store.steampowered.com/app/1502560/The_Smurfs__Mission_Vileaf/\nhttps://store.steampowered.com/app/1911220/\nAbout the GameHandy Smurf has created a revolutionary invention: SmurfoMix! However, it's missing a key ingredient, the Green Stone, which is in the greedy clutches of Gargamel. So Handy Smurf and his team set off on a mission to retrieve the famous stone from Gargamel's laboratory, but a fatal misstep causes it to explode, its fragments scattering throughout the...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/4e2/4e25722668b51a8401b438a750d07b3d.jpg",
+        "https://media.rawg.io/media/screenshots/9a4/9a42e76fe357d4a0e773920fe468fe80.jpg",
+        "https://media.rawg.io/media/screenshots/d97/d977983306ae31c6e6fa2d909a8844ff.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "The Smurfs 2 - The Prisoner of the Green Stone(plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cbe00afc-2416-4305-8d6e-127ce2043369",
+      "title": "The Spirit and the Mouse",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/screenshots/657/657fd8a0bf4f78006081bc523c5f5c57.jpg",
+      "description": "After a shocking thunderstorm brings them together, unlikely allies Lila the mouse and Lumion the Spirit guardian must work in tandem to restore balance to their quaint village. Thankfully, Lila has her big heart and electrifying new powers to aid her on this journey. Guide her through a heartwarming adventure across Sainte-et-Claire to befriend playful electric spirits called Kibblins and illuminate this village once more.\nThe Spirit and the Mouse is a narrative-focused adventure game that has ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/df5/df54a2a93779121eb831b7907cd80f8f.jpg",
+        "https://media.rawg.io/media/screenshots/250/250bd7aef44c1501ad417f55c72b4bc4.jpg",
+        "https://media.rawg.io/media/screenshots/bcb/bcb8de1de10b876bcca6d09371f16c1b.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "The Spirit and the Mouse(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1682f91b-16f9-4452-8d16-80a8e2dc4a62",
+      "title": "The Swords of Ditto",
+      "tags": "Coop Zelda like",
+      "cover": "https://media.rawg.io/media/games/5e9/5e98fdaa7d45048a65d78ef402361fab.jpg",
+      "description": "The Swords of Ditto is a compact action RPG that creates a unique adventure for each new hero of legend in the relentless fight against the evil Mormo. Explore a delightful but dangerous overworld, brave menacing dungeons, and improve your hero in a charming village, during your quest to overcome the evil that plagues the island. Unleash the mystical Sword of Ditto and grab a co-op friend for an unforgettable adventure filled with delightful characters, extraordinary loot, and heroic battles!\nUn...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/579/5798ef54cbe7b1de08e622432282c51d.jpg",
+        "https://media.rawg.io/media/screenshots/7f0/7f029031a34f72bad2b6c0d3dee3273e.jpg",
+        "https://media.rawg.io/media/screenshots/9df/9dfc75314e27b68464d608da2cfb9268.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "The Swords of Ditto(Coop Zelda like)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "85510577-7f01-4422-8860-d7adab61bc94",
+      "title": "The TakeOver",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/screenshots/66a/66a03f0ddb3ba26cab482831b7d8be72.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d01/d011ed74a74d249f03e329e234efe408.jpg",
+        "https://media.rawg.io/media/screenshots/1b7/1b742898bd0b7182c3b4005cda20c0fa.jpg",
+        "https://media.rawg.io/media/screenshots/a54/a54b0ad36c23b039be1de86d53ec4e67.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "The TakeOver(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b451d668-fb2e-475e-8832-9b82e91c9ebd",
+      "title": "The Vagrant",
+      "tags": "Actionrpg",
+      "cover": "https://media.rawg.io/media/games/f29/f29a59ca121b33cbf4be46224790de1d.jpg",
+      "description": "Journey into a gorgeous hand-painted fantasy world known as Mythrilia and discover the truth about your bloodline and its darkest secret. Play as Vivian the Vagrant, a traveling sellsword, who follows her lost father's research in an effort to reunite with her family. Hack and slash a path from a quiet coastal village through mysterious forests, haunted castles, and wrecked battlegrounds. When the endless barrage of enemies have been vanquished, what solace will be left for our hero?The VagrantT...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0f5/0f5efb3980db150f531b36527c646300.jpg",
+        "https://media.rawg.io/media/screenshots/d13/d1314df028dac1f6641c003a6a5f1a24.jpg",
+        "https://media.rawg.io/media/screenshots/e37/e37cc946e5442e14906aa79a41b6fc6c.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The Vagrant(Actionrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "773d2e4a-62d3-4302-bf0c-514e1a585ac2",
+      "title": "The World Ends with You: Final Remix",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/021/0211232346867e8a99ea443c839c3e8c.jpg",
+      "description": "Final Remix is the Nintendo Switch port of The World Ends with You, a supernatural urban fantasy game. Its visual style was inspired by Japanese anime and youth culture.\n\n###Plot\nThe game is set in Shibuya, a fashionable district of Tokyo, Japan. The World Ends with You takes place in a parallel spirits' world version of Shibuya, called the Underworld. This place is controlled by the spirits called the Reapers. They are led by the mysterious Composer, who administer the Game. In the Game, souls ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/615/61581d405899bb61cf613aeee36ea43a.jpg",
+        "https://media.rawg.io/media/screenshots/d51/d510c0f03d7af1238565723b66ae462a.jpg",
+        "https://media.rawg.io/media/screenshots/91e/91e8f5a00c84a2d09865317324eb4cf7.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "The World Ends with You: Final Remix(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "41a309eb-dcc7-46e3-8964-7f01f9a11148",
+      "title": "THEATRHYTHM FINAL BAR LINE",
+      "tags": "Ritmo",
+      "cover": "https://media.rawg.io/media/games/d47/d47deac0cc1876c674ed888d7a4dae8b.jpg",
+      "description": "A rhythm action game packed with 385 carefully selected music tracks from across the whole FINAL FANTASY series.\n\n♪ The music of FINAL FANTASY comes together here\nIncludes popular tracks from a total of 46 different games, featuring the latest music from FFI through to FFXV in the main series, as well as remakes, spin-offs and various different soundtrack CDs.\nRelive the thrilling battles and soaring emotions alongside beautiful music and video.\n\n♪ Throw yourself into the rhythm\nPush the buttons...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a6d/a6d599857a3b7d274c9ef875b49eceea.jpg",
+        "https://media.rawg.io/media/screenshots/69c/69c84d3c00e914595d57b8d4d941a00a.jpg",
+        "https://media.rawg.io/media/screenshots/a4a/a4a24b7fd33277587d58d26689fa26bc.jpg"
+      ],
+      "genre": "Jogos de música",
+      "raw": "THEATRHYTHM FINAL BAR LINE(Ritmo)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "13b7e9a9-bd3a-444c-a0fe-ed3856b5c33d",
+      "title": "Thunder Ray",
+      "tags": "Punch out like",
+      "cover": "https://media.rawg.io/media/screenshots/51a/51a5f22e0c50086285281d3a9af3c6a8.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f03/f035fa58b86163b871fa1f2a7f98f095.jpg",
+        "https://media.rawg.io/media/screenshots/695/6953f9f390a967658fc5a8c1b5f76662.jpg",
+        "https://media.rawg.io/media/screenshots/115/1159aa1a45a0b590d45f75f4116b6ce0.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Thunder Ray(Punch out like)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c864b5cc-a669-4f7e-8976-06fefc1fb3f5",
+      "title": "Tiny Thor",
+      "tags": "plataforma2d",
+      "cover": "https://media.rawg.io/media/screenshots/d79/d79ed4a8012a9ade6107eadf305b3d05.jpeg",
+      "description": "Tiny Thor – Become a Hero\nSlip into the role of the legendary Thunder God Thor. Destroy enemies with your hammer, collect coins and jewels, solve switch puzzles and explore big worlds. Destroy your surroundings with your hammer to battle your way to the exit or to bonus caves.\nTiny Thor is a classic Jump'n'Run that cleverly combines elements of action, puzzles and skill. The unique hammer-throwing action spellbinds players right from the start and acquires special superhuman abilities and upgrad...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/93c/93c6db93b9c217180fc74d4f3308d92f.jpg",
+        "https://media.rawg.io/media/screenshots/5cf/5cfb0fdf06aa1ab9ff76bc4a5f84c8f3.jpg",
+        "https://media.rawg.io/media/screenshots/db1/db1d9c529c3b409782bc9769be65d3e1.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Tiny Thor(plataforma2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f06bcc06-6389-401f-8a35-f3b62d003e0e",
+      "title": "Tinykin",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/2a3/2a35da986abc10082c27c3d230ccf1e1.jpg",
+      "description": "Milo arrives on Earth to find that he's way too small, everybody's gone and a day hasn't passed since 1991!\nTeam up with the mysterious tinykin and use their unique powers to create ladders, bridges, explosions and a lot more!\n\nExplore cities of ants, beetles and other insects built inside of a giant house\nMeet characters everywhere you go and learn their stories and history\nCatch over a hundred tinykin in each city, and use their special abilities to climb higher, break down doors and solve the...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f3f/f3fe20da1436f48bd1351b25b68c6b0a.jpg",
+        "https://media.rawg.io/media/screenshots/6c1/6c16d0a8d2ceee53f63fe8510c94e1aa.jpg",
+        "https://media.rawg.io/media/screenshots/ceb/ceb162c1331648f9b94d99b069d9ff8c.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Tinykin(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5d693a28-63f4-4744-b952-bc5a035ed464",
+      "title": "To the moon",
+      "tags": "JRpg",
+      "cover": "https://media.rawg.io/media/games/fae/faebf3c8cbf30db3f46bfbecf6ada3d6.jpg",
+      "description": "Eva Rosalyn and Neil Watts give people a chance to live their lives \"one more time\" - they are operators of the machine capable of penetrating into the human consciousness and rewriting memory, fulfilling unrealised dreams in minds.\nHowever, they do this only for those who are close to death, because such manipulation irreversibly cripples the body.\nTheir dying client now is old Johnny. First, doctors learn from his memory his past to find out why before his death he wants to fulfil such a stran...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/70f/70f5fa1c3899762e56b9adb4387774ab.jpg",
+        "https://media.rawg.io/media/screenshots/1bd/1bda8e7d0605fcb53b04dd65a8142fb2.jpg",
+        "https://media.rawg.io/media/screenshots/10f/10f8b25899a1df26302ff370d88a8503.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "To the moon(JRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "18e66d8c-0259-4a32-955c-a4de644c5da5",
+      "title": "Tomb Raider: Definitive Edition",
+      "tags": "mundo aberto",
+      "cover": "https://media.rawg.io/media/games/08e/08e8d09cd5aae30959c4486649fda3e6.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9ef/9ef64e7265436e902d7db42ace447d61.jpg",
+        "https://media.rawg.io/media/screenshots/6c3/6c313eb854f8e5cac50731d060270936.jpg",
+        "https://media.rawg.io/media/screenshots/733/7339925d9734dacfda6615bcc530b08f.jpg"
+      ],
+      "genre": "Mundo aberto,Sandbox",
+      "raw": "Tomb Raider: Definitive Edition",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bfed69b7-3bd5-40bc-beff-908536ab7ea6",
+      "title": "Tomodachi Life: Living the Dream",
+      "tags": "",
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false,
+      "raw": "Tomodachi Life: Living the Dream",
+      "description": "Tomodachi Life: Living the Dream is an upcoming Mii social simulation video game scheduled for release in 2026. It marks the third entry in the Tomodachi video game series. \n\nThe game is set to take place on an open tropical island where the player oversees an island of Miis which they can interact with, as well as view interactions between the characters.",
+      "cover": "https://assets.nintendo.eu/image/private/f_auto/q_auto/v1743091337/wd5mf5fng5cyfz7rcllq.png",
+      "images": []
+    },
+    {
+      "id": "7cdf126e-833e-4ce7-be24-2bf25d429711",
+      "title": "Tony Hawk's Pro Skater 1 + 2",
+      "tags": "Jogo de Skate",
+      "cover": "https://media.rawg.io/media/games/088/0885c48293746aad6df30735f30d0836.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/39c/39c90a78e8aedba186efdeafd5c6c6d6.jpg",
+        "https://media.rawg.io/media/screenshots/c2d/c2d97e69df4b38de28711370aa5f672d.jpg",
+        "https://media.rawg.io/media/screenshots/062/062e362b409af04b68d04908b3d6ca73_esB7olj.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Tony Hawk's Pro Skater 1 + 2(Jogo de Skate)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "94d782ca-ac70-47e5-985f-7248326f43fc",
+      "title": "Tony Hawk's Pro Skater 3 + 4",
+      "tags": "Skate",
+      "genre": "Esportes",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Tony Hawk's Pro Skater 3 + 4(Skate)",
+      "description": "Digital Deluxe EditionPurchase the Digital Deluxe Edition to skate as the Doom Slayer and rip and tear through a ton of additional content.The Digital Deluxe Edition includes:The Doom Slayer and The Revenant playable skaters, each includes 2 secret moves. The Doom Slayer includes 2 unique outfits and the Unmaykr Hoverboard skate deck.Additional songs included with the in-game soundtrackExclusive Doom Slayer, Revenant, and Create-a-Skater skate decksExclusive themed Create-a-Skater ItemsWireframe...",
+      "cover": "https://media.rawg.io/media/games/fb5/fb5453ec554d23caa221a6c8c4fd9279.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ef8/ef866a681a72ccb30e5560f3abde8c9b.jpg",
+        "https://media.rawg.io/media/screenshots/4ea/4eaa5acfc39451a679a21ebccf62eff8.jpg",
+        "https://media.rawg.io/media/screenshots/091/0918605f52e21526d69aacd99e724e36.jpg"
+      ]
+    },
+    {
+      "id": "309e24bf-9895-4f77-86c3-19baa768b9ee",
+      "title": "Toodee and Toodee",
+      "tags": "plataforma criativo",
+      "cover": "https://media.rawg.io/media/screenshots/636/6362ea628efa7a79b20eb647cb14555c.jpg",
+      "description": "Links\nAbout the GameToodee and Topdee is a 2D Platformer and a Top-Down Puzzler hybrid.\nSwitch between Toodee and Topdee and their unique perspectives, and watch how the game bends to the rules of the current genre.\nSolve mind-melting puzzles!\nOvercome hard-as-nails challenges in the precision platforming sections of the game.\nIf you're having a hard time, you can modify some of the game rules in the difficulty settings.\nMeet strange friends on your quest to find the missing semicolon and return...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/276/276ca6bfe3c088af05e583d611d8c173.jpg",
+        "https://media.rawg.io/media/screenshots/563/563756650290a80e1f6b38f530006f25.jpg",
+        "https://media.rawg.io/media/screenshots/629/6293e681c6695478552390a302a8d90b.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Toodee and Toodee(plataforma criativo)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "9100caa9-e742-4727-be99-7c1e0c765b6c",
+      "title": "Top Racer Collection",
+      "tags": "corrida",
+      "cover": "https://media.rawg.io/media/screenshots/031/031bec90da18313fe2366f326e2641fa.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/44a/44aa07a9ce2d2f3a8befaac2afcd12fd.jpg",
+        "https://media.rawg.io/media/screenshots/a9d/a9d7013e89f8415d9c684036ebf90cbb.jpg",
+        "https://media.rawg.io/media/screenshots/577/57718b2fee5eb39632e309330909de08.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Top Racer Collection(corrida)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b7c9a8f7-924b-4290-b968-e64b2dc8d523",
+      "title": "Top Racer Collection",
+      "tags": "corrida",
+      "cover": "https://media.rawg.io/media/screenshots/031/031bec90da18313fe2366f326e2641fa.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/44a/44aa07a9ce2d2f3a8befaac2afcd12fd.jpg",
+        "https://media.rawg.io/media/screenshots/a9d/a9d7013e89f8415d9c684036ebf90cbb.jpg",
+        "https://media.rawg.io/media/screenshots/577/57718b2fee5eb39632e309330909de08.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Top Racer Collection(corrida)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "2fa6b66f-79b2-4ea1-8803-11d98254d143",
+      "title": "Touhou: New World",
+      "tags": "ActionRpg",
+      "cover": "https://media.rawg.io/media/screenshots/fdd/fdd39e15240784a32a822a6ee144a588.jpg",
+      "description": "Isolated from the world by a mystical barrier, shrine maiden Reimu Hakurei and magician Marisa Kirisame live relatively peaceful lives in the land of Gensokyo, when they find themselves transported beyond the boundary and into the unfamiliar territory of the outside world. After a chance encounter with Sumireko, a human girl obsessed with Gensokyo and all its wonders, our protagonists eventually find their way back home—but now with an unexpected guest in tow. Sumireko's arrival not only heralds...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/497/4978abdf87cee6eab5bd632bab7a8ae3.jpg",
+        "https://media.rawg.io/media/screenshots/bbb/bbba8a194f11d308e0674c1b89c42d14.jpg",
+        "https://media.rawg.io/media/screenshots/dad/dadb3a78597cb8ebbb0eb28040ac81a6.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Touhou: New World(ActionRpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "66bb3e40-eef4-413f-9c9c-a70ea3c0e244",
+      "title": "Towa and the Guardians of the Sacred Tree",
+      "tags": "roguelike",
+      "cover": "https://media.rawg.io/media/screenshots/a75/a7574c0f6c4baa012690c81377bea663.jpg",
+      "description": "Digital Deluxe Edition\nThe Deluxe Edition includes:\n- Towa and the Guardians of the Sacred Tree\n- Digital Artbook & Soundtrack\nAbout the GameIn this Roguelite adventure set in a far-off mystic realm, ancient forces stir, and untold dangers await. As Towa, lead the guardians of the sacred tree in forging strong relationships and powerful swords to fight Magatsu’s forces and determine the future of Shinju Village.- ENTER A VIBRANT WORLD FILLED WITH BEAUTY AND PERILOUS DANGER\nOn their quest to rest...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ab9/ab9f7db3680fc2a0e4eaffc3c7d0001b.jpg",
+        "https://media.rawg.io/media/screenshots/091/09126660732442f22b4c3a5ffb2788ca.jpg",
+        "https://media.rawg.io/media/screenshots/54f/54fbb5d924d53445919590a3bc46da17.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Towa and the Guardians of the Sacred Tree(roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "06965c9e-a263-46c1-863b-fd33189c74ef",
+      "title": "TowerFall Ascension",
+      "tags": "Jogo versus de acertar flecha",
+      "cover": "https://media.rawg.io/media/games/b61/b6193c5c1f917f38dce568f335f80c16.jpg",
+      "description": "TowerFall is an indie action-game with focus on local multiplayer. It was initially developed as an exclusive for OUYA microconsole and was later ported on other systems as TowerFall Ascension. The gameplay represents an arcade-style fighting arena where four people combat each other to score points in a series of rounds. There are for several characters to choose from in the game. Every one of them has two main ways of killing opponents: bow and stomping. Every player starts with only 3 arrows ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ee0/ee07477c3c0389a09c0634bf27346075.jpg",
+        "https://media.rawg.io/media/screenshots/1f4/1f405b3b9f483992035d883486e669a9.jpg",
+        "https://media.rawg.io/media/screenshots/aa3/aa34a536cdbb09777d9a1b37a24f80a8.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "TowerFall Ascension(Jogo versus de acertar flecha)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "79d7047f-2816-4030-876d-2f5383cbd076",
+      "title": "Trails in the Sky 1st Chapter",
+      "tags": "Jrpg",
+      "genre": "RPG,RPG Tático e visual novel",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Trails in the Sky 1st Chapter(Jrpg)",
+      "description": "Flip through the pages of the iconic Trails series to where it all began with Trails in the Sky 1st Chapter! This stunning remake reimagines the beloved classic with new breathtaking visuals, refined gameplay, and the first unforgettable adventure across Liberl Kingdom.Join Estelle Bright and her adoptive brother, Joshua, as they embark on their journey as junior bracers, determined to climb the ranks of their renowned peacekeeping guild. What begins as a straightforward mission to prove their w...",
+      "cover": "https://media.rawg.io/media/screenshots/aae/aaee2d143052bfafe7cae5806587485d.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/aae/aaee2d143052bfafe7cae5806587485d.jpg"
+      ]
+    },
+    {
+      "id": "645a5d95-05c3-4aee-b268-bba99e94ee61",
+      "title": "Trials of Mana Remastered",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/c94/c94a425492edbb2d22867bd6150bdbc2.jpg",
+      "description": "A full 3D remake of Seiken Densetsu 3, now known as \"Trials of Mana\".",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d8a/d8a139876c5e8c5f5e8ae363edbc0502.jpg",
+        "https://media.rawg.io/media/screenshots/775/7752f7c82bdfd5646db6abace5c9d870.jpg",
+        "https://media.rawg.io/media/screenshots/ddd/ddda3d327f7df94f3e55fe5cbe49e252.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Trials of Mana Remastered(Jrpg)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5ca2cdf2-4c75-4a29-8d49-9d2b31b3ca8f",
+      "title": "Triangle Strategy",
+      "tags": "Rpg Tático",
+      "cover": "https://media.rawg.io/media/games/334/3340776fc9a78199838c7c1d8ec22bd5.jpg",
+      "description": "Three nations battle for control of the dwindling resources of salt and iron\nCommand a group of warriors as Serenoa, heir to the Kingdom of Glenbrook in a tangled plot where your decisions make all the difference. Key choices you make will bolster one of three convictions—Utility, Morality, Liberty—which together make up Serenoa’s world view and influence how the story will unfold. When faced with truly momentous decisions, multiple characters will weigh in by casting their votes on the Scales o...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/a81/a81f5c108e634ad405ac6eb4c74f707c.jpg",
+        "https://media.rawg.io/media/screenshots/43c/43cab079ff4357bf1b76bdd7b3a1a24b.jpg",
+        "https://media.rawg.io/media/screenshots/18e/18e3468a5e9e1a6fe9fc05bd4fd3a336.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Triangle Strategy(Rpg Tático)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fd4c9ee7-e26f-4b87-872e-f4c546b58e29",
+      "title": "Trine 4: The Nightmare Prince",
+      "tags": "Rpg de puzzle",
+      "cover": "https://media.rawg.io/media/games/b2a/b2acbc0c913c91f8d0cd37b8cea09df5.jpg",
+      "description": "The Trine series returns to the magic of 2.5D with Trine 4: The Nightmare Prince! The three heroes of the best-selling adventure series are back, sent on a quest to retrieve the troubled young Prince Selius. Amadeus the Wizard, Pontius the Knight, and Zoya the Thief are joined together once again on a thrilling quest through fantastical fairytale landscapes teeming with danger.\n\nTrine 4 reaches new heights in the series, bringing the most complete 2.5D gameplay experience ever to fans and new pl...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8ec/8ec68add6d8e066031cb618e553008aa.jpg",
+        "https://media.rawg.io/media/screenshots/149/14965ab8cfb01c5e758c660699ff13e4.jpg",
+        "https://media.rawg.io/media/screenshots/868/8686308b2ae7d6b5684e17369c22513f.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Trine 4: The Nightmare Prince(Rpg de puzzle)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c7398938-9267-4b4c-bdf3-e32f77347c2f",
+      "title": "Trine 5: A Clockwork Conspiracy",
+      "tags": "Rpg de puzzle",
+      "cover": "https://media.rawg.io/media/games/d15/d15d9aabb5b8d0479f351ef530a266f3.jpg",
+      "description": "Trine 5: A Clockwork Conspiracy will take Amadeus the Wizard, Zoya the Thief, and Pontius the Knight on their most action-packed journey yet!\nWith their reputations tarnished, loved ones in danger, and their own magical powers at stake, the Heroes of Trine must reunite to push back a fearsome Clockwork army and bring peace and justice to the land!\nTraverse breathtaking 2.5D landscapes in Trine's deepest and visually richest chapter to date, with an all new cast of characters - some friends, some...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0c7/0c75f3dc4cfa8458554434128490402d.jpg",
+        "https://media.rawg.io/media/screenshots/e10/e10321d82f00cd53ef100c456e18f39c.jpg",
+        "https://media.rawg.io/media/screenshots/7c0/7c007273f64fa372b55531f306fa81e0.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Trine 5: A Clockwork Conspiracy(Rpg de puzzle)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "88d08140-f3d8-4f46-b138-e9acef827359",
+      "title": "Trinity Fusion",
+      "tags": "metroidvania/roguelike",
+      "cover": "https://media.rawg.io/media/screenshots/56f/56f92a60a02a3952071fb79c9f86dd1f.jpg",
+      "description": "Roadmap\nAbout the GameTake control of your parallel selves on a mission to save the dying multiverse. Explore dark, sci-fi worlds and engage in fast-paced, smooth and precise combat.A rogue-lite journey through the multiverseThe various branches of the multiverse are always changing. Fight through a combination of procedurally-generated levels as well as hand-crafted challenges and arenas that will put your skills to the test. Levels with 3D graphics are seamlessly constructed out of hundreds of...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e62/e629d15bd73f12e168270a1aff79ba0f.jpg",
+        "https://media.rawg.io/media/screenshots/715/71515a43d654d369cdaf668f8b3d4235.jpg",
+        "https://media.rawg.io/media/screenshots/f1b/f1ba0064a3a2f855a5937c80fd9a2c51.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Trinity Fusion(metroidvania/roguelike)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "0af9943d-2ef5-4906-b358-723ae7c900f0",
+      "title": "Trinity trigger",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/70b/70b942af31d2f457b96dffca5273968d.jpeg",
+      "description": "Trinity Trigger is an action rpg inspired in the art styles and soundtrack of games from the 90s. \n\nUp to three players via local co-op.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bd9/bd97c220a92fcb10de1e4eed24ee4185.jpeg",
+        "https://media.rawg.io/media/screenshots/70b/70b942af31d2f457b96dffca5273968d.jpeg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Trinity trigger(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4aa04c1a-18c3-4576-9a95-89df63b6d6ca",
+      "title": "Tunic",
+      "tags": "Like zelda clássico",
+      "cover": "https://media.rawg.io/media/games/2c1/2c1984e128ac48b89953ed4de4904a3b.jpg",
+      "description": "Explore a land filled with lost legends, ancient powers, and ferocious monsters in TUNIC, an isometric action game about a small fox on a big adventure. Stranded on a mysterious beach, armed with only your own curiosity, you will confront colossal beasts, collect strange and powerful items, and unravel long-lost secrets.\n\nExplore a hostile and intricately-connected world of shady forests, sprawling ruins, and labyrinthine catacombs\nFight mighty bosses deep beneath the earth, high above the cloud...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f3a/f3af1430520c5817fb32a9b31079ba42.jpg",
+        "https://media.rawg.io/media/screenshots/9ab/9abe19979b369315878128bc47e1409e.jpg",
+        "https://media.rawg.io/media/screenshots/51b/51b07b3c7a87b7ff6b1d82a0d12870ae.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Tunic(Like zelda clássico)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d20b7796-4d71-4dcb-8312-87d863147543",
+      "title": "Turbo overkill",
+      "tags": "Fps",
+      "cover": "https://media.rawg.io/media/games/cfb/cfbcd421991cb6ced0b6b9448f0b9d3f.jpg",
+      "description": "Half-metal, half-human, half-crazyHeavily inspired by some of the all-time greats like Doom, Duke Nukem and Quake, with stunning cyberpunk visuals, Turbo Overkill is the most savage FPS ever released by Apogee. You play as half-metal, half-human, half-crazy Johnny Turbo, augmented with hidden arm rockets and a chainsaw that extends from your lower leg allowing you to kick-slice enemies wide open.\nIn this Blade Runner-meets-DOOM hellscape, Johnny returns to his hometown of Paradise and finds its ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/06b/06be522a0bc040fcb78710771cee18c3.jpg",
+        "https://media.rawg.io/media/screenshots/778/7781cd6ddf56a4acefbae7f6416de41c.jpg",
+        "https://media.rawg.io/media/screenshots/7e5/7e5fdfcd9a84cf37e4b3e94e4a31fd85.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Turbo overkill(Fps)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "66b77a68-b0f1-464c-b516-a3f621d800d0",
+      "title": "Two Point Campus",
+      "tags": "Criar faculdade",
+      "cover": "https://media.rawg.io/media/games/bde/bdedc180d7e2bca40fd105980d74b452.jpg",
+      "description": "Build your university, your way!\n\nIt’s time to spin academia on its head! Got a yearning for learning? Or just keen to build an educational masterpiece? Campus is jam-packed with new creative tools to help you build the university of your dreams.\n\nFor the first time, build in the great outdoors as you develop your own delightfully educational campus environment, housing the top teaching facilities in the land. Whether you prefer building on simple foundations, or placing every tree, you can ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/0b1/0b14f4cfcac55330567a6d211500cf1e.jpg",
+        "https://media.rawg.io/media/screenshots/595/595ecbc65e1b4b3f507cb102f8da8420.jpg",
+        "https://media.rawg.io/media/screenshots/0f4/0f4a2a50e5883940cf82d9d69695eb0a.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Two Point Campus(Criar faculdade)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5b20c192-9916-499e-ada5-77f7ea1b49b4",
+      "title": "Two Point Museum",
+      "tags": "Criar museum",
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false,
+      "raw": "Two Point Museum(Criar museum)",
+      "description": "Digital Deluxe EditionTwo Point Museum: Explorer EditionTwo Point County’s most daring adventurers have travelled to the far reaches of the known map and returned with unique artefacts to host in your museum, along with the coordinates of a new expedition location, home to an exclusive special exhibit and events!The Explorer Edition brings a selection of decorative items to embellish your halls, walls and floors with bespoke designs and well travelled statues. As well as exclusive items to help ...",
+      "cover": "https://media.rawg.io/media/screenshots/565/5653a8b254d6b92623eff5b3aeb61f18.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d02/d026040ef697d99b7c76d6285fd80441.jpg",
+        "https://media.rawg.io/media/screenshots/6b8/6b80e2adb9f6e2bcff0b582d4c5fcc23.jpg",
+        "https://media.rawg.io/media/screenshots/48e/48e7a28076784b3e6464e3ae5b1a276e.jpg"
+      ]
+    },
+    {
+      "id": "3c2b5219-f785-4fa1-a935-c6174032cbe3",
+      "title": "Two Points Hospital",
+      "tags": "criar hospital",
+      "cover": "https://media.rawg.io/media/games/2b9/2b90a0b4cafe05eefaa2698d6613dc7f.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/759/759aa7ab0f9bf35367d5ae1fde2f288b.jpg",
+        "https://media.rawg.io/media/screenshots/538/538571071f41f002e727284955cbf4a8.jpg",
+        "https://media.rawg.io/media/screenshots/013/013ff663afd5c1ab8248e6913b868cc0.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Two Points Hospital(criar hospital)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "21684a55-c1a7-4bd6-a740-57a142f2f2ce",
+      "title": "Two strikes",
+      "tags": "Bushido blade like",
+      "cover": "https://media.rawg.io/media/screenshots/bbd/bbdc9cba90aab959cbf86b5c8f5cc39b.jpg",
+      "description": "With stunning hand-drawn animations, 2D fighting game Two Strikes throws you into Japan's brutal Sengoku period, where samurais, warrior monks, and ruthless outlaws battle for their chance at redemption. Your fate is decided in one or two hits, making it a fast-paced, thrilling gaming experience.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2af/2af8e17c927ca0efaac63c69adf0b9ba.jpg",
+        "https://media.rawg.io/media/screenshots/749/74926cb045b8603d97c02c484b5fb193.jpg",
+        "https://media.rawg.io/media/screenshots/47e/47e9ec0717db3529cfc95e5137a76ae7.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Two strikes(Bushido blade like)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fe12cbac-e206-4ddc-a7f9-3142ef880957",
+      "title": "Ultra Age",
+      "tags": "action rpg",
+      "cover": "https://media.rawg.io/media/games/9af/9afd2c390c124c8c73aee5bcd41a7393.jpg",
+      "description": "Ultra Age is a high-speed, sword-swinging action game set in the far future that follows the story of young warrior Age, who embarks on a mission to save humankind from extinction. Use your blades to cut through robotic and mutant foes, explore futuristic locales, and unravel a vast conspiracy concerning the fate of the planet.\n\nFar in the future, the resources of Earth have become insufficient, its ecosystem long ago changed irrevocably by a passing meteor. Humankind has divided into two: the p...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f83/f83e95f3e7528c328ff54de6c4deb6aa.jpg",
+        "https://media.rawg.io/media/screenshots/1d4/1d411273c454694128ceb463367b700d.jpg",
+        "https://media.rawg.io/media/screenshots/fe0/fe09b04237d5bad4cadf92125ce010ce.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Ultra Age(action rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a8db0c81-d666-498e-81ec-42b21913319e",
+      "title": "Ultra space battle Brawl",
+      "tags": "Pong diferente",
+      "cover": "https://media.rawg.io/media/screenshots/249/24964a022397d1cd0f63c5c73ac824a0.jpg",
+      "description": "Imagine Pong mixed with the essence of fighting games, on steroids. Easy to learn yet hard to master, Ultra Space Battle Brawl is a fun competitive game fit for settling disputes, be it with your friends and family or rivals and arch nemesis. Play the single player story mode campaign, if you don’t have friends or enemies to fight against.\nFeatures:\nSingle player story mode campaign, if you don’t have friends or enemies to fight against\nVarious modes to play that supports up to 4 simultaneous pl...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/16b/16bfdd407e216beceff0eb22a561258d.jpg",
+        "https://media.rawg.io/media/screenshots/72e/72efde7282b396f5c27760f1ae2bc1e5.jpg",
+        "https://media.rawg.io/media/screenshots/778/778870c013d76801ab43da4674eddc22.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Ultra space battle Brawl(Pong diferente)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a34a5884-7c1c-4967-910c-544f764d4966",
+      "title": "Ultros",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/games/d27/d277aed5af334056974b51522a5b8d86.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 04 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/63b/63bea33014259dcd384821ca73ba11c2.jpg",
+        "https://media.rawg.io/media/screenshots/a72/a72c5c6bc6229aab691bc0d032fc679a.jpg",
+        "https://media.rawg.io/media/screenshots/eb8/eb86db785ad0398aaa65914aba0221bd.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Ultros (metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "920c4306-398a-4f47-b7ee-ea8bb71a6cea",
+      "title": "Umbraclaw",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/e61/e61d88876aab84bbd343e0033fce40ae.jpg",
+      "description": "Find hope in death.\nUmbraclaw tells the story of Kuon, a house cat who has died in the mortal world, after she awakens in the Soulplane, a realm of the dead. She must challenge the perilous underworld to return home to her owner in this 2D action adventure.\nThe player controls the cat Kuon as she searches for a way to open the \"Boundary\" to the mortal world and return home.\nThe dangerous terrain and frightful fiends of the Soulplane present a near impossible challenge for a mere house cat.\nAny s...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ef0/ef0ddb87eb6e59378372b4b6c1df4f32.jpg",
+        "https://media.rawg.io/media/screenshots/3f4/3f4647c0d67263df9694a087a05b87e9.jpg",
+        "https://media.rawg.io/media/screenshots/f00/f00458ecca2dd993e0dbe4db7a6f4d67.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Umbraclaw(plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "453dba86-5a5b-4af7-9c20-472ca409b63a",
+      "title": "Under Night In-Birth Exe:Late",
+      "tags": "Luta",
+      "cover": "https://media.rawg.io/media/screenshots/b02/b02a00079d01299cdcf53e0d255afcc7.jpg",
+      "description": "The story of the In-births unfold–Since time immemorial, the organization known as the “Night Blade” has acted as guardians in what is known as the “Hollow Night”. While resting from her eternal labors in a non-descript town that the Princess of the Night Blade, Linne, meets a young boy named Hyde, who is in possession of the fabled sword of destiny that she has been searching far and wide for.\nIn the Hollow Night, monsters called Voids feed upon the power that manifests there, while those known...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1e0/1e01ad41978ec793d7ba15106bc967ad.jpg",
+        "https://media.rawg.io/media/screenshots/64b/64b25e7610023e9e048dab4b4e3f834b.jpg",
+        "https://media.rawg.io/media/screenshots/ab0/ab028a94bc00f51eecf2db27a797d2d8.jpg"
+      ],
+      "genre": "Luta",
+      "raw": "Under Night In-Birth Exe:Late(Luta)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e4e324be-7e53-4697-a689-059735113ca2",
+      "title": "Unicorn Overlord",
+      "tags": "Rpg Tático",
+      "cover": "https://media.rawg.io/media/screenshots/e4d/e4d2d9720f0962ca4f6a6dd02cef331e.jpeg",
+      "description": "Jogo de Nintendo Switch. Rpg Tático",
+      "images": [
+        "https://media.rawg.io/media/screenshots/8a8/8a886e7c0291de9c8ed8c63224013342.jpeg",
+        "https://media.rawg.io/media/screenshots/a05/a053a8022c0e4f70f6c9ac93bcd16d5b.jpeg",
+        "https://media.rawg.io/media/screenshots/58a/58af778cfacb2e7b933027f16bee8e63.jpeg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Unicorn Overlord(Rpg Tático)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "378792f3-ad4e-4849-9b07-b6f3186a7c21",
+      "title": "Unravel Two",
+      "tags": "",
+      "cover": "https://media.rawg.io/media/games/3e3/3e355e1b8a5ee47f4c76e28e3055236d.jpg",
+      "description": "When you cut ties to the past, new bonds form. In Unravel Two, create a Yarny of your very own. Then build relationships with other Yarnys in local co-op or as a single player, fostering friendship and support as you journey together.\nBegin your adventure in a cold and imposing land, then watch your surroundings blossom with new life as you chase the spark of adventure. Dive into an immersive story filled with energy, exuberance, inspiration – even monsters. Approach every challenge with positiv...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/11e/11eb354fd7a9d58e39eb35076841784a.jpg",
+        "https://media.rawg.io/media/screenshots/303/3038c545699aebd94d2a3c79b5c02514.jpg",
+        "https://media.rawg.io/media/screenshots/30d/30df6368737960f797b0022a141c7d07.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Unravel Two",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "a89c628f-b690-454c-8f09-0ad75b2e1f9c",
+      "title": "Unruly Heroes",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/ab3/ab372c44f5118477fd5230827f208339.jpg",
+      "description": "Inspired by the timeless 16th century Chinese novel Journey to the West, players take control of four unlikely heroes.\n\nEffortlessly swapping between and Wukong the Monkey King, Sanzang the Sleepy Monk, Kihong the Greedy Pig, Sandmonk the Sensitive Brute as they travel westward in search of the scattered remnants of the Sacred Scroll.\n\nAlong the way, whether it be solo or in local coop, players will encounter a diverse lineup of enemies to battle within a colourful fantasy world.\nWill you b...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/75c/75c0edc2a6699eedd131aec755c8d0a5.jpg",
+        "https://media.rawg.io/media/screenshots/660/66023b5b4bd1fc401ae17db00d4499f7.jpg",
+        "https://media.rawg.io/media/screenshots/8d0/8d049b111f945e52b03a13943560c5e0.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Unruly Heroes(Plataforma 2d)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "eb5a8ff1-f83e-42be-a454-b02515555113",
+      "title": "Unsighted",
+      "tags": "Aventura/Metroidvania)(Multiplayer",
+      "cover": "https://media.rawg.io/media/games/25d/25d487c4f86a18b1bfca322148957634.jpg",
+      "description": "The few androids that remains in Arcadia, a once populous metropolis, are running out of Anima, the energy that gives all robots consciousness.\nExplore this forgotten city and save the remaining androids from turning into Unsighteds.\n- Large, interconnected world, filled with shortcuts and secrets.\n- Time is always ticking, don't let your (or other's) Anima run out.\n- Solve puzzles and gather abilities to get past obstacles.\n- Many different weapons, from melee to ranged ones, to suit your play ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/698/6982ef754ec35974395badc77c0fcbf1.jpg",
+        "https://media.rawg.io/media/screenshots/3f5/3f51fe12f346e9a9b4748b022a1fd03e.jpg",
+        "https://media.rawg.io/media/screenshots/196/19698bf6df7ba175b910dced65c77e71.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Unsighted(Aventura/Metroidvania)(Multiplayer)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3731f20e-7063-493f-b653-8e39e40525c4",
+      "title": "Valfaris: Mecha Therion",
+      "tags": "navinha",
+      "cover": "https://media.rawg.io/media/screenshots/4ab/4ab3d04e87f2fceff6db94e0387d603d.jpg",
+      "description": "Join Us On Discord\nAbout the Game\nTherion returns as the hunt for Lord Vroll continues. Pilot an advanced machine of death and destruction in this explosive 2.5D side-scrolling shoot ‘em up, and sequel to the critically acclaimed Valfaris. Strap in and unleash mecha hell!\nAfter escaping Valfaris, Therion’s hunt for the evil Lord Vroll has taken him across the galaxy. As the final, inevitable showdown looms, Therion harnesses the awesome combat ability of his secret weapon – Mecha Therion!\nA form...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/d9b/d9b5f1850adec70317502a4f7cff1bb2.jpg",
+        "https://media.rawg.io/media/screenshots/0a3/0a34fd97b75d36c5645c7eb1a6d99794.jpg",
+        "https://media.rawg.io/media/screenshots/4bb/4bbb8be9716ede49216eb61351ac374b.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Valfaris: Mecha Therion(navinha)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4052ec72-6b5e-4add-81b2-0ea4b0864312",
+      "title": "Valkyria chronicles 4",
+      "tags": "Jrpg tático",
+      "cover": "https://media.rawg.io/media/games/549/5493ebb0e6002c765d2dc07e9488951a.jpg",
+      "description": "A Continent Engulfed in the Bitter Flames of War! Valkyria Chronicles 4 takes place in the same timeframe as the original Valkyria Chronicles, but focuses on Squad E of the Federation. Commander Claude Wallace and his childhood friends set out to fight for freedom in this desperate war, but bone-chilling blizzards, waves of imperial soldiers, and the godlike powers of the Valkyria stand between them and victory. The return of the BLiTZ Battle System and the CANVAS Graphic Engine! The Next Genera...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/355/355a3ffd4f2c1b8903c1637b038148a2.jpg",
+        "https://media.rawg.io/media/screenshots/d79/d79024499a2e5984cf3f4e121b5bf0cf.jpg",
+        "https://media.rawg.io/media/screenshots/a6d/a6dd0963276a07bfb0310cc3cd2fb7fd.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Valkyria chronicles 4(Jrpg tático)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b3e12bd9-ab2e-4412-a7fd-97705b8352a0",
+      "title": "Vengeful Guardian: Moonrider",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/55d/55daa1e8e90e2674c56e5cac74fc4358.jpg",
+      "description": "Created to defend a totalitarian state, the Moonrider rejects its programming and now seeks vengeance on its creators.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f8c/f8cce9693916fe4b37d8d6f9f97a56cb.jpg",
+        "https://media.rawg.io/media/screenshots/155/15544adce0148e0df2fa2425e1214067.jpg",
+        "https://media.rawg.io/media/screenshots/cd3/cd3a4e13ddc683c1aec4158046b60a5e.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Vengeful Guardian: Moonrider(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "685150ba-bf49-4802-aedb-c39ad75767a5",
+      "title": "Vernal edge",
+      "tags": "Metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/4ad/4ad3cc798929ad044f6e722ec19d59c4.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/28b/28b10166d822931728d4c87d7793870b.jpg",
+        "https://media.rawg.io/media/screenshots/ef0/ef0afc764f780f680ac51909906922d2.jpg",
+        "https://media.rawg.io/media/screenshots/925/9255da6aa546ddb484098db6779a97cb.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Vernal edge (Metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8b98d7c0-ad3b-4f6f-afe2-38d67074d8ce",
+      "title": "Victory Heat Rally",
+      "tags": "Corrida",
+      "cover": "https://media.rawg.io/media/screenshots/93d/93d6b276364968be56cfad82f19c9698.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 11 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2c8/2c8ad7656f7395bf7bf8adc053d984b9.jpg",
+        "https://media.rawg.io/media/screenshots/110/1107d028610a6c57b7bd9fd95c89caca.jpg",
+        "https://media.rawg.io/media/screenshots/75a/75aa57010f6dc6358d96045954bbfed9.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "Victory Heat Rally",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "fd5f7a78-bdd5-4db6-b828-66751ce11eb5",
+      "title": "Voidwrought",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/740/740b6743bcf374cfffa2a42fef53f670.jpg",
+      "description": "Join Our Discord!\nAbout the GameThe coming of the Red Star heralds a new age. Emerging from its cocoon, the Simulacrum is driven to collect Ichor, the blood of the gods, from the monstrosities who hoard it. Voidwrought is a fast-paced action-platformer with tight traversal, varied abilities, and formidable boss battles. Find and equip powerful Relics and Souls to customize your playstyle. Excavate into the rubble of the Gray City to construct a shrine filled with loyal followers. Delve Beneath t...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c87/c8770f63e505366b7866512dcd6d39b8.jpg",
+        "https://media.rawg.io/media/screenshots/ecd/ecdf96385822949727e92906c2eed4e6.jpg",
+        "https://media.rawg.io/media/screenshots/773/773d9e04dec111673e6555f4000c5a9d.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Voidwrought(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5e636dfb-2d50-4743-8cc1-bb70a2929484",
+      "title": "Volley pals",
+      "tags": "vôlei",
+      "cover": "https://media.rawg.io/media/screenshots/270/270e1aa992aa699a84e5490d28a856c3.jpg",
+      "description": "Volley Pals is an adrenaline-packed modern style arcade volleyball game with different mechanics in each of its levels. We designed it as a local multiplayer party game that supports up to 4 people. Volley Pals is exactly the game you’re looking for if you want to be on the edge of your seat with friends, family, or anyone you can spend some super-fun time with.GameplaySimplified arcade volleyball where you hit the ball and pass it to your opponent's field. However in Volley Pals, you can also d...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/fc1/fc19b643524fae401588d8f9d32f9606.jpg",
+        "https://media.rawg.io/media/screenshots/df6/df6dadd255c6ca3556f7b54212d09522.jpg",
+        "https://media.rawg.io/media/screenshots/a49/a49891727c060eae6af76749c6e8f5a0.jpg"
+      ],
+      "genre": "Esportes",
+      "raw": "Volley pals(vôlei)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ebd6d560-4847-4351-897c-302352154a1e",
+      "title": "Warframe",
+      "tags": "tiro",
+      "cover": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
+      "description": "Warframe is an online free-to-play cooperative third-person looter shooter. In the far future the Orokin had absolute control over the solar system but have since disappeared, now the militaristic Grineer, the money-worshipping Corpus, and the Infested fight for what they left behind. You are a Tenno - a master of gun and blade and user of the Warframes, it is up to you to bring back balance to the system from within, while also fighting a new threat from without: the Sentients.\nOver 40 unique ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2e1/2e15c9f4cca692ebca67b7652e559f6d.jpg",
+        "https://media.rawg.io/media/screenshots/70d/70de629465e39f8108aa533df9cff554.jpg",
+        "https://media.rawg.io/media/screenshots/b3a/b3a368123558e7f4010e8b68518d6412.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Warframe(tiro)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "db22df27-f590-494c-afa8-b69d28dd60bd",
+      "title": "Wargroove",
+      "tags": "Rpg tático",
+      "cover": "https://media.rawg.io/media/games/892/892181b6c1acd9f527e7346137b0e1a3.jpg",
+      "description": "Wargroove is a high fantasy game that was strongly inspired by such turn-based tactics games as Advance Wars and Fire Emblem. It features minimalist pixelated visual style and a 2D top-down view. The game is made for Nintendo Switch and aims to recreate the retro atmosphere of the old games from the early 2000s handheld consoles. \n \n###Gameplay\nThe player assumes the role of one of the commanders. There are twelve unique commanders, each of them has a distinct personality, motivation, and a pers...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/289/2896926eecb0ea2b997585a4a94d32dc.jpg",
+        "https://media.rawg.io/media/screenshots/6ad/6ade9723b0db527c7c5ee3db9477493f.jpg",
+        "https://media.rawg.io/media/screenshots/592/59251a87d60ab5489e2198aaffb53aeb.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Wargroove(Rpg tático)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "dffa7614-a78f-4da7-b618-f8494eadeb23",
+      "title": "Wargroove 2",
+      "tags": "Rpg Tático",
+      "cover": "https://media.rawg.io/media/screenshots/431/431683c9feb85ccf1a297293f8920cbc.jpg",
+      "description": "FEATURE LIST\nAn all-new Wargroove adventure for new recruits and veteran wardogs alike!\nReturn to the battlefield with new Commanders, as unknown factions join the fight.\nCommanders are more powerful than ever, with all-new tiered Grooves.\nFollow the tale of the warring Factions of Aurania in 3 interwoven Campaign stories.\nBattle with or against your friends in Co-Op & Multiplayer mode, locally or online for up to 4 players.\nPut your strategic abilities to the test with a new roguelike mode - Co...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bfd/bfdb393227259a2a4038f8b60216aaa3.jpg",
+        "https://media.rawg.io/media/screenshots/12d/12dcd0a5ded6857c478aeb6581e259ff.jpg",
+        "https://media.rawg.io/media/screenshots/778/778c6341011910826782eb543de63611.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Wargroove 2(Rpg Tático)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "1483e3e7-4bf5-4ab1-a169-df4136c1c5f7",
+      "title": "Wario Ware: Move It!",
+      "tags": "Controle de movimento",
+      "genre": "Party game",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false,
+      "raw": "Wario Ware: Move It!(Controle de movimento)",
+      "description": "Jogo de Nintendo Switch. Controle de movimento",
+      "cover": "https://media.rawg.io/media/screenshots/335/335ae930d6d9e46c3d6ff9b37711df30.jpg",
+      "images": [
+        "https://media.rawg.io/media/screenshots/335/335ae930d6d9e46c3d6ff9b37711df30.jpg"
+      ]
+    },
+    {
+      "id": "07779de0-9496-4e32-a5b7-b202e23ae185",
+      "title": "WarioWare: Get It Together!",
+      "tags": "Mini games curtos",
+      "cover": "https://media.rawg.io/media/games/6bc/6bca5498348295582144f9fb3e105ba7.jpg",
+      "description": "Microgame mayhem comes to the Nintendo Switch™ system. Take on over 200 quick and quirky microgames—lightning-fast minigames filled with frantic fun—solo or with a friend! When his latest harebrained business scheme goes awry, Wario must use his signature style (and smell) to fix it. How? By playing a twisted collection microgames of course! From assembling a robot to pulling out a statue’s armpit hair, the WarioWare™: Get It Together! game is a comedic, cooperative microgame mashup.\n\nFind a fri...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/c19/c1941a92c860955e495f6e1b78c935e9.jpg",
+        "https://media.rawg.io/media/screenshots/7ac/7ac9deb4204c12bfb40b2b0fca9d77a6.jpg",
+        "https://media.rawg.io/media/screenshots/6ac/6ac410d7be7f47476ffd50ab673497fa.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "WarioWare: Get It Together!(Mini games curtos)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "db351e6c-ecdb-4af1-8b8c-693d598d64a9",
+      "title": "WARRIORS: Abyss",
+      "tags": "rogue Like",
+      "cover": "https://media.rawg.io/media/screenshots/e31/e31afa44284f2567a16529eef0f9610c.jpg",
+      "description": "Early Purchase BonusDYNASTY WARRIORS Costume Set\nAn early purchase bonus of 5 \"DYNASTY WARRIORS\" costumes will be available for those who purchase the game by March 14, 2025.\nNote: Please be aware that this content may become available for purchase or for free at a later date.\nSpecial Editions also on sale now\nWARRIORS: Abyss - Hack'n'Dash Edition\"WARRIORS: Abyss - Hack'n'Dash Edition\" is a set consisting of the main game and the content listed below.\n• Legendary Costume Set\nA set of 57 costumes...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f02/f02b4764052729c913190dc3cca0ad9e.jpg",
+        "https://media.rawg.io/media/screenshots/13a/13ad20a7990c04e9b2a53a263662cb6d.jpg",
+        "https://media.rawg.io/media/screenshots/130/13084b9cd9423b890e0c199722f6ee99.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "WARRIORS: Abyss(rogue Like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "ba0f4d0f-d570-4ae7-86a4-60583f509503",
+      "title": "Wild dogs",
+      "tags": "plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/5e8/5e850d96ece6e4b23fd08643c39d7df7.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/db0/db07bd86eff29ecbbeaed2986549e0f5.jpg",
+        "https://media.rawg.io/media/screenshots/7d8/7d81dbb9ddcb544e830fba4b707495c8.jpg",
+        "https://media.rawg.io/media/screenshots/9ac/9ac450538309510be067ccef2b6d5cf9.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Wild dogs (plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "55aa3eeb-b1f4-4a50-961a-ca775615924a",
+      "title": "Wild Guns Reloaded",
+      "tags": "Multiplayer",
+      "cover": "https://media.rawg.io/media/screenshots/712/71266a39cca8fcabea958368aa8506e5.jpg",
+      "description": "Wild Guns Reloaded is a fast-paced arcade-style shooter, mixing the Wild West with steampunk. Play as Clint, Annie, Doris, or Bullet the dog with his sentry drone. Grab some friends and play together for some four player action! Each character can jump, dive, and roll to get out of the way of the barrage of bullets enemies let fly – or shoot them down with their own gun!\n•\tTwo new characters, each with their own weapons and tactics!\n•\tUp to 4 players and Online Rankings!\n•\tClassic and NEW Stages...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/9d7/9d74052ffa59ed386c4b2773c41589a3.jpg",
+        "https://media.rawg.io/media/screenshots/2d3/2d32453003240e75564fc65a4ba2f938.jpg",
+        "https://media.rawg.io/media/screenshots/25f/25f67dd7dec709d0cdd4efb1c51d01f1.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Wild Guns Reloaded(Multiplayer)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "5107a2cc-13a4-40bb-8de4-253729c689e2",
+      "title": "Wildfrost",
+      "tags": "Roguelike de carta",
+      "cover": "https://media.rawg.io/media/games/96d/96d0699a2193cc557026e340fb2ddb5b.jpg",
+      "description": "Take on the elements in Wildfrost, a tactical roguelike deckbuilder!\n\nThe sun has frozen over, succumbing to the Wildfrost. The town of Snowdwell and its survivors stand as the last bastion against an eternal winter... Build up a deck of powerful card companions and elemental items, as you battle to reach the Sun Temple and banish the frost once and for all!\n\n• Perfect your card battling skills and craft a deck unique to you, as you journey across an unforgiving frosty landscape.\n\n• Collect and ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/de6/de6cc4d5aad1d2f0f1618cb5dbc4ab69.jpg",
+        "https://media.rawg.io/media/screenshots/a00/a0041bc12b2abf27fc7c48bf25f0c185.jpg",
+        "https://media.rawg.io/media/screenshots/ba3/ba32da63445643de74b1b2cc3b08db85.jpg"
+      ],
+      "genre": "Rogue Like",
+      "raw": "Wildfrost(Roguelike de carta)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "db9093b7-77da-4e51-bae5-83d5996753f5",
+      "title": "Windjammers 2",
+      "tags": "jogo de disco",
+      "cover": "https://media.rawg.io/media/games/445/4454ca9ba9b2e251ab2fa63354558b8a.jpg",
+      "description": "The legendary disc throwing game, Windjammers, is getting a sequel!\n\nWindjammers 2 will combine everything fans love about the classic title with entirely hand-drawn 2D animations to create the ultimate windjamming experience. The coming sequel will bring new stages and players, surprising and amazing new power moves and enhanced gameplay mechanics!\n\nFEATURES:\n• Gorgeous hand-drawn 2D animations\n\n• Brand new characters and stages\n\n• New power moves\n\n• Enhanced online multiplayer gameplay modes\n\n...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/000/0003a5ffd0729f3041f66fff43bacb16.jpg",
+        "https://media.rawg.io/media/screenshots/45c/45ce211cacf1dc83eeac7e3ba8e0f1f8.jpg",
+        "https://media.rawg.io/media/screenshots/5ae/5aeaf71b2f79a90750d9ea6d95c731ef.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Windjammers 2(jogo de disco)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b2667e56-ad1d-454e-ba29-071f0126d351",
+      "title": "Witchtastic",
+      "tags": "overcooked like",
+      "cover": "https://media.rawg.io/media/screenshots/599/59985da8ef0d76d9f6c991e16adae8a9.jpg",
+      "description": "Witchtastic is a challenging 1-4 player coop game about brewing and delivering magic potions as fast as possible. Take on the role of an aspiring witch and experience charming adventures with your friends. To make potions, you gather ingredients such as nightshade, garlic or mushrooms and fill the boiling cauldron. Quick communication and coordination are key. Master the recipes and ride your broom to overcome obstacles. If you are ever in need of assistance, your trusted companion Owly is alway...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2cf/2cf6da9dc0ecb50af36d763d2182f44e.jpg",
+        "https://media.rawg.io/media/screenshots/0ac/0ac8b136d4d22b953971ed62229f0d0b.jpg",
+        "https://media.rawg.io/media/screenshots/a0b/a0b9ad294be22113f9b9eb38f8bffdd0.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Witchtastic(overcooked like)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8d66d863-e0a6-48f6-9708-43a06b3049f1",
+      "title": "Wizorb",
+      "tags": "Arkanoid like",
+      "cover": "https://media.rawg.io/media/screenshots/a95/a95a895d303408744cd4f5bf3404098c.jpeg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/425/425f0a72e224572081df8343f3423ab7.jpg",
+        "https://media.rawg.io/media/screenshots/74f/74f354fd332640dde2ca30fb5020e7ed.jpg",
+        "https://media.rawg.io/media/screenshots/66c/66c080d5247ec0168cd3d6cc01b90b9b.jpg"
+      ],
+      "genre": "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+      "raw": "Wizorb(Arkanoid like)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "bca5b97d-dab8-46a7-9d8e-04ee93a55626",
+      "title": "Wolfenstein II: The New Colossus",
+      "tags": "FPS",
+      "cover": "https://media.rawg.io/media/games/a0e/a0ef08621301a1eab5e04fa5c96978fa.jpeg",
+      "description": "Jogo de Nintendo Switch. FPS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/46f/46fd3ba7b2ff7539af8d58181c455dd8.jpg",
+        "https://media.rawg.io/media/screenshots/a59/a59057a832fec0b2d31701ec4679f93c.jpg",
+        "https://media.rawg.io/media/screenshots/f8a/f8ac9fd590b7eacdfc7157357b887af0.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Wolfenstein II: The New Colossus(FPS)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "689a72ff-71d8-4b3c-822b-b52140c677e0",
+      "title": "Wolfenstein: Youngblood",
+      "tags": "FPS",
+      "cover": "https://media.rawg.io/media/games/c64/c64d2f63cabeab9126693b7d39539c8d.jpg",
+      "description": "Wolfenstein: Youngblood is a spin-off installment of the Wolfenstein series. It fills the gap between Wolfenstein II: The New Colossus and the upcoming Wolfenstein 3. \n\n###Setting\nLike its predecessors, Wolfenstein: Youngblood is set in an alternate reality, in which Nazi Germany won World War II by using anachronistically developed tech. The Third Reich managed to conquer Europe and North America. The spin-off is set in an alternate 1980. Nineteen years have passed since the events of Wolfen...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/625/6255e5b6c06412a1cc97ae966c150911.jpg",
+        "https://media.rawg.io/media/screenshots/d66/d66a9057cd8c695e3fe76d1b8edd11e3.jpg",
+        "https://media.rawg.io/media/screenshots/d90/d9055dfc3a71408525ac8d7618bdd178.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Wolfenstein: Youngblood(FPS)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f15452cf-86ab-470f-bcc5-23fb7539b025",
+      "title": "Wonder Boy: The Dragon's Trap",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/screenshots/c57/c57924c382278ee6c31a82c2e95fba0b.jpg",
+      "description": "Boasting beautiful, hand-drawn animations and a re-orchestrated soundtrack, the cult classic returns with a unique blend of exploration, action, and adventure!\nCursed into a half-human, half-lizard monstrosity by the Meka-Dragon, you are in search for a cure! The only way you can return to human form is to find the Salamander Cross, a magical item with the power to remove curses...\nWith each dragon slain, the curse intensifies, transforming you into different animals! Explore large, interconnect...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/80a/80aa1decdb2d680f314df37a029a0bf3.jpg",
+        "https://media.rawg.io/media/screenshots/70b/70bb78a2f3fe3644a8b529746d293f53.jpg",
+        "https://media.rawg.io/media/screenshots/4c6/4c6023b31521ff783cd187c32b6a2420.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Wonder Boy: The Dragon's Trap(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8e31ba85-2b15-4331-8d22-08a13bc00bbd",
+      "title": "World of Final Fantasy",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/daf/daf2a24d9727b1511673fbfece306b94.jpg",
+      "description": "Day-1 Edition\nThe WORLD OF FINAL FANTASY® Day One Edition will be available from November 21, 2017 until November 28, 2017 and includes the following bonus content:\nA digital soundtrack sampler featuring enchanting tracks from the game.\nA stunning wallpaper showcasing legendary FINAL FANTASY heroes and creatures (Sizes: 1024 x 768, 1280 x 1024, 1920 x 1080, 2560 x 1600)Don't miss out, add it to your wishlist!\nAbout the Game\nCAPTURE, CUSTOMISE AND EVOLVE! Embark on a magical journey with siblings...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/adf/adf6f68dcf4d090c7efc4a084146c2ce.jpg",
+        "https://media.rawg.io/media/screenshots/11c/11c9926ac6dc79cf94b7128b65a68cae.jpg",
+        "https://media.rawg.io/media/screenshots/4ef/4ef10446142b22ea63637d6763e263ba.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "World of Final Fantasy(Jrpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "d599b00d-c910-4314-9fb5-b513245d3a98",
+      "title": "Worldless",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/930/93084416cf47ba4547f3810d5b1d1961.jpg",
+      "description": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+      "images": [
+        "https://media.rawg.io/media/screenshots/b51/b51d9f50e80c7aa49362b649bbf8efa5.jpg",
+        "https://media.rawg.io/media/screenshots/297/297f52fba0e04866c12625537751b5c6.jpg",
+        "https://media.rawg.io/media/screenshots/863/8631e8d2260184cf88baef92bcabe8d3.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Worldless(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "3538a325-c322-4720-97df-148299af2743",
+      "title": "Worms Armageddon",
+      "tags": "Estilo gunbound",
+      "cover": "https://media.rawg.io/media/games/96a/96a48ac7487d9db9179d83170afcb16a.jpg",
+      "description": "Worms Armageddon is a 2D artillery tactical shooter with turn-based gameplay. It follows the visual style of the series, and you control a team of cartoonish worms that fight with real-based weapons. While the game was developed in the late 90s, the newest version is available on Steam since 2013.\n\nThe core gameplay is focused on turn-based PvP battles. Each player can perform an action during their turn. You have numerous possibilities: you can move your worms, attack opponents, use different i...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/df2/df2c33c4ca5829e815d70d64c4deb2d1.jpg",
+        "https://media.rawg.io/media/screenshots/981/9812e7ee95ec6e8059cb24669a1761cf.jpg",
+        "https://media.rawg.io/media/screenshots/add/adde497f28cde969d1588de90cefb28c.jpg"
+      ],
+      "genre": "Party game",
+      "raw": "Worms Armageddon(Estilo gunbound)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "46f8ad62-ff9d-4eeb-a8f1-a2a75bbf94f5",
+      "title": "Wrestlequest",
+      "tags": "Rpg",
+      "cover": "https://media.rawg.io/media/screenshots/d6e/d6e9a9ba0565a3d9e7f5592c65af018f.jpg",
+      "description": "WrestleQuest\nTHE ULTIMATE PRO WRESTLING ADVENTURE\nPowerbomb and piledrive your way through a massive pixel art universe where professional wrestling and RPG fantasy collide.\nWRESTLE WITH DESTINY\nTake a hero’s journey... in tights! Upgrade from aspiring rookie to world champ by training, learning, glamming, and SLAMMING to the top of the pro wrestling food chain.\nYOUR IDOLS AWAIT\nDraw inspiration from wrestling icons like Jake the Snake Roberts, \"Macho Man\" Randy Savage, and even André the Giant....",
+      "images": [
+        "https://media.rawg.io/media/screenshots/43e/43e7560ec70f56de7efad5241fbdbdbe.jpg",
+        "https://media.rawg.io/media/screenshots/67e/67eeb911e2db3310a895ddbaa32e49c5.jpg",
+        "https://media.rawg.io/media/screenshots/da8/da8a9441d11abe6de3f84b79070c5ca2.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Wrestlequest(Rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f0080b18-c2bd-42c8-9a15-5ab731b3a58b",
+      "title": "Wylde Flowers",
+      "tags": "Fazenda",
+      "cover": "https://media.rawg.io/media/screenshots/6a0/6a0719b7302a38e3f0b260d1412c955c.jpg",
+      "description": "Wylde Flowers is a cozy life and farming sim with a witchy twist! Escape to a cute world of diverse folks, and magical spells, as you and the coven unravel a mystery!\n\n\nPlay as Tara, as she arrives at a cozy rural island to help out her grandma and the family farm.\n\n\nExplore a wholesome world of magical realms, beautiful beaches, secretive forests and the friendly town of Fairhaven.\n\n\nMeet a charming cast of fully voice acted characters, with intriguing back stories to reveal. Find friendship or...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f5f/f5f7ce986c6346ab53b3cb45d9331566.jpg",
+        "https://media.rawg.io/media/screenshots/3e3/3e3f132221574d7db0015d0d2f1a561e.jpg",
+        "https://media.rawg.io/media/screenshots/435/4359de40833ba52661dfec823f4ebd44.jpg"
+      ],
+      "genre": "Simulador,jogo de criação,Fazenda e cozy games",
+      "raw": "Wylde Flowers(Fazenda)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "461f8f5c-d7d4-4598-a09c-121a31cdde7e",
+      "title": "Xenoblade Chronicles 2",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/a9a/a9a6055569c986a04d066b310ea57ebb.jpg",
+      "description": "As the giant beasts march toward death, the last hope is a scavenger\nnamed Rex—and Pyra, a living weapon known as a Blade. Can you find the\nfabled paradise she calls home? Command a group of Blades and lead them\nto countless strategic victories before the world ends.\n\nEach Titan hosts its own distinct cultures, wildlife, and diverse\nregions to explore. Search the vast open areas and labyrinthine\ncorridors for treasure, secret paths, and creatures to battle and index.\n\nDuring these escapades you'...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/799/799b1a80f06693ad59e4fed0b6d71269.jpg",
+        "https://media.rawg.io/media/screenshots/b56/b562b17ceb010770961342d5e3509584.jpg",
+        "https://media.rawg.io/media/screenshots/191/191fa63ec54ad776d8594518a0747023.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Xenoblade Chronicles 2(Jrpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "b68ff208-d56a-4962-b7cf-48b133b48d75",
+      "title": "Xenoblade Chronicles 3",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/ae7/ae7cfc9a66232839112663899d2c8d8d.jpg",
+      "description": "A vast world awaits in Xenoblade Chronicles 3, the next game in the acclaimed RPG series from developer MONOLITHSOFT. Players will step into the roles of protagonists Noah and Mio amid turmoil between the hostile nations of Keves and Agnus. Six characters hailing from those nations will take part in a grand tale with “life” as its central theme.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/39e/39e3f875efaa7e216cfde29e50378ef2.jpg",
+        "https://media.rawg.io/media/screenshots/108/10842320f67cbb53a1a165ad322fd7de.jpg",
+        "https://media.rawg.io/media/screenshots/cd3/cd3f7e41b8b4b56818e1c2e9d7870954.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Xenoblade Chronicles 3(Jrpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "46f6a312-2a52-4f49-b549-e6cdf6716ee2",
+      "title": "Xenoblade Chronicles X: Definitive Edition",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/screenshots/53b/53bcaeab75ae68f154f23ea5ebb2ac04.jpg",
+      "description": "The next massive sci-fi role-playing game from Monolith Soft, the\ncreators of Baten Kaitos and Xenoblade Chronicles, comes exclusively to\nWii U. A terrible intergalactic war leaves just a handful of Earth\nsurvivors trying to live in a beautiful yet hostile environment. Players\nengage in battles against powerful creatures of all forms and sizes\nusing the deep battle system that builds on the triumphs of Xenoblade\nChronicles for Wii.\n\nFEATURES:\n\nRiding and controlling a weaponized mech, players ca...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/827/827bebd1b2160a5fcb825bd32ea2551b.jpg",
+        "https://media.rawg.io/media/screenshots/074/0743129a05e625bd9a8c8ebad7c4d352.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Xenoblade Chronicles X: Definitive Edition(Jrpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "09d77c75-cb60-4047-bb69-7865254072ef",
+      "title": "Xenoblade Chronicles: Definitive Edition",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/773/7739920af75d01f6a3b7e76a21d1633a.jpg",
+      "description": "MONOLITHSOFT’s epic Xenoblade Chronicles, which originally launched in 2011 on Wii, is destined to be reborn on Nintendo Switch as Xenoblade Chronicles: Definitive Edition.",
+      "images": [
+        "https://media.rawg.io/media/screenshots/691/691867f081aa374b9d797b211277e185.jpg",
+        "https://media.rawg.io/media/screenshots/e6f/e6f1be8c19694b4c6e15723a74cdb043.jpg",
+        "https://media.rawg.io/media/screenshots/a56/a56494dfb1708b555bb3ec849382efdd.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Xenoblade Chronicles: Definitive Edition(Jrpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "04bbdccb-e44c-481a-8846-9c0cd9f4b908",
+      "title": "Yakuza kiwami",
+      "tags": "Action rpg",
+      "cover": "https://media.rawg.io/media/games/fbb/fbbd9fe21317bde9134114e2b1306069.jpg",
+      "description": "“Kiwami” means extreme.\n1995, Kamurocho… Kazuma Kiryu, the Dragon of Dojima, takes the fall for the murder of a crime boss to protect his sworn brother, Akira Nishikiyama, and his childhood friend, Yumi.\n2005… Akira Nishikiyama has become a changed man. Yumi is nowhere to be found. Ten billion yen has gone missing from the Tojo Clan's coffers, putting the organization on the brink of civil war. And Kazuma Kiryu is released from prison to a world he no longer recognizes.\nWith enhanced gameplay...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/442/4424b87c6bb46c627938d6c233af5db1.jpg",
+        "https://media.rawg.io/media/screenshots/13f/13f3adafaf9e598837d78a1694a6c537.jpg",
+        "https://media.rawg.io/media/screenshots/127/1278ae30216a316438777610e7e2bd41.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Yakuza kiwami(Action rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "22994fc5-ed19-48c6-82d3-35411980e4f2",
+      "title": "Yars rising",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/f62/f62bb34d4db7c3652e1ed42d2a2efb0a.jpg",
+      "description": "RUN, JUMP, SNEAK, AND HACK YOUR WAY TO THE HEART OF THE MYSTERY\nFrom the renowned development studio WayForward Technologies, Inc. (Shantae, River City Girls, Advance Wars 1+2: Re-Boot Camp) comes Yars Rising, a 2D action adventure exploration of one of Atari’s richest, and best known classic titles.\nIn WayForward’s experienced hands, the Yars franchise becomes an expansive mystery solved through 2D platforming action. Take control of the young hacker Emi Kimura, who is hired by a mysterious pat...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2d3/2d3078bcebaed296dfbf327878d3097c.jpg",
+        "https://media.rawg.io/media/screenshots/287/28767927f1a67ce51015d0b8192607ac.jpg",
+        "https://media.rawg.io/media/screenshots/8ce/8ce728f3a4ec518d6f3dcc3a726554bd.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Yars rising(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "4338a083-a510-4d98-b23f-b83b76d281f8",
+      "title": "Yo-kai Watch 4",
+      "tags": "Jrpg",
+      "cover": "https://media.rawg.io/media/games/236/236659252b5c248834b72d4796bebbf5.jpg",
+      "description": "Let's go find the invisible world!\n\n> Towns and yo-kai have been transformed into anime!\nGraphics have evolved significantly from the previous Yo-Kai Watch series!\nReproducing the beautiful townscape as if you were moving the character in the animation. It's become more fun to find out more about yo-kai and where they are hiding!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/f49/f49e1a8d2d37a1e79b31c7afd8bab378.jpg",
+        "https://media.rawg.io/media/screenshots/67f/67fcce567fae7da2e432641b7162da93.jpg",
+        "https://media.rawg.io/media/screenshots/dee/dee25823de9f7d26ac9232650ea44072.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Yo-kai Watch 4(Jrpg)",
+      "multiplayer": false,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "139b1faa-8113-465a-beea-606fcda4ee26",
+      "title": "YOHANE THE PARHELION -BLAZE in the DEEPBLUE",
+      "tags": "metroidvania",
+      "cover": "https://media.rawg.io/media/screenshots/b84/b84a686e2739eca0a6b24588b84562d2.jpg",
+      "description": "Yohane challenges an underwater labyrinth!\n\"Yohane the Parhelion\" is getting a 2D action game!\n●What is \"Yohane the Parhelion: BLAZE in the DEEPBLUE\"?\nYohane the Parhelion is an official spin-off of \"Love Live! Sunshine\".\nYohane's fantasy world sets the stage for a 2D metroidvania in \"Yohane the Parhelion: Blaze in the Deepblue\"!\nThe player takes control of Yohane as she ventures into a mysterious dungeon alongside her partner Lailaps. She must challenge the monster-infested labyrinth to rescue ...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e6e/e6e84e2be101e13d70c545d8d0108b3e.jpg",
+        "https://media.rawg.io/media/screenshots/623/623e3bc48e5d948cf1d2ca2b6cfd0ad8.jpg",
+        "https://media.rawg.io/media/screenshots/878/8782c900c5269576b365ecbacc816396.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "YOHANE THE PARHELION -BLAZE in the DEEPBLUE(metroidvania)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "38015085-f696-440a-a76d-95a1dc5ea8a4",
+      "title": "Yoku's Island Express",
+      "tags": "metroidvania de pinball",
+      "cover": "https://media.rawg.io/media/screenshots/2af/2af88b770803eb5c6a2e16894012ac77.jpg",
+      "description": "Yoku has arrived on Mokumana and he’s ready for the easy life, soaking up the sun and delivering parcels on a tropical paradise!\nHowever, an ancient Island deity is trapped in a restless sleep - and it’s all down to Yoku to traverse the island using a unique blend of pinball mechanics, platforming and open world exploration, in an amazing adventure to help those in need!\nFlip and bump our pint-sized protagonist around the stunning hand-painted island on your quest to rebuild the post-office, dis...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/bef/bef033e3aa893fd8169155a350379bb6.jpg",
+        "https://media.rawg.io/media/screenshots/bb9/bb92cbd720c2b1d7528d93d37eb38342.jpg",
+        "https://media.rawg.io/media/screenshots/d35/d354ffa80c99b7a037fd0dc77c0ac32e.jpg"
+      ],
+      "genre": "Metroidvânia",
+      "raw": "Yoku's Island Express(metroidvania de pinball)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "94a4d1bf-3923-4591-9e96-bb79d285adee",
+      "title": "Yooka-Laylee",
+      "tags": "Plataforma 3d",
+      "cover": "https://media.rawg.io/media/games/213/2138ba3c97d02b581ca0b50805fcd49c.jpg",
+      "description": "Digital Deluxe Edition\nYooka-Laylee Digital Deluxe is the ultimate platforming package, including an exclusive digital manual and art book, plus the game’s incredible soundtrack!DIGITAL MANUAL & ART BOOK\nYooka-Laylee’s 24-page digital manual and art book features exclusive details on the characters, worlds and challenges set to feature in the highly-anticipated platformer revival! Oh, and there are a few excellent puns in there too, if you’re interested.\nThe digital artbook includes never-before...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/779/7792b222d369af9c066c085f5522a71d.jpg",
+        "https://media.rawg.io/media/screenshots/620/6206fbc7d49aa8499cec27445f7d29bf.jpg",
+        "https://media.rawg.io/media/screenshots/4c9/4c9c388138c44e4f57405e50d58c306f.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Yooka-Laylee(Plataforma 3d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "6f000b36-bf46-4e54-bbde-e0dbb2b234de",
+      "title": "Yooka-Laylee and the Impossible Lair",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/be8/be8f734c9b6f063a454a55aeb6a3509e.jpg",
+      "description": "Yooka & Laylee are back in a brand-new platform adventure from Playtonic Games! With their arch-nemesis Capital B up to no good, the buddy duo needs to spring into action once again to save the day. To thwart his evil plan of using a “Hivemind” device to enslave an entire kingdom of bees, our heroes need to take the fight to Capital B’s “Impossible” Lair. Things look tough, but with the help of Queen Phoebee and her Royal Beettalion , Yooka and Laylee might just have a chance!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/e67/e678b4f0b234f3774e9dd4eda5300836.jpg",
+        "https://media.rawg.io/media/screenshots/bab/bab41dde698a068f497ea3063b87f860.jpg",
+        "https://media.rawg.io/media/screenshots/c7e/c7e282224e62e2de943441464d83698d.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Yooka-Laylee and the Impossible Lair(Plataforma 2d)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "8811270e-0c1c-4413-b834-be058faadd14",
+      "title": "Yoshi's Crafted World",
+      "tags": "Plataforma 2d",
+      "cover": "https://media.rawg.io/media/games/56d/56df082b7182fef977d22482b5dfd648.jpg",
+      "description": "Yoshi's Crafted World is the eleventh game in the Yoshi franchise and the eighth installment of the main series. It follows Yoshi, a cartoonish green dinosaur that first appeared in the Mario games. This is the first Yoshi game to be made for Nintendo Switch. The game is the sequel to Yoshi's Woolly World that was developed by the same team. It features the similar “hand-crafted” visual style that makes Yoshi look like he's made of plush.\n\n###Gameplay\nThe player controls Yoshi in a pseudo-3D env...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/cda/cda3ff616a4f1fcabfb34593a7868660.jpg",
+        "https://media.rawg.io/media/screenshots/6dd/6dd964b5d586d31103b6132dcbfe94a9.jpg",
+        "https://media.rawg.io/media/screenshots/ac7/ac7e1dd755c7e27d686f4f26428a11a7.jpg"
+      ],
+      "genre": "Plataforma,Ação,Aventura",
+      "raw": "Yoshi's Crafted World(Plataforma 2d)",
+      "multiplayer": true,
+      "nintendo": true,
+      "favorite": false
+    },
+    {
+      "id": "d15220c3-b376-4467-bff1-78e13332d206",
+      "title": "You Suck at Parking",
+      "tags": "corrida",
+      "cover": "https://media.rawg.io/media/screenshots/ccb/ccb8e9ca457b2a41e9f27bcc1f02f5a3.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 11 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/ccb/ccb8e9ca457b2a41e9f27bcc1f02f5a3.jpg"
+      ],
+      "genre": "Corrida",
+      "raw": "You Suck at Parking",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "b692136b-ea59-4530-ae71-8840956a87c9",
+      "title": "Young Souls",
+      "tags": "briga de rua",
+      "cover": "https://media.rawg.io/media/games/70a/70a009eae06ac608b9d8274125e68bb4.jpg",
+      "description": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  11 HOURS 12 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+      "images": [
+        "https://media.rawg.io/media/screenshots/70d/70df61121249c5dd4dead1dec669aa38.jpg",
+        "https://media.rawg.io/media/screenshots/e8d/e8d03829b8e02d8b4ed6c2e96f69b7eb.jpg",
+        "https://media.rawg.io/media/screenshots/f8e/f8ee4f66bd4b74e8489fd6e5c8f8b8d9.jpg"
+      ],
+      "genre": "Briga de rua, Runandgun",
+      "raw": "Young Souls(briga de rua)",
+      "multiplayer": true,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "c495d624-adf6-4c09-9fd3-0e5484894333",
+      "title": "Ys IX: Monstrum Nox",
+      "tags": "Action rpg",
+      "cover": "https://media.rawg.io/media/screenshots/4e0/4e01779807f21e9b21b315e510191c55.jpg",
+      "description": "Ys IX: Monstrum Nox takes place in Balduq, northeast of Esteria in the Gllia region under Romun control. Balduq is known as 'the prison city' for its large prison facility inside the town and its architecture featuring high walls as a result of being built upon the fortified era. Furthermore the city is an important nexus for transportation in the region resulting in a wide range of inns, bars and trade centers. In more recent years public facilities such as theaters and baths are starting to be...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/1da/1da65c75ebd074362beb38fa222171e9.jpg",
+        "https://media.rawg.io/media/screenshots/57b/57bf785e18060f82bb5435315e893fe9.jpg",
+        "https://media.rawg.io/media/screenshots/5fd/5fd7d5a46545566fb8d48bbed678b4ba.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Ys IX: Monstrum Nox(Action rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "cb4f631b-8eb2-4493-83ee-30b68971d592",
+      "title": "Ys VIII: Lacrimosa of Dana",
+      "tags": "Action rpg",
+      "cover": "https://media.rawg.io/media/games/d3c/d3c42a40030d2c80aa37824914026052.jpg",
+      "description": "Ys returns with a brand new adventure for the first time in 8 years! Adol awakens shipwrecked and stranded on a cursed island. There, he and the other shipwrecked passengers he rescues form a village to challenge fearsome beasts and mysterious ruins on the isolated island. Amidst this, Adol begins to dream of a mysterious blue-haired maiden living in an unknown world. Join Adol as he unravels the riddle of the cursed isle and the blue-haired maiden Dana in Ys VIII: Lacrimosa of Dana!",
+      "images": [
+        "https://media.rawg.io/media/screenshots/18d/18d829b0f057c5405e01f776579a14df.jpg",
+        "https://media.rawg.io/media/screenshots/b9b/b9be2cb386d62dd2414bdf436853f650.jpg",
+        "https://media.rawg.io/media/screenshots/217/21758b1d4467d0cf71ebdacaac0c738e.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Ys VIII: Lacrimosa of Dana(Action rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "f0a9e605-bccf-468d-b7af-9dac28c88bfe",
+      "title": "Ys X: Nordics",
+      "tags": "Action rpg",
+      "cover": "https://media.rawg.io/media/games/fa7/fa75ab445999d4c461bfca1532b4e595.jpg",
+      "description": "Ys X: Nordics is a brand-new adventure set in the northern sea Obelia Bay, featuring young adventurer Adol Christin as the protagonist.\n\nThe setting is the northern sea Obelia Bay, which is made up of countless islands big and small. After completing his adventures in the Ancient Kingdom of Ys, young adventurer Adol Christin encounters a maritime people known as \"Normans\" in this new land. Who are they? And who are the \"Griegers,\" immortal undead who attack humans...?",
+      "images": [
+        "https://media.rawg.io/media/screenshots/2db/2dbc397c109d83f35fa0ba1f4e81f5fb.jpg",
+        "https://media.rawg.io/media/screenshots/7f0/7f00a887e903ee7b00171ea14f37fd57.jpg",
+        "https://media.rawg.io/media/screenshots/529/529239a6e7d3d0216ea67fcc0fa999cc.jpg"
+      ],
+      "genre": "RPG,RPG Tático e visual novel",
+      "raw": "Ys X: Nordics(Action rpg)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    },
+    {
+      "id": "e57b52f7-c7f9-4690-bb0b-567fa4a164b5",
+      "title": "Yurukill: The Calumniation Games",
+      "tags": "Navinha",
+      "cover": "https://media.rawg.io/media/screenshots/b43/b43765f6780b4231c3f83d7532813e15.jpg",
+      "description": "*Players wishing to use a Nintendo Switch Pro Controller must follow the below guidance:\nAccess the Steam Controller Settings menu and enable \"Switch Pro Configuration Support\", then disable \"Use Nintendo Button Layout\".\nFurthermore, if a Nintendo Switch Pro Controller is connected via cable while \"Disable Steam Input\" is active in the game's controller settings, the controller will not function properly.\nPardon or kill. Let the madness begin.\nAt the edge of despair, lurks the unsettling past, a...",
+      "images": [
+        "https://media.rawg.io/media/screenshots/5e4/5e4f033c31d1d5b1d0fc503569b4d788.jpg",
+        "https://media.rawg.io/media/screenshots/ecd/ecded9eacc8e8d58b2e89a2b1a3962f5.jpg",
+        "https://media.rawg.io/media/screenshots/eae/eae00d1e2729aa7fa214bad38192e171.jpg"
+      ],
+      "genre": "Tiro e Navinha",
+      "raw": "Yurukill: The Calumniation Games(Navinha)",
+      "multiplayer": false,
+      "nintendo": false,
+      "favorite": false
+    }
+  ],
+  "title": "Jogos bons para Nintendo Switch",
+  "genres": [
+    "Briga de rua, Runandgun",
+    "Corrida",
+    "Coleções,Pointclick,Puzzle,Narrativo e jogos diferentes",
+    "Esportes",
+    "Luta",
+    "Jogos de música",
+    "Metroidvânia",
+    "Mundo aberto,Sandbox",
+    "Party game",
+    "Plataforma,Ação,Aventura",
+    "RPG,RPG Tático e visual novel",
+    "Rogue Like",
+    "Simulador,jogo de criação,Fazenda e cozy games",
+    "Souls like e Hack n Slash",
+    "Terror",
+    "Tiro e Navinha"
+  ]
+};

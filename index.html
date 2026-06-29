@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Catálogo de jogos para Nintendo Switch organizados por gênero.">
+  <title>Switch Games — Catálogo</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="manifest" href="manifest.json">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Switch Games">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="bg-glow" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <span class="brand-icon">SW</span>
+        <div>
+          <h1 id="site-title">Switch Games</h1>
+          <p class="brand-sub">Catálogo Nintendo Switch</p>
+        </div>
+      </div>
+      <p class="copyright-header">Criado por Anderson Fernandes</p>
+      <div class="header-actions">
+        <div class="search-wrap">
+          <label for="search" class="visually-hidden">Buscar jogo</label>
+          <input type="search" id="search" placeholder="Buscar jogo..." autocomplete="off">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+        </div>
+        <select id="filter-select" class="filter-select" title="Filtrar jogos">
+          <option value="all">Todos</option>
+          <option value="favorite">Favoritos</option>
+          <option value="multiplayer">Multiplayer</option>
+          <option value="nintendo">Exclusivo Nintendo</option>
+          <option disabled>── Gêneros ──</option>
+        </select>
+        <button type="button" id="btn-batch-autofill" class="btn btn-ghost" title="Preencher todos os jogos via RAWG">✨ Auto Preencher Todos</button>
+        <button type="button" id="btn-export" class="btn btn-ghost" title="Baixar dados editados">📥 Exportar</button>
+        <button type="button" id="btn-import" class="btn btn-ghost" title="Carregar dados de um arquivo">📤 Importar</button>
+        <button type="button" id="theme-toggle" class="btn btn-ghost" title="Alternar tema">🎨 Tema</button>
+        <button type="button" id="global-add-btn" class="btn btn-primary">+ Adicionar jogo</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container" id="catalog"></main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="copyright-footer">Criado por Anderson Fernandes</p>
+    </div>
+  </footer>
+
+  <!-- Modal: detalhes do jogo -->
+  <dialog id="detail-modal" class="modal">
+    <div class="modal-content detail-modal">
+      <button type="button" class="modal-close" data-close aria-label="Fechar">&times;</button>
+      <div class="detail-layout">
+        <div class="detail-cover-wrap">
+          <img id="detail-cover" src="" alt="" class="detail-cover">
+        </div>
+        <div class="detail-info">
+          <span id="detail-genre" class="detail-genre"></span>
+          <h2 id="detail-title"></h2>
+          <p id="detail-tags" class="detail-tags"></p>
+          <p id="detail-description" class="detail-description"></p>
+          <div class="detail-gallery-section">
+            <h3 class="gallery-title">Imagens</h3>
+            <div id="detail-gallery" class="detail-gallery"></div>
+          </div>
+          <div class="detail-actions">
+            <button type="button" id="detail-edit" class="btn btn-primary">Editar jogo</button>
+            <button type="button" id="detail-delete" class="btn btn-danger">Excluir jogo</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- Modal: lightbox de imagens -->
+  <dialog id="lightbox-modal" class="modal lightbox-modal">
+    <div class="lightbox-content">
+      <button type="button" class="modal-close" data-close aria-label="Fechar">&times;</button>
+      <button type="button" class="lightbox-nav lightbox-prev" id="lightbox-prev" aria-label="Anterior" hidden>&#8249;</button>
+      <img id="lightbox-image" src="" alt="">
+      <button type="button" class="lightbox-nav lightbox-next" id="lightbox-next" aria-label="Próximo" hidden>&#8250;</button>
+    </div>
+  </dialog>
+
+  <!-- Modal: adicionar / editar jogo -->
+  <dialog id="game-modal" class="modal">
+    <form id="game-form" class="modal-content game-form">
+      <button type="button" class="modal-close" data-close aria-label="Fechar">&times;</button>
+      <h2 id="game-form-title">Adicionar jogo</h2>
+
+      <div class="genre-picker">
+        <label for="genre-filter">Gênero</label>
+        <input type="search" id="genre-filter" placeholder="Filtrar gênero..." autocomplete="off">
+        <select id="game-genre" required size="6" aria-label="Selecione o gênero"></select>
+        <p id="genre-filter-empty" class="genre-filter-empty" hidden>Nenhum gênero encontrado.</p>
+      </div>
+
+      <label for="game-title">Nome do jogo</label>
+      <div class="title-with-autofill">
+        <input type="text" id="game-title" required placeholder="Ex: Zelda Breath of the Wild">
+        <button type="button" id="btn-autofill" class="btn btn-autofill" title="Buscar dados na RAWG API">Auto Preencher</button>
+      </div>
+
+      <label for="game-tags">Tags / subgênero</label>
+      <input type="text" id="game-tags" placeholder="Ex: Mundo aberto, Multiplay">
+
+      <label class="checkbox-label">
+        <input type="checkbox" id="game-multiplayer">
+        <span>Possui multiplayer / coop</span>
+      </label>
+      <label class="checkbox-label">
+        <input type="checkbox" id="game-nintendo">
+        <span>Exclusivo Nintendo</span>
+      </label>
+      <label class="checkbox-label">
+        <input type="checkbox" id="game-favorite">
+        <span>Favoritar jogo</span>
+      </label>
+
+      <label for="game-description">Descrição</label>
+      <textarea id="game-description" rows="8" placeholder="Descrição sobre o jogo"></textarea>
+
+      <label for="game-cover">URL da capa</label>
+      <input type="url" id="game-cover" placeholder="https://... (opcional)">
+
+      <label for="game-images">URLs de fotos adicionais (uma por linha)</label>
+      <textarea id="game-images" rows="4" placeholder="https://...&#10;https://..."></textarea>
+
+      <input type="hidden" id="game-id">
+
+      <div class="form-actions">
+        <button type="button" class="btn btn-ghost" data-close>Cancelar</button>
+        <button type="submit" id="game-form-submit" class="btn btn-primary">Salvar jogo</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="data/games-data.js"></script>
+  <script src="app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("sw.js");
+    }
+  </script>
+</body>
+</html>
