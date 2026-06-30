@@ -1,6 +1,21 @@
 const STORAGE_KEY = "switch-games-catalog";
 const DATA_VERSION_KEY = "games-data-version";
-const DATA_VERSION = "v3-2026-06-28";
+const DATA_VERSION = "v5-2026-06-30";
+
+const ICON = {
+  search: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M19 19l-4-4"/></svg>`,
+  sun: `<svg width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>`,
+  moon: `<svg width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>`,
+  download: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>`,
+  upload: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>`,
+  plus: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>`,
+  sparkles: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.5 4.5L18 9l-4.5 1.5L12 15l-1.5-4.5L6 9l4.5-1.5z"/><circle cx="18" cy="18" r="3"/><path d="M22 20l-.5-1.5L20 18l1.5-.5L22 16l.5 1.5L24 18l-1.5.5z"/></svg>`,
+  arrowUp: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg>`,
+  x: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`,
+  chevronLeft: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>`,
+  chevronRight: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>`,
+  autofill: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>`,
+};
 
 let catalog = { title: "", genres: [], games: [] };
 let searchQuery = "";
@@ -103,7 +118,9 @@ const THEME_KEY = "switch-theme";
 function toggleTheme() {
   const body = document.body;
   const isLight = body.classList.toggle("light-theme");
-  document.getElementById("theme-toggle").textContent = isLight ? "🌙" : "☀️";
+  const btn = document.getElementById("theme-toggle");
+  btn.innerHTML = (isLight ? ICON.sun : ICON.moon).replace('<svg', '<svg class="btn-icon"');
+  btn.innerHTML += '<span class="btn-label"> Tema</span>';
   localStorage.setItem(THEME_KEY, isLight ? "light" : "dark");
 }
 
@@ -167,7 +184,9 @@ async function init() {
 
   if (localStorage.getItem(THEME_KEY) === "light") {
     document.body.classList.add("light-theme");
-    document.getElementById("theme-toggle").textContent = "🌙";
+    const btn = document.getElementById("theme-toggle");
+    btn.innerHTML = ICON.sun.replace('<svg', '<svg class="btn-icon"');
+    btn.innerHTML += '<span class="btn-label"> Tema</span>';
   }
 
   let migrated = false;
@@ -182,6 +201,14 @@ async function init() {
     }
     if (g.favorite === undefined) {
       g.favorite = false;
+      migrated = true;
+    }
+    if (g.ptBr === undefined) {
+      g.ptBr = false;
+      migrated = true;
+    }
+    if (g.traducao === undefined) {
+      g.traducao = false;
       migrated = true;
     }
   });
@@ -209,7 +236,7 @@ function populateFilterGenres() {
 
 function getFilteredGames() {
   const q = searchQuery.trim().toLowerCase();
-  const genreFilter = filterValue !== "all" && filterValue !== "multiplayer" && filterValue !== "nintendo" && filterValue !== "favorite" ? filterValue : null;
+  const genreFilter = filterValue !== "all" && filterValue !== "multiplayer" && filterValue !== "nintendo" && filterValue !== "favorite" && filterValue !== "ptbr" && filterValue !== "traducao" ? filterValue : null;
 
   const filtered = catalog.games.filter((g) => {
     if (q && !g.title.toLowerCase().includes(q) &&
@@ -220,6 +247,8 @@ function getFilteredGames() {
     }
     if (filterValue === "multiplayer" && !detectMultiplayer(g)) return false;
     if (filterValue === "nintendo" && !g.nintendo) return false;
+    if (filterValue === "ptbr" && !g.ptBr) return false;
+    if (filterValue === "traducao" && !g.traducao) return false;
     if (filterValue === "favorite" && !g.favorite) return false;
     if (genreFilter && g.genre !== genreFilter) return false;
     return true;
@@ -287,6 +316,8 @@ function renderCard(game, index) {
   const badges = [];
   if (hasMP) badges.push('<span>Multiplayer</span>');
   if (game.nintendo) badges.push('<span class="badge-nintendo">Nintendo</span>');
+  if (game.ptBr) badges.push('<span class="badge-ptbr">PT-BR</span>');
+  if (game.traducao) badges.push('<span class="badge-traducao">Tradução</span>');
   const badgesHtml = badges.length ? `<div class="card-multiplayer">${badges.join("")}</div>` : "";
   const fav = game.favorite ? '<div class="card-favorite">♥</div>' : "";
   return `
@@ -355,11 +386,28 @@ function populateGenreSelect(filter = "", selectedGenre = "") {
   }
 }
 
+function addNewGenre(name) {
+  name = name.trim();
+  if (!name) return;
+  if (catalog.genres.includes(name)) {
+    populateGenreSelect(name, name);
+    return;
+  }
+  catalog.genres.push(name);
+  catalog.genres.sort((a, b) => a.localeCompare(b, "pt-BR", { sensitivity: "base" }));
+  saveToStorage();
+  populateGenreSelect(name, name);
+}
+
 function openGameModal(mode, presetGenre = "") {
   editingGameId = mode === "edit" ? selectedGameId : null;
 
   gameFormTitle.textContent = mode === "edit" ? "Editar jogo" : "Adicionar jogo";
   gameFormSubmit.textContent = mode === "edit" ? "Salvar alterações" : "Salvar jogo";
+
+  document.getElementById("genre-add-inline").hidden = true;
+  document.getElementById("btn-add-genre").hidden = false;
+  document.getElementById("genre-new-name").value = "";
 
   genreFilterEl.value = presetGenre ? presetGenre : "";
   populateGenreSelect(genreFilterEl.value, presetGenre || catalog.genres[0] || "");
@@ -373,6 +421,8 @@ function openGameModal(mode, presetGenre = "") {
     document.getElementById("game-tags").value = game.tags || "";
     document.getElementById("game-multiplayer").checked = !!game.multiplayer;
     document.getElementById("game-nintendo").checked = !!game.nintendo;
+    document.getElementById("game-ptbr").checked = !!game.ptBr;
+    document.getElementById("game-traducao").checked = !!game.traducao;
     document.getElementById("game-favorite").checked = !!game.favorite;
     document.getElementById("game-description").value = game.description || "";
     document.getElementById("game-cover").value = game.cover || "";
@@ -425,6 +475,8 @@ function saveGameFromForm() {
 
   const multiplayer = document.getElementById("game-multiplayer").checked;
   const nintendo = document.getElementById("game-nintendo").checked;
+  const ptBr = document.getElementById("game-ptbr").checked;
+  const traducao = document.getElementById("game-traducao").checked;
   const favorite = document.getElementById("game-favorite").checked;
 
   const images = imagesRaw
@@ -437,6 +489,8 @@ function saveGameFromForm() {
     genre,
     multiplayer,
     nintendo,
+    ptBr,
+    traducao,
     favorite,
     raw: tags ? `${title}(${tags})` : title,
     description: description || (tags ? `Jogo de Nintendo Switch. ${tags}` : "Jogo de Nintendo Switch."),
@@ -698,9 +752,44 @@ document.getElementById("btn-import").addEventListener("click", importData);
 
 document.getElementById("theme-toggle").addEventListener("click", toggleTheme);
 
+document.getElementById("btn-add-genre").addEventListener("click", () => {
+  document.getElementById("btn-add-genre").hidden = true;
+  document.getElementById("genre-add-inline").hidden = false;
+  document.getElementById("genre-new-name").focus();
+});
+
+document.getElementById("btn-cancel-genre").addEventListener("click", () => {
+  document.getElementById("genre-add-inline").hidden = true;
+  document.getElementById("btn-add-genre").hidden = false;
+  document.getElementById("genre-new-name").value = "";
+});
+
+document.getElementById("genre-new-name").addEventListener("keydown", (e) => {
+  if (e.key === "Enter") {
+    e.preventDefault();
+    document.getElementById("btn-confirm-genre").click();
+  }
+});
+
+document.getElementById("btn-confirm-genre").addEventListener("click", () => {
+  const input = document.getElementById("genre-new-name");
+  addNewGenre(input.value);
+  input.value = "";
+  document.getElementById("genre-add-inline").hidden = true;
+  document.getElementById("btn-add-genre").hidden = false;
+});
+
 document.getElementById("filter-select").addEventListener("change", (e) => {
   filterValue = e.target.value;
   render();
+});
+
+const scrollTopBtn = document.getElementById("scroll-top");
+window.addEventListener("scroll", () => {
+  scrollTopBtn.classList.toggle("visible", window.scrollY > 400);
+});
+scrollTopBtn.addEventListener("click", () => {
+  window.scrollTo({ top: 0, behavior: "smooth" });
 });
 
 catalogEl.addEventListener("click", (e) => {
